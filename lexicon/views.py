@@ -11,4 +11,4 @@ class WordListView(ListAPIView):
         """
         source_lang_code = self.request.query_params.get('src', 'de')
         
-        return  Word.objects.select_related('language').filter(language__code = source_lang_code)
+        return  Word.objects.select_related('language','concept__category').filter(language__code = source_lang_code)

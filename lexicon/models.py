@@ -17,12 +17,21 @@ class Language(models.Model):
         return f"{self.name} ({self.code})"
 
 
+class Category(models.Model):
+    name = models.CharField(max_length=100, unique=True)
+    slug = models.SlugField(max_length=150,unique=True)
+    description = models.TextField(blank=True)
+    class Meta:
+        verbose_name_plural = 'Categories'
+    def __str__(self):
+        return self.name
 class Concept(models.Model):
     """
     The 'Semantic Anchor'
     """
     description= models.TextField(blank=True)
     created_at = models.DateTimeField(auto_now_add=True)
+
 
     def __str__(self):
         return f"Concept ID: {self.id}"
