@@ -18,7 +18,7 @@ class Concept(models.Model):
     description= models.TextField(blank=True)
     created_at = models.DateTimeField(auto_now_add=True)
 
-    category = models.ForeignKey(Category)
+    category = models.ForeignKey(Category,on_delete=models.SET_NULL,null=True, blank=True)
 
 
     def __str__(self):
