@@ -1,0 +1,14 @@
+[
+  {"name": "Identity & Self", "slug": "identity-self", "description": "Personal details, family, and personality."},
+  {"name": "Home & Living", "slug": "home-living", "description": "Housing, furniture, and neighborhood life."},
+  {"name": "Work & Career", "slug": "work-career", "description": "Occupations, workplace, and professional ethics."},
+  {"name": "Education", "slug": "education", "description": "School, university, and lifelong learning."},
+  {"name": "Health & Wellness", "slug": "health-wellness", "description": "Body, medicine, and mental well-being."},
+  {"name": "Travel & Nature", "slug": "travel-nature", "description": "Transportation, tourism, and environment."},
+  {"name": "Society & Politics", "slug": "society-politics", "description": "Law, community, and global affairs."},
+  {"name": "Economy & Trade", "slug": "economy-trade", "description": "Money, shopping, and macroeconomics."},
+  {"name": "Media & Tech", "slug": "media-tech", "description": "Communication, internet, and AI ethics."},
+  {"name": "Leisure & Art", "slug": "leisure-art", "description": "Hobbies, sports, and cultural aesthetics."},
+  {"name": "Emotions & Logic", "slug": "emotions-logic", "description": "Feelings, debate, and psychology."},
+  {"name": "Abstract Concepts", "slug": "abstract-concepts", "description": "Time, philosophy, and metaphysics."}
+]

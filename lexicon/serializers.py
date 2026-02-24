@@ -53,7 +53,21 @@ class WordSerializer(serializers.ModelSerializer):
             'id', 'text', 'pos', 'cefr_level', 'audio_url', 
             'language_code', 'metadata', 'category', 'lesson', 'definitions'
         ]
+    def to_representation(self, instance):
+        data = super().to_representation(instance)
+        metadata = data.get('metadata',{})
 
+        if 'usage_profile' in metadata:
+            for profile in metadata['usage_profile']:
+                example_id = profile.get('demonstration_example_id')
+                if example_id:
+                    try:
+                        example_obj = Example.objects(id=example_id)
+                        profile['demonstration_example'] = ExampleSerializer(example_obj).data
+                    except:
+                        profile['demonstartion_example'] = None
+        data['metadata'] = metadata
+        return data
 
 
 class WordListSerializer(serializers.ModelSerializer):

@@ -1,0 +1,147 @@
+[
+  {
+    "category_slug": "identity-self",
+    "concepts": [
+      {
+        "semantic_key": "identity-name_general",
+        "description": "The general word by which a person or thing is known.",
+        "related_german_words": ["Name", "Bezeichnung"]
+      },
+      {
+        "semantic_key": "identity-first_name",
+        "description": "A personal name given to someone at birth.",
+        "related_german_words": ["Vorname", "Rufname"]
+      },
+      {
+        "semantic_key": "identity-last_name",
+        "description": "A hereditary name common to all members of a family.",
+        "related_german_words": ["Nachname", "Familienname"]
+      },
+      {
+        "semantic_key": "identity-nickname",
+        "description": "A familiar or humorous name given to a person instead of their real name.",
+        "related_german_words": ["Spitzname", "Kosename"]
+      },
+      {
+        "semantic_key": "identity-age",
+        "description": "The length of time that a person has lived.",
+        "related_german_words": ["Alter", "Lebensalter"]
+      },
+      {
+        "semantic_key": "identity-gender",
+        "description": "The state of being male, female, or another classification.",
+        "related_german_words": ["Geschlecht", "Sexus"]
+      },
+      {
+        "semantic_key": "identity-man",
+        "description": "An adult male human being.",
+        "related_german_words": ["Mann", "Herr", "Kerl"]
+      },
+      {
+        "semantic_key": "identity-woman",
+        "description": "An adult female human being.",
+        "related_german_words": ["Frau", "Dame"]
+      },
+      {
+        "semantic_key": "identity-child",
+        "description": "A young human being below the age of puberty.",
+        "related_german_words": ["Kind", "Kleinkind"]
+      },
+      {
+        "semantic_key": "identity-boy",
+        "description": "A male child or young man.",
+        "related_german_words": ["Junge", "Knabe"]
+      },
+      {
+        "semantic_key": "identity-girl",
+        "description": "A female child or young woman.",
+        "related_german_words": ["Mädchen", "Mädel"]
+      },
+      {
+        "semantic_key": "identity-origin",
+        "description": "The point or place where a person begins, arises, or is derived from.",
+        "related_german_words": ["Herkunft", "Abstammung", "Ursprung"]
+      },
+      {
+        "semantic_key": "identity-nationality",
+        "description": "The status of belonging to a particular nation.",
+        "related_german_words": ["Nationalität", "Staatsangehörigkeit", "Bürgerschaft"]
+      },
+      {
+        "semantic_key": "identity-language",
+        "description": "The principal method of human communication, consisting of words.",
+        "related_german_words": ["Sprache", "Muttersprache", "Fremdsprache"]
+      },
+      {
+        "semantic_key": "identity-family",
+        "description": "A group of one or more parents and their children living together as a unit.",
+        "related_german_words": ["Familie", "Verwandtschaft"]
+      },
+      {
+        "semantic_key": "identity-mother",
+        "description": "A female parent.",
+        "related_german_words": ["Mutter", "Mama"]
+      },
+      {
+        "semantic_key": "identity-father",
+        "description": "A male parent.",
+        "related_german_words": ["Vater", "Papa"]
+      },
+      {
+        "semantic_key": "identity-parents",
+        "description": "A person's father or mother.",
+        "related_german_words": ["Eltern", "Elternteile"]
+      },
+      {
+        "semantic_key": "identity-siblings",
+        "description": "Each of two or more children having one or both parents in common.",
+        "related_german_words": ["Geschwister"]
+      },
+      {
+        "semantic_key": "identity-brother",
+        "description": "A man or boy in relation to other sons and daughters of his parents.",
+        "related_german_words": ["Bruder"]
+      },
+      {
+        "semantic_key": "identity-sister",
+        "description": "A woman or girl in relation to other daughters and sons of her parents.",
+        "related_german_words": ["Schwester"]
+      },
+      {
+        "semantic_key": "identity-marital_status",
+        "description": "A person's state of being single, married, separated, divorced, or widowed.",
+        "related_german_words": ["Familienstand", "Zivilstand"]
+      },
+      {
+        "semantic_key": "identity-single",
+        "description": "Unmarried or not involved in a stable romantic relationship.",
+        "related_german_words": ["ledig", "alleinstehend", "unverheiratet"]
+      },
+      {
+        "semantic_key": "identity-married",
+        "description": "Joined in marriage.",
+        "related_german_words": ["verheiratet", "vermählt"]
+      },
+      {
+        "semantic_key": "identity-divorced",
+        "description": "Legally dissolve one's marriage with someone.",
+        "related_german_words": ["geschieden", "getrennt"]
+      },
+      {
+        "semantic_key": "identity-friend",
+        "description": "A person whom one knows and with whom one has a bond of mutual affection.",
+        "related_german_words": ["Freund", "Bekannter", "Kumpel"]
+      },
+      {
+        "semantic_key": "identity-character",
+        "description": "The mental and moral qualities distinctive to an individual.",
+        "related_german_words": ["Charakter", "Persönlichkeit", "Wesen"]
+      },
+      {
+        "semantic_key": "identity-mood",
+        "description": "A temporary state of mind or feeling.",
+        "related_german_words": ["Laune", "Stimmung", "Gefühl"]
+      }
+    ]
+  }
+]

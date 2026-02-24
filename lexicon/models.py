@@ -15,6 +15,7 @@ class Concept(models.Model):
     """
     The 'Semantic Anchor'
     """
+    semantic_key = models.CharField(max_length=255,unique=True)
     description= models.TextField(blank=True)
     created_at = models.DateTimeField(auto_now_add=True)
 
@@ -22,7 +23,7 @@ class Concept(models.Model):
 
 
     def __str__(self):
-        return f"Concept ID: {self.id}"
+        return f"CONCEPT SEMANTIC_KEY: {self.semantic_key}"
     
 
 class Language(models.Model):
