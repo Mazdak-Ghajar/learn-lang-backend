@@ -1,0 +1,1272 @@
+[
+  {
+    "category_slug": "work-career",
+    "concepts": [
+      {
+        "semantic_key": "work-career-profession",
+        "description": "A paid occupation or trade, especially one requiring prolonged training and a formal qualification.",
+        "related_german_words": ["Beruf"]
+      },
+      {
+        "semantic_key": "work-career-job",
+        "description": "A specific position of employment.",
+        "related_german_words": ["Job", "Arbeitsstelle"]
+      },
+      {
+        "semantic_key": "work-career-vacancy",
+        "description": "An unoccupied position or job opening.",
+        "related_german_words": ["Stelle", "Vakanz"]
+      },
+      {
+        "semantic_key": "work-career-to_work",
+        "description": "To be engaged in physical or mental activity as one's job.",
+        "related_german_words": ["arbeiten"]
+      },
+      {
+        "semantic_key": "work-career-employer",
+        "description": "A person or organization that employs people.",
+        "related_german_words": ["Arbeitgeber"]
+      },
+      {
+        "semantic_key": "work-career-employee",
+        "description": "A person employed for wages or salary.",
+        "related_german_words": ["Arbeitnehmer", "Angestellter"]
+      },
+      {
+        "semantic_key": "work-career-application",
+        "description": "A formal request to an authority or organization for a job.",
+        "related_german_words": ["Bewerbung"]
+      },
+      {
+        "semantic_key": "work-career-to_apply",
+        "description": "To make a formal application for a job.",
+        "related_german_words": ["sich bewerben"]
+      },
+      {
+        "semantic_key": "work-career-cv",
+        "description": "A brief account of a person's education, qualifications, and previous experience.",
+        "related_german_words": ["Lebenslauf"]
+      },
+      {
+        "semantic_key": "work-career-cover_letter",
+        "description": "A letter sent with a CV to introduce oneself to an employer.",
+        "related_german_words": ["Anschreiben", "Bewerbungsschreiben"]
+      },
+      {
+        "semantic_key": "work-career-job_interview",
+        "description": "A formal meeting in which an applicant is asked questions to determine suitability for a job.",
+        "related_german_words": ["Vorstellungsgespräch", "Bewerbungsgespräch"]
+      },
+      {
+        "semantic_key": "work-career-employment_contract",
+        "description": "A legal agreement between employer and employee.",
+        "related_german_words": ["Arbeitsvertrag"]
+      },
+      {
+        "semantic_key": "work-career-salary",
+        "description": "A fixed regular payment made by an employer to an employee.",
+        "related_german_words": ["Gehalt", "Salär"]
+      },
+      {
+        "semantic_key": "work-career-wage",
+        "description": "A fixed regular payment, typically paid on a daily or weekly basis.",
+        "related_german_words": ["Lohn"]
+      },
+      {
+        "semantic_key": "work-career-gross_income",
+        "description": "Total income before taxes and deductions.",
+        "related_german_words": ["Bruttoeinkommen"]
+      },
+      {
+        "semantic_key": "work-career-net_income",
+        "description": "Income remaining after taxes and deductions.",
+        "related_german_words": ["Nettoeinkommen"]
+      },
+      {
+        "semantic_key": "work-career-probationary_period",
+        "description": "A trial period at the start of a new job.",
+        "related_german_words": ["Probezeit"]
+      },
+      {
+        "semantic_key": "work-career-to_earn",
+        "description": "To obtain money in return for labor or services.",
+        "related_german_words": ["verdienen"]
+      },
+      {
+        "semantic_key": "work-career-unemployed",
+        "description": "The state of being without a job.",
+        "related_german_words": ["arbeitslos"]
+      },
+      {
+        "semantic_key": "work-career-self_employed",
+        "description": "Working for oneself as a freelancer or the owner of a business.",
+        "related_german_words": ["selbstständig"]
+      },
+      {
+        "semantic_key": "work-career-full_time",
+        "description": "Occupying the total standard working hours.",
+        "related_german_words": ["vollzeit", "ganztags"]
+      },
+      {
+        "semantic_key": "work-career-part_time",
+        "description": "Occupying only part of the standard working hours.",
+        "related_german_words": ["teilzeit"]
+      },
+      {
+        "semantic_key": "work-career-shift_work",
+        "description": "Work scheduled in periods throughout the 24-hour day.",
+        "related_german_words": ["Schichtarbeit"]
+      },
+      {
+        "semantic_key": "work-career-overtime",
+        "description": "Time worked in addition to one's normal working hours.",
+        "related_german_words": ["Überstunden"]
+      },
+      {
+        "semantic_key": "work-career-colleague",
+        "description": "A person with whom one works.",
+        "related_german_words": ["Kollege", "Mitarbeiter"]
+      },
+      {
+        "semantic_key": "work-career-boss",
+        "description": "A person in charge of a worker or organization.",
+        "related_german_words": ["Chef", "Vorgesetzter"]
+      },
+      {
+        "semantic_key": "work-career-team",
+        "description": "A group of people working together.",
+        "related_german_words": ["Team"]
+      },
+      {
+        "semantic_key": "work-career-department",
+        "description": "A specialized division of a large organization.",
+        "related_german_words": ["Abteilung"]
+      },
+      {
+        "semantic_key": "work-career-office",
+        "description": "A room or building used as a place for commercial or professional work.",
+        "related_german_words": ["Büro"]
+      },
+      {
+        "semantic_key": "work-career-to_resign",
+        "description": "To voluntarily leave a job.",
+        "related_german_words": ["kündigen"]
+      },
+      {
+        "semantic_key": "work-career-dismissal",
+        "description": "The act of ordering an employee to leave a job; firing.",
+        "related_german_words": ["Entlassung", "Kündigung"]
+      },
+      {
+        "semantic_key": "work-career-notice_period",
+        "description": "The time between notifying of resignation/dismissal and actually leaving.",
+        "related_german_words": ["Kündigungsfrist"]
+      },
+      {
+        "semantic_key": "work-career-vacation",
+        "description": "An extended period of recreation, especially one spent away from work.",
+        "related_german_words": ["Urlaub"]
+      },
+      {
+        "semantic_key": "work-career-public_holiday",
+        "description": "A national holiday when most people do not work.",
+        "related_german_words": ["Feiertag"]
+      },
+      {
+        "semantic_key": "work-career-sick_leave",
+        "description": "Permission to be away from work because of illness.",
+        "related_german_words": ["Krankmeldung", "Krankschreibung"]
+      },
+      {
+        "semantic_key": "work-career-to_promote",
+        "description": "To raise someone to a higher position or rank.",
+        "related_german_words": ["befördern"]
+      },
+      {
+        "semantic_key": "work-career-promotion",
+        "description": "The advancement of an employee's rank or position.",
+        "related_german_words": ["Beförderung"]
+      },
+      {
+        "semantic_key": "work-career-internship",
+        "description": "The position of a student or trainee who works in an organization, sometimes without pay.",
+        "related_german_words": ["Praktikum"]
+      },
+      {
+        "semantic_key": "work-career-intern",
+        "description": "A person who is doing an internship.",
+        "related_german_words": ["Praktikant"]
+      },
+      {
+        "semantic_key": "work-career-apprenticeship",
+        "description": "A system of training a new generation of practitioners of a trade.",
+        "related_german_words": ["Ausbildung"]
+      },
+      {
+        "semantic_key": "work-career-apprentice",
+        "description": "A person who is learning a trade through an apprenticeship.",
+        "related_german_words": ["Auszubildender", "Azubi"]
+      },
+      {
+        "semantic_key": "work-career-meeting",
+        "description": "An assembly of people for discussion.",
+        "related_german_words": ["Besprechung", "Meeting"]
+      },
+      {
+        "semantic_key": "work-career-appointment",
+        "description": "An arrangement to meet someone at a particular time and place.",
+        "related_german_words": ["Termin"]
+      },
+      {
+        "semantic_key": "work-career-deadline",
+        "description": "The latest time or date by which something should be completed.",
+        "related_german_words": ["Frist", "Deadline"]
+      },
+      {
+        "semantic_key": "work-career-project",
+        "description": "An individual or collaborative enterprise that is carefully planned.",
+        "related_german_words": ["Projekt"]
+      },
+      {
+        "semantic_key": "work-career-customer",
+        "description": "A person or organization that buys goods or services.",
+        "related_german_words": ["Kunde"]
+      },
+      {
+        "semantic_key": "work-career-to_negotiate",
+        "description": "To try to reach an agreement or compromise by discussion.",
+        "related_german_words": ["verhandeln"]
+      },
+      {
+        "semantic_key": "work-career-home_office",
+        "description": "Work carried out at the employee's home rather than the office.",
+        "related_german_words": ["Homeoffice", "Telearbeit"]
+      },
+      {
+        "semantic_key": "work-career-tax",
+        "description": "A compulsory contribution to state revenue.",
+        "related_german_words": ["Steuer"]
+      },
+      {
+        "semantic_key": "work-career-social_security",
+        "description": "Monetary assistance from the state for people with little or no income.",
+        "related_german_words": ["Sozialversicherung"]
+      },
+      {
+        "semantic_key": "work-career-health_insurance",
+        "description": "Insurance that covers the whole or a part of the risk of a person incurring medical expenses.",
+        "related_german_words": ["Krankenversicherung"]
+      },
+      {
+        "semantic_key": "work-career-pension",
+        "description": "A regular payment made during a person's retirement.",
+        "related_german_words": ["Rente", "Pension"]
+      },
+      {
+        "semantic_key": "work-career-to_hire",
+        "description": "To employ someone for wages.",
+        "related_german_words": ["einstellen"]
+      },
+      {
+        "semantic_key": "work-career-to_fire",
+        "description": "To dismiss an employee from a job.",
+        "related_german_words": ["entlassen", "feuern"]
+      },
+      {
+        "semantic_key": "work-career-qualification",
+        "description": "A quality or accomplishment that makes someone suitable for a job.",
+        "related_german_words": ["Qualifikation"]
+      },
+      {
+        "semantic_key": "work-career-experience",
+        "description": "Practical contact with and observation of facts or events.",
+        "related_german_words": ["Erfahrung", "Berufserfahrung"]
+      },
+      {
+        "semantic_key": "work-career-skill",
+        "description": "The ability to do something well; expertise.",
+        "related_german_words": ["Fähigkeit", "Fertigkeit"]
+      },
+      {
+        "semantic_key": "work-career-flexible",
+        "description": "Able to be easily modified to respond to altered circumstances.",
+        "related_german_words": ["flexibel"]
+      },
+      {
+        "semantic_key": "work-career-reliable",
+        "description": "Consistently good in quality or performance; able to be trusted.",
+        "related_german_words": ["zuverlässig"]
+      },
+      {
+        "semantic_key": "work-career-punctual",
+        "description": "Happening or doing something at the agreed or proper time.",
+        "related_german_words": ["pünktlich"]
+      },
+      {
+        "semantic_key": "work-career-diligent",
+        "description": "Having or showing care and conscientiousness in one's work.",
+        "related_german_words": ["fleißig"]
+      },
+      {
+        "semantic_key": "work-career-competent",
+        "description": "Having the necessary ability, knowledge, or skill to do something successfully.",
+        "related_german_words": ["kompetent"]
+      },
+      {
+        "semantic_key": "work-career-expert",
+        "description": "A person who has a comprehensive and authoritative knowledge of a area.",
+        "related_german_words": ["Experte", "Fachmann"]
+      },
+      {
+        "semantic_key": "work-career-colloquium",
+        "description": "An academic conference or seminar.",
+        "related_german_words": ["Kolloquium"]
+      },
+      {
+        "semantic_key": "work-career-further_education",
+        "description": "Education that is provided for adults after they have left full-time education.",
+        "related_german_words": ["Weiterbildung", "Fortbildung"]
+      },
+      {
+        "semantic_key": "work-career-workshop",
+        "description": "A meeting at which a group of people engage in intensive discussion and activity.",
+        "related_german_words": ["Workshop", "Seminar"]
+      },
+      {
+        "semantic_key": "work-career-to_organize",
+        "description": "To arrange into a structured whole; order.",
+        "related_german_words": ["organisieren"]
+      },
+      {
+        "semantic_key": "work-career-to_lead",
+        "description": "To be in charge or command of.",
+        "related_german_words": ["leiten", "führen"]
+      },
+      {
+        "semantic_key": "work-career-management",
+        "description": "The process of dealing with or controlling things or people.",
+        "related_german_words": ["Management", "Unternehmensführung"]
+      },
+      {
+        "semantic_key": "work-career-headquarters",
+        "description": "The place from which an organization is controlled.",
+        "related_german_words": ["Zentrale", "Hauptsitz"]
+      },
+      {
+        "semantic_key": "work-career-branch",
+        "description": "A local office of a large organization.",
+        "related_german_words": ["Filiale", "Zweigstelle"]
+      },
+      {
+        "semantic_key": "work-career-career",
+        "description": "An occupation undertaken for a significant period of a person's life.",
+        "related_german_words": ["Karriere"]
+      },
+      {
+        "semantic_key": "work-career-success",
+        "description": "The accomplishment of an aim or purpose.",
+        "related_german_words": ["Erfolg"]
+      },
+      {
+        "semantic_key": "work-career-successful",
+        "description": "Accomplishing a desired aim or result.",
+        "related_german_words": ["erfolgreich"]
+      },
+      {
+        "semantic_key": "work-career-stress",
+        "description": "A state of mental or emotional strain or tension.",
+        "related_german_words": ["Stress"]
+      },
+      {
+        "semantic_key": "work-career-stressful",
+        "description": "Causing mental or emotional strain.",
+        "related_german_words": ["stressig"]
+      },
+      {
+        "semantic_key": "work-career-burnout",
+        "description": "Physical or mental collapse caused by overwork or stress.",
+        "related_german_words": ["Burnout"]
+      },
+      {
+        "semantic_key": "work-career-business_trip",
+        "description": "A journey made for business purposes.",
+        "related_german_words": ["Dienstreise", "Geschäftsreise"]
+      },
+      {
+        "semantic_key": "work-career-income",
+        "description": "Money received on a regular basis for work.",
+        "related_german_words": ["Einkommen"]
+      },
+      {
+        "semantic_key": "work-career-unemployment_benefits",
+        "description": "Money paid by the state to unemployed people.",
+        "related_german_words": ["Arbeitslosengeld"]
+      },
+      {
+        "semantic_key": "work-career-labor_market",
+        "description": "The supply of people available to work in relation to the jobs available.",
+        "related_german_words": ["Arbeitsmarkt"]
+      },
+      {
+        "semantic_key": "work-career-union",
+        "description": "An organized association of workers formed to protect their rights.",
+        "related_german_words": ["Gewerkschaft"]
+      },
+      {
+        "semantic_key": "work-career-strike",
+        "description": "A refusal to work organized by a body of employees as a form of protest.",
+        "related_german_words": ["Streik"]
+      },
+      {
+        "semantic_key": "work-career-to_strike",
+        "description": "To refuse to work as a form of protest.",
+        "related_german_words": ["streiken"]
+      },
+      {
+        "semantic_key": "work-career-works_council",
+        "description": "A group of employees representing the workforce in a company.",
+        "related_german_words": ["Betriebsrat"]
+      },
+      {
+        "semantic_key": "work-career-minimum_wage",
+        "description": "The lowest wage permitted by law or by a special agreement.",
+        "related_german_words": ["Mindestlohn"]
+      },
+      {
+        "semantic_key": "work-career-fringe_benefit",
+        "description": "An extra benefit supplementing an employee's salary (e.g., company car).",
+        "related_german_words": ["Zusatzleistung"]
+      },
+      {
+        "semantic_key": "work-career-company_car",
+        "description": "A car provided by an employer for the use of an employee.",
+        "related_german_words": ["Dienstwagen"]
+      },
+      {
+        "semantic_key": "work-career-bonus",
+        "description": "A sum of money added to a person's wages as a reward.",
+        "related_german_words": ["Bonus", "Prämie"]
+      },
+      {
+        "semantic_key": "work-career-working_hours",
+        "description": "The time during which a worker is expected to be at their job.",
+        "related_german_words": ["Arbeitszeit"]
+      },
+      {
+        "semantic_key": "work-career-flexible_working_hours",
+        "description": "A system where employees can choose their start and end times.",
+        "related_german_words": ["Gleitzeit"]
+      },
+      {
+        "semantic_key": "work-career-core_working_hours",
+        "description": "The specific hours during which all employees must be present.",
+        "related_german_words": ["Kernarbeitszeit"]
+      },
+      {
+        "semantic_key": "work-career-end_of_workday",
+        "description": "The time when the workday is finished.",
+        "related_german_words": ["Feierabend"]
+      },
+      {
+        "semantic_key": "work-career-lunch_break",
+        "description": "A scheduled break for eating lunch.",
+        "related_german_words": ["Mittagspause"]
+      },
+      {
+        "semantic_key": "work-career-to_break",
+        "description": "To pause one's work for rest or food.",
+        "related_german_words": ["pausieren"]
+      },
+      {
+        "semantic_key": "work-career-workplace",
+        "description": "A place where people work.",
+        "related_german_words": ["Arbeitsplatz"]
+      },
+      {
+        "semantic_key": "work-career-atmosphere",
+        "description": "The general mood or environment in a workplace.",
+        "related_german_words": ["Arbeitsklima", "Betriebsklima"]
+      },
+      {
+        "semantic_key": "work-career-manual_labor",
+        "description": "Work done by hand or with physical strength.",
+        "related_german_words": ["Handarbeit"]
+      },
+      {
+        "semantic_key": "work-career-skilled_worker",
+        "description": "A worker who has special skills or training.",
+        "related_german_words": ["Fachkraft"]
+      },
+      {
+        "semantic_key": "work-career-shortage_of_skilled_labor",
+        "description": "When there are not enough qualified workers for available jobs.",
+        "related_german_words": ["Fachkräftemangel"]
+      },
+      {
+        "semantic_key": "work-career-temporary_work",
+        "description": "Work done for a limited period of time.",
+        "related_german_words": ["Zeitarbeit", "Leiharbeit"]
+      },
+      {
+        "semantic_key": "work-career-fixed_term_contract",
+        "description": "An employment contract that ends at a specified date.",
+        "related_german_words": ["befristeter Vertrag"]
+      },
+      {
+        "semantic_key": "work-career-permanent_contract",
+        "description": "An employment contract with no end date.",
+        "related_german_words": ["unbefristeter Vertrag"]
+      },
+      {
+        "semantic_key": "work-career-to_sign",
+        "description": "To write one's name on a contract to make it legal.",
+        "related_german_words": ["unterschreiben"]
+      },
+      {
+        "semantic_key": "work-career-presentation",
+        "description": "The act of showing or explaining something to an audience.",
+        "related_german_words": ["Präsentation", "Vortrag"]
+      },
+      {
+        "semantic_key": "work-career-to_present",
+        "description": "To give a formal talk or demonstration.",
+        "related_german_words": ["präsentieren", "vortragen"]
+      },
+      {
+        "semantic_key": "work-career-responsibility",
+        "description": "The state or fact of having a duty to deal with something.",
+        "related_german_words": ["Verantwortung"]
+      },
+      {
+        "semantic_key": "work-career-responsible",
+        "description": "Having the duty of taking care of something or someone.",
+        "related_german_words": ["verantwortlich", "zuständig"]
+      },
+      {
+        "semantic_key": "work-career-competence",
+        "description": "The ability to do something successfully or efficiently.",
+        "related_german_words": ["Kompetenz"]
+      },
+      {
+        "semantic_key": "work-career-task",
+        "description": "A piece of work to be done or undertaken.",
+        "related_german_words": ["Aufgabe"]
+      },
+      {
+        "semantic_key": "work-career-to_complete",
+        "description": "To finish a task or project.",
+        "related_german_words": ["erledigen", "abschließen"]
+      },
+      {
+        "semantic_key": "work-career-software_developer",
+        "description": "A person who creates computer programs.",
+        "related_german_words": ["Softwareentwickler"]
+      },
+      {
+        "semantic_key": "work-career-engineer",
+        "description": "A person who designs, builds, or maintains engines, machines, or public works.",
+        "related_german_words": ["Ingenieur"]
+      },
+      {
+        "semantic_key": "work-career-doctor",
+        "description": "A person qualified to practice medicine.",
+        "related_german_words": ["Arzt"]
+      },
+      {
+        "semantic_key": "work-career-nurse",
+        "description": "A person trained to care for the sick or infirm.",
+        "related_german_words": ["Pflegekraft", "Krankenpfleger"]
+      },
+      {
+        "semantic_key": "work-career-teacher",
+        "description": "A person who teaches, especially in a school.",
+        "related_german_words": ["Lehrer"]
+      },
+      {
+        "semantic_key": "work-career-lawyer",
+        "description": "A person who practices or studies law.",
+        "related_german_words": ["Anwalt", "Rechtsanwalt"]
+      },
+      {
+        "semantic_key": "work-career-accountant",
+        "description": "A person whose job is to keep or inspect financial accounts.",
+        "related_german_words": ["Buchhalter"]
+      },
+      {
+        "semantic_key": "work-career-clerk",
+        "description": "A person employed in an office or bank to keep records and accounts.",
+        "related_german_words": ["Sachbearbeiter"]
+      },
+      {
+        "semantic_key": "work-career-craftsman",
+        "description": "A person who is skilled in a particular craft.",
+        "related_german_words": ["Handwerker"]
+      },
+      {
+        "semantic_key": "work-career-electrician",
+        "description": "A person who installs and maintains electrical equipment.",
+        "related_german_words": ["Elektriker"]
+      },
+      {
+        "semantic_key": "work-career-mechanic",
+        "description": "A person who repairs and maintains machinery.",
+        "related_german_words": ["Mechaniker"]
+      },
+      {
+        "semantic_key": "work-career-salesman",
+        "description": "A person whose job involves selling or promoting commercial products.",
+        "related_german_words": ["Verkäufer"]
+      },
+      {
+        "semantic_key": "work-career-waiter",
+        "description": "A person whose job is to serve customers at their tables in a restaurant.",
+        "related_german_words": ["Kellner"]
+      },
+      {
+        "semantic_key": "work-career-chef",
+        "description": "A professional cook.",
+        "related_german_words": ["Koch"]
+      },
+      {
+        "semantic_key": "work-career-driver",
+        "description": "A person who drives a vehicle.",
+        "related_german_words": ["Fahrer"]
+      },
+      {
+        "semantic_key": "work-career-cleaning_staff",
+        "description": "People employed to clean a building.",
+        "related_german_words": ["Reinigungskraft"]
+      },
+      {
+        "semantic_key": "work-career-receptionist",
+        "description": "A person who greets and deals with visitors at an office.",
+        "related_german_words": ["Empfangsmitarbeiter", "Rezeptionist"]
+      },
+      {
+        "semantic_key": "work-career-human_resources",
+        "description": "The department of a business that deals with hiring and training personnel.",
+        "related_german_words": ["Personalabteilung", "Personalwesen"]
+      },
+      {
+        "semantic_key": "work-career-it_support",
+        "description": "The department that helps with computer and technical problems.",
+        "related_german_words": ["IT-Support"]
+      },
+      {
+        "semantic_key": "work-career-marketing",
+        "description": "The action of promoting and selling products or services.",
+        "related_german_words": ["Marketing"]
+      },
+      {
+        "semantic_key": "work-career-sales",
+        "description": "The department responsible for selling products.",
+        "related_german_words": ["Vertrieb", "Verkauf"]
+      },
+      {
+        "semantic_key": "work-career-production",
+        "description": "The action of making or manufacturing from components or raw materials.",
+        "related_german_words": ["Produktion", "Fertigung"]
+      },
+      {
+        "semantic_key": "work-career-quality_control",
+        "description": "A system of maintaining standards in manufactured products.",
+        "related_german_words": ["Qualitätssicherung"]
+      },
+      {
+        "semantic_key": "work-career-research_and_development",
+        "description": "Work directed toward the innovation and introduction of products.",
+        "related_german_words": ["Forschung und Entwicklung"]
+      },
+      {
+        "semantic_key": "work-career-logistics",
+        "description": "The detailed coordination of a complex operation involving many people or facilities.",
+        "related_german_words": ["Logistik"]
+      },
+      {
+        "semantic_key": "work-career-to_collaborate",
+        "description": "To work jointly on an activity or project.",
+        "related_german_words": ["zusammenarbeiten", "kooperieren"]
+      },
+      {
+        "semantic_key": "work-career-collaboration",
+        "description": "The action of working with someone to produce something.",
+        "related_german_words": ["Zusammenarbeit", "Kooperation"]
+      },
+      {
+        "semantic_key": "work-career-communication",
+        "description": "The imparting or exchanging of information by speaking, writing, or using some other medium.",
+        "related_german_words": ["Kommunikation"]
+      },
+      {
+        "semantic_key": "work-career-to_communicate",
+        "description": "To share or exchange information or ideas.",
+        "related_german_words": ["kommunizieren"]
+      },
+      {
+        "semantic_key": "work-career-conflict",
+        "description": "A serious disagreement or argument.",
+        "related_german_words": ["Konflikt"]
+      },
+      {
+        "semantic_key": "work-career-to_resolve",
+        "description": "To settle or find a solution to a problem or conflict.",
+        "related_german_words": ["lösen", "schlichten"]
+      },
+      {
+        "semantic_key": "work-career-feedback",
+        "description": "Information about reactions to a product or a person's performance of a task.",
+        "related_german_words": ["Feedback", "Rückmeldung"]
+      },
+      {
+        "semantic_key": "work-career-criticism",
+        "description": "The expression of disapproval of someone or something based on perceived faults.",
+        "related_german_words": ["Kritik"]
+      },
+      {
+        "semantic_key": "work-career-constructive",
+        "description": "Serving a useful purpose; tending to build up.",
+        "related_german_words": ["konstruktiv"]
+      },
+      {
+        "semantic_key": "work-career-motivation",
+        "description": "A reason or reasons for acting or behaving in a particular way.",
+        "related_german_words": ["Motivation"]
+      },
+      {
+        "semantic_key": "work-career-motivated",
+        "description": "Having a strong reason to act or work hard.",
+        "related_german_words": ["motiviert"]
+      },
+      {
+        "semantic_key": "work-career-ambition",
+        "description": "A strong desire to do or achieve something.",
+        "related_german_words": ["Ehrgeiz"]
+      },
+      {
+        "semantic_key": "work-career-ambitious",
+        "description": "Having or showing a strong desire and determination to succeed.",
+        "related_german_words": ["ehrgeizig"]
+      },
+      {
+        "semantic_key": "work-career-innovation",
+        "description": "A new method, idea, or product.",
+        "related_german_words": ["Innovation"]
+      },
+      {
+        "semantic_key": "work-career-creative",
+        "description": "Relating to or involving the use of the imagination or original ideas to create something.",
+        "related_german_words": ["kreativ"]
+      },
+      {
+        "semantic_key": "work-career-efficiency",
+        "description": "The state or quality of being efficient.",
+        "related_german_words": ["Effizienz"]
+      },
+      {
+        "semantic_key": "work-career-efficient",
+        "description": "Achieving maximum productivity with minimum wasted effort or expense.",
+        "related_german_words": ["effizient"]
+      },
+      {
+        "semantic_key": "work-career-productivity",
+        "description": "The effectiveness of productive effort.",
+        "related_german_words": ["Produktivität"]
+      },
+      {
+        "semantic_key": "work-career-productive",
+        "description": "Producing or able to produce large amounts of goods, crops, or other commodities.",
+        "related_german_words": ["produktiv"]
+      },
+      {
+        "semantic_key": "work-career-digitalization",
+        "description": "The conversion of text, pictures, or sound into a digital form that can be processed by a computer.",
+        "related_german_words": ["Digitalisierung"]
+      },
+      {
+        "semantic_key": "work-career-automation",
+        "description": "The use of largely automatic equipment in a system of manufacturing or other production process.",
+        "related_german_words": ["Automatisierung"]
+      },
+      {
+        "semantic_key": "work-career-remote_work",
+        "description": "Work that is done from a distance, usually from home.",
+        "related_german_words": ["Fernarbeit"]
+      },
+      {
+        "semantic_key": "work-career-coworking_space",
+        "description": "A shared office where people from different companies work.",
+        "related_german_words": ["Coworking-Space"]
+      },
+      {
+        "semantic_key": "work-career-startup",
+        "description": "A newly established business.",
+        "related_german_words": ["Startup", "Neugründung"]
+      },
+      {
+        "semantic_key": "work-career-to_found",
+        "description": "To establish or originate an institution or organization.",
+        "related_german_words": ["gründen"]
+      },
+      {
+        "semantic_key": "work-career-founder",
+        "description": "A person who establishes an organization.",
+        "related_german_words": ["Gründer"]
+      },
+      {
+        "semantic_key": "work-career-investor",
+        "description": "A person or organization that puts money into financial schemes or property with the expectation of achieving a profit.",
+        "related_german_words": ["Investor"]
+      },
+      {
+        "semantic_key": "work-career-profit",
+        "description": "A financial gain.",
+        "related_german_words": ["Gewinn", "Profit"]
+      },
+      {
+        "semantic_key": "work-career-loss",
+        "description": "An amount of money lost by a business.",
+        "related_german_words": ["Verlust"]
+      },
+      {
+        "semantic_key": "work-career-turnover",
+        "description": "The amount of money taken by a business in a particular period.",
+        "related_german_words": ["Umsatz"]
+      },
+      {
+        "semantic_key": "work-career-taxes",
+        "description": "Compulsory contributions to state revenue.",
+        "related_german_words": ["Steuern"]
+      },
+      {
+        "semantic_key": "work-career-bank_account",
+        "description": "An arrangement with a bank in which the customer may deposit and withdraw money.",
+        "related_german_words": ["Bankkonto"]
+      },
+      {
+        "semantic_key": "work-career-transfer",
+        "description": "An act of moving money from one account to another.",
+        "related_german_words": ["Überweisung"]
+      },
+      {
+        "semantic_key": "work-career-to_transfer",
+        "description": "To move money between accounts.",
+        "related_german_words": ["überweisen"]
+      },
+      {
+        "semantic_key": "work-career-invoice",
+        "description": "A list of goods sent or services provided, with a statement of the sum due.",
+        "related_german_words": ["Rechnung"]
+      },
+      {
+        "semantic_key": "work-career-to_pay",
+        "description": "To give money that is due for work done, goods received, or a debt incurred.",
+        "related_german_words": ["bezahlen", "zahlen"]
+      },
+      {
+        "semantic_key": "work-career-payment",
+        "description": "The action of paying or being paid.",
+        "related_german_words": ["Zahlung"]
+      },
+      {
+        "semantic_key": "work-career-credit",
+        "description": "The ability of a customer to obtain goods or services before payment, based on the trust that payment will be made in the future.",
+        "related_german_words": ["Kredit"]
+      },
+      {
+        "semantic_key": "work-career-debt",
+        "description": "Something, typically money, that is owed or due.",
+        "related_german_words": ["Schulden"]
+      },
+      {
+        "semantic_key": "work-career-bankrupt",
+        "description": "Declared in law unable to pay outstanding debts.",
+        "related_german_words": ["insolvent", "bankrott"]
+      },
+      {
+        "semantic_key": "work-career-insurance",
+        "description": "A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss.",
+        "related_german_words": ["Versicherung"]
+      },
+      {
+        "semantic_key": "work-career-liability_insurance",
+        "description": "Insurance that protects the insured party against claims resulting from injuries and damage to people and/or property.",
+        "related_german_words": ["Haftpflichtversicherung"]
+      },
+      {
+        "semantic_key": "work-career-unemployment_insurance",
+        "description": "A government program that provides unemployment benefits to eligible workers who are unemployed through no fault of their own.",
+        "related_german_words": ["Arbeitslosenversicherung"]
+      },
+      {
+        "semantic_key": "work-career-pension_insurance",
+        "description": "A form of insurance that provides a regular income to a person after retirement.",
+        "related_german_words": ["Rentenversicherung"]
+      },
+      {
+        "semantic_key": "work-career-accident_insurance",
+        "description": "Insurance against loss resulting from accidental bodily injury.",
+        "related_german_words": ["Unfallversicherung"]
+      },
+      {
+        "semantic_key": "work-career-maternity_leave",
+        "description": "A period of absence from work granted to a mother before and after the birth of her child.",
+        "related_german_words": ["Mutterschutz", "Elternzeit"]
+      },
+      {
+        "semantic_key": "work-career-paternity_leave",
+        "description": "A period of absence from work granted to a father after the birth of his child.",
+        "related_german_words": ["Vaterschaftsurlaub", "Elternzeit"]
+      },
+      {
+        "semantic_key": "work-career-childcare",
+        "description": "The care of children by a nursery or daycare center while parents are at work.",
+        "related_german_words": ["Kinderbetreuung"]
+      },
+      {
+        "semantic_key": "work-career-to_commute",
+        "description": "To travel some distance between one's home and place of work on a regular basis.",
+        "related_german_words": ["pendeln"]
+      },
+      {
+        "semantic_key": "work-career-commuter",
+        "description": "A person who travels some distance to work on a regular basis.",
+        "related_german_words": ["Pendler"]
+      },
+      {
+        "semantic_key": "work-career-traffic_jam",
+        "description": "A line or lines of stationary or very slow-moving traffic.",
+        "related_german_words": ["Stau"]
+      },
+      {
+        "semantic_key": "work-career-public_transport",
+        "description": "Buses, trains, and other forms of transport that are available to the public.",
+        "related_german_words": ["öffentliche Verkehrsmittel", "ÖPNV"]
+      },
+      {
+        "semantic_key": "work-career-parking_lot",
+        "description": "An area where cars or other vehicles may be left and the occupant's job requires them to be there.",
+        "related_german_words": ["Parkplatz"]
+      },
+      {
+        "semantic_key": "work-career-elevator",
+        "description": "A platform or compartment housed in a shaft for raising and lowering people or things to different levels.",
+        "related_german_words": ["Aufzug", "Fahrstuhl"]
+      },
+      {
+        "semantic_key": "work-career-stairs",
+        "description": "A set of steps leading from one floor of a building to another.",
+        "related_german_words": ["Treppe"]
+      },
+      {
+        "semantic_key": "work-career-desk",
+        "description": "A piece of furniture with a flat or sloped surface and typically with drawers, at which one can read, write, or do other work.",
+        "related_german_words": ["Schreibtisch"]
+      },
+      {
+        "semantic_key": "work-career-chair",
+        "description": "A separate seat for one person, typically with a back and four legs.",
+        "related_german_words": ["Stuhl", "Bürostuhl"]
+      },
+      {
+        "semantic_key": "work-career-computer",
+        "description": "An electronic device for storing and processing data.",
+        "related_german_words": ["Computer", "Rechner"]
+      },
+      {
+        "semantic_key": "work-career-laptop",
+        "description": "A computer that is portable and suitable for use while traveling.",
+        "related_german_words": ["Laptop"]
+      },
+      {
+        "semantic_key": "work-career-keyboard",
+        "description": "A panel of keys that operate a computer or typewriter.",
+        "related_german_words": ["Tastatur"]
+      },
+      {
+        "semantic_key": "work-career-mouse",
+        "description": "A small handheld device that is dragged across a flat surface to move the cursor on a computer screen.",
+        "related_german_words": ["Maus"]
+      },
+      {
+        "semantic_key": "work-career-screen",
+        "description": "A flat surface on a computer on which pictures or words are shown.",
+        "related_german_words": ["Bildschirm", "Monitor"]
+      },
+      {
+        "semantic_key": "work-career-printer",
+        "description": "A machine for printing text or pictures onto paper.",
+        "related_german_words": ["Drucker"]
+      },
+      {
+        "semantic_key": "work-career-scanner",
+        "description": "A device that scans documents and converts them into digital data.",
+        "related_german_words": ["Scanner"]
+      },
+      {
+        "semantic_key": "work-career-to_copy",
+        "description": "To make a similar or identical version of.",
+        "related_german_words": ["kopieren"]
+      },
+      {
+        "semantic_key": "work-career-copy",
+        "description": "A thing made to be similar or identical to another.",
+        "related_german_words": ["Kopie"]
+      },
+      {
+        "semantic_key": "work-career-document",
+        "description": "A piece of written, printed, or electronic matter that provides information or evidence.",
+        "related_german_words": ["Dokument", "Unterlage"]
+      },
+      {
+        "semantic_key": "work-career-file",
+        "description": "A folder or box for holding loose papers that are typically arranged in a particular order for easy reference.",
+        "related_german_words": ["Akte", "Datei"]
+      },
+      {
+        "semantic_key": "work-career-folder",
+        "description": "A folding cover or holder, typically made of stiff paper or cardboard, for storing loose papers.",
+        "related_german_words": ["Ordner", "Mappe"]
+      },
+      {
+        "semantic_key": "work-career-paper",
+        "description": "Material manufactured in thin sheets from the pulp of wood or other fibrous substances.",
+        "related_german_words": ["Papier"]
+      },
+      {
+        "semantic_key": "work-career-pen",
+        "description": "An instrument for writing or drawing with ink.",
+        "related_german_words": ["Stift", "Kugelschreiber"]
+      },
+      {
+        "semantic_key": "work-career-pencil",
+        "description": "An instrument for writing or drawing, consisting of a thin stick of graphite or a similar substance enclosed in a long thin piece of wood.",
+        "related_german_words": ["Bleistift"]
+      },
+      {
+        "semantic_key": "work-career-notebook",
+        "description": "A book with blank pages for notes.",
+        "related_german_words": ["Notizbuch"]
+      },
+      {
+        "semantic_key": "work-career-calendar",
+        "description": "A chart or series of pages showing the days, weeks, and months of a particular year.",
+        "related_german_words": ["Kalender"]
+      },
+      {
+        "semantic_key": "work-career-phone",
+        "description": "A system for transmitting voices over a distance using wire or radio.",
+        "related_german_words": ["Telefon"]
+      },
+      {
+        "semantic_key": "work-career-mobile_phone",
+        "description": "A portable telephone.",
+        "related_german_words": ["Handy", "Mobiltelefon"]
+      },
+      {
+        "semantic_key": "work-career-internet",
+        "description": "A global computer network providing a variety of information and communication facilities.",
+        "related_german_words": ["Internet"]
+      },
+      {
+        "semantic_key": "work-career-email",
+        "description": "Messages distributed by electronic means from one computer user to one or more recipients via a network.",
+        "related_german_words": ["E-Mail"]
+      },
+      {
+        "semantic_key": "work-career-to_write",
+        "description": "To mark letters, words, or other symbols on a surface with a pen or pencil.",
+        "related_german_words": ["schreiben"]
+      },
+      {
+        "semantic_key": "work-career-to_read",
+        "description": "To look at and comprehend the meaning of written or printed matter.",
+        "related_german_words": ["lesen"]
+      },
+      {
+        "semantic_key": "work-career-to_call",
+        "description": "To try to contact someone by telephone.",
+        "related_german_words": ["anrufen", "telefonieren"]
+      },
+      {
+        "semantic_key": "work-career-to_send",
+        "description": "To cause something to go or be taken to a particular destination.",
+        "related_german_words": ["schicken", "senden"]
+      },
+      {
+        "semantic_key": "work-career-to_receive",
+        "description": "To be given, presented with, or paid something.",
+        "related_german_words": ["erhalten", "bekommen"]
+      },
+      {
+        "semantic_key": "work-career-to_inform",
+        "description": "To give someone facts or information; tell.",
+        "related_german_words": ["informieren"]
+      },
+      {
+        "semantic_key": "work-career-information",
+        "description": "Facts provided or learned about something or someone.",
+        "related_german_words": ["Information"]
+      },
+      {
+        "semantic_key": "work-career-to_discuss",
+        "description": "To talk about something with another person or group of people.",
+        "related_german_words": ["besprechen", "diskutieren"]
+      },
+      {
+        "semantic_key": "work-career-discussion",
+        "description": "The action or process of talking about something in order to reach a decision or to exchange ideas.",
+        "related_german_words": ["Besprechung", "Diskussion"]
+      },
+      {
+        "semantic_key": "work-career-to_decide",
+        "description": "To come to a resolution in the mind as a result of consideration.",
+        "related_german_words": ["entscheiden"]
+      },
+      {
+        "semantic_key": "work-career-decision",
+        "description": "A conclusion or resolution reached after consideration.",
+        "related_german_words": ["Entscheidung"]
+      },
+      {
+        "semantic_key": "work-career-to_plan",
+        "description": "To decide on and arrange in advance.",
+        "related_german_words": ["planen"]
+      },
+      {
+        "semantic_key": "work-career-plan",
+        "description": "A detailed proposal for doing or achieving something.",
+        "related_german_words": ["Plan"]
+      },
+      {
+        "semantic_key": "work-career-to_manage",
+        "description": "To be in charge of (a business, organization, or undertaking).",
+        "related_german_words": ["verwalten", "leiten"]
+      },
+      {
+        "semantic_key": "work-career-manager",
+        "description": "A person responsible for controlling or administering all or part of a company or similar organization.",
+        "related_german_words": ["Manager", "Leiter"]
+      },
+      {
+        "semantic_key": "work-career-leadership",
+        "description": "The action of leading a group of people or an organization.",
+        "related_german_words": ["Führung"]
+      },
+      {
+        "semantic_key": "work-career-to_supervise",
+        "description": "To observe and direct the execution of a task, project, or activity.",
+        "related_german_words": ["beaufsichtigen", "überwachen"]
+      },
+      {
+        "semantic_key": "work-career-supervisor",
+        "description": "A person who supervises a person or an activity.",
+        "related_german_words": ["Vorgesetzter", "Aufseher"]
+      },
+      {
+        "semantic_key": "work-career-to_control",
+        "description": "To determine the behavior or supervise the running of.",
+        "related_german_words": ["kontrollieren"]
+      },
+      {
+        "semantic_key": "work-career-control",
+        "description": "The power to influence or direct people's behavior or the course of events.",
+        "related_german_words": ["Kontrolle"]
+      },
+      {
+        "semantic_key": "work-career-to_report",
+        "description": "To give a spoken or written account of something that one has observed, heard, done, or investigated.",
+        "related_german_words": ["berichten"]
+      },
+      {
+        "semantic_key": "work-career-report",
+        "description": "A spoken or written account of something that one has observed, heard, done, or investigated.",
+        "related_german_words": ["Bericht"]
+      },
+      {
+        "semantic_key": "work-career-to_analyze",
+        "description": "To examine methodically and in detail the constitution or structure of something.",
+        "related_german_words": ["analysieren"]
+      },
+      {
+        "semantic_key": "work-career-analysis",
+        "description": "Detailed examination of the elements or structure of something.",
+        "related_german_words": ["Analyse"]
+      },
+      {
+        "semantic_key": "work-career-to_calculate",
+        "description": "To determine (the amount or number of something) mathematically.",
+        "related_german_words": ["berechnen", "kalkulieren"]
+      },
+      {
+        "semantic_key": "work-career-calculation",
+        "description": "A mathematical determination of the size or number of something.",
+        "related_german_words": ["Berechnung", "Kalkulation"]
+      },
+      {
+        "semantic_key": "work-career-to_sell",
+        "description": "To give or hand over something in exchange for money.",
+        "related_german_words": ["verkaufen"]
+      },
+      {
+        "semantic_key": "work-career-to_buy",
+        "description": "To obtain in exchange for payment.",
+        "related_german_words": ["kaufen"]
+      },
+      {
+        "semantic_key": "work-career-to_order",
+        "description": "To request (something) to be made, supplied, or served.",
+        "related_german_words": ["bestellen"]
+      },
+      {
+        "semantic_key": "work-career-order",
+        "description": "A request for something to be made, supplied, or served.",
+        "related_german_words": ["Bestellung"]
+      },
+      {
+        "semantic_key": "work-career-to_deliver",
+        "description": "To bring and hand over (a letter, parcel, or goods) to the proper recipient or address.",
+        "related_german_words": ["liefern"]
+      },
+      {
+        "semantic_key": "work-career-delivery",
+        "description": "The action of delivering letters, parcels, or goods.",
+        "related_german_words": ["Lieferung"]
+      },
+      {
+        "semantic_key": "work-career-to_store",
+        "description": "To keep or accumulate something for future use.",
+        "related_german_words": ["lagern"]
+      },
+      {
+        "semantic_key": "work-career-storage",
+        "description": "The action or method of storing something for future use.",
+        "related_german_words": ["Lagerung"]
+      },
+      {
+        "semantic_key": "work-career-warehouse",
+        "description": "A large building where raw materials or manufactured goods may be stored before their export or distribution for sale.",
+        "related_german_words": ["Lagerhaus", "Lager"]
+      },
+      {
+        "semantic_key": "work-career-to_transport",
+        "description": "To take or carry (people or goods) from one place to another by means of a vehicle, aircraft, or ship.",
+        "related_german_words": ["transportieren"]
+      },
+      {
+        "semantic_key": "work-career-transport",
+        "description": "A system or means of conveying people or goods from one place to another by means of a vehicle, aircraft, or ship.",
+        "related_german_words": ["Transport"]
+      },
+      {
+        "semantic_key": "work-career-to_produce",
+        "description": "To make or manufacture from components or raw materials.",
+        "related_german_words": ["produzieren", "herstellen"]
+      },
+      {
+        "semantic_key": "work-career-product",
+        "description": "An article or substance that is manufactured or refined for sale.",
+        "related_german_words": ["Produkt"]
+      }
+    ]
+  }
+]

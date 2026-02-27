@@ -1,0 +1,1262 @@
+[
+  {
+    "category_slug": "leisure-art",
+    "concepts": [
+      {
+        "semantic_key": "leisure-art-hobby",
+        "description": "An activity done regularly in one's leisure time for pleasure.",
+        "related_german_words": ["Hobby"]
+      },
+      {
+        "semantic_key": "leisure-art-leisure_time",
+        "description": "Time when one is free from work or duties.",
+        "related_german_words": ["Freizeit"]
+      },
+      {
+        "semantic_key": "leisure-art-recreation",
+        "description": "Activity done for enjoyment when one is not working.",
+        "related_german_words": ["Erholung"]
+      },
+      {
+        "semantic_key": "leisure-art-relaxation",
+        "description": "The state of being free from tension and anxiety.",
+        "related_german_words": ["Entspannung"]
+      },
+      {
+        "semantic_key": "leisure-art-to_relax",
+        "description": "To become less tense, anxious, or stressed.",
+        "related_german_words": ["sich entspannen", "relaxen"]
+      },
+      {
+        "semantic_key": "leisure-art-passion",
+        "description": "A strong and barely controllable emotion or interest.",
+        "related_german_words": ["Leidenschaft", "Passion"]
+      },
+      {
+        "semantic_key": "leisure-art-talent",
+        "description": "Natural aptitude or skill.",
+        "related_german_words": ["Talent", "Begabung"]
+      },
+      {
+        "semantic_key": "leisure-art-creativity",
+        "description": "The use of imagination or original ideas to create something.",
+        "related_german_words": ["Kreativität"]
+      },
+      {
+        "semantic_key": "leisure-art-creative",
+        "description": "Relating to or involving the use of the imagination.",
+        "related_german_words": ["kreativ"]
+      },
+      {
+        "semantic_key": "leisure-art-inspiration",
+        "description": "The process of being mentally stimulated to do or feel something.",
+        "related_german_words": ["Inspiration"]
+      },
+      {
+        "semantic_key": "leisure-art-art_general",
+        "description": "The expression or application of human creative skill and imagination.",
+        "related_german_words": ["Kunst"]
+      },
+      {
+        "semantic_key": "leisure-art-culture",
+        "description": "The arts and other manifestations of human intellectual achievement.",
+        "related_german_words": ["Kultur"]
+      },
+      {
+        "semantic_key": "leisure-art-artist",
+        "description": "A person who produces paintings or drawings as a profession or hobby.",
+        "related_german_words": ["Künstler"]
+      },
+      {
+        "semantic_key": "leisure-art-masterpiece",
+        "description": "A work of outstanding artistry, skill, or workmanship.",
+        "related_german_words": ["Meisterwerk"]
+      },
+      {
+        "semantic_key": "leisure-art-style_art",
+        "description": "A particular manner or technique by which something is done.",
+        "related_german_words": ["Stil"]
+      },
+      {
+        "semantic_key": "leisure-art-museum",
+        "description": "A building in which objects of historical or artistic interest are stored.",
+        "related_german_words": ["Museum"]
+      },
+      {
+        "semantic_key": "leisure-art-gallery",
+        "description": "A room or building for the display or sale of works of art.",
+        "related_german_words": ["Galerie"]
+      },
+      {
+        "semantic_key": "leisure-art-exhibition",
+        "description": "A public display of works of art or items of interest.",
+        "related_german_words": ["Ausstellung"]
+      },
+      {
+        "semantic_key": "leisure-art-collection",
+        "description": "A group of things or people to be seen or used together.",
+        "related_german_words": ["Sammlung"]
+      },
+      {
+        "semantic_key": "leisure-art-to_collect",
+        "description": "To gather together items of a particular type as a hobby.",
+        "related_german_words": ["sammeln"]
+      },
+      {
+        "semantic_key": "leisure-art-collector",
+        "description": "A person who collects things of a specified type.",
+        "related_german_words": ["Sammler"]
+      },
+      {
+        "semantic_key": "leisure-art-original_art",
+        "description": "The first and genuine form of an artistic work.",
+        "related_german_words": ["Original"]
+      },
+      {
+        "semantic_key": "leisure-art-copy_art",
+        "description": "A thing made to be similar or identical to another.",
+        "related_german_words": ["Kopie"]
+      },
+      {
+        "semantic_key": "leisure-art-painting_art",
+        "description": "The action or skill of using paint.",
+        "related_german_words": ["Malerei"]
+      },
+      {
+        "semantic_key": "leisure-art-painting_object",
+        "description": "A painted picture that is a work of art.",
+        "related_german_words": ["Gemälde"]
+      },
+      {
+        "semantic_key": "leisure-art-to_paint",
+        "description": "To create a picture or coat a surface with paint.",
+        "related_german_words": ["malen"]
+      },
+      {
+        "semantic_key": "leisure-art-drawing_object",
+        "description": "A picture or diagram made with a pencil, pen, or crayon.",
+        "related_german_words": ["Zeichnung"]
+      },
+      {
+        "semantic_key": "leisure-art-to_draw",
+        "description": "To produce a picture or diagram by making lines and marks on paper.",
+        "related_german_words": ["zeichnen"]
+      },
+      {
+        "semantic_key": "leisure-art-sketch",
+        "description": "A rough or unfinished drawing or painting.",
+        "related_german_words": ["Skizze"]
+      },
+      {
+        "semantic_key": "leisure-art-to_sketch",
+        "description": "To make a rough drawing of something.",
+        "related_german_words": ["skizzieren"]
+      },
+      {
+        "semantic_key": "leisure-art-portrait",
+        "description": "A painting, drawing, or photograph of a person.",
+        "related_german_words": ["Porträt"]
+      },
+      {
+        "semantic_key": "leisure-art-landscape_art",
+        "description": "A genre of art that features natural scenery.",
+        "related_german_words": ["Landschaftsbild"]
+      },
+      {
+        "semantic_key": "leisure-art-still_life",
+        "description": "A painting or drawing of an arrangement of inanimate objects.",
+        "related_german_words": ["Stillleben"]
+      },
+      {
+        "semantic_key": "leisure-art-abstract_adj",
+        "description": "Art that does not attempt to represent external reality.",
+        "related_german_words": ["abstrakt"]
+      },
+      {
+        "semantic_key": "leisure-art-modern_adj",
+        "description": "Relating to the present or recent times.",
+        "related_german_words": ["modern"]
+      },
+      {
+        "semantic_key": "leisure-art-classical_adj",
+        "description": "Relating to ancient Greek or Latin literature, art, or culture.",
+        "related_german_words": ["klassisch"]
+      },
+      {
+        "semantic_key": "leisure-art-brush",
+        "description": "An implement with a handle and bristles used for painting.",
+        "related_german_words": ["Pinsel"]
+      },
+      {
+        "semantic_key": "leisure-art-canvas",
+        "description": "A strong, coarse unbleached cloth used by artists as a surface for oil painting.",
+        "related_german_words": ["Leinwand"]
+      },
+      {
+        "semantic_key": "leisure-art-easel",
+        "description": "A wooden frame for holding an artist's work while it is being painted.",
+        "related_german_words": ["Staffelei"]
+      },
+      {
+        "semantic_key": "leisure-art-palette",
+        "description": "A thin board on which an artist lays and mixes colors.",
+        "related_german_words": ["Palette"]
+      },
+      {
+        "semantic_key": "leisure-art-color",
+        "description": "The property possessed by an object of producing different sensations on the eye.",
+        "related_german_words": ["Farbe"]
+      },
+      {
+        "semantic_key": "leisure-art-frame",
+        "description": "A rigid structure that surrounds something such as a picture or door.",
+        "related_german_words": ["Rahmen"]
+      },
+      {
+        "semantic_key": "leisure-art-sculpture_object",
+        "description": "The art of making two- or three-dimensional representative or abstract forms.",
+        "related_german_words": ["Skulptur"]
+      },
+      {
+        "semantic_key": "leisure-art-to_sculpt",
+        "description": "To create or represent by carving, casting, or other shaping techniques.",
+        "related_german_words": ["bildhauen"]
+      },
+      {
+        "semantic_key": "leisure-art-sculptor",
+        "description": "An artist who makes sculptures.",
+        "related_german_words": ["Bildhauer"]
+      },
+      {
+        "semantic_key": "leisure-art-statue",
+        "description": "A carved or cast figure of a person or animal.",
+        "related_german_words": ["Statue"]
+      },
+      {
+        "semantic_key": "leisure-art-sculpture_genre",
+        "description": "The professional activity of creating sculptures.",
+        "related_german_words": ["Bildhauerei"]
+      },
+      {
+        "semantic_key": "leisure-art-architecture",
+        "description": "The complex or carefully designed structure of something.",
+        "related_german_words": ["Architektur"]
+      },
+      {
+        "semantic_key": "leisure-art-monument",
+        "description": "A statue, building, or other structure erected to commemorate a famous person or event.",
+        "related_german_words": ["Denkmal"]
+      },
+      {
+        "semantic_key": "leisure-art-photography",
+        "description": "The art or practice of taking and processing photographs.",
+        "related_german_words": ["Fotografie"]
+      },
+      {
+        "semantic_key": "leisure-art-photographer",
+        "description": "A person who takes photographs, especially as a job.",
+        "related_german_words": ["Fotograf"]
+      },
+      {
+        "semantic_key": "leisure-art-to_photograph",
+        "description": "To take a photograph of someone or something.",
+        "related_german_words": ["fotografieren"]
+      },
+      {
+        "semantic_key": "leisure-art-photo",
+        "description": "A picture made using a camera.",
+        "related_german_words": ["Foto"]
+      },
+      {
+        "semantic_key": "leisure-art-camera",
+        "description": "A device for recording visual images in the form of photographs, film, or video signals.",
+        "related_german_words": ["Kamera"]
+      },
+      {
+        "semantic_key": "leisure-art-lens_camera",
+        "description": "A piece of glass or other transparent substance with curved sides for concentrating light rays.",
+        "related_german_words": ["Objektiv"]
+      },
+      {
+        "semantic_key": "leisure-art-flash_camera",
+        "description": "A device used in photography producing a flash of artificial light.",
+        "related_german_words": ["Blitz"]
+      },
+      {
+        "semantic_key": "leisure-art-tripod",
+        "description": "A three-legged stand for supporting a camera or other apparatus.",
+        "related_german_words": ["Stativ"]
+      },
+      {
+        "semantic_key": "leisure-art-shutter",
+        "description": "A device that opens and closes to expose the film in a camera.",
+        "related_german_words": ["Verschluss"]
+      },
+      {
+        "semantic_key": "leisure-art-film_media",
+        "description": "A story or event recorded by a camera as a set of moving images.",
+        "related_german_words": ["Film"]
+      },
+      {
+        "semantic_key": "leisure-art-cinema",
+        "description": "A theater where movies are shown for public entertainment.",
+        "related_german_words": ["Kino"]
+      },
+      {
+        "semantic_key": "leisure-art-to_film",
+        "description": "To capture on film as a movie or a video.",
+        "related_german_words": ["filmen"]
+      },
+      {
+        "semantic_key": "leisure-art-projector",
+        "description": "A device that is used to project images from a film or a slide onto a screen.",
+        "related_german_words": ["Projektor"]
+      },
+      {
+        "semantic_key": "leisure-art-director",
+        "description": "A person who supervises the actors and other staff in a film or play.",
+        "related_german_words": ["Regisseur"]
+      },
+      {
+        "semantic_key": "leisure-art-script",
+        "description": "The written text of a play, film, or broadcast.",
+        "related_german_words": ["Drehbuch"]
+      },
+      {
+        "semantic_key": "leisure-art-actor",
+        "description": "A man whose profession is acting on the stage, in films, or on television.",
+        "related_german_words": ["Schauspieler"]
+      },
+      {
+        "semantic_key": "leisure-art-actress",
+        "description": "A woman whose profession is acting on the stage, in films, or on television.",
+        "related_german_words": ["Schauspielerin"]
+      },
+      {
+        "semantic_key": "leisure-art-role",
+        "description": "An actor's part in a play, film, etc.",
+        "related_german_words": ["Rolle"]
+      },
+      {
+        "semantic_key": "leisure-art-to_act",
+        "description": "To take part in a play, film, or television show as a character.",
+        "related_german_words": ["schauspielern"]
+      },
+      {
+        "semantic_key": "leisure-art-rehearsal",
+        "description": "A practice or trial performance of a play or other work.",
+        "related_german_words": ["Probe"]
+      },
+      {
+        "semantic_key": "leisure-art-to_rehearse",
+        "description": "To practice a play, piece of music, or other work for later public performance.",
+        "related_german_words": ["proben"]
+      },
+      {
+        "semantic_key": "leisure-art-premiere",
+        "description": "The first performance of a musical or theatrical work or the first showing of a film.",
+        "related_german_words": ["Premiere"]
+      },
+      {
+        "semantic_key": "leisure-art-performance",
+        "description": "An act of staging or presenting a play, concert, or other form of entertainment.",
+        "related_german_words": ["Vorstellung", "Aufführung"]
+      },
+      {
+        "semantic_key": "leisure-art-applause",
+        "description": "Approval or praise expressed by clapping.",
+        "related_german_words": ["Applaus", "Beifall"]
+      },
+      {
+        "semantic_key": "leisure-art-to_applaud",
+        "description": "To show approval or praise by clapping the hands.",
+        "related_german_words": ["klatschen", "applaudieren"]
+      },
+      {
+        "semantic_key": "leisure-art-audience",
+        "description": "The assembled spectators or listeners at a public event.",
+        "related_german_words": ["Publikum"]
+      },
+      {
+        "semantic_key": "leisure-art-spectator",
+        "description": "A person who watches at a show, game, or other event.",
+        "related_german_words": ["Zuschauer"]
+      },
+      {
+        "semantic_key": "leisure-art-stage",
+        "description": "A raised floor or platform, typically in a theater, on which actors, entertainers, or speakers perform.",
+        "related_german_words": ["Bühne"]
+      },
+      {
+        "semantic_key": "leisure-art-curtain",
+        "description": "A screen of heavy cloth or other material that can be raised or lowered across the stage in a theater.",
+        "related_german_words": ["Vorhang"]
+      },
+      {
+        "semantic_key": "leisure-art-theater_building",
+        "description": "A building or outdoor area in which plays and other dramatic performances are given.",
+        "related_german_words": ["Theater"]
+      },
+      {
+        "semantic_key": "leisure-art-musical_genre",
+        "description": "A play or movie in which singing and dancing play an essential part.",
+        "related_german_words": ["Musical"]
+      },
+      {
+        "semantic_key": "leisure-art-opera",
+        "description": "A dramatic work in one or more acts, set to music for singers and instrumentalists.",
+        "related_german_words": ["Oper"]
+      },
+      {
+        "semantic_key": "leisure-art-ballet",
+        "description": "An artistic dance form performed to music using precise and highly formalized set steps.",
+        "related_german_words": ["Ballett"]
+      },
+      {
+        "semantic_key": "leisure-art-dance_action",
+        "description": "A series of movements that match the speed and rhythm of a piece of music.",
+        "related_german_words": ["Tanz"]
+      },
+      {
+        "semantic_key": "leisure-art-to_dance",
+        "description": "To move rhythmically to music, typically following a set sequence of steps.",
+        "related_german_words": ["tanzen"]
+      },
+      {
+        "semantic_key": "leisure-art-dancer",
+        "description": "A person who dances or whose profession is dancing.",
+        "related_german_words": ["Tänzer"]
+      },
+      {
+        "semantic_key": "leisure-art-choreography",
+        "description": "The sequence of steps and movements in dance.",
+        "related_german_words": ["Choreografie"]
+      },
+      {
+        "semantic_key": "leisure-art-music_general",
+        "description": "Vocal or instrumental sounds (or both) combined in such a way as to produce beauty of form.",
+        "related_german_words": ["Musik"]
+      },
+      {
+        "semantic_key": "leisure-art-musician",
+        "description": "A person who plays a musical instrument or is otherwise musically talented.",
+        "related_german_words": ["Musiker"]
+      },
+      {
+        "semantic_key": "leisure-art-to_compose",
+        "description": "To write or create a work of art, especially music.",
+        "related_german_words": ["komponieren"]
+      },
+      {
+        "semantic_key": "leisure-art-composer",
+        "description": "A person who writes music, especially as a professional occupation.",
+        "related_german_words": ["Komponist"]
+      },
+      {
+        "semantic_key": "leisure-art-conductor",
+        "description": "A person who directs the performance of an orchestra or choir.",
+        "related_german_words": ["Dirigent"]
+      },
+      {
+        "semantic_key": "leisure-art-to_conduct",
+        "description": "To direct the performance of a musical ensemble.",
+        "related_german_words": ["dirigieren"]
+      },
+      {
+        "semantic_key": "leisure-art-orchestra",
+        "description": "A large group of instrumentalists playing together.",
+        "related_german_words": ["Orchester"]
+      },
+      {
+        "semantic_key": "leisure-art-choir",
+        "description": "An organized group of singers, typically one that takes part in church services or performs in public.",
+        "related_german_words": ["Chor"]
+      },
+      {
+        "semantic_key": "leisure-art-instrument",
+        "description": "An object or device for producing musical sounds.",
+        "related_german_words": ["Instrument"]
+      },
+      {
+        "semantic_key": "leisure-art-guitar",
+        "description": "A stringed musical instrument with a long, fretted neck, a flat wooden body, and typically six strings.",
+        "related_german_words": ["Gitarre"]
+      },
+      {
+        "semantic_key": "leisure-art-piano",
+        "description": "A large keyboard musical instrument with a wooden case enclosing a soundboard and metal strings.",
+        "related_german_words": ["Klavier"]
+      },
+      {
+        "semantic_key": "leisure-art-violin",
+        "description": "A stringed musical instrument of treble pitch, played with a horsehair bow.",
+        "related_german_words": ["Geige", "Violine"]
+      },
+      {
+        "semantic_key": "leisure-art-flute",
+        "description": "A wind instrument made from a tube with holes along it that are stopped by the fingers or keys.",
+        "related_german_words": ["Flöte"]
+      },
+      {
+        "semantic_key": "leisure-art-trumpet",
+        "description": "A brass musical instrument with a flared bell and a bright, penetrating tone.",
+        "related_german_words": ["Trompete"]
+      },
+      {
+        "semantic_key": "leisure-art-saxophone",
+        "description": "A member of a family of metal wind instruments with a single-reed mouthpiece.",
+        "related_german_words": ["Saxophon"]
+      },
+      {
+        "semantic_key": "leisure-art-drums",
+        "description": "A percussion instrument sounded by being struck with sticks or the hands.",
+        "related_german_words": ["Schlagzeug"]
+      },
+      {
+        "semantic_key": "leisure-art-cello",
+        "description": "A bass instrument of the violin family, held upright on the floor between the knees of the seated player.",
+        "related_german_words": ["Cello"]
+      },
+      {
+        "semantic_key": "leisure-art-harp",
+        "description": "A musical instrument, roughly triangular in shape, consisting of a frame supporting a series of parallel strings.",
+        "related_german_words": ["Harfe"]
+      },
+      {
+        "semantic_key": "leisure-art-keyboard",
+        "description": "A set of keys on a piano or similar musical instrument.",
+        "related_german_words": ["Keyboard"]
+      },
+      {
+        "semantic_key": "leisure-art-to_play_music",
+        "description": "To play a musical instrument or sing, especially in a group.",
+        "related_german_words": ["musizieren"]
+      },
+      {
+        "semantic_key": "leisure-art-singing_art",
+        "description": "The activity of performing songs or tunes by making musical sounds with the voice.",
+        "related_german_words": ["Gesang"]
+      },
+      {
+        "semantic_key": "leisure-art-to_sing",
+        "description": "To make musical sounds with the voice, especially words with a set tune.",
+        "related_german_words": ["singen"]
+      },
+      {
+        "semantic_key": "leisure-art-singer",
+        "description": "A person who sings, especially professionally.",
+        "related_german_words": ["Sänger"]
+      },
+      {
+        "semantic_key": "leisure-art-song_object",
+        "description": "A short poem or other set of words set to music or meant to be sung.",
+        "related_german_words": ["Lied", "Song"]
+      },
+      {
+        "semantic_key": "leisure-art-melody",
+        "description": "A sequence of single notes that is musically satisfying.",
+        "related_german_words": ["Melodie"]
+      },
+      {
+        "semantic_key": "leisure-art-rhythm",
+        "description": "A strong, regular, repeated pattern of movement or sound.",
+        "related_german_words": ["Rhythmus"]
+      },
+      {
+        "semantic_key": "leisure-art-harmony",
+        "description": "The combination of simultaneously sounded musical notes to produce chords.",
+        "related_german_words": ["Harmonie"]
+      },
+      {
+        "semantic_key": "leisure-art-musical_note",
+        "description": "A notation representing the pitch and duration of a sound.",
+        "related_german_words": ["Note"]
+      },
+      {
+        "semantic_key": "leisure-art-concert",
+        "description": "A musical performance given in public, typically by several performers or of several separate works.",
+        "related_german_words": ["Konzert"]
+      },
+      {
+        "semantic_key": "leisure-art-stage_fright",
+        "description": "Nervousness before or during an appearance before an audience.",
+        "related_german_words": ["Lampenfieber"]
+      },
+      {
+        "semantic_key": "leisure-art-festival",
+        "description": "A day or period of celebration, typically a religious one.",
+        "related_german_words": ["Festival"]
+      },
+      {
+        "semantic_key": "leisure-art-amusement",
+        "description": "The state or experience of finding something funny.",
+        "related_german_words": ["Vergnügen"]
+      },
+      {
+        "semantic_key": "leisure-art-fun_enjoyment",
+        "description": "Enjoyment, amusement, or lighthearted pleasure.",
+        "related_german_words": ["Spaß"]
+      },
+      {
+        "semantic_key": "leisure-art-to_laugh",
+        "description": "To make the spontaneous sounds and movements of the face and body that are the instinctive expressions of lively amusement.",
+        "related_german_words": ["lachen"]
+      },
+      {
+        "semantic_key": "leisure-art-humor_trait",
+        "description": "The quality of being amusing or comic.",
+        "related_german_words": ["Humor"]
+      },
+      {
+        "semantic_key": "leisure-art-funny_adj",
+        "description": "Causing laughter or amusement.",
+        "related_german_words": ["lustig", "witzig"]
+      },
+      {
+        "semantic_key": "leisure-art-joke_object",
+        "description": "A thing that someone says to cause amusement or laughter.",
+        "related_german_words": ["Witz"]
+      },
+      {
+        "semantic_key": "leisure-art-story_tale",
+        "description": "An account of imaginary or real people and events told for entertainment.",
+        "related_german_words": ["Geschichte"]
+      },
+      {
+        "semantic_key": "leisure-art-to_read",
+        "description": "To look at and comprehend the meaning of written or printed matter.",
+        "related_german_words": ["lesen"]
+      },
+      {
+        "semantic_key": "leisure-art-reader",
+        "description": "A person who reads of a specified kind or who reads a specified paper or book.",
+        "related_german_words": ["Leser"]
+      },
+      {
+        "semantic_key": "leisure-art-book_object",
+        "description": "A written or printed work consisting of pages glued or sewn together along one side and bound in covers.",
+        "related_german_words": ["Buch"]
+      },
+      {
+        "semantic_key": "leisure-art-novel_genre",
+        "description": "A fictitious prose narrative of book length.",
+        "related_german_words": ["Roman"]
+      },
+      {
+        "semantic_key": "leisure-art-literature",
+        "description": "Written works, especially those considered of superior or lasting artistic merit.",
+        "related_german_words": ["Literatur"]
+      },
+      {
+        "semantic_key": "leisure-art-poem",
+        "description": "A piece of writing in which the expression of feelings and ideas is given intensity by the use of distinctive style and rhythm.",
+        "related_german_words": ["Gedicht"]
+      },
+      {
+        "semantic_key": "leisure-art-poetry_genre",
+        "description": "Literary work in which special intensity is given to the expression of feelings and ideas by the use of distinctive style and rhythm.",
+        "related_german_words": ["Lyrik", "Poesie"]
+      },
+      {
+        "semantic_key": "leisure-art-author",
+        "description": "A writer of a book, article, or report.",
+        "related_german_words": ["Autor", "Schriftsteller"]
+      },
+      {
+        "semantic_key": "leisure-art-library",
+        "description": "A building or room containing collections of books, periodicals, and sometimes films and recorded music for people to read, borrow, or refer to.",
+        "related_german_words": ["Bibliothek"]
+      },
+      {
+        "semantic_key": "leisure-art-comic_genre",
+        "description": "A periodical containing comic strips.",
+        "related_german_words": ["Comic"]
+      },
+      {
+        "semantic_key": "leisure-art-entertainment_industry",
+        "description": "The action of providing or being provided with amusement or enjoyment.",
+        "related_german_words": ["Unterhaltung"]
+      },
+      {
+        "semantic_key": "leisure-art-television",
+        "description": "A system for transmitting visual images and sound that are reproduced on screens.",
+        "related_german_words": ["Fernsehen"]
+      },
+      {
+        "semantic_key": "leisure-art-radio_media",
+        "description": "The transmission and reception of electromagnetic waves of radio frequency.",
+        "related_german_words": ["Radio"]
+      },
+      {
+        "semantic_key": "leisure-art-podcast",
+        "description": "A digital audio file made available on the internet for downloading to a computer or mobile device.",
+        "related_german_words": ["Podcast"]
+      },
+      {
+        "semantic_key": "leisure-art-game_general",
+        "description": "A form of play or sport, especially a competitive one played according to rules and decided by skill, strength, or luck.",
+        "related_german_words": ["Spiel"]
+      },
+      {
+        "semantic_key": "leisure-art-to_play_game",
+        "description": "To take part in a game or sport for enjoyment.",
+        "related_german_words": ["spielen"]
+      },
+      {
+        "semantic_key": "leisure-art-player",
+        "description": "A person who takes part in a game or sport.",
+        "related_german_words": ["Spieler"]
+      },
+      {
+        "semantic_key": "leisure-art-team_group",
+        "description": "A group of players forming one side in a competitive game or sport.",
+        "related_german_words": ["Team"]
+      },
+      {
+        "semantic_key": "leisure-art-club_association",
+        "description": "An association or organization dedicated to a particular interest or activity.",
+        "related_german_words": ["Verein"]
+      },
+      {
+        "semantic_key": "leisure-art-membership",
+        "description": "The state of being a member of a group or organization.",
+        "related_german_words": ["Mitgliedschaft"]
+      },
+      {
+        "semantic_key": "leisure-art-member",
+        "description": "A person, animal, or plant that is part of a group or organization.",
+        "related_german_words": ["Mitglied"]
+      },
+      {
+        "semantic_key": "leisure-art-game_rule",
+        "description": "One of a set of explicit or understood regulations or principles governing conduct within a particular activity or sphere.",
+        "related_german_words": ["Regel"]
+      },
+      {
+        "semantic_key": "leisure-art-fairness_sport",
+        "description": "Impartial and just treatment or behavior without favoritism or discrimination.",
+        "related_german_words": ["Fairness"]
+      },
+      {
+        "semantic_key": "leisure-art-competition",
+        "description": "The activity or condition of competing.",
+        "related_german_words": ["Wettbewerb", "Wettkampf"]
+      },
+      {
+        "semantic_key": "leisure-art-to_compete",
+        "description": "To strive to gain or win something by defeating or establishing superiority over others who are trying to do the same.",
+        "related_german_words": ["wetteifern"]
+      },
+      {
+        "semantic_key": "leisure-art-match_event",
+        "description": "A contest in which people or teams compete against each other in a particular sport.",
+        "related_german_words": ["Spiel"]
+      },
+      {
+        "semantic_key": "leisure-art-tournament",
+        "description": "A series of contests between a number of competitors, who compete for an overall prize.",
+        "related_german_words": ["Turnier"]
+      },
+      {
+        "semantic_key": "leisure-art-championship",
+        "description": "A contest for the position of champion in a sport or game.",
+        "related_german_words": ["Meisterschaft"]
+      },
+      {
+        "semantic_key": "leisure-art-medal",
+        "description": "A metal disc with an inscription or design, made to commemorate an event or awarded as a distinction to someone such as a soldier or athlete.",
+        "related_german_words": ["Medaille"]
+      },
+      {
+        "semantic_key": "leisure-art-trophy_prize",
+        "description": "A cup or other decorative object awarded as a prize for a victory or success.",
+        "related_german_words": ["Trophäe"]
+      },
+      {
+        "semantic_key": "leisure-art-cup_prize",
+        "description": "A trophy in the shape of a cup awarded as a prize in a contest.",
+        "related_german_words": ["Pokal"]
+      },
+      {
+        "semantic_key": "leisure-art-board_game",
+        "description": "A game that is played by moving pieces on a board.",
+        "related_german_words": ["Brettspiel"]
+      },
+      {
+        "semantic_key": "leisure-art-dice",
+        "description": "Small cubes with a different number of spots on each side, used in games of chance.",
+        "related_german_words": ["Würfel"]
+      },
+      {
+        "semantic_key": "leisure-art-to_roll_dice",
+        "description": "To throw dice in a game of chance or a board game.",
+        "related_german_words": ["würfeln"]
+      },
+      {
+        "semantic_key": "leisure-art-puzzle_game",
+        "description": "A game, toy, or problem designed to test ingenuity or knowledge.",
+        "related_german_words": ["Puzzle"]
+      },
+      {
+        "semantic_key": "leisure-art-riddle",
+        "description": "A question or statement intentionally phrased so as to require ingenuity in ascertaining its answer or meaning.",
+        "related_german_words": ["Rätsel"]
+      },
+      {
+        "semantic_key": "leisure-art-to_solve_riddle",
+        "description": "To find the answer to a riddle or a problem.",
+        "related_german_words": ["lösen"]
+      },
+      {
+        "semantic_key": "leisure-art-toy_object",
+        "description": "An object for a child to play with, typically a model or miniature copy of something.",
+        "related_german_words": ["Spielzeug"]
+      },
+      {
+        "semantic_key": "leisure-art-doll_toy",
+        "description": "A small model of a human figure, typically one of a baby or girl, used as a child's toy.",
+        "related_german_words": ["Puppe"]
+      },
+      {
+        "semantic_key": "leisure-art-plush_toy",
+        "description": "A toy made of soft fabric and stuffed with cotton or other material.",
+        "related_german_words": ["Kuscheltier"]
+      },
+      {
+        "semantic_key": "leisure-art-video_game",
+        "description": "A game played by electronically manipulating images produced by a computer program on a television screen or other display screen.",
+        "related_german_words": ["Videospiel", "Computerspiel"]
+      },
+      {
+        "semantic_key": "leisure-art-gaming_action",
+        "description": "The action of playing video games.",
+        "related_german_words": ["Gaming"]
+      },
+      {
+        "semantic_key": "leisure-art-console_device",
+        "description": "A computer system that is specially made for playing video games.",
+        "related_german_words": ["Konsole"]
+      },
+      {
+        "semantic_key": "leisure-art-controller_device",
+        "description": "A device that is used to control a video game.",
+        "related_german_words": ["Controller"]
+      },
+      {
+        "semantic_key": "leisure-art-level_game",
+        "description": "A stage in a computer game.",
+        "related_german_words": ["Level"]
+      },
+      {
+        "semantic_key": "leisure-art-avatar_game",
+        "description": "An icon or figure representing a particular person in a computer game or an Internet forum.",
+        "related_german_words": ["Avatar"]
+      },
+      {
+        "semantic_key": "leisure-art-virtual_adj",
+        "description": "Not physically existing as such but made by software to appear to do so.",
+        "related_german_words": ["virtuell"]
+      },
+      {
+        "semantic_key": "leisure-art-multiplayer",
+        "description": "A computer game that is designed for or involves several players.",
+        "related_german_words": ["Mehrspieler"]
+      },
+      {
+        "semantic_key": "leisure-art-sport_general",
+        "description": "An activity involving physical exertion and skill in which an individual or team competes against another or others for entertainment.",
+        "related_german_words": ["Sport"]
+      },
+      {
+        "semantic_key": "leisure-art-athlete",
+        "description": "A person who is proficient in sports and other forms of physical exercise.",
+        "related_german_words": ["Athlet"]
+      },
+      {
+        "semantic_key": "leisure-art-to_train",
+        "description": "To teach a person or animal a particular skill or type of behavior through practice and instruction over a period of time.",
+        "related_german_words": ["trainieren"]
+      },
+      {
+        "semantic_key": "leisure-art-training_session",
+        "description": "The action of undertaking a course of training.",
+        "related_german_words": ["Training"]
+      },
+      {
+        "semantic_key": "leisure-art-coach",
+        "description": "A person who trains or directs an athlete or a team.",
+        "related_german_words": ["Trainer"]
+      },
+      {
+        "semantic_key": "leisure-art-fitness_trait",
+        "description": "The condition of being physically fit and healthy.",
+        "related_german_words": ["Fitness"]
+      },
+      {
+        "semantic_key": "leisure-art-gym_location",
+        "description": "A gymnasium.",
+        "related_german_words": ["Fitnessstudio"]
+      },
+      {
+        "semantic_key": "leisure-art-stadium",
+        "description": "A large building with tiers of seats for spectators at sporting events.",
+        "related_german_words": ["Stadion"]
+      },
+      {
+        "semantic_key": "leisure-art-fan_follower",
+        "description": "A person who has a strong interest in or admiration for a particular person or thing.",
+        "related_german_words": ["Fan"]
+      },
+      {
+        "semantic_key": "leisure-art-soccer",
+        "description": "A game played by two teams of eleven players with a round ball that may not be touched with the hands or arms during play except by the goalkeepers.",
+        "related_german_words": ["Fußball"]
+      },
+      {
+        "semantic_key": "leisure-art-basketball",
+        "description": "A game played between two teams of five players in which goals are scored by throwing a ball through a netted hoop fixed at each end of the court.",
+        "related_german_words": ["Basketball"]
+      },
+      {
+        "semantic_key": "leisure-art-tennis",
+        "description": "A game in which two or four players use rackets to hit a ball over a net stretched across a hollowed-out court.",
+        "related_german_words": ["Tennis"]
+      },
+      {
+        "semantic_key": "leisure-art-volleyball",
+        "description": "A game for two teams, usually of six players, in which a large ball is hit by hand over a high net, the aim being to score points by making the ball reach the ground on the opponent's side of the court.",
+        "related_german_words": ["Volleyball"]
+      },
+      {
+        "semantic_key": "leisure-art-swimming_sport",
+        "description": "The sport or activity of propelling oneself through water using the limbs.",
+        "related_german_words": ["Schwimmen"]
+      },
+      {
+        "semantic_key": "leisure-art-to_swim",
+        "description": "To propel oneself through water using the limbs.",
+        "related_german_words": ["schwimmen"]
+      },
+      {
+        "semantic_key": "leisure-art-pool_location",
+        "description": "A small area of still water, typically one formed naturally.",
+        "related_german_words": ["Schwimmbecken"]
+      },
+      {
+        "semantic_key": "leisure-art-diving_sport",
+        "description": "The sport or activity of swimming or exploring underwater, typically with breathing apparatus.",
+        "related_german_words": ["Tauchen"]
+      },
+      {
+        "semantic_key": "leisure-art-gymnastics",
+        "description": "Exercises developing or displaying physical agility and coordination.",
+        "related_german_words": ["Turnen"]
+      },
+      {
+        "semantic_key": "leisure-art-running_sport",
+        "description": "The action or movement of a runner.",
+        "related_german_words": ["Laufen"]
+      },
+      {
+        "semantic_key": "leisure-art-to_run",
+        "description": "To move at a speed faster than a walk, never having both or all the feet on the ground at the same time.",
+        "related_german_words": ["rennen"]
+      },
+      {
+        "semantic_key": "leisure-art-cycling",
+        "description": "The sport or activity of riding a bicycle.",
+        "related_german_words": ["Radfahren"]
+      },
+      {
+        "semantic_key": "leisure-art-hiking",
+        "description": "The activity of going for long walks, especially in the country or woods.",
+        "related_german_words": ["Wandern"]
+      },
+      {
+        "semantic_key": "leisure-art-to_hike",
+        "description": "To walk a long distance, especially for pleasure or exercise.",
+        "related_german_words": ["wandern"]
+      },
+      {
+        "semantic_key": "leisure-art-climbing_sport",
+        "description": "The sport or activity of climbing a mountain, a rock face, or a specially designed wall.",
+        "related_german_words": ["Klettern"]
+      },
+      {
+        "semantic_key": "leisure-art-skiing",
+        "description": "The action of traveling over snow on skis, especially as a sport or holiday activity.",
+        "related_german_words": ["Skifahren"]
+      },
+      {
+        "semantic_key": "leisure-art-to_ski",
+        "description": "To travel over snow on skis.",
+        "related_german_words": ["skifahren"]
+      },
+      {
+        "semantic_key": "leisure-art-surfing",
+        "description": "The sport or pastime of riding a wave towards the shore while standing or lying on a surfboard.",
+        "related_german_words": ["Surfen"]
+      },
+      {
+        "semantic_key": "leisure-art-sailing",
+        "description": "The action of sailing in a ship or boat.",
+        "related_german_words": ["Segeln"]
+      },
+      {
+        "semantic_key": "leisure-art-camping",
+        "description": "The activity of spending a holiday living in a tent.",
+        "related_german_words": ["Camping"]
+      },
+      {
+        "semantic_key": "leisure-art-tent",
+        "description": "A portable shelter made of cloth, supported by one or more poles and stretched tight by cords or loops attached to pegs driven into the ground.",
+        "related_german_words": ["Zelt"]
+      },
+      {
+        "semantic_key": "leisure-art-to_camp",
+        "description": "To live in a tent for a short period, especially when on holiday.",
+        "related_german_words": ["zelten"]
+      },
+      {
+        "semantic_key": "leisure-art-handicraft",
+        "description": "A particular skill of making decorative objects by hand.",
+        "related_german_words": ["Basteln", "Handarbeit"]
+      },
+      {
+        "semantic_key": "leisure-art-to_craft",
+        "description": "To make something with skill and care, especially by hand.",
+        "related_german_words": ["basteln"]
+      },
+      {
+        "semantic_key": "leisure-art-knitting",
+        "description": "The action or method of knitting.",
+        "related_german_words": ["Stricken"]
+      },
+      {
+        "semantic_key": "leisure-art-to_knit",
+        "description": "To make a garment, fabric, etc. by interlocking loops of wool or other yarn with knitting needles or on a machine.",
+        "related_german_words": ["stricken"]
+      },
+      {
+        "semantic_key": "leisure-art-sewing",
+        "description": "The action or activity of sewing.",
+        "related_german_words": ["Nähen"]
+      },
+      {
+        "semantic_key": "leisure-art-to_sew",
+        "description": "To join, fasten, or repair something by making stitches with a needle and thread or a sewing machine.",
+        "related_german_words": ["nähen"]
+      },
+      {
+        "semantic_key": "leisure-art-needle",
+        "description": "A very fine slender piece of polished metal with a point at one end and an eye or hole for thread at the other, used in sewing.",
+        "related_german_words": ["Nadel"]
+      },
+      {
+        "semantic_key": "leisure-art-thread",
+        "description": "A long, thin strand of cotton, nylon, or other fibers used in sewing or weaving.",
+        "related_german_words": ["Faden"]
+      },
+      {
+        "semantic_key": "leisure-art-pottery",
+        "description": "Pots, dishes, and other articles made of baked clay.",
+        "related_german_words": ["Töpfern"]
+      },
+      {
+        "semantic_key": "leisure-art-gardening",
+        "description": "The activity of tending and cultivating a garden.",
+        "related_german_words": ["Gärtnern"]
+      },
+      {
+        "semantic_key": "leisure-art-picnic",
+        "description": "An occasion when a packed meal is eaten outdoors, especially during an outing to the countryside.",
+        "related_german_words": ["Picknick"]
+      },
+      {
+        "semantic_key": "leisure-art-grilling",
+        "description": "The action of cooking something on a grill.",
+        "related_german_words": ["Grillen"]
+      },
+      {
+        "semantic_key": "leisure-art-scenography",
+        "description": "The design and painting of theatrical scenery.",
+        "related_german_words": ["Kulisse"]
+      },
+      {
+        "semantic_key": "leisure-art-prop",
+        "description": "A portable object other than furniture or costumes used on the set of a play or movie.",
+        "related_german_words": ["Requisite"]
+      },
+      {
+        "semantic_key": "leisure-art-intermission",
+        "description": "A pause or break.",
+        "related_german_words": ["Pause"]
+      },
+      {
+        "semantic_key": "leisure-art-repertoire",
+        "description": "A stock of plays, dances, or pieces that a company or a performer knows or is prepared to perform.",
+        "related_german_words": ["Repertoire"]
+      },
+      {
+        "semantic_key": "leisure-art-virtuoso",
+        "description": "A person highly skilled in music or another artistic pursuit.",
+        "related_german_words": ["Virtuose"]
+      },
+      {
+        "semantic_key": "leisure-art-sonata",
+        "description": "A composition for one or two instruments, typically in three or four movements in contrasted forms and keys.",
+        "related_german_words": ["Sonate"]
+      },
+      {
+        "semantic_key": "leisure-art-symphony",
+        "description": "An elaborate musical composition for full orchestra, typically in four movements, at least one of which is traditionally in sonata form.",
+        "related_german_words": ["Sinfonie"]
+      },
+      {
+        "semantic_key": "leisure-art-ballad",
+        "description": "A poem or song narrating a story in short stanzas.",
+        "related_german_words": ["Ballade"]
+      },
+      {
+        "semantic_key": "leisure-art-foyer",
+        "description": "An entrance hall or other open area in a building used by the public, especially a hotel or theater.",
+        "related_german_words": ["Foyer"]
+      },
+      {
+        "semantic_key": "leisure-art-wardrobe",
+        "description": "The place in a theater where costumes are kept.",
+        "related_german_words": ["Garderobe"]
+      },
+      {
+        "semantic_key": "leisure-art-to_collect_hobby",
+        "description": "To collect things of a specified type as a hobby.",
+        "related_german_words": ["sammeln"]
+      },
+      {
+        "semantic_key": "leisure-art-puzzle_piece",
+        "description": "One of the pieces used to complete a puzzle.",
+        "related_german_words": ["Puzzleteil"]
+      },
+      {
+        "semantic_key": "leisure-art-handstand",
+        "description": "The act of supporting the body on the hands with the trunk and legs balanced in the air.",
+        "related_german_words": ["Handstand"]
+      },
+      {
+        "semantic_key": "leisure-art-somersault",
+        "description": "An acrobatic movement in which a person turns head over heels in the air or on the ground and lands on their feet.",
+        "related_german_words": ["Purzelbaum"]
+      },
+      {
+        "semantic_key": "leisure-art-sculpture_wood",
+        "description": "The art of carving objects from wood.",
+        "related_german_words": ["Holzschnitzerei"]
+      },
+      {
+        "semantic_key": "leisure-art-stained_glass",
+        "description": "Colored glass used to form decorative or pictorial designs, notably for church windows, both by painting and by setting contrasting pieces in a framework of lead.",
+        "related_german_words": ["Glasmalerei"]
+      },
+      {
+        "semantic_key": "leisure-art-mural",
+        "description": "A painting or other work of art executed directly on a wall.",
+        "related_german_words": ["Wandbild"]
+      },
+      {
+        "semantic_key": "leisure-art-stunt",
+        "description": "An action displaying spectacular skill and daring.",
+        "related_german_words": ["Stunt"]
+      },
+      {
+        "semantic_key": "leisure-art-clown",
+        "description": "A comic entertainer, especially one in a circus, who wears a traditional costume and exaggerated makeup.",
+        "related_german_words": ["Clown"]
+      },
+      {
+        "semantic_key": "leisure-art-juggler",
+        "description": "An entertainer who continuously tosses into the air and catches a number of objects so as to keep at least one in the air while the others are being caught and tossed.",
+        "related_german_words": ["Jongleur"]
+      },
+      {
+        "semantic_key": "leisure-art-to_juggle",
+        "description": "To continuously toss into the air and catch a number of objects so as to keep at least one in the air while the others are being caught and tossed.",
+        "related_german_words": ["jonglieren"]
+      },
+      {
+        "semantic_key": "leisure-art-acrobat",
+        "description": "An entertainer who performs spectacular gymnastic feats.",
+        "related_german_words": ["Akrobat"]
+      },
+      {
+        "semantic_key": "leisure-art-magic_show",
+        "description": "The power of apparently influencing the course of events by using mysterious or supernatural forces.",
+        "related_german_words": ["Zauberei"]
+      },
+      {
+        "semantic_key": "leisure-art-magician",
+        "description": "A person with magical powers.",
+        "related_german_words": ["Zauberer"]
+      },
+      {
+        "semantic_key": "leisure-art-illusion",
+        "description": "A thing that is or is likely to be wrongly perceived or interpreted by the senses.",
+        "related_german_words": ["Illusion"]
+      },
+      {
+        "semantic_key": "leisure-art-circus",
+        "description": "A traveling company of acrobats, clowns, and other entertainers which gives performances, typically in a large tent, in a series of different places.",
+        "related_german_words": ["Zirkus"]
+      },
+      {
+        "semantic_key": "leisure-art-talent_show",
+        "description": "A competition in which people perform an act to show that they have a particular talent.",
+        "related_german_words": ["Talentshow"]
+      },
+      {
+        "semantic_key": "leisure-art-audition_casting",
+        "description": "The process of selecting actors or other performers for a production.",
+        "related_german_words": ["Casting"]
+      },
+      {
+        "semantic_key": "leisure-art-backstage",
+        "description": "The area in a theater out of view of the audience, especially in the wings or dressing rooms.",
+        "related_german_words": ["Backstage"]
+      },
+      {
+        "semantic_key": "leisure-art-dressing_room",
+        "description": "A room in which actors or other performers change their clothes or apply makeup before a performance.",
+        "related_german_words": ["Umkleide"]
+      },
+      {
+        "semantic_key": "leisure-art-spotlight",
+        "description": "A lamp projecting a narrow, intense beam of light directly on to a person or object.",
+        "related_german_words": ["Scheinwerfer"]
+      },
+      {
+        "semantic_key": "leisure-art-micro",
+        "description": "A microphone.",
+        "related_german_words": ["Mikrofon"]
+      },
+      {
+        "semantic_key": "leisure-art-vocal_coach",
+        "description": "A person who trains singers.",
+        "related_german_words": ["Gesangslehrer"]
+      },
+      {
+        "semantic_key": "leisure-art-instrumental",
+        "description": "Relating to or for a musical instrument or instruments.",
+        "related_german_words": ["instrumental"]
+      },
+      {
+        "semantic_key": "leisure-art-acoustic",
+        "description": "Relating to sound or the sense of hearing.",
+        "related_german_words": ["akustisch"]
+      },
+      {
+        "semantic_key": "leisure-art-encore",
+        "description": "A repeated or additional performance of an item at the end of a concert, as called for by an audience.",
+        "related_german_words": ["Zugabe"]
+      }
+    ]
+  }
+]

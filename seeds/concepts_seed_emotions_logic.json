@@ -1,0 +1,1772 @@
+[
+  {
+    "category_slug": "emotions-logic",
+    "concepts": [
+      {
+        "semantic_key": "emotions-logic-joy",
+        "description": "A feeling of great pleasure and happiness.",
+        "related_german_words": ["Freude", "Frohsinn"]
+      },
+      {
+        "semantic_key": "emotions-logic-happiness",
+        "description": "The state of being happy or content.",
+        "related_german_words": ["Glück", "Glückseligkeit"]
+      },
+      {
+        "semantic_key": "emotions-logic-sadness",
+        "description": "The condition of feeling sorrow or unhappiness.",
+        "related_german_words": ["Traurigkeit", "Betrübnis"]
+      },
+      {
+        "semantic_key": "emotions-logic-anger",
+        "description": "A strong feeling of annoyance, displeasure, or hostility.",
+        "related_german_words": ["Wut", "Zorn"]
+      },
+      {
+        "semantic_key": "emotions-logic-fear",
+        "description": "An unpleasant emotion caused by the belief that someone or something is dangerous.",
+        "related_german_words": ["Angst", "Furcht"]
+      },
+      {
+        "semantic_key": "emotions-logic-logic",
+        "description": "Reasoning conducted or assessed according to strict principles of validity.",
+        "related_german_words": ["Logik"]
+      },
+      {
+        "semantic_key": "emotions-logic-reason",
+        "description": "The power of the mind to think, understand, and form judgments by a process of logic.",
+        "related_german_words": ["Vernunft"]
+      },
+      {
+        "semantic_key": "emotions-logic-understanding",
+        "description": "The ability to understand something; comprehension.",
+        "related_german_words": ["Verstand"]
+      },
+      {
+        "semantic_key": "emotions-logic-surprise",
+        "description": "An unexpected or astonishing event, fact, or thing.",
+        "related_german_words": ["Überraschung", "Erstaunen"]
+      },
+      {
+        "semantic_key": "emotions-logic-disgust",
+        "description": "A feeling of revulsion or strong disapproval aroused by something unpleasant.",
+        "related_german_words": ["Ekel", "Abscheu"]
+      },
+      {
+        "semantic_key": "emotions-logic-love",
+        "description": "An intense feeling of deep affection.",
+        "related_german_words": ["Liebe"]
+      },
+      {
+        "semantic_key": "emotions-logic-hate",
+        "description": "Feel intense dislike for.",
+        "related_german_words": ["Hass"]
+      },
+      {
+        "semantic_key": "emotions-logic-envy",
+        "description": "A feeling of discontented or resentful longing aroused by someone else's possessions or qualities.",
+        "related_german_words": ["Neid", "Missgunst"]
+      },
+      {
+        "semantic_key": "emotions-logic-jealousy",
+        "description": "The state or feeling of being jealous (typically in relationships).",
+        "related_german_words": ["Eifersucht"]
+      },
+      {
+        "semantic_key": "emotions-logic-pride",
+        "description": "A feeling of deep pleasure or satisfaction derived from one's own achievements.",
+        "related_german_words": ["Stolz"]
+      },
+      {
+        "semantic_key": "emotions-logic-shame",
+        "description": "A painful feeling of humiliation or distress caused by the consciousness of wrong behavior.",
+        "related_german_words": ["Scham"]
+      },
+      {
+        "semantic_key": "emotions-logic-guilt",
+        "description": "The fact of having committed a specified or implied offense or crime.",
+        "related_german_words": ["Schuld", "Schuldgefühl"]
+      },
+      {
+        "semantic_key": "emotions-logic-hope",
+        "description": "A feeling of expectation and desire for a certain thing to happen.",
+        "related_german_words": ["Hoffnung"]
+      },
+      {
+        "semantic_key": "emotions-logic-despair",
+        "description": "The complete loss or absence of hope.",
+        "related_german_words": ["Verzweiflung"]
+      },
+      {
+        "semantic_key": "emotions-logic-boredom",
+        "description": "The state of feeling weary and restless through lack of interest.",
+        "related_german_words": ["Langeweile"]
+      },
+      {
+        "semantic_key": "emotions-logic-curiosity",
+        "description": "A strong desire to know or learn something.",
+        "related_german_words": ["Neugier"]
+      },
+      {
+        "semantic_key": "emotions-logic-enthusiasm",
+        "description": "Intense and eager enjoyment, interest, or approval.",
+        "related_german_words": ["Begeisterung", "Enthusiasmus"]
+      },
+      {
+        "semantic_key": "emotions-logic-trust",
+        "description": "Firm belief in the reliability, truth, ability, or strength of someone or something.",
+        "related_german_words": ["Vertrauen"]
+      },
+      {
+        "semantic_key": "emotions-logic-distrust",
+        "description": "The feeling that someone or something cannot be relied on.",
+        "related_german_words": ["Misstrauen"]
+      },
+      {
+        "semantic_key": "emotions-logic-doubt",
+        "description": "A feeling of uncertainty or lack of conviction.",
+        "related_german_words": ["Zweifel"]
+      },
+      {
+        "semantic_key": "emotions-logic-certainty",
+        "description": "Firm conviction that something is the case.",
+        "related_german_words": ["Gewissheit", "Sicherheit"]
+      },
+      {
+        "semantic_key": "emotions-logic-compassion",
+        "description": "Sympathetic pity and concern for the sufferings or misfortunes of others.",
+        "related_german_words": ["Mitleid", "Erbarmen"]
+      },
+      {
+        "semantic_key": "emotions-logic-empathy",
+        "description": "The ability to understand and share the feelings of another.",
+        "related_german_words": ["Empathie", "Einfühlungsvermögen"]
+      },
+      {
+        "semantic_key": "emotions-logic-loneliness",
+        "description": "Sadness because one has no friends or company.",
+        "related_german_words": ["Einsamkeit"]
+      },
+      {
+        "semantic_key": "emotions-logic-satisfaction",
+        "description": "Fulfillment of one's wishes, expectations, or needs.",
+        "related_german_words": ["Zufriedenheit"]
+      },
+      {
+        "semantic_key": "emotions-logic-dissatisfaction",
+        "description": "Lack of satisfaction.",
+        "related_german_words": ["Unzufriedenheit"]
+      },
+      {
+        "semantic_key": "emotions-logic-frustration",
+        "description": "The feeling of being upset or annoyed as a result of being unable to change or achieve something.",
+        "related_german_words": ["Frustration", "Frust"]
+      },
+      {
+        "semantic_key": "emotions-logic-relief",
+        "description": "A feeling of reassurance and relaxation following release from anxiety or distress.",
+        "related_german_words": ["Erleichterung"]
+      },
+      {
+        "semantic_key": "emotions-logic-regret",
+        "description": "A feeling of sadness, repentance, or disappointment over something that has happened or been done.",
+        "related_german_words": ["Reue", "Bedauern"]
+      },
+      {
+        "semantic_key": "emotions-logic-gratitude",
+        "description": "The quality of being thankful.",
+        "related_german_words": ["Dankbarkeit"]
+      },
+      {
+        "semantic_key": "emotions-logic-contempt",
+        "description": "The feeling that a person or a thing is beneath consideration, worthless, or deserving scorn.",
+        "related_german_words": ["Verachtung"]
+      },
+      {
+        "semantic_key": "emotions-logic-admiration",
+        "description": "Respect and warm approval.",
+        "related_german_words": ["Bewunderung"]
+      },
+      {
+        "semantic_key": "emotions-logic-confusion",
+        "description": "Lack of understanding; uncertainty.",
+        "related_german_words": ["Verwirrung", "Konfusion"]
+      },
+      {
+        "semantic_key": "emotions-logic-panic",
+        "description": "Sudden uncontrollable fear or anxiety, often causing wildly unthinking behavior.",
+        "related_german_words": ["Panik"]
+      },
+      {
+        "semantic_key": "emotions-logic-humility",
+        "description": "A modest or low view of one's own importance.",
+        "related_german_words": ["Demut"]
+      },
+      {
+        "semantic_key": "emotions-logic-arrogance",
+        "description": "The quality of being arrogant.",
+        "related_german_words": ["Hochmut", "Arroganz"]
+      },
+      {
+        "semantic_key": "emotions-logic-melancholy",
+        "description": "A feeling of pensive sadness, typically with no obvious cause.",
+        "related_german_words": ["Melancholie", "Schwermut"]
+      },
+      {
+        "semantic_key": "emotions-logic-euphoria",
+        "description": "A feeling or state of intense excitement and happiness.",
+        "related_german_words": ["Euphorie"]
+      },
+      {
+        "semantic_key": "emotions-logic-longing",
+        "description": "A yearning desire.",
+        "related_german_words": ["Sehnsucht"]
+      },
+      {
+        "semantic_key": "emotions-logic-homesickness",
+        "description": "A feeling of longing for one's home during an absence from it.",
+        "related_german_words": ["Heimweh"]
+      },
+      {
+        "semantic_key": "emotions-logic-wanderlust",
+        "description": "A strong desire to travel.",
+        "related_german_words": ["Fernweh"]
+      },
+      {
+        "semantic_key": "emotions-logic-malice",
+        "description": "The intention or desire to do evil.",
+        "related_german_words": ["Bosheit"]
+      },
+      {
+        "semantic_key": "emotions-logic-kindness",
+        "description": "The quality of being friendly, generous, and considerate.",
+        "related_german_words": ["Güte", "Freundlichkeit"]
+      },
+      {
+        "semantic_key": "emotions-logic-patience",
+        "description": "The capacity to accept or tolerate delay, trouble, or suffering without getting angry or upset.",
+        "related_german_words": ["Geduld"]
+      },
+      {
+        "semantic_key": "emotions-logic-impatience",
+        "description": "The tendency to be impatient.",
+        "related_german_words": ["Ungeduld"]
+      },
+      {
+        "semantic_key": "emotions-logic-indifference",
+        "description": "Lack of interest, concern, or sympathy.",
+        "related_german_words": ["Gleichgültigkeit", "Desinteresse"]
+      },
+      {
+        "semantic_key": "emotions-logic-shock",
+        "description": "A sudden upsetting or surprising event or experience.",
+        "related_german_words": ["Schock"]
+      },
+      {
+        "semantic_key": "emotions-logic-optimism",
+        "description": "Hopefulness and confidence about the future.",
+        "related_german_words": ["Optimismus"]
+      },
+      {
+        "semantic_key": "emotions-logic-pessimism",
+        "description": "A tendency to see the worst aspect of things or believe that the worst will happen.",
+        "related_german_words": ["Pessimismus"]
+      },
+      {
+        "semantic_key": "emotions-logic-courage",
+        "description": "The ability to do something that frightens one.",
+        "related_german_words": ["Mut", "Tapferkeit"]
+      },
+      {
+        "semantic_key": "emotions-logic-cowardice",
+        "description": "Lack of bravery.",
+        "related_german_words": ["Feigheit"]
+      },
+      {
+        "semantic_key": "emotions-logic-serenity",
+        "description": "The state of being calm, peaceful, and untroubled.",
+        "related_german_words": ["Gelassenheit", "Heiterkeit"]
+      },
+      {
+        "semantic_key": "emotions-logic-restlessness",
+        "description": "The inability to rest or relax.",
+        "related_german_words": ["Unruhe", "Rastlosigkeit"]
+      },
+      {
+        "semantic_key": "emotions-logic-intuition",
+        "description": "The ability to understand something immediately, without the need for conscious reasoning.",
+        "related_german_words": ["Intuition", "Bauchgefühl"]
+      },
+      {
+        "semantic_key": "emotions-logic-instinct",
+        "description": "An innate, typical fixed pattern of behavior in animals in response to certain stimuli.",
+        "related_german_words": ["Instinkt"]
+      },
+      {
+        "semantic_key": "emotions-logic-analysis",
+        "description": "Detailed examination of the elements or structure of something.",
+        "related_german_words": ["Analyse"]
+      },
+      {
+        "semantic_key": "emotions-logic-synthesis",
+        "description": "The combination of ideas to form a theory or system.",
+        "related_german_words": ["Synthese"]
+      },
+      {
+        "semantic_key": "emotions-logic-deduction",
+        "description": "The inference of particular instances from a general law.",
+        "related_german_words": ["Deduktion", "Ableitung"]
+      },
+      {
+        "semantic_key": "emotions-logic-induction",
+        "description": "The inference of a general law from particular instances.",
+        "related_german_words": ["Induktion"]
+      },
+      {
+        "semantic_key": "emotions-logic-argument",
+        "description": "A reason or set of reasons given with the aim of persuading others that an action or idea is right or wrong.",
+        "related_german_words": ["Argument"]
+      },
+      {
+        "semantic_key": "emotions-logic-conclusion",
+        "description": "A judgment or decision reached by reasoning.",
+        "related_german_words": ["Schlussfolgerung", "Fazit"]
+      },
+      {
+        "semantic_key": "emotions-logic-contradiction",
+        "description": "A combination of statements, ideas, or features of a situation that are opposed to one another.",
+        "related_german_words": ["Widerspruch"]
+      },
+      {
+        "semantic_key": "emotions-logic-paradox",
+        "description": "A seemingly absurd or self-contradictory statement or proposition.",
+        "related_german_words": ["Paradoxon"]
+      },
+      {
+        "semantic_key": "emotions-logic-rationality",
+        "description": "The quality of being based on or in accordance with reason or logic.",
+        "related_german_words": ["Rationalität"]
+      },
+      {
+        "semantic_key": "emotions-logic-irrationality",
+        "description": "The quality of being illogical or unreasonable.",
+        "related_german_words": ["Irrationalität"]
+      },
+      {
+        "semantic_key": "emotions-logic-objectivity",
+        "description": "The quality of being objective.",
+        "related_german_words": ["Objektivität"]
+      },
+      {
+        "semantic_key": "emotions-logic-subjectivity",
+        "description": "The quality of being based on or influenced by personal feelings, tastes, or opinions.",
+        "related_german_words": ["Subjektivität"]
+      },
+      {
+        "semantic_key": "emotions-logic-judgment",
+        "description": "The ability to make considered decisions or come to sensible conclusions.",
+        "related_german_words": ["Urteilsvermögen", "Urteil"]
+      },
+      {
+        "semantic_key": "emotions-logic-prejudice",
+        "description": "Preconceived opinion that is not based on reason or actual experience.",
+        "related_german_words": ["Vorurteil"]
+      },
+      {
+        "semantic_key": "emotions-logic-conviction",
+        "description": "A firmly held belief or opinion.",
+        "related_german_words": ["Überzeugung"]
+      },
+      {
+        "semantic_key": "emotions-logic-delusion",
+        "description": "A fixed false belief that is resistant to reason or confrontation with actual fact.",
+        "related_german_words": ["Wahn", "Täuschung"]
+      },
+      {
+        "semantic_key": "emotions-logic-thought",
+        "description": "An idea or opinion produced by thinking, or occurring suddenly in the mind.",
+        "related_german_words": ["Gedanke"]
+      },
+      {
+        "semantic_key": "emotions-logic-reflection",
+        "description": "Serious thought or consideration.",
+        "related_german_words": ["Reflexion", "Nachdenken"]
+      },
+      {
+        "semantic_key": "emotions-logic-meditation",
+        "description": "The action or practice of meditating.",
+        "related_german_words": ["Meditation"]
+      },
+      {
+        "semantic_key": "emotions-logic-awareness",
+        "description": "Knowledge or perception of a situation or fact.",
+        "related_german_words": ["Bewusstsein"]
+      },
+      {
+        "semantic_key": "emotions-logic-subconscious",
+        "description": "Concerning the part of the mind of which one is not fully aware but which influences one's actions and feelings.",
+        "related_german_words": ["Unterbewusstsein"]
+      },
+      {
+        "semantic_key": "emotions-logic-intelligence",
+        "description": "The ability to acquire and apply knowledge and skills.",
+        "related_german_words": ["Intelligenz"]
+      },
+      {
+        "semantic_key": "emotions-logic-wisdom",
+        "description": "The quality of having experience, knowledge, and good judgment.",
+        "related_german_words": ["Weisheit"]
+      },
+      {
+        "semantic_key": "emotions-logic-stupidity",
+        "description": "Behavior that shows a lack of good sense or judgment.",
+        "related_german_words": ["Dummheit"]
+      },
+      {
+        "semantic_key": "emotions-logic-cleverness",
+        "description": "The quality of being clever.",
+        "related_german_words": ["Klugheit", "Schlauheit"]
+      },
+      {
+        "semantic_key": "emotions-logic-creativity",
+        "description": "The use of the imagination or original ideas.",
+        "related_german_words": ["Kreativität"]
+      },
+      {
+        "semantic_key": "emotions-logic-imagination",
+        "description": "The faculty or action of forming new ideas, or images or concepts of external objects not present to the senses.",
+        "related_german_words": ["Phantasie", "Vorstellungskraft"]
+      },
+      {
+        "semantic_key": "emotions-logic-memory",
+        "description": "The faculty by which the mind stores and remembers information.",
+        "related_german_words": ["Gedächtnis", "Erinnerung"]
+      },
+      {
+        "semantic_key": "emotions-logic-forgetfulness",
+        "description": "The tendency to forget things.",
+        "related_german_words": ["Vergesslichkeit"]
+      },
+      {
+        "semantic_key": "emotions-logic-attention",
+        "description": "Notice taken of someone or something; the regarding of someone or something as interesting or important.",
+        "related_german_words": ["Aufmerksamkeit"]
+      },
+      {
+        "semantic_key": "emotions-logic-concentration",
+        "description": "The action or power of focusing one's attention or mental effort.",
+        "related_german_words": ["Konzentration"]
+      },
+      {
+        "semantic_key": "emotions-logic-distraction",
+        "description": "A thing that prevents someone from giving full attention to something else.",
+        "related_german_words": ["Ablenkung"]
+      },
+      {
+        "semantic_key": "emotions-logic-motivation",
+        "description": "The reason or reasons one has for acting or behaving in a particular way.",
+        "related_german_words": ["Motivation", "Antrieb"]
+      },
+      {
+        "semantic_key": "emotions-logic-willpower",
+        "description": "Control exerted to do something or restrain impulses.",
+        "related_german_words": ["Willenskraft"]
+      },
+      {
+        "semantic_key": "emotions-logic-ambition",
+        "description": "A strong desire to do or to achieve something, typically requiring determination and hard work.",
+        "related_german_words": ["Ehrgeiz"]
+      },
+      {
+        "semantic_key": "emotions-logic-greed",
+        "description": "Intense and selfish desire for something, especially wealth, power, or food.",
+        "related_german_words": ["Gier", "Habgier"]
+      },
+      {
+        "semantic_key": "emotions-logic-generosity",
+        "description": "The quality of being kind and generous.",
+        "related_german_words": ["Großzügigkeit"]
+      },
+      {
+        "semantic_key": "emotions-logic-meanness",
+        "description": "Lack of generosity; miserliness.",
+        "related_german_words": ["Geiz"]
+      },
+      {
+        "semantic_key": "emotions-logic-honesty",
+        "description": "The quality of being honest.",
+        "related_german_words": ["Ehrlichkeit"]
+      },
+      {
+        "semantic_key": "emotions-logic-dishonesty",
+        "description": "Deceitfulness shown in someone's character or behavior.",
+        "related_german_words": ["Unhöflichkeit", "Unaufrichtigkeit"]
+      },
+      {
+        "semantic_key": "emotions-logic-sincerity",
+        "description": "The quality of being free from pretense, deceit, or hypocrisy.",
+        "related_german_words": ["Aufrichtigkeit"]
+      },
+      {
+        "semantic_key": "emotions-logic-hypocrisy",
+        "description": "The practice of claiming to have moral standards or beliefs to which one's own behavior does not conform.",
+        "related_german_words": ["Heuchelei"]
+      },
+      {
+        "semantic_key": "emotions-logic-loyalty",
+        "description": "A strong feeling of support or allegiance.",
+        "related_german_words": ["Loyalität", "Treue"]
+      },
+      {
+        "semantic_key": "emotions-logic-betrayal",
+        "description": "The action of betraying one's country, a group, or a person.",
+        "related_german_words": ["Verrat"]
+      },
+      {
+        "semantic_key": "emotions-logic-forgiveness",
+        "description": "The action or process of forgiving or being forgiven.",
+        "related_german_words": ["Vergebung", "Verzeihung"]
+      },
+      {
+        "semantic_key": "emotions-logic-revenge",
+        "description": "The action of inflicting hurt or harm on someone for an injury or wrong suffered at their hands.",
+        "related_german_words": ["Rache"]
+      },
+      {
+        "semantic_key": "emotions-logic-mercy",
+        "description": "Compassion or forgiveness shown toward someone whom it is within one's power to punish or harm.",
+        "related_german_words": ["Barmherzigkeit"]
+      },
+      {
+        "semantic_key": "emotions-logic-cruelty",
+        "description": "Callous indifference to or pleasure in causing pain and suffering.",
+        "related_german_words": ["Grausamkeit"]
+      },
+      {
+        "semantic_key": "emotions-logic-affection",
+        "description": "A gentle feeling of fondness or liking.",
+        "related_german_words": ["Zuneigung"]
+      },
+      {
+        "semantic_key": "emotions-logic-aversion",
+        "description": "A strong dislike or disinclination.",
+        "related_german_words": ["Abneigung"]
+      },
+      {
+        "semantic_key": "emotions-logic-attraction",
+        "description": "The action or power of evoking interest, pleasure, or liking for someone or something.",
+        "related_german_words": ["Anziehung"]
+      },
+      {
+        "semantic_key": "emotions-logic-repulsion",
+        "description": "A feeling of intense distaste or disgust.",
+        "related_german_words": ["Abstoßung"]
+      },
+      {
+        "semantic_key": "emotions-logic-lonely",
+        "description": "Feeling sad because one is alone.",
+        "related_german_words": ["einsam"]
+      },
+      {
+        "semantic_key": "emotions-logic-happy",
+        "description": "Feeling or showing pleasure or contentment.",
+        "related_german_words": ["glücklich"]
+      },
+      {
+        "semantic_key": "emotions-logic-sad",
+        "description": "Feeling or showing sorrow; unhappy.",
+        "related_german_words": ["traurig"]
+      },
+      {
+        "semantic_key": "emotions-logic-angry",
+        "description": "Feeling or showing strong annoyance, displeasure, or hostility.",
+        "related_german_words": ["wütend", "zornig"]
+      },
+      {
+        "semantic_key": "emotions-logic-scared",
+        "description": "Fearful; frightened.",
+        "related_german_words": ["ängstlich"]
+      },
+      {
+        "semantic_key": "emotions-logic-brave",
+        "description": "Ready to face and endure danger or pain; showing courage.",
+        "related_german_words": ["mutig", "tapfer"]
+      },
+      {
+        "semantic_key": "emotions-logic-cowardly",
+        "description": "Lacking courage.",
+        "related_german_words": ["feige"]
+      },
+      {
+        "semantic_key": "emotions-logic-proud",
+        "description": "Feeling deep pleasure or satisfaction as a result of one's own achievements.",
+        "related_german_words": ["stolz"]
+      },
+      {
+        "semantic_key": "emotions-logic-ashamed",
+        "description": "Embarrassed or guilty because of one's actions, characteristics, or associations.",
+        "related_german_words": ["beschämt"]
+      },
+      {
+        "semantic_key": "emotions-logic-surprised",
+        "description": "Feeling or showing surprise.",
+        "related_german_words": ["überrascht"]
+      },
+      {
+        "semantic_key": "emotions-logic-bored",
+        "description": "Feeling weary and restless through lack of interest.",
+        "related_german_words": ["gelangweilt"]
+      },
+      {
+        "semantic_key": "emotions-logic-excited",
+        "description": "Very enthusiastic and eager.",
+        "related_german_words": ["aufgeregt", "begeistert"]
+      },
+      {
+        "semantic_key": "emotions-logic-nervous",
+        "description": "Easily agitated or alarmed.",
+        "related_german_words": ["nervös"]
+      },
+      {
+        "semantic_key": "emotions-logic-calm",
+        "description": "Not showing or feeling nervousness, anger, or other strong emotions.",
+        "related_german_words": ["ruhig", "gelassen"]
+      },
+      {
+        "semantic_key": "emotions-logic-tense",
+        "description": "Unable to relax because of nervousness, anxiety, or stimulation.",
+        "related_german_words": ["angespannt"]
+      },
+      {
+        "semantic_key": "emotions-logic-relaxed",
+        "description": "Free from tension and anxiety; at ease.",
+        "related_german_words": ["entspannt"]
+      },
+      {
+        "semantic_key": "emotions-logic-rational",
+        "description": "Based on or in accordance with reason or logic.",
+        "related_german_words": ["rational", "vernünftig"]
+      },
+      {
+        "semantic_key": "emotions-logic-irrational",
+        "description": "Not logical or reasonable.",
+        "related_german_words": ["irrational", "unvernünftig"]
+      },
+      {
+        "semantic_key": "emotions-logic-logical-adj",
+        "description": "Of or according to the rules of logic or formal argument.",
+        "related_german_words": ["logisch"]
+      },
+      {
+        "semantic_key": "emotions-logic-illogical",
+        "description": "Lacking sense or clear, sound reasoning.",
+        "related_german_words": ["illogisch", "unlogisch"]
+      },
+      {
+        "semantic_key": "emotions-logic-to-think",
+        "description": "Have a particular opinion, belief, or idea about someone or something.",
+        "related_german_words": ["denken"]
+      },
+      {
+        "semantic_key": "emotions-logic-to-believe",
+        "description": "Accept (something) as true; feel sure of the truth of.",
+        "related_german_words": ["glauben"]
+      },
+      {
+        "semantic_key": "emotions-logic-to-know",
+        "description": "Be aware of through mind; have a good grasp of.",
+        "related_german_words": ["wissen"]
+      },
+      {
+        "semantic_key": "emotions-logic-to-understand",
+        "description": "Perceive the intended meaning of (words, a language, or a speaker).",
+        "related_german_words": ["verstehen", "begreifen"]
+      },
+      {
+        "semantic_key": "emotions-logic-to-feel",
+        "description": "Be aware of (a person or object) through touching or being touched.",
+        "related_german_words": ["fühlen", "spüren"]
+      },
+      {
+        "semantic_key": "emotions-logic-to-love",
+        "description": "Feel a deep romantic or platonic attachment to (someone).",
+        "related_german_words": ["lieben"]
+      },
+      {
+        "semantic_key": "emotions-logic-to-hate",
+        "description": "Feel intense dislike for (someone or something).",
+        "related_german_words": ["hassen"]
+      },
+      {
+        "semantic_key": "emotions-logic-to-fear-verb",
+        "description": "Be afraid of (someone or something) as likely to be dangerous, painful, or threatening.",
+        "related_german_words": ["fürchten"]
+      },
+      {
+        "semantic_key": "emotions-logic-to-hope-verb",
+        "description": "Want something to be the case.",
+        "related_german_words": ["hoffen"]
+      },
+      {
+        "semantic_key": "emotions-logic-to-doubt-verb",
+        "description": "Feel uncertain about.",
+        "related_german_words": ["zweifeln"]
+      },
+      {
+        "semantic_key": "emotions-logic-to-rejoice",
+        "description": "Feel or show great joy or delight.",
+        "related_german_words": ["sich freuen"]
+      },
+      {
+        "semantic_key": "emotions-logic-to-be-angry",
+        "description": "To feel or show anger.",
+        "related_german_words": ["sich ärgern"]
+      },
+      {
+        "semantic_key": "emotions-logic-to-wonder",
+        "description": "Feel admiration and amazement; marvel.",
+        "related_german_words": ["sich wundern"]
+      },
+      {
+        "semantic_key": "emotions-logic-to-shame-oneself",
+        "description": "To feel shame.",
+        "related_german_words": ["sich schämen"]
+      },
+      {
+        "semantic_key": "emotions-logic-to-remember",
+        "description": "Have in or be able to bring to one's mind an awareness of.",
+        "related_german_words": ["sich erinnern"]
+      },
+      {
+        "semantic_key": "emotions-logic-to-imagine",
+        "description": "Form a mental image or concept of.",
+        "related_german_words": ["sich vorstellen"]
+      },
+      {
+        "semantic_key": "emotions-logic-to-decide",
+        "description": "Come to a resolution in the mind as a result of consideration.",
+        "related_german_words": ["entscheiden"]
+      },
+      {
+        "semantic_key": "emotions-logic-to-analyze",
+        "description": "Examine methodically and in detail.",
+        "related_german_words": ["analysieren"]
+      },
+      {
+        "semantic_key": "emotions-logic-to-argue",
+        "description": "Give reasons or cite evidence in support of an idea, action, or theory.",
+        "related_german_words": ["argumentieren"]
+      },
+      {
+        "semantic_key": "emotions-logic-to-conclude",
+        "description": "Bring (something) to an end.",
+        "related_german_words": ["schlussfolgern"]
+      },
+      {
+        "semantic_key": "emotions-logic-to-prove",
+        "description": "Demonstrate the truth or existence of (something) by evidence or argument.",
+        "related_german_words": ["beweisen"]
+      },
+      {
+        "semantic_key": "emotions-logic-to-refute",
+        "description": "Prove (a statement or theory) to be wrong or false; disprove.",
+        "related_german_words": ["widerlegen"]
+      },
+      {
+        "semantic_key": "emotions-logic-to-suppose",
+        "description": "Assume that something is the case on the basis of evidence or probability but without proof or certain knowledge.",
+        "related_german_words": ["vermuten"]
+      },
+      {
+        "semantic_key": "emotions-logic-to-convince",
+        "description": "Cause (someone) to believe firmly in the truth of something.",
+        "related_german_words": ["überzeugen"]
+      },
+      {
+        "semantic_key": "emotions-logic-to-persuade",
+        "description": "Cause (someone) to do something through reasoning or argument.",
+        "related_german_words": ["überreden"]
+      },
+      {
+        "semantic_key": "emotions-logic-to-suspect",
+        "description": "Have an idea or impression of the existence, presence, or truth of (something) without certain proof.",
+        "related_german_words": ["argwöhnen", "verdächtigen"]
+      },
+      {
+        "semantic_key": "emotions-logic-to-trust-verb",
+        "description": "Believe in the reliability, truth, ability, or strength of.",
+        "related_german_words": ["vertrauen"]
+      },
+      {
+        "semantic_key": "emotions-logic-to-misinterpret",
+        "description": "Interpret (something, especially a person's words or actions) wrongly.",
+        "related_german_words": ["missverstehen"]
+      },
+      {
+        "semantic_key": "emotions-logic-to-recognize",
+        "description": "Identify (someone or something) from having encountered them before; know again.",
+        "related_german_words": ["erkennen"]
+      },
+      {
+        "semantic_key": "emotions-logic-to-perceive",
+        "description": "Become aware or conscious of (something); come to realize or understand.",
+        "related_german_words": ["wahrnehmen"]
+      },
+      {
+        "semantic_key": "emotions-logic-to-ignore",
+        "description": "Refuse to take notice of or acknowledge; disregard intentionally.",
+        "related_german_words": ["ignorieren"]
+      },
+      {
+        "semantic_key": "emotions-logic-to-forget",
+        "description": "Fail to remember.",
+        "related_german_words": ["vergessen"]
+      },
+      {
+        "semantic_key": "emotions-logic-to-notice",
+        "description": "Become aware of.",
+        "related_german_words": ["bemerken"]
+      },
+      {
+        "semantic_key": "emotions-logic-to-consider",
+        "description": "Think carefully about (something), typically before making a decision.",
+        "related_german_words": ["betrachten", "erwägen"]
+      },
+      {
+        "semantic_key": "emotions-logic-to-reflect",
+        "description": "Think deeply or carefully about.",
+        "related_german_words": ["reflektieren", "nachsinnen"]
+      },
+      {
+        "semantic_key": "emotions-logic-compassionate",
+        "description": "Feeling or showing sympathy and concern for others.",
+        "related_german_words": ["mitleidig", "barmherzig"]
+      },
+      {
+        "semantic_key": "emotions-logic-cruel",
+        "description": "Willfully causing pain or suffering to others, or feeling no concern about it.",
+        "related_german_words": ["grausam"]
+      },
+      {
+        "semantic_key": "emotions-logic-kind",
+        "description": "Having or showing a friendly, generous, and considerate nature.",
+        "related_german_words": ["gütig", "nett"]
+      },
+      {
+        "semantic_key": "emotions-logic-malicious",
+        "description": "Intending or intended to do harm.",
+        "related_german_words": ["boshaft"]
+      },
+      {
+        "semantic_key": "emotions-logic-sincere",
+        "description": "Free from pretense or deceit; proceeding from genuine feelings.",
+        "related_german_words": ["aufrichtig"]
+      },
+      {
+        "semantic_key": "emotions-logic-hypocritical",
+        "description": "Behaving in a way that suggests one has higher standards or more noble beliefs than is the case.",
+        "related_german_words": ["heuchlerisch"]
+      },
+      {
+        "semantic_key": "emotions-logic-honest",
+        "description": "Free of deceit and untruthfulness; sincere.",
+        "related_german_words": ["ehrlich"]
+      },
+      {
+        "semantic_key": "emotions-logic-dishonest",
+        "description": "Not honest.",
+        "related_german_words": ["unehrlich"]
+      },
+      {
+        "semantic_key": "emotions-logic-loyal",
+        "description": "Giving or showing firm and constant support or allegiance to a person or institution.",
+        "related_german_words": ["loyal", "treu"]
+      },
+      {
+        "semantic_key": "emotions-logic-disloyal",
+        "description": "Lacking loyalty.",
+        "related_german_words": ["unloyal", "untreu"]
+      },
+      {
+        "semantic_key": "emotions-logic-humble",
+        "description": "Having or showing a modest or low estimate of one's own importance.",
+        "related_german_words": ["demütig", "bescheiden"]
+      },
+      {
+        "semantic_key": "emotions-logic-arrogant",
+        "description": "Having or showing an exaggerated opinion of one's own importance or ability.",
+        "related_german_words": ["hochmütig", "arrogant"]
+      },
+      {
+        "semantic_key": "emotions-logic-modest",
+        "description": "Unassuming or moderate in the estimation of one's abilities or achievements.",
+        "related_german_words": ["bescheiden"]
+      },
+      {
+        "semantic_key": "emotions-logic-vain",
+        "description": "Having or showing an excessively high opinion of one's appearance, abilities, or worth.",
+        "related_german_words": ["eitel"]
+      },
+      {
+        "semantic_key": "emotions-logic-greedy",
+        "description": "Having or showing an intense and selfish desire for wealth or power.",
+        "related_german_words": ["gierig"]
+      },
+      {
+        "semantic_key": "emotions-logic-generous",
+        "description": "Showing a readiness to give more of something, as money or time, than is necessary or expected.",
+        "related_german_words": ["großzügig"]
+      },
+      {
+        "semantic_key": "emotions-logic-mean",
+        "description": "Unwilling to give or share things, especially money; not generous.",
+        "related_german_words": ["geizig"]
+      },
+      {
+        "semantic_key": "emotions-logic-optimistic",
+        "description": "Hopeful and confident about the future.",
+        "related_german_words": ["optimistisch"]
+      },
+      {
+        "semantic_key": "emotions-logic-pessimistic",
+        "description": "Tending to see the worst aspect of things or believe that the worst will happen.",
+        "related_german_words": ["pessimistisch"]
+      },
+      {
+        "semantic_key": "emotions-logic-confident",
+        "description": "Feeling or showing confidence in oneself; self-assured.",
+        "related_german_words": ["selbstbewusst", "zuversichtlich"]
+      },
+      {
+        "semantic_key": "emotions-logic-insecure",
+        "description": "Not confident or assured; uncertain and anxious.",
+        "related_german_words": ["unsicher"]
+      },
+      {
+        "semantic_key": "emotions-logic-certain",
+        "description": "Able to be relied on to happen or be the case.",
+        "related_german_words": ["sicher", "gewiss"]
+      },
+      {
+        "semantic_key": "emotions-logic-uncertain",
+        "description": "Not able to be relied on; not known or definite.",
+        "related_german_words": ["unsicher", "ungewiss"]
+      },
+      {
+        "semantic_key": "emotions-logic-reliable",
+        "description": "Consistently good in quality or performance; able to be trusted.",
+        "related_german_words": ["zuverlässig"]
+      },
+      {
+        "semantic_key": "emotions-logic-unreliable",
+        "description": "Not able to be relied upon.",
+        "related_german_words": ["unzuverlässig"]
+      },
+      {
+        "semantic_key": "emotions-logic-objective",
+        "description": "Not influenced by personal feelings or opinions in considering and representing facts.",
+        "related_german_words": ["objektiv"]
+      },
+      {
+        "semantic_key": "emotions-logic-subjective",
+        "description": "Based on or influenced by personal feelings, tastes, or opinions.",
+        "related_german_words": ["subjektiv"]
+      },
+      {
+        "semantic_key": "emotions-logic-prejudiced",
+        "description": "Having or showing a dislike or distrust that is derived from prejudice; bigoted.",
+        "related_german_words": ["voreingenommen"]
+      },
+      {
+        "semantic_key": "emotions-logic-impartial",
+        "description": "Treating all rivals or disputants equally; fair and just.",
+        "related_german_words": ["unparteiisch"]
+      },
+      {
+        "semantic_key": "emotions-logic-fair",
+        "description": "In accordance with the rules or standards; legitimate.",
+        "related_german_words": ["gerecht", "fair"]
+      },
+      {
+        "semantic_key": "emotions-logic-unfair",
+        "description": "Not based on or behaving according to the principles of equality and justice.",
+        "related_german_words": ["ungerecht"]
+      },
+      {
+        "semantic_key": "emotions-logic-just",
+        "description": "Based on or behaving according to what is morally right and fair.",
+        "related_german_words": ["gerecht"]
+      },
+      {
+        "semantic_key": "emotions-logic-unjust",
+        "description": "Not based on or behaving according to what is morally right and fair.",
+        "related_german_words": ["ungerecht"]
+      },
+      {
+        "semantic_key": "emotions-logic-valid",
+        "description": "Having a sound basis in logic or fact; reasonable or cogent.",
+        "related_german_words": ["gültig", "stichhaltig"]
+      },
+      {
+        "semantic_key": "emotions-logic-invalid",
+        "description": "Not true because based on erroneous information or unsound reasoning.",
+        "related_german_words": ["ungültig"]
+      },
+      {
+        "semantic_key": "emotions-logic-consistent",
+        "description": "Acting or done in the same way over time, especially so as to be fair or accurate.",
+        "related_german_words": ["konsistent", "folgerichtig"]
+      },
+      {
+        "semantic_key": "emotions-logic-inconsistent",
+        "description": "Not staying the same throughout.",
+        "related_german_words": ["inkonsistent", "widersprüchlich"]
+      },
+      {
+        "semantic_key": "emotions-logic-contradictory",
+        "description": "Mutually opposed or inconsistent.",
+        "related_german_words": ["widersprüchlich"]
+      },
+      {
+        "semantic_key": "emotions-logic-clear",
+        "description": "Easy to perceive, understand, or interpret.",
+        "related_german_words": ["klar", "eindeutig"]
+      },
+      {
+        "semantic_key": "emotions-logic-vague",
+        "description": "Of uncertain, indefinite, or unclear character or meaning.",
+        "related_german_words": ["vage", "unklar"]
+      },
+      {
+        "semantic_key": "emotions-logic-ambiguous",
+        "description": "Open to more than one interpretation; having a double meaning.",
+        "related_german_words": ["zweideutig", "ambivalent"]
+      },
+      {
+        "semantic_key": "emotions-logic-precise",
+        "description": "Marked by exactness and accuracy of expression or detail.",
+        "related_german_words": ["präzise", "genau"]
+      },
+      {
+        "semantic_key": "emotions-logic-exact",
+        "description": "Not approximated in any way; precise.",
+        "related_german_words": ["exakt"]
+      },
+      {
+        "semantic_key": "emotions-logic-complex",
+        "description": "Consisting of many different and connected parts.",
+        "related_german_words": ["komplex", "vielschichtig"]
+      },
+      {
+        "semantic_key": "emotions-logic-simple",
+        "description": "Easily understood or done; presenting no difficulty.",
+        "related_german_words": ["einfach", "simpel"]
+      },
+      {
+        "semantic_key": "emotions-logic-complicated",
+        "description": "Involving many different and confusing aspects.",
+        "related_german_words": ["kompliziert"]
+      },
+      {
+        "semantic_key": "emotions-logic-abstract",
+        "description": "Existing in thought or as an idea but not having a physical or concrete existence.",
+        "related_german_words": ["abstrakt"]
+      },
+      {
+        "semantic_key": "emotions-logic-concrete",
+        "description": "Existing in a material or physical form; real or solid; not abstract.",
+        "related_german_words": ["konkret"]
+      },
+      {
+        "semantic_key": "emotions-logic-theoretical",
+        "description": "Concerned with or involving the theory of a subject or area of study rather than its practical application.",
+        "related_german_words": ["theoretisch"]
+      },
+      {
+        "semantic_key": "emotions-logic-practical",
+        "description": "Of or concerned with the actual doing or use of something rather than with theory and ideas.",
+        "related_german_words": ["praktisch"]
+      },
+      {
+        "semantic_key": "emotions-logic-empirical",
+        "description": "Based on, concerned with, or verifiable by observation or experience rather than theory or pure logic.",
+        "related_german_words": ["empirisch"]
+      },
+      {
+        "semantic_key": "emotions-logic-hypothetical",
+        "description": "Based on or serving as a hypothesis.",
+        "related_german_words": ["hypothetisch"]
+      },
+      {
+        "semantic_key": "emotions-logic-obvious",
+        "description": "Easily perceived or understood; clear, self-evident, or apparent.",
+        "related_german_words": ["offensichtlich"]
+      },
+      {
+        "semantic_key": "emotions-logic-subtle",
+        "description": "So delicate or precise as to be difficult to analyze or describe.",
+        "related_german_words": ["subtil", "feinsinnig"]
+      },
+      {
+        "semantic_key": "emotions-logic-profound",
+        "description": "Very great or intense.",
+        "related_german_words": ["tiefgründig", "fundiert"]
+      },
+      {
+        "semantic_key": "emotions-logic-superficial",
+        "description": "Existing or occurring at or on the surface.",
+        "related_german_words": ["oberflächlich"]
+      },
+      {
+        "semantic_key": "emotions-logic-significant",
+        "description": "Sufficiently great or important to be worthy of attention; noteworthy.",
+        "related_german_words": ["signifikant", "bedeutsam"]
+      },
+      {
+        "semantic_key": "emotions-logic-insignificant",
+        "description": "Too small or unimportant to be worth consideration.",
+        "related_german_words": ["unbedeutend"]
+      },
+      {
+        "semantic_key": "emotions-logic-relevant",
+        "description": "Closely connected or appropriate to what is being done or considered.",
+        "related_german_words": ["relevant", "erheblich"]
+      },
+      {
+        "semantic_key": "emotions-logic-irrelevant",
+        "description": "Not connected with or relevant to something.",
+        "related_german_words": ["irrelevant", "unerheblich"]
+      },
+      {
+        "semantic_key": "emotions-logic-essential",
+        "description": "Absolutely necessary; extremely important.",
+        "related_german_words": ["wesentlich", "essenziell"]
+      },
+      {
+        "semantic_key": "emotions-logic-marginal",
+        "description": "Relating to or at the edge or margin.",
+        "related_german_words": ["marginal", "nebensächlich"]
+      },
+      {
+        "semantic_key": "emotions-logic-central",
+        "description": "Of the greatest importance; principal or focal.",
+        "related_german_words": ["zentral"]
+      },
+      {
+        "semantic_key": "emotions-logic-peripheral",
+        "description": "Of secondary or minor importance; marginal.",
+        "related_german_words": ["peripher"]
+      },
+      {
+        "semantic_key": "emotions-logic-certainty-state",
+        "description": "The condition of being certain.",
+        "related_german_words": ["Gewissheit"]
+      },
+      {
+        "semantic_key": "emotions-logic-probability",
+        "description": "The extent to which something is probable; the likelihood of something happening or being the case.",
+        "related_german_words": ["Wahrscheinlichkeit"]
+      },
+      {
+        "semantic_key": "emotions-logic-possibility",
+        "description": "A thing that may happen or be the case.",
+        "related_german_words": ["Möglichkeit"]
+      },
+      {
+        "semantic_key": "emotions-logic-impossibility",
+        "description": "The state or fact of being impossible.",
+        "related_german_words": ["Unmöglichkeit"]
+      },
+      {
+        "semantic_key": "emotions-logic-necessity",
+        "description": "The fact of being required or indispensable.",
+        "related_german_words": ["Notwendigkeit"]
+      },
+      {
+        "semantic_key": "emotions-logic-contingency",
+        "description": "A future event or circumstance that is possible but cannot be predicted with certainty.",
+        "related_german_words": ["Kontingenz"]
+      },
+      {
+        "semantic_key": "emotions-logic-analogy",
+        "description": "A comparison between two things, typically for the purpose of explanation or clarification.",
+        "related_german_words": ["Analogie", "Entsprechung"]
+      },
+      {
+        "semantic_key": "emotions-logic-metaphor",
+        "description": "A figure of speech in which a word or phrase is applied to an object or action to which it is not literally applicable.",
+        "related_german_words": ["Metapher"]
+      },
+      {
+        "semantic_key": "emotions-logic-premise",
+        "description": "A previous statement or proposition from which another is inferred or follows as a conclusion.",
+        "related_german_words": ["Prämisse", "Voraussetzung"]
+      },
+      {
+        "semantic_key": "emotions-logic-hypothesis",
+        "description": "A supposition or proposed explanation made on the basis of limited evidence as a starting point for further investigation.",
+        "related_german_words": ["Hypothese"]
+      },
+      {
+        "semantic_key": "emotions-logic-axiom",
+        "description": "A statement or proposition which is regarded as being established, accepted, or self-evidently true.",
+        "related_german_words": ["Axiom"]
+      },
+      {
+        "semantic_key": "emotions-logic-postulate",
+        "description": "Suggest or assume the existence, fact, or truth of (something) as a basis for reasoning, discussion, or belief.",
+        "related_german_words": ["Postulat"]
+      },
+      {
+        "semantic_key": "emotions-logic-syllogism",
+        "description": "An instance of a form of reasoning in which a conclusion is drawn from two given or assumed propositions.",
+        "related_german_words": ["Syllogismus"]
+      },
+      {
+        "semantic_key": "emotions-logic-fallacy",
+        "description": "A mistaken belief, especially one based on unsound argument.",
+        "related_german_words": ["Fehlschluss", "Trugschluss"]
+      },
+      {
+        "semantic_key": "emotions-logic-validity",
+        "description": "The quality of being logically or factually sound; soundness or cogency.",
+        "related_german_words": ["Validität", "Gültigkeit"]
+      },
+      {
+        "semantic_key": "emotions-logic-truth",
+        "description": "The quality or state of being true.",
+        "related_german_words": ["Wahrheit"]
+      },
+      {
+        "semantic_key": "emotions-logic-falsehood",
+        "description": "The state of being untrue.",
+        "related_german_words": ["Unwahrheit", "Lüge"]
+      },
+      {
+        "semantic_key": "emotions-logic-error",
+        "description": "A mistake.",
+        "related_german_words": ["Irrtum", "Fehler"]
+      },
+      {
+        "semantic_key": "emotions-logic-correction",
+        "description": "The action or process of correcting something.",
+        "related_german_words": ["Korrektur"]
+      },
+      {
+        "semantic_key": "emotions-logic-insight",
+        "description": "The capacity to gain an accurate and deep intuitive understanding of a person or thing.",
+        "related_german_words": ["Einsicht", "Erkenntnis"]
+      },
+      {
+        "semantic_key": "emotions-logic-realization",
+        "description": "An act of becoming fully aware of something as a fact.",
+        "related_german_words": ["Erkenntnis", "Realisation"]
+      },
+      {
+        "semantic_key": "emotions-logic-discovery",
+        "description": "The action or process of discovering or being discovered.",
+        "related_german_words": ["Entdeckung"]
+      },
+      {
+        "semantic_key": "emotions-logic-invention",
+        "description": "The action of inventing something, typically a process or device.",
+        "related_german_words": ["Erfindung"]
+      },
+      {
+        "semantic_key": "emotions-logic-creativity-trait",
+        "description": "The quality of being creative.",
+        "related_german_words": ["Schöpferkraft"]
+      },
+      {
+        "semantic_key": "emotions-logic-inspiration",
+        "description": "The process of being mentally stimulated to do or feel something, especially to do something creative.",
+        "related_german_words": ["Inspiration"]
+      },
+      {
+        "semantic_key": "emotions-logic-brainstorming",
+        "description": "Group discussion to produce ideas and ways of solving problems.",
+        "related_german_words": ["Ideenfindung"]
+      },
+      {
+        "semantic_key": "emotions-logic-problem-solving",
+        "description": "The process of finding solutions to difficult or complex issues.",
+        "related_german_words": ["Problemlösung"]
+      },
+      {
+        "semantic_key": "emotions-logic-decision-making",
+        "description": "The action or process of making decisions, especially important ones.",
+        "related_german_words": ["Entscheidungsfindung"]
+      },
+      {
+        "semantic_key": "emotions-logic-strategy",
+        "description": "A plan of action or policy designed to achieve a major or overall aim.",
+        "related_german_words": ["Strategie"]
+      },
+      {
+        "semantic_key": "emotions-logic-tactic",
+        "description": "An action or strategy carefully planned to achieve a specific end.",
+        "related_german_words": ["Taktik"]
+      },
+      {
+        "semantic_key": "emotions-logic-objective-goal",
+        "description": "A thing aimed at or sought; a goal.",
+        "related_german_words": ["Zielsetzung"]
+      },
+      {
+        "semantic_key": "emotions-logic-priority",
+        "description": "The fact or condition of being regarded as more important.",
+        "related_german_words": ["Priorität"]
+      },
+      {
+        "semantic_key": "emotions-logic-focus",
+        "description": "The center of interest or activity.",
+        "related_german_words": ["Fokus", "Schwerpunkt"]
+      },
+      {
+        "semantic_key": "emotions-logic-concentration-mental",
+        "description": "Mental focus.",
+        "related_german_words": ["Sammlung"]
+      },
+      {
+        "semantic_key": "emotions-logic-distraction-state",
+        "description": "State of being distracted.",
+        "related_german_words": ["Zerstreutheit"]
+      },
+      {
+        "semantic_key": "emotions-logic-clarity",
+        "description": "The quality of being clear, in particular.",
+        "related_german_words": ["Klarheit"]
+      },
+      {
+        "semantic_key": "emotions-logic-confusion-state",
+        "description": "State of confusion.",
+        "related_german_words": ["Verwirrtheit"]
+      },
+      {
+        "semantic_key": "emotions-logic-curiosity-trait",
+        "description": "The trait of being curious.",
+        "related_german_words": ["Wissbegierde"]
+      },
+      {
+        "semantic_key": "emotions-logic-interest",
+        "description": "The state of wanting to know or learn about something or someone.",
+        "related_german_words": ["Interesse"]
+      },
+      {
+        "semantic_key": "emotions-logic-apathy",
+        "description": "Lack of interest, enthusiasm, or concern.",
+        "related_german_words": ["Apathie", "Teilnahmslosigkeit"]
+      },
+      {
+        "semantic_key": "emotions-logic-passion",
+        "description": "Strong and barely controllable emotion.",
+        "related_german_words": ["Leidenschaft"]
+      },
+      {
+        "semantic_key": "emotions-logic-zeal",
+        "description": "Great energy or enthusiasm in pursuit of a cause or an objective.",
+        "related_german_words": ["Eifer"]
+      },
+      {
+        "semantic_key": "emotions-logic-dedication",
+        "description": "The quality of being dedicated or committed to a task or purpose.",
+        "related_german_words": ["Hingabe"]
+      },
+      {
+        "semantic_key": "emotions-logic-commitment",
+        "description": "The state or quality of being dedicated to a cause, activity, etc.",
+        "related_german_words": ["Engagement", "Verpflichtung"]
+      },
+      {
+        "semantic_key": "emotions-logic-obligation",
+        "description": "An act or course of action to which a person is morally or legally bound; a duty or commitment.",
+        "related_german_words": ["Verpflichtung", "Pflicht"]
+      },
+      {
+        "semantic_key": "emotions-logic-responsibility",
+        "description": "The state or fact of having a duty to deal with something or of having control over someone.",
+        "related_german_words": ["Verantwortung"]
+      },
+      {
+        "semantic_key": "emotions-logic-accountability",
+        "description": "The fact or condition of being accountable; responsibility.",
+        "related_german_words": ["Rechenschaft"]
+      },
+      {
+        "semantic_key": "emotions-logic-guilt-legal",
+        "description": "Legal guilt.",
+        "related_german_words": ["Schuld"]
+      },
+      {
+        "semantic_key": "emotions-logic-innocence",
+        "description": "The state, quality, or fact of being innocent of a crime or offense.",
+        "related_german_words": ["Unschuld"]
+      },
+      {
+        "semantic_key": "emotions-logic-justice",
+        "description": "Just behavior or treatment.",
+        "related_german_words": ["Gerechtigkeit"]
+      },
+      {
+        "semantic_key": "emotions-logic-injustice",
+        "description": "Lack of fairness or justice.",
+        "related_german_words": ["Ungerechtigkeit"]
+      },
+      {
+        "semantic_key": "emotions-logic-virtue",
+        "description": "Behavior showing high moral standards.",
+        "related_german_words": ["Tugend"]
+      },
+      {
+        "semantic_key": "emotions-logic-vice",
+        "description": "Immoral or wicked behavior.",
+        "related_german_words": ["Laster"]
+      },
+      {
+        "semantic_key": "emotions-logic-ethics",
+        "description": "Moral principles that govern a person's behavior or the conducting of an activity.",
+        "related_german_words": ["Ethik"]
+      },
+      {
+        "semantic_key": "emotions-logic-morality",
+        "description": "Principles concerning the distinction between right and wrong or good and bad behavior.",
+        "related_german_words": ["Moral"]
+      },
+      {
+        "semantic_key": "emotions-logic-conscience",
+        "description": "An inner feeling or voice viewed as acting as a guide to the rightness or wrongness of one's behavior.",
+        "related_german_words": ["Gewissen"]
+      },
+      {
+        "semantic_key": "emotions-logic-scruple",
+        "description": "A feeling of doubt or hesitation with regard to the morality or propriety of a course of action.",
+        "related_german_words": ["Skrupel"]
+      },
+      {
+        "semantic_key": "emotions-logic-remorse",
+        "description": "Deep regret or guilt for a wrong committed.",
+        "related_german_words": ["Gewissensbisse", "Reue"]
+      },
+      {
+        "semantic_key": "emotions-logic-penitence",
+        "description": "The action of feeling or showing sorrow and regret for having done wrong; repentance.",
+        "related_german_words": ["Buße"]
+      },
+      {
+        "semantic_key": "emotions-logic-salvation",
+        "description": "Deliverance from sin and its consequences.",
+        "related_german_words": ["Erlösung"]
+      },
+      {
+        "semantic_key": "emotions-logic-temptation",
+        "description": "The desire to do something, especially something wrong or unwise.",
+        "related_german_words": ["Versuchung"]
+      },
+      {
+        "semantic_key": "emotions-logic-desire",
+        "description": "A strong feeling of wanting to have something or wishing for something to happen.",
+        "related_german_words": ["Begehren", "Wunsch"]
+      },
+      {
+        "semantic_key": "emotions-logic-lust",
+        "description": "Very strong sexual desire.",
+        "related_german_words": ["Lust"]
+      },
+      {
+        "semantic_key": "emotions-logic-cravings",
+        "description": "A powerful desire for something.",
+        "related_german_words": ["Verlangen", "Sehnen"]
+      },
+      {
+        "semantic_key": "emotions-logic-addiction",
+        "description": "The fact or condition of being addicted to a particular substance, thing, or activity.",
+        "related_german_words": ["Sucht"]
+      },
+      {
+        "semantic_key": "emotions-logic-dependency",
+        "description": "The state of relying on or being controlled by someone or something else.",
+        "related_german_words": ["Abhängigkeit"]
+      },
+      {
+        "semantic_key": "emotions-logic-autonomy",
+        "description": "The right or condition of self-government.",
+        "related_german_words": ["Autonomie", "Selbständigkeit"]
+      },
+      {
+        "semantic_key": "emotions-logic-independence",
+        "description": "The fact or state of being independent.",
+        "related_german_words": ["Unabhängigkeit"]
+      },
+      {
+        "semantic_key": "emotions-logic-freedom",
+        "description": "The power or right to act, speak, or think as one wants without hindrance or restraint.",
+        "related_german_words": ["Freiheit"]
+      },
+      {
+        "semantic_key": "emotions-logic-liberty",
+        "description": "The state of being free within society from oppressive restrictions imposed by authority on one's way of life, behavior, or political views.",
+        "related_german_words": ["Freiheit"]
+      },
+      {
+        "semantic_key": "emotions-logic-oppression",
+        "description": "Prolonged cruel or unjust treatment or control.",
+        "related_german_words": ["Unterdrückung"]
+      },
+      {
+        "semantic_key": "emotions-logic-repression",
+        "description": "The action of subduing someone or something by force.",
+        "related_german_words": ["Verdrängung"]
+      },
+      {
+        "semantic_key": "emotions-logic-trauma",
+        "description": "A deeply distressing or disturbing experience.",
+        "related_german_words": ["Trauma"]
+      },
+      {
+        "semantic_key": "emotions-logic-healing",
+        "description": "The process of making or becoming sound or healthy again.",
+        "related_german_words": ["Heilung"]
+      },
+      {
+        "semantic_key": "emotions-logic-recovery",
+        "description": "A return to a normal state of health, mind, or strength.",
+        "related_german_words": ["Erholung", "Genesung"]
+      },
+      {
+        "semantic_key": "emotions-logic-resilience",
+        "description": "The capacity to recover quickly from difficulties; toughness.",
+        "related_german_words": ["Resilienz", "Widerstandskraft"]
+      },
+      {
+        "semantic_key": "emotions-logic-vulnerability",
+        "description": "The quality or state of being exposed to the possibility of being attacked or harmed.",
+        "related_german_words": ["Verwundbarkeit"]
+      },
+      {
+        "semantic_key": "emotions-logic-strength",
+        "description": "The quality or state of being physically strong.",
+        "related_german_words": ["Stärke"]
+      },
+      {
+        "semantic_key": "emotions-logic-weakness",
+        "description": "The state or condition of lacking strength.",
+        "related_german_words": ["Schwäche"]
+      },
+      {
+        "semantic_key": "emotions-logic-power",
+        "description": "The ability to do something or act in a particular way, especially as a faculty or quality.",
+        "related_german_words": ["Macht"]
+      },
+      {
+        "semantic_key": "emotions-logic-impotence",
+        "description": "Inability to take effective action; helplessness.",
+        "related_german_words": ["Ohnmacht", "Hilflosigkeit"]
+      },
+      {
+        "semantic_key": "emotions-logic-helplessness",
+        "description": "Inability to defend oneself or to act effectively.",
+        "related_german_words": ["Hilflosigkeit"]
+      },
+      {
+        "semantic_key": "emotions-logic-hopefulness",
+        "description": "Feeling or inspiring optimism about a future event.",
+        "related_german_words": ["Hoffnungsfroh"]
+      },
+      {
+        "semantic_key": "emotions-logic-hopelessness",
+        "description": "A feeling of despair.",
+        "related_german_words": ["Hoffnungslosigkeit"]
+      },
+      {
+        "semantic_key": "emotions-logic-optimism-state",
+        "description": "The state of being optimistic.",
+        "related_german_words": ["Zuversicht"]
+      },
+      {
+        "semantic_key": "emotions-logic-pessimism-state",
+        "description": "The state of being pessimistic.",
+        "related_german_words": ["Schwarzseherei"]
+      },
+      {
+        "semantic_key": "emotions-logic-realism",
+        "description": "The attitude or practice of accepting a situation as it is and being prepared to deal with it accordingly.",
+        "related_german_words": ["Realismus"]
+      },
+      {
+        "semantic_key": "emotions-logic-idealism",
+        "description": "The practice of forming or pursuing ideals, especially unrealistically.",
+        "related_german_words": ["Idealismus"]
+      },
+      {
+        "semantic_key": "emotions-logic-cynicism",
+        "description": "An inclination to believe that people are motivated purely by self-interest; skepticism.",
+        "related_german_words": ["Zynismus"]
+      },
+      {
+        "semantic_key": "emotions-logic-skepticism",
+        "description": "Skeptical attitude; doubt as to the truth of something.",
+        "related_german_words": ["Skeptizismus", "Skepsis"]
+      },
+      {
+        "semantic_key": "emotions-logic-belief",
+        "description": "An acceptance that a statement is true or that something exists.",
+        "related_german_words": ["Glaube"]
+      },
+      {
+        "semantic_key": "emotions-logic-faith",
+        "description": "Complete trust or confidence in someone or something.",
+        "related_german_words": ["Vertrauen", "Glaube"]
+      },
+      {
+        "semantic_key": "emotions-logic-dogma",
+        "description": "A principle or set of principles laid down by an authority as incontrovertibly true.",
+        "related_german_words": ["Dogma"]
+      },
+      {
+        "semantic_key": "emotions-logic-ideology",
+        "description": "A system of ideas and ideals, especially one which forms the basis of economic or political theory and policy.",
+        "related_german_words": ["Ideologie"]
+      },
+      {
+        "semantic_key": "emotions-logic-philosophy",
+        "description": "The study of the fundamental nature of knowledge, reality, and existence.",
+        "related_german_words": ["Philosophie"]
+      },
+      {
+        "semantic_key": "emotions-logic-logic-field",
+        "description": "The formal field of logic.",
+        "related_german_words": ["Logik"]
+      },
+      {
+        "semantic_key": "emotions-logic-epistemology",
+        "description": "The theory of knowledge, especially with regard to its methods, validity, and scope.",
+        "related_german_words": ["Erkenntnistheorie"]
+      },
+      {
+        "semantic_key": "emotions-logic-metaphysics",
+        "description": "The branch of philosophy that deals with the first principles of things.",
+        "related_german_words": ["Metaphysik"]
+      },
+      {
+        "semantic_key": "emotions-logic-ontology",
+        "description": "The branch of metaphysics dealing with the nature of being.",
+        "related_german_words": ["Ontologie"]
+      },
+      {
+        "semantic_key": "emotions-logic-phenomenology",
+        "description": "The science of phenomena as distinct from that of the nature of being.",
+        "related_german_words": ["Phänomenologie"]
+      },
+      {
+        "semantic_key": "emotions-logic-existentialism",
+        "description": "A philosophical theory or approach that emphasizes the existence of the individual person as a free and responsible agent.",
+        "related_german_words": ["Existentialismus"]
+      },
+      {
+        "semantic_key": "emotions-logic-nihilism",
+        "description": "The rejection of all religious and moral principles, often in the belief that life is meaningless.",
+        "related_german_words": ["Nihilismus"]
+      },
+      {
+        "semantic_key": "emotions-logic-absurdism",
+        "description": "The belief that human beings exist in a purposeless, chaotic universe.",
+        "related_german_words": ["Absurdismus"]
+      },
+      {
+        "semantic_key": "emotions-logic-stoicism",
+        "description": "The endurance of pain or hardship without a display of feelings and without complaint.",
+        "related_german_words": ["Stoizismus"]
+      },
+      {
+        "semantic_key": "emotions-logic-hedonism",
+        "description": "The ethical theory that pleasure (in the sense of the satisfaction of desires) is the highest good and proper aim of human life.",
+        "related_german_words": ["Hedonismus"]
+      },
+      {
+        "semantic_key": "emotions-logic-asceticism",
+        "description": "Severe self-discipline and avoidance of all forms of indulgence, typically for religious reasons.",
+        "related_german_words": ["Asketismus", "Askese"]
+      },
+      {
+        "semantic_key": "emotions-logic-spirituality",
+        "description": "The quality of being concerned with the human spirit or soul as opposed to material or physical things.",
+        "related_german_words": ["Spiritualität"]
+      },
+      {
+        "semantic_key": "emotions-logic-secularism",
+        "description": "The principle of separation of the state from religious institutions.",
+        "related_german_words": ["Säkularismus"]
+      },
+      {
+        "semantic_key": "emotions-logic-atheism",
+        "description": "Disbelief or lack of belief in the existence of God or gods.",
+        "related_german_words": ["Atheismus"]
+      },
+      {
+        "semantic_key": "emotions-logic-agnosticism",
+        "description": "The view that the existence of God, of the divine or the supernatural is unknown or unknowable.",
+        "related_german_words": ["Agnostizismus"]
+      },
+      {
+        "semantic_key": "emotions-logic-theism",
+        "description": "Belief in the existence of a god or gods, especially belief in one god as creator of the universe.",
+        "related_german_words": ["Theismus"]
+      },
+      {
+        "semantic_key": "emotions-logic-polytheism",
+        "description": "The belief in or worship of more than one god.",
+        "related_german_words": ["Polytheismus"]
+      },
+      {
+        "semantic_key": "emotions-logic-monotheism",
+        "description": "The doctrine or belief that there is only one God.",
+        "related_german_words": ["Monotheismus"]
+      },
+      {
+        "semantic_key": "emotions-logic-pantheism",
+        "description": "A doctrine which identifies God with the universe.",
+        "related_german_words": ["Pantheismus"]
+      },
+      {
+        "semantic_key": "emotions-logic-mysticism",
+        "description": "Belief that union with or absorption into the Deity or the absolute, or the spiritual apprehension of knowledge inaccessible to the intellect, may be attained through contemplation and self-surrender.",
+        "related_german_words": ["Mystik"]
+      },
+      {
+        "semantic_key": "emotions-logic-rationalism",
+        "description": "A belief or theory that opinions and actions should be based on reason and knowledge rather than on religious belief or emotional response.",
+        "related_german_words": ["Rationalismus"]
+      },
+      {
+        "semantic_key": "emotions-logic-empiricism-philosophy",
+        "description": "The theory that all knowledge is derived from sense-experience.",
+        "related_german_words": ["Empirismus"]
+      },
+      {
+        "semantic_key": "emotions-logic-positivism",
+        "description": "A philosophical system that holds that every rationally justifiable assertion can be scientifically verified or is capable of logical or mathematical proof.",
+        "related_german_words": ["Positivismus"]
+      },
+      {
+        "semantic_key": "emotions-logic-pragmatism",
+        "description": "An approach that assesses the truth of meaning of theories or beliefs in terms of the success of their practical application.",
+        "related_german_words": ["Pragmatismus"]
+      },
+      {
+        "semantic_key": "emotions-logic-humanism",
+        "description": "An outlook or system of thought attaching prime importance to human rather than divine or supernatural matters.",
+        "related_german_words": ["Humanismus"]
+      },
+      {
+        "semantic_key": "emotions-logic-enlightenment",
+        "description": "The action of enlightening or the state of being enlightened.",
+        "related_german_words": ["Aufklärung"]
+      },
+      {
+        "semantic_key": "emotions-logic-romanticism",
+        "description": "A movement in the arts and literature that originated in the late 18th century, emphasizing inspiration, subjectivity, and the primacy of the individual.",
+        "related_german_words": ["Romantik"]
+      }
+    ]
+  }
+]

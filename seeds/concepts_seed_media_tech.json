@@ -1,0 +1,1252 @@
+[
+  {
+    "category_slug": "media-tech",
+    "concepts": [
+      {
+        "semantic_key": "media-tech-computer",
+        "description": "An electronic device for storing and processing data, typically in binary form.",
+        "related_german_words": ["Computer", "Rechner"]
+      },
+      {
+        "semantic_key": "media-tech-laptop",
+        "description": "A portable computer that is suitable for use while traveling.",
+        "related_german_words": ["Laptop", "Notebook"]
+      },
+      {
+        "semantic_key": "media-tech-tablet",
+        "description": "A portable computer with a touchscreen interface.",
+        "related_german_words": ["Tablet"]
+      },
+      {
+        "semantic_key": "media-tech-smartphone",
+        "description": "A mobile phone that performs many of the functions of a computer.",
+        "related_german_words": ["Smartphone", "Handy"]
+      },
+      {
+        "semantic_key": "media-tech-internet",
+        "description": "A global computer network providing a variety of information and communication facilities.",
+        "related_german_words": ["Internet"]
+      },
+      {
+        "semantic_key": "media-tech-website",
+        "description": "A set of related web pages located under a single domain name.",
+        "related_german_words": ["Website", "Webseite", "Internetpräsenz"]
+      },
+      {
+        "semantic_key": "media-tech-app",
+        "description": "A software program designed for a specific purpose, especially for mobile devices.",
+        "related_german_words": ["App", "Applikation", "Anwendung"]
+      },
+      {
+        "semantic_key": "media-tech-software",
+        "description": "The programs and other operating information used by a computer.",
+        "related_german_words": ["Software", "Programm"]
+      },
+      {
+        "semantic_key": "media-tech-hardware",
+        "description": "The physical components of a computer system.",
+        "related_german_words": ["Hardware"]
+      },
+      {
+        "semantic_key": "media-tech-screen",
+        "description": "The display surface of a computer, television, or smartphone.",
+        "related_german_words": ["Bildschirm", "Monitor", "Display"]
+      },
+      {
+        "semantic_key": "media-tech-keyboard",
+        "description": "A panel of keys that operate a computer or typewriter.",
+        "related_german_words": ["Tastatur"]
+      },
+      {
+        "semantic_key": "media-tech-mouse",
+        "description": "A small handheld device used to control the cursor on a computer screen.",
+        "related_german_words": ["Maus"]
+      },
+      {
+        "semantic_key": "media-tech-printer",
+        "description": "A machine for printing text or pictures onto paper.",
+        "related_german_words": ["Drucker"]
+      },
+      {
+        "semantic_key": "media-tech-scanner",
+        "description": "A device that scans documents and converts them into digital data.",
+        "related_german_words": ["Scanner"]
+      },
+      {
+        "semantic_key": "media-tech-webcam",
+        "description": "A video camera that feeds or streams its image in real time to or through a computer.",
+        "related_german_words": ["Webcam"]
+      },
+      {
+        "semantic_key": "media-tech-microphone",
+        "description": "An instrument for converting sound waves into electrical energy variations.",
+        "related_german_words": ["Mikrofon"]
+      },
+      {
+        "semantic_key": "media-tech-speakers",
+        "description": "Devices that convert electrical signals into sound.",
+        "related_german_words": ["Lautsprecher", "Boxen"]
+      },
+      {
+        "semantic_key": "media-tech-headphones",
+        "description": "A pair of earphones joined by a band worn over the head.",
+        "related_german_words": ["Kopfhörer"]
+      },
+      {
+        "semantic_key": "media-tech-cable",
+        "description": "A thick wire used for transmitting electricity or signals.",
+        "related_german_words": ["Kabel"]
+      },
+      {
+        "semantic_key": "media-tech-charger",
+        "description": "A device for charging a battery.",
+        "related_german_words": ["Ladegerät"]
+      },
+      {
+        "semantic_key": "media-tech-adapter",
+        "description": "A device for connecting pieces of equipment that cannot be connected directly.",
+        "related_german_words": ["Adapter"]
+      },
+      {
+        "semantic_key": "media-tech-battery",
+        "description": "A container consisting of one or more cells used as a source of power.",
+        "related_german_words": ["Batterie", "Akku"]
+      },
+      {
+        "semantic_key": "media-tech-wifi",
+        "description": "A facility allowing computers and smartphones to connect to the internet wirelessly.",
+        "related_german_words": ["WLAN", "WiFi"]
+      },
+      {
+        "semantic_key": "media-tech-bluetooth",
+        "description": "A standard for the short-range wireless interconnection of mobile phones and other electronic devices.",
+        "related_german_words": ["Bluetooth"]
+      },
+      {
+        "semantic_key": "media-tech-password",
+        "description": "A secret word or phrase used to gain access to a computer system or service.",
+        "related_german_words": ["Passwort", "Kennwort"]
+      },
+      {
+        "semantic_key": "media-tech-username",
+        "description": "A unique name used by a person to identify themselves on a computer or network.",
+        "related_german_words": ["Benutzername"]
+      },
+      {
+        "semantic_key": "media-tech-account",
+        "description": "A profile for a user on a computer system or website.",
+        "related_german_words": ["Account", "Benutzerkonto", "Konto"]
+      },
+      {
+        "semantic_key": "media-tech-email",
+        "description": "Messages distributed by electronic means from one computer user to one or more recipients.",
+        "related_german_words": ["E-Mail", "Mail"]
+      },
+      {
+        "semantic_key": "media-tech-inbox",
+        "description": "An electronic folder in which received emails are stored.",
+        "related_german_words": ["Posteingang"]
+      },
+      {
+        "semantic_key": "media-tech-outbox",
+        "description": "An electronic folder in which outgoing emails are stored before being sent.",
+        "related_german_words": ["Postausgang"]
+      },
+      {
+        "semantic_key": "media-tech-attachment",
+        "description": "A computer file sent along with an email message.",
+        "related_german_words": ["Anhang", "Anlage"]
+      },
+      {
+        "semantic_key": "media-tech-subject_line",
+        "description": "The line in an email that indicates what the message is about.",
+        "related_german_words": ["Betreff"]
+      },
+      {
+        "semantic_key": "media-tech-social_media",
+        "description": "Websites and applications that enable users to create and share content or to participate in social networking.",
+        "related_german_words": ["Soziale Medien"]
+      },
+      {
+        "semantic_key": "media-tech-post",
+        "description": "A piece of writing, image, or other item of content published online, typically on a blog or social media website.",
+        "related_german_words": ["Post", "Beitrag"]
+      },
+      {
+        "semantic_key": "media-tech-comment",
+        "description": "A remark or piece of criticism expressed in writing on an online post.",
+        "related_german_words": ["Kommentar"]
+      },
+      {
+        "semantic_key": "media-tech-like",
+        "description": "An act of showing approval for an online post.",
+        "related_german_words": ["Like", "Gefällt-mir-Angabe"]
+      },
+      {
+        "semantic_key": "media-tech-follower",
+        "description": "A person who subscribes to the updates of another user on social media.",
+        "related_german_words": ["Follower", "Abonnent"]
+      },
+      {
+        "semantic_key": "media-tech-subscriber",
+        "description": "A person who receives a publication or service regularly.",
+        "related_german_words": ["Abonnent"]
+      },
+      {
+        "semantic_key": "media-tech-profile_picture",
+        "description": "An image used to represent a user on an online account.",
+        "related_german_words": ["Profilbild"]
+      },
+      {
+        "semantic_key": "media-tech-notification",
+        "description": "A message or alert that appears on a device screen to inform the user of an event.",
+        "related_german_words": ["Benachrichtigung"]
+      },
+      {
+        "semantic_key": "media-tech-browser",
+        "description": "A program used to view websites on the internet.",
+        "related_german_words": ["Browser", "Webbrowser"]
+      },
+      {
+        "semantic_key": "media-tech-link",
+        "description": "A reference to data that the reader can directly follow by clicking.",
+        "related_german_words": ["Link", "Verknüpfung"]
+      },
+      {
+        "semantic_key": "media-tech-search_engine",
+        "description": "A program that searches for and identifies items in a database that correspond to keywords.",
+        "related_german_words": ["Suchmaschine"]
+      },
+      {
+        "semantic_key": "media-tech-download",
+        "description": "To copy data from one computer system to another, typically over the internet.",
+        "related_german_words": ["Download", "Herunterladen"]
+      },
+      {
+        "semantic_key": "media-tech-upload",
+        "description": "To transfer data from one computer to another, typically to a larger computer system.",
+        "related_german_words": ["Upload", "Hochladen"]
+      },
+      {
+        "semantic_key": "media-tech-streaming",
+        "description": "A method of transmitting or receiving data over a computer network as a steady, continuous flow.",
+        "related_german_words": ["Streaming"]
+      },
+      {
+        "semantic_key": "media-tech-cloud",
+        "description": "A network of remote servers hosted on the internet to store, manage, and process data.",
+        "related_german_words": ["Cloud", "Datenwolke"]
+      },
+      {
+        "semantic_key": "media-tech-server",
+        "description": "A computer or computer program which manages access to a centralized resource or service in a network.",
+        "related_german_words": ["Server"]
+      },
+      {
+        "semantic_key": "media-tech-database",
+        "description": "A structured set of data held in a computer.",
+        "related_german_words": ["Datenbank"]
+      },
+      {
+        "semantic_key": "media-tech-network",
+        "description": "A group or system of interconnected people or things.",
+        "related_german_words": ["Netzwerk"]
+      },
+      {
+        "semantic_key": "media-tech-virus",
+        "description": "A piece of code which is capable of copying itself and typically has a detrimental effect.",
+        "related_german_words": ["Virus", "Computervirus"]
+      },
+      {
+        "semantic_key": "media-tech-malware",
+        "description": "Software which is specifically designed to disrupt, damage, or gain unauthorized access to a computer system.",
+        "related_german_words": ["Malware", "Schadprogramm"]
+      },
+      {
+        "semantic_key": "media-tech-hacker",
+        "description": "A person who uses computers to gain unauthorized access to data.",
+        "related_german_words": ["Hacker"]
+      },
+      {
+        "semantic_key": "media-tech-firewall",
+        "description": "A part of a computer system or network which is designed to block unauthorized access while permitting outward communication.",
+        "related_german_words": ["Firewall"]
+      },
+      {
+        "semantic_key": "media-tech-encryption",
+        "description": "The process of converting information or data into a code, especially to prevent unauthorized access.",
+        "related_german_words": ["Verschlüsselung"]
+      },
+      {
+        "semantic_key": "media-tech-privacy",
+        "description": "The state or condition of being free from being observed or disturbed by other people.",
+        "related_german_words": ["Privatsphäre", "Datenschutz"]
+      },
+      {
+        "semantic_key": "media-tech-artificial_intelligence",
+        "description": "The theory and development of computer systems able to perform tasks that normally require human intelligence.",
+        "related_german_words": ["Künstliche Intelligenz", "KI"]
+      },
+      {
+        "semantic_key": "media-tech-algorithm",
+        "description": "A process or set of rules to be followed in calculations or other problem-solving operations, especially by a computer.",
+        "related_german_words": ["Algorithmus"]
+      },
+      {
+        "semantic_key": "media-tech-robot",
+        "description": "A machine capable of carrying out a complex series of actions automatically.",
+        "related_german_words": ["Roboter"]
+      },
+      {
+        "semantic_key": "media-tech-virtual_reality",
+        "description": "The computer-generated simulation of a three-dimensional image or environment that can be interacted with in a seemingly real or physical way.",
+        "related_german_words": ["Virtuelle Realität", "VR"]
+      },
+      {
+        "semantic_key": "media-tech-smartphone_app",
+        "description": "An application specifically for use on a smartphone.",
+        "related_german_words": ["Handy-App"]
+      },
+      {
+        "semantic_key": "media-tech-desktop",
+        "description": "The working area of a computer screen which contains icons representing files, folders, and programs.",
+        "related_german_words": ["Desktop", "Schreibtischoberfläche"]
+      },
+      {
+        "semantic_key": "media-tech-file",
+        "description": "A collection of data, programs, etc. stored in a computer's memory or on a storage device.",
+        "related_german_words": ["Datei"]
+      },
+      {
+        "semantic_key": "media-tech-folder",
+        "description": "A directory in the sense of a collection of files.",
+        "related_german_words": ["Ordner", "Verzeichnis"]
+      },
+      {
+        "semantic_key": "media-tech-icon",
+        "description": "A small graphical representation of a program or file.",
+        "related_german_words": ["Icon", "Symbol"]
+      },
+      {
+        "semantic_key": "media-tech-shortcut",
+        "description": "An icon that provides quick access to a program or file.",
+        "related_german_words": ["Verknüpfung"]
+      },
+      {
+        "semantic_key": "media-tech-cursor",
+        "description": "A movable indicator on a computer screen identifying a point where an instruction can be given.",
+        "related_german_words": ["Cursor", "Mauszeiger"]
+      },
+      {
+        "semantic_key": "media-tech-scrollbar",
+        "description": "A bar at the side or bottom of a computer window that allows the user to scroll through the content.",
+        "related_german_words": ["Scrollbalken"]
+      },
+      {
+        "semantic_key": "media-tech-settings",
+        "description": "A feature that allows users to adjust the configuration of a program or device.",
+        "related_german_words": ["Einstellungen"]
+      },
+      {
+        "semantic_key": "media-tech-update",
+        "description": "An act of bringing a computer program or device up to date.",
+        "related_german_words": ["Update", "Aktualisierung"]
+      },
+      {
+        "semantic_key": "media-tech-bug",
+        "description": "An error, flaw, or fault in a computer program or system.",
+        "related_german_words": ["Bug", "Programmfehler"]
+      },
+      {
+        "semantic_key": "media-tech-crash",
+        "description": "A sudden failure of a computer system or program.",
+        "related_german_words": ["Absturz"]
+      },
+      {
+        "semantic_key": "media-tech-installation",
+        "description": "The process of setting up a program on a computer.",
+        "related_german_words": ["Installation"]
+      },
+      {
+        "semantic_key": "media-tech-backup",
+        "description": "A copy of a file or other item of data made in case the original is lost or damaged.",
+        "related_german_words": ["Backup", "Datensicherung"]
+      },
+      {
+        "semantic_key": "media-tech-storage",
+        "description": "The retention of retrievable data on a computer or other electronic system.",
+        "related_german_words": ["Speicher", "Speicherplatz"]
+      },
+      {
+        "semantic_key": "media-tech-processor",
+        "description": "The logic circuitry that responds to and processes the basic instructions that drive a computer.",
+        "related_german_words": ["Prozessor"]
+      },
+      {
+        "semantic_key": "media-tech-ram",
+        "description": "Random access memory; the primary memory of a computer.",
+        "related_german_words": ["Arbeitsspeicher", "RAM"]
+      },
+      {
+        "semantic_key": "media-tech-hard_drive",
+        "description": "A high-capacity, self-contained storage device inside a computer.",
+        "related_german_words": ["Festplatte"]
+      },
+      {
+        "semantic_key": "media-tech-usb_stick",
+        "description": "A small, portable flash memory card that plugs into a computer's USB port.",
+        "related_german_words": ["USB-Stick"]
+      },
+      {
+        "semantic_key": "media-tech-chip",
+        "description": "A tiny wafer of semiconducting material used to make an integrated circuit.",
+        "related_german_words": ["Chip"]
+      },
+      {
+        "semantic_key": "media-tech-touchscreen",
+        "description": "A display device which allows the user to interact with a computer by touching the screen.",
+        "related_german_words": ["Touchscreen", "Berührungsbildschirm"]
+      },
+      {
+        "semantic_key": "media-tech-stylus",
+        "description": "A pen-like tool used to input commands or draw on a touchscreen.",
+        "related_german_words": ["Eingabestift", "Stylus"]
+      },
+      {
+        "semantic_key": "media-tech-charging_cable",
+        "description": "A cable used for charging electronic devices.",
+        "related_german_words": ["Ladekabel"]
+      },
+      {
+        "semantic_key": "media-tech-power_outlet",
+        "description": "A socket on a wall that provides electricity.",
+        "related_german_words": ["Steckdose"]
+      },
+      {
+        "semantic_key": "media-tech-power_bank",
+        "description": "A portable battery used for charging mobile devices.",
+        "related_german_words": ["Powerbank", "Ersatzakku"]
+      },
+      {
+        "semantic_key": "media-tech-smart_watch",
+        "description": "A mobile device with a touchscreen display designed to be worn on the wrist.",
+        "related_german_words": ["Smartwatch"]
+      },
+      {
+        "semantic_key": "media-tech-fitness_tracker",
+        "description": "A wearable device that monitors and tracks fitness-related metrics.",
+        "related_german_words": ["Fitnesstracker"]
+      },
+      {
+        "semantic_key": "media-tech-virtual_assistant",
+        "description": "A software agent that can perform tasks or services for an individual based on commands.",
+        "related_german_words": ["Sprachassistent", "virtueller Assistent"]
+      },
+      {
+        "semantic_key": "media-tech-smart_home",
+        "description": "A home equipped with lighting, heating, and electronic devices that can be controlled remotely by smartphone or computer.",
+        "related_german_words": ["Smart Home"]
+      },
+      {
+        "semantic_key": "media-tech-broadband",
+        "description": "A high-capacity transmission technique using a wide range of frequencies, which enables a large number of messages to be communicated simultaneously.",
+        "related_german_words": ["Breitband"]
+      },
+      {
+        "semantic_key": "media-tech-bandwidth",
+        "description": "The range of frequencies within a given band, in particular that used for transmitting a signal.",
+        "related_german_words": ["Bandbreite"]
+      },
+      {
+        "semantic_key": "media-tech-data_volume",
+        "description": "The amount of data a user is allowed to consume on a specific network plan.",
+        "related_german_words": ["Datenvolumen"]
+      },
+      {
+        "semantic_key": "media-tech-roaming",
+        "description": "The use of a mobile phone on a network other than the user's home network.",
+        "related_german_words": ["Roaming"]
+      },
+      {
+        "semantic_key": "media-tech-signal",
+        "description": "The electromagnetic waves by which data is transmitted.",
+        "related_german_words": ["Signal"]
+      },
+      {
+        "semantic_key": "media-tech-hotspot",
+        "description": "A public place where people can access the internet via a wireless local area network.",
+        "related_german_words": ["Hotspot"]
+      },
+      {
+        "semantic_key": "media-tech-sim_card",
+        "description": "A smart card inside a mobile phone, carrying an identification number unique to the owner.",
+        "related_german_words": ["SIM-Karte"]
+      },
+      {
+        "semantic_key": "media-tech-provider",
+        "description": "A company that provides services such as internet or mobile phone access.",
+        "related_german_words": ["Anbieter", "Provider"]
+      },
+      {
+        "semantic_key": "media-tech-coding",
+        "description": "The process of writing computer programs.",
+        "related_german_words": ["Programmieren", "Codieren"]
+      },
+      {
+        "semantic_key": "media-tech-developer",
+        "description": "A person who creates computer software.",
+        "related_german_words": ["Entwickler", "Programmierer"]
+      },
+      {
+        "semantic_key": "media-tech-open_source",
+        "description": "Denoting software for which the original source code is made freely available and may be redistributed and modified.",
+        "related_german_words": ["Open-Source"]
+      },
+      {
+        "semantic_key": "media-tech-license",
+        "description": "A permit from an authority to own or use something, in particular software.",
+        "related_german_words": ["Lizenz"]
+      },
+      {
+        "semantic_key": "media-tech-user_interface",
+        "description": "The means by which the user and a computer system interact.",
+        "related_german_words": ["Benutzeroberfläche"]
+      },
+      {
+        "semantic_key": "media-tech-pixel",
+        "description": "A minute area of illumination on a display screen.",
+        "related_german_words": ["Pixel"]
+      },
+      {
+        "semantic_key": "media-tech-resolution",
+        "description": "The number of pixels contained on a display monitor.",
+        "related_german_words": ["Auflösung"]
+      },
+      {
+        "semantic_key": "media-tech-4k",
+        "description": "A very high-resolution display standard.",
+        "related_german_words": ["4K"]
+      },
+      {
+        "semantic_key": "media-tech-hd",
+        "description": "High definition; a high-resolution display standard.",
+        "related_german_words": ["HD", "hochaufgelöst"]
+      },
+      {
+        "semantic_key": "media-tech-dark_mode",
+        "description": "A display setting that uses a dark color scheme.",
+        "related_german_words": ["Dunkelmodus", "Nachtmodus"]
+      },
+      {
+        "semantic_key": "media-tech-airplane_mode",
+        "description": "A setting on electronic devices that prevents the device from transmitting or receiving signals.",
+        "related_german_words": ["Flugmodus"]
+      },
+      {
+        "semantic_key": "media-tech-standby",
+        "description": "The state in which a computer or other device is kept ready for immediate use.",
+        "related_german_words": ["Standby", "Bereitschaftsmodus"]
+      },
+      {
+        "semantic_key": "media-tech-touchpad",
+        "description": "A small panel on a laptop that used as a substitute for a computer mouse.",
+        "related_german_words": ["Touchpad"]
+      },
+      {
+        "semantic_key": "media-tech-trackpad",
+        "description": "Another term for a touchpad.",
+        "related_german_words": ["Trackpad"]
+      },
+      {
+        "semantic_key": "media-tech-remote_control",
+        "description": "A device that allows a user to control a machine from a distance.",
+        "related_german_words": ["Fernbedienung"]
+      },
+      {
+        "semantic_key": "media-tech-game_console",
+        "description": "A computer system designed for playing video games.",
+        "related_german_words": ["Spielkonsole"]
+      },
+      {
+        "semantic_key": "media-tech-controller",
+        "description": "A device used to control a video game.",
+        "related_german_words": ["Controller", "Gamepad"]
+      },
+      {
+        "semantic_key": "media-tech-virtual_world",
+        "description": "A computer-simulated environment inhabited by users through avatars.",
+        "related_german_words": ["virtuelle Welt", "Metaversum"]
+      },
+      {
+        "semantic_key": "media-tech-avatar",
+        "description": "An icon or figure representing a particular person in a computer game, Internet forum, etc.",
+        "related_german_words": ["Avatar"]
+      },
+      {
+        "semantic_key": "media-tech-digital_nomad",
+        "description": "A person who earns a living working online while traveling.",
+        "related_german_words": ["digitaler Nomade"]
+      },
+      {
+        "semantic_key": "media-tech-telecommuting",
+        "description": "Working from home using the internet and phone.",
+        "related_german_words": ["Telearbeit", "Homeoffice"]
+      },
+      {
+        "semantic_key": "media-tech-video_conference",
+        "description": "A conference in which participants in different locations are able to communicate with each other in sound and vision.",
+        "related_german_words": ["Videokonferenz"]
+      },
+      {
+        "semantic_key": "media-tech-webinar",
+        "description": "A seminar conducted over the internet.",
+        "related_german_words": ["Webinar", "Online-Seminar"]
+      },
+      {
+        "semantic_key": "media-tech-podcast",
+        "description": "A digital audio file made available on the internet for downloading.",
+        "related_german_words": ["Podcast"]
+      },
+      {
+        "semantic_key": "media-tech-vlog",
+        "description": "A blog in which the postings are primarily in video form.",
+        "related_german_words": ["Vlog", "Videoblog"]
+      },
+      {
+        "semantic_key": "media-tech-blog",
+        "description": "A regularly updated website or web page, typically one run by an individual or small group.",
+        "related_german_words": ["Blog"]
+      },
+      {
+        "semantic_key": "media-tech-news_site",
+        "description": "A website dedicated to providing current news.",
+        "related_german_words": ["Nachrichtenseite"]
+      },
+      {
+        "semantic_key": "media-tech-fake_news",
+        "description": "False stories that appear to be news spread on the internet or using other media.",
+        "related_german_words": ["Falschmeldungen", "Fake News"]
+      },
+      {
+        "semantic_key": "media-tech-cyber_bullying",
+        "description": "The use of electronic communication to bully a person, typically by sending messages of an intimidating or threatening nature.",
+        "related_german_words": ["Cybermobbing"]
+      },
+      {
+        "semantic_key": "media-tech-online_banking",
+        "description": "A method of banking in which transactions are conducted electronically via the internet.",
+        "related_german_words": ["Online-Banking"]
+      },
+      {
+        "semantic_key": "media-tech-ecommerce",
+        "description": "Commercial transactions conducted electronically on the internet.",
+        "related_german_words": ["E-Commerce", "Onlinehandel"]
+      },
+      {
+        "semantic_key": "media-tech-online_shopping",
+        "description": "The action or activity of buying goods or services via the internet.",
+        "related_german_words": ["Onlineshopping"]
+      },
+      {
+        "semantic_key": "media-tech-shopping_cart",
+        "description": "An area of a website where items to be purchased are kept until the checkout process.",
+        "related_german_words": ["Warenkorb"]
+      },
+      {
+        "semantic_key": "media-tech-to_click",
+        "description": "The act of pressing a button on a computer mouse.",
+        "related_german_words": ["klicken"]
+      },
+      {
+        "semantic_key": "media-tech-to_scroll",
+        "description": "To move through text or graphics on a computer screen in order to see different parts of them.",
+        "related_german_words": ["scrollen", "blättern"]
+      },
+      {
+        "semantic_key": "media-tech-to_swipe",
+        "description": "To move one's finger across a touchscreen.",
+        "related_german_words": ["wischen", "swipen"]
+      },
+      {
+        "semantic_key": "media-tech-to_type",
+        "description": "To write using a keyboard.",
+        "related_german_words": ["tippen", "schreiben"]
+      },
+      {
+        "semantic_key": "media-tech-to_save",
+        "description": "To store data on a computer or other storage device.",
+        "related_german_words": ["speichern"]
+      },
+      {
+        "semantic_key": "media-tech-to_delete",
+        "description": "To remove data from a computer system.",
+        "related_german_words": ["löschen"]
+      },
+      {
+        "semantic_key": "media-tech-to_copy",
+        "description": "To make a duplicate of data.",
+        "related_german_words": ["kopieren"]
+      },
+      {
+        "semantic_key": "media-tech-to_paste",
+        "description": "To insert copied data into a new location.",
+        "related_german_words": ["einfügen"]
+      },
+      {
+        "semantic_key": "media-tech-to_cut",
+        "description": "To remove data from one location to move it to another.",
+        "related_german_words": ["ausschneiden"]
+      },
+      {
+        "semantic_key": "media-tech-to_search",
+        "description": "To look for information on the internet.",
+        "related_german_words": ["suchen", "recherchieren"]
+      },
+      {
+        "semantic_key": "media-tech-to_browse",
+        "description": "To look through pages on the internet.",
+        "related_german_words": ["surfen", "browsen"]
+      },
+      {
+        "semantic_key": "media-tech-to_refresh",
+        "description": "To update the display of a web page.",
+        "related_german_words": ["aktualisieren", "neu laden"]
+      },
+      {
+        "semantic_key": "media-tech-to_log_in",
+        "description": "To enter a username and password to gain access to a computer system.",
+        "related_german_words": ["sich einloggen", "sich anmelden"]
+      },
+      {
+        "semantic_key": "media-tech-to_log_out",
+        "description": "To end a session on a computer system.",
+        "related_german_words": ["sich ausloggen", "sich abmelden"]
+      },
+      {
+        "semantic_key": "media-tech-to_sign_up",
+        "description": "To create a new account on a service.",
+        "related_german_words": ["sich registrieren", "sich anmelden"]
+      },
+      {
+        "semantic_key": "media-tech-to_download",
+        "description": "To copy a file from the internet to your own device.",
+        "related_german_words": ["herunterladen", "downloaden"]
+      },
+      {
+        "semantic_key": "media-tech-to_upload",
+        "description": "To copy a file from your own device to the internet.",
+        "related_german_words": ["hochladen", "uploaden"]
+      },
+      {
+        "semantic_key": "media-tech-to_stream",
+        "description": "To play video or audio directly from the internet without downloading it completely first.",
+        "related_german_words": ["streamen"]
+      },
+      {
+        "semantic_key": "media-tech-to_install",
+        "description": "To put a new program onto a computer or smartphone.",
+        "related_german_words": ["installieren"]
+      },
+      {
+        "semantic_key": "media-tech-to_uninstall",
+        "description": "To remove a program from a computer or smartphone.",
+        "related_german_words": ["deinstallieren"]
+      },
+      {
+        "semantic_key": "media-tech-to_update",
+        "description": "To install the latest version of a software.",
+        "related_german_words": ["aktualisieren", "updaten"]
+      },
+      {
+        "semantic_key": "media-tech-to_restart",
+        "description": "To turn a computer off and on again.",
+        "related_german_words": ["neu starten"]
+      },
+      {
+        "semantic_key": "media-tech-to_shut_down",
+        "description": "To turn a computer off completely.",
+        "related_german_words": ["herunterfahren"]
+      },
+      {
+        "semantic_key": "media-tech-to_crash",
+        "description": "To stop working suddenly (referring to software).",
+        "related_german_words": ["abstürzen"]
+      },
+      {
+        "semantic_key": "media-tech-to_freeze",
+        "description": "To become unresponsive (referring to a computer screen or program).",
+        "related_german_words": ["einfrieren"]
+      },
+      {
+        "semantic_key": "media-tech-to_format",
+        "description": "To prepare a storage medium for use by erasing all existing data.",
+        "related_german_words": ["formatieren"]
+      },
+      {
+        "semantic_key": "media-tech-to_sync",
+        "description": "To make two devices contain the same data.",
+        "related_german_words": ["synchronisieren", "abgleichen"]
+      },
+      {
+        "semantic_key": "media-tech-to_connect",
+        "description": "To establish a link between two devices or a device and the internet.",
+        "related_german_words": ["verbinden"]
+      },
+      {
+        "semantic_key": "media-tech-to_disconnect",
+        "description": "To break a link between two devices or a device and the internet.",
+        "related_german_words": ["trennen"]
+      },
+      {
+        "semantic_key": "media-tech-to_charge",
+        "description": "To fill a battery with electricity.",
+        "related_german_words": ["aufladen", "laden"]
+      },
+      {
+        "semantic_key": "media-tech-to_post",
+        "description": "To publish something online.",
+        "related_german_words": ["posten", "veröffentlichen"]
+      },
+      {
+        "semantic_key": "media-tech-to_share",
+        "description": "To let others see content you have found or created online.",
+        "related_german_words": ["teilen"]
+      },
+      {
+        "semantic_key": "media-tech-to_comment",
+        "description": "To write a response to an online post.",
+        "related_german_words": ["kommentieren"]
+      },
+      {
+        "semantic_key": "media-tech-to_like",
+        "description": "To click a button to show you enjoy a post.",
+        "related_german_words": ["liken"]
+      },
+      {
+        "semantic_key": "media-tech-to_follow",
+        "description": "To subscribe to a person's updates on social media.",
+        "related_german_words": ["folgen"]
+      },
+      {
+        "semantic_key": "media-tech-to_subscribe",
+        "description": "To sign up for a regular service or publication.",
+        "related_german_words": ["abonnieren"]
+      },
+      {
+        "semantic_key": "media-tech-to_block",
+        "description": "To prevent a specific user from contacting you online.",
+        "related_german_words": ["blockieren"]
+      },
+      {
+        "semantic_key": "media-tech-to_mute",
+        "description": "To turn off the sound or notifications from a specific source.",
+        "related_german_words": ["stummschalten"]
+      },
+      {
+        "semantic_key": "media-tech-to_tag",
+        "description": "To link a person's profile to a post or image.",
+        "related_german_words": ["markieren", "taggen"]
+      },
+      {
+        "semantic_key": "media-tech-to_chat",
+        "description": "To communicate in real-time via text online.",
+        "related_german_words": ["chatten"]
+      },
+      {
+        "semantic_key": "media-tech-to_send_email",
+        "description": "To transmit an electronic message.",
+        "related_german_words": ["eine E-Mail schreiben", "versenden"]
+      },
+      {
+        "semantic_key": "media-tech-digital",
+        "description": "Expressed in numerical digits.",
+        "related_german_words": ["digital"]
+      },
+      {
+        "semantic_key": "media-tech-analog",
+        "description": "Relating to signals or information represented by a continuously variable physical quantity.",
+        "related_german_words": ["analog"]
+      },
+      {
+        "semantic_key": "media-tech-wireless",
+        "description": "Using radio or other electromagnetic waves to transmit data without wires.",
+        "related_german_words": ["kabellos", "drahtlos"]
+      },
+      {
+        "semantic_key": "media-tech-wired",
+        "description": "Connected by a physical wire or cable.",
+        "related_german_words": ["kabelgebunden"]
+      },
+      {
+        "semantic_key": "media-tech-online",
+        "description": "Connected to the internet.",
+        "related_german_words": ["online"]
+      },
+      {
+        "semantic_key": "media-tech-offline",
+        "description": "Not connected to the internet.",
+        "related_german_words": ["offline"]
+      },
+      {
+        "semantic_key": "media-tech-virtual",
+        "description": "Not physically existing as such but made by software to appear to do so.",
+        "related_german_words": ["virtuell"]
+      },
+      {
+        "semantic_key": "media-tech-portable",
+        "description": "Able to be easily carried or moved.",
+        "related_german_words": ["tragbar", "mobil"]
+      },
+      {
+        "semantic_key": "media-tech-user_friendly",
+        "description": "Easy for people to use or understand.",
+        "related_german_words": ["benutzerfreundlich"]
+      },
+      {
+        "semantic_key": "media-tech-smart",
+        "description": "Programmed so as to be capable of some independent action.",
+        "related_german_words": ["smart", "intelligent"]
+      },
+      {
+        "semantic_key": "media-tech-automatic",
+        "description": "Working by itself with little or no direct human control.",
+        "related_german_words": ["automatisch"]
+      },
+      {
+        "semantic_key": "media-tech-manual",
+        "description": "Using or working with the hands rather than an automatic system.",
+        "related_german_words": ["manuell"]
+      },
+      {
+        "semantic_key": "media-tech-fast_connection",
+        "description": "Having a high speed of data transmission.",
+        "related_german_words": ["schnell"]
+      },
+      {
+        "semantic_key": "media-tech-slow_connection",
+        "description": "Having a low speed of data transmission.",
+        "related_german_words": ["langsam"]
+      },
+      {
+        "semantic_key": "media-tech-stable",
+        "description": "Not likely to change or fail; reliable.",
+        "related_german_words": ["stabil"]
+      },
+      {
+        "semantic_key": "media-tech-compatible",
+        "description": "Able to exist or occur together without conflict (referring to tech).",
+        "related_german_words": ["kompatibel"]
+      },
+      {
+        "semantic_key": "media-tech-encrypted",
+        "description": "Converted into a code that cannot be understood by unauthorized people.",
+        "related_german_words": ["verschlüsselt"]
+      },
+      {
+        "semantic_key": "media-tech-secure",
+        "description": "Safe from unauthorized access or damage.",
+        "related_german_words": ["sicher"]
+      },
+      {
+        "semantic_key": "media-tech-high_tech",
+        "description": "Using advanced technology.",
+        "related_german_words": ["hochmodern"]
+      },
+      {
+        "semantic_key": "media-tech-outdated",
+        "description": "Old-fashioned or no longer useful.",
+        "related_german_words": ["veraltet"]
+      },
+      {
+        "semantic_key": "media-tech-pixelated",
+        "description": "Displaying a low-resolution image where individual pixels are visible.",
+        "related_german_words": ["verpixelt"]
+      },
+      {
+        "semantic_key": "media-tech-blurry",
+        "description": "Not clear; out of focus.",
+        "related_german_words": ["unscharf", "verschwommen"]
+      },
+      {
+        "semantic_key": "media-tech-muted",
+        "description": "With the sound turned off.",
+        "related_german_words": ["stummgeschaltet"]
+      },
+      {
+        "semantic_key": "media-tech-voice_controlled",
+        "description": "Operated by the sound of a human voice.",
+        "related_german_words": ["sprachgesteuert"]
+      },
+      {
+        "semantic_key": "media-tech-innovative",
+        "description": "Featuring new methods; advanced and original.",
+        "related_german_words": ["innovativ"]
+      },
+      {
+        "semantic_key": "media-tech-technical",
+        "description": "Relating to a particular subject, art, or craft, or its techniques.",
+        "related_german_words": ["technisch"]
+      },
+      {
+        "semantic_key": "media-tech-free_version",
+        "description": "A version of a service or software provided without charge.",
+        "related_german_words": ["kostenlos"]
+      },
+      {
+        "semantic_key": "media-tech-paid_version",
+        "description": "A version of a service or software that requires payment.",
+        "related_german_words": ["kostenpflichtig"]
+      },
+      {
+        "semantic_key": "media-tech-beta_version",
+        "description": "A preliminary version of a software program for testing.",
+        "related_german_words": ["Beta-Version"]
+      },
+      {
+        "semantic_key": "media-tech-full_screen",
+        "description": "Occupying the entire display of a monitor.",
+        "related_german_words": ["Vollbild"]
+      },
+      {
+        "semantic_key": "media-tech-high_speed",
+        "description": "Operating at a very high velocity.",
+        "related_german_words": ["Hochgeschwindigkeit"]
+      },
+      {
+        "semantic_key": "media-tech-unresponsive",
+        "description": "Not reacting or answering to input.",
+        "related_german_words": ["reagiert nicht"]
+      },
+      {
+        "semantic_key": "media-tech-available_online",
+        "description": "Able to be found or accessed via the internet.",
+        "related_german_words": ["online verfügbar"]
+      },
+      {
+        "semantic_key": "media-tech-permanently_deleted",
+        "description": "Removed from a system with no possibility of recovery.",
+        "related_german_words": ["endgültig gelöscht"]
+      },
+      {
+        "semantic_key": "media-tech-successfully_installed",
+        "description": "Placed onto a system correctly and ready for use.",
+        "related_german_words": ["erfolgreich installiert"]
+      },
+      {
+        "semantic_key": "media-tech-frequently_asked_questions",
+        "description": "A list of commonly asked questions and answers.",
+        "related_german_words": ["Häufig gestellte Fragen", "FAQ"]
+      },
+      {
+        "semantic_key": "media-tech-user_guide",
+        "description": "A manual provided to a user to help them use a system.",
+        "related_german_words": ["Bedienungsanleitung"]
+      },
+      {
+        "semantic_key": "media-tech-tech_support",
+        "description": "Assistance provided by a company for users of technical products.",
+        "related_german_words": ["technischer Support"]
+      },
+      {
+        "semantic_key": "media-tech-customer_account",
+        "description": "A specific account for a customer on a platform.",
+        "related_german_words": ["Kundenkonto"]
+      },
+      {
+        "semantic_key": "media-tech-verification_code",
+        "description": "A code used to prove a user's identity.",
+        "related_german_words": ["Bestätigungscode"]
+      },
+      {
+        "semantic_key": "media-tech-two_factor_authentication",
+        "description": "A security process in which the user provides two different authentication factors.",
+        "related_german_words": ["Zwei-Faktor-Authentisierung"]
+      },
+      {
+        "semantic_key": "media-tech-access_denied",
+        "description": "A message indicating that a user does not have permission to enter a system.",
+        "related_german_words": ["Zugriff verweigert"]
+      },
+      {
+        "semantic_key": "media-tech-cloud_storage_capacity",
+        "description": "The amount of data a user can store in the cloud.",
+        "related_german_words": ["Cloud-Speicher"]
+      },
+      {
+        "semantic_key": "media-tech-data_protection_regulation",
+        "description": "Legal rules concerning the protection of personal data.",
+        "related_german_words": ["Datenschutzgrundverordnung", "DSGVO"]
+      },
+      {
+        "semantic_key": "media-tech-cookie_settings",
+        "description": "Options for how a browser handles cookies.",
+        "related_german_words": ["Cookie-Einstellungen"]
+      },
+      {
+        "semantic_key": "media-tech-browser_history",
+        "description": "A list of web pages a user has visited.",
+        "related_german_words": ["Browserverlauf", "Verlauf"]
+      },
+      {
+        "semantic_key": "media-tech-search_results",
+        "description": "The list of items returned by a search engine.",
+        "related_german_words": ["Suchergebnisse"]
+      },
+      {
+        "semantic_key": "media-tech-trending_topics",
+        "description": "Subjects that are currently popular on social media.",
+        "related_german_words": ["Trends"]
+      },
+      {
+        "semantic_key": "media-tech-viral_video",
+        "description": "A video that becomes popular very quickly through internet sharing.",
+        "related_german_words": ["virales Video"]
+      },
+      {
+        "semantic_key": "media-tech-meme",
+        "description": "An image or video that is spread rapidly by internet users.",
+        "related_german_words": ["Meme"]
+      },
+      {
+        "semantic_key": "media-tech-influencer_marketing",
+        "description": "Using popular social media users to promote products.",
+        "related_german_words": ["Influencer-Marketing"]
+      },
+      {
+        "semantic_key": "media-tech-livestream",
+        "description": "A live transmission of video and audio over the internet.",
+        "related_german_words": ["Livestream"]
+      },
+      {
+        "semantic_key": "media-tech-comment_section",
+        "description": "The area on a webpage where users can leave comments.",
+        "related_german_words": ["Kommentarbereich"]
+      },
+      {
+        "semantic_key": "media-tech-user_profile",
+        "description": "The collection of data associated with a specific user.",
+        "related_german_words": ["Benutzerprofil"]
+      },
+      {
+        "semantic_key": "media-tech-data_usage",
+        "description": "The amount of data used by a device.",
+        "related_german_words": ["Datenverbrauch"]
+      },
+      {
+        "semantic_key": "media-tech-signal_loss",
+        "description": "A situation where a device loses its connection to a network.",
+        "related_german_words": ["Verbindungsabbruch"]
+      },
+      {
+        "semantic_key": "media-tech-low_battery",
+        "description": "A warning that a device's battery is nearly empty.",
+        "related_german_words": ["schwacher Akku"]
+      },
+      {
+        "semantic_key": "media-tech-system_error",
+        "description": "A malfunction within a computer's operating system.",
+        "related_german_words": ["Systemfehler"]
+      },
+      {
+        "semantic_key": "media-tech-software_license",
+        "description": "A legal instrument governing the use or redistribution of software.",
+        "related_german_words": ["Softwarelizenz"]
+      },
+      {
+        "semantic_key": "media-tech-hard_drive_space",
+        "description": "The amount of storage available on a hard drive.",
+        "related_german_words": ["Speicherkapazität"]
+      },
+      {
+        "semantic_key": "media-tech-to_back_up_data",
+        "description": "To create a safety copy of important information.",
+        "related_german_words": ["Daten sichern"]
+      },
+      {
+        "semantic_key": "media-tech-to_encrypt_file",
+        "description": "To protect a file with a secret code.",
+        "related_german_words": ["verschlüsseln"]
+      },
+      {
+        "semantic_key": "media-tech-to_troubleshoot",
+        "description": "To find and fix problems in a system.",
+        "related_german_words": ["Fehler beheben"]
+      },
+      {
+        "semantic_key": "media-tech-to_optimize",
+        "description": "To make a system or program function as effectively as possible.",
+        "related_german_words": ["optimieren"]
+      },
+      {
+        "semantic_key": "media-tech-to_configure",
+        "description": "To set up software or hardware for a particular use.",
+        "related_german_words": ["konfigurieren"]
+      },
+      {
+        "semantic_key": "media-tech-to_activate",
+        "description": "To make a service or software ready for use.",
+        "related_german_words": ["aktivieren"]
+      },
+      {
+        "semantic_key": "media-tech-to_deactivate",
+        "description": "To turn off a service or software function.",
+        "related_german_words": ["deaktivieren"]
+      },
+      {
+        "semantic_key": "media-tech-to_reset",
+        "description": "To return a device to its original factory settings.",
+        "related_german_words": ["zurücksetzen"]
+      },
+      {
+        "semantic_key": "media-tech-to_browse_the_web",
+        "description": "To look at various pages on the internet.",
+        "related_german_words": ["im Internet surfen"]
+      },
+      {
+        "semantic_key": "media-tech-to_open_a_tab",
+        "description": "To create a new viewing area in a browser.",
+        "related_german_words": ["einen Tab öffnen"]
+      },
+      {
+        "semantic_key": "media-tech-to_bookmark_a_page",
+        "description": "To save a web address for future use.",
+        "related_german_words": ["ein Lesezeichen setzen"]
+      },
+      {
+        "semantic_key": "media-tech-to_stream_music",
+        "description": "To listen to music online without downloading it.",
+        "related_german_words": ["Musik streamen"]
+      },
+      {
+        "semantic_key": "media-tech-to_post_a_photo",
+        "description": "To publish a picture on a social network.",
+        "related_german_words": ["ein Foto posten"]
+      },
+      {
+        "semantic_key": "media-tech-to_report_spam",
+        "description": "To mark a message as unwanted or fraudulent.",
+        "related_german_words": ["als Spam melden"]
+      },
+      {
+        "semantic_key": "media-tech-to_tag_a_friend",
+        "description": "To link a friend's profile to a post.",
+        "related_german_words": ["einen Freund markieren"]
+      },
+      {
+        "semantic_key": "media-tech-to_join_a_meeting",
+        "description": "To enter an online video conference.",
+        "related_german_words": ["einem Meeting beitreten"]
+      },
+      {
+        "semantic_key": "media-tech-to_mute_the_mic",
+        "description": "To turn off your own audio during a call.",
+        "related_german_words": ["das Mikrofon stummschalten"]
+      },
+      {
+        "semantic_key": "media-tech-to_screen_share",
+        "description": "To show your computer display to others in a video call.",
+        "related_german_words": ["den Bildschirm teilen"]
+      }
+    ]
+  }
+]

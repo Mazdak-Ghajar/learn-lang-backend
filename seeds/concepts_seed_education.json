@@ -1,0 +1,1267 @@
+[
+  {
+    "category_slug": "education",
+    "concepts": [
+      {
+        "semantic_key": "education-exam",
+        "description": "An arbitrary, high-pressure bottleneck that primarily tests your ability to function under artificial stress rather than your actual professional competence.",
+        "related_german_words": ["Prüfung"]
+      },
+      {
+        "semantic_key": "education-written_exam",
+        "description": "A timed exercise in regurgitating memorized facts onto paper, quickly forgotten the moment you step out of the room.",
+        "related_german_words": ["Klausur"]
+      },
+      {
+        "semantic_key": "education-grade",
+        "description": "A flawed, subjective numerical value assigned to your worth by an overworked evaluator who barely skimmed your actual work.",
+        "related_german_words": ["Note", "Zensur"]
+      },
+      {
+        "semantic_key": "education-report_card",
+        "description": "A terrifying piece of paper summarizing a year's worth of mediocre effort, used strictly to judge and filter candidates.",
+        "related_german_words": ["Zeugnis"]
+      },
+      {
+        "semantic_key": "education-fail",
+        "description": "The brutal consequence of your lack of preparation meeting the uncompromising standard of the institution.",
+        "related_german_words": ["durchfallen"]
+      },
+      {
+        "semantic_key": "education-pass",
+        "description": "Scraping by the absolute minimum requirements to avoid being removed from the system.",
+        "related_german_words": ["bestehen"]
+      },
+      {
+        "semantic_key": "education-memorize",
+        "description": "The mindless act of cramming data into your brain just long enough to pass, with zero actual comprehension.",
+        "related_german_words": ["auswendiglernen"]
+      },
+      {
+        "semantic_key": "education-forget",
+        "description": "The inevitable loss of theoretical garbage you were forced to memorize because it has zero application in reality.",
+        "related_german_words": ["vergessen"]
+      },
+      {
+        "semantic_key": "education-degree",
+        "description": "The expensive, time-consuming piece of paper that barely gets you past an automated HR filter.",
+        "related_german_words": ["Abschluss"]
+      },
+      {
+        "semantic_key": "education-bachelor",
+        "description": "The new baseline academic degree that is increasingly worthless on its own without further specialization or unpaid internships.",
+        "related_german_words": ["Bachelor"]
+      },
+      {
+        "semantic_key": "education-master",
+        "description": "An expensive delay of entering the real workforce, often pursued by those terrified of actual corporate responsibilities.",
+        "related_german_words": ["Master"]
+      },
+      {
+        "semantic_key": "education-phd",
+        "description": "A grueling exercise in academic masochism that overqualifies you for normal jobs while trapping you in low-paying research loops.",
+        "related_german_words": ["Promotion"]
+      },
+      {
+        "semantic_key": "education-lecture",
+        "description": "A highly inefficient monologue where a disinterested academic reads slides to a room of sleeping or distracted students.",
+        "related_german_words": ["Vorlesung"]
+      },
+      {
+        "semantic_key": "education-seminar",
+        "description": "A forced group discussion where unprepared students pretend to have done the reading to earn mandatory participation points.",
+        "related_german_words": ["Seminar"]
+      },
+      {
+        "semantic_key": "education-term_paper",
+        "description": "A bloated document of academic fluff, artificially lengthened to meet an arbitrary word count requirement.",
+        "related_german_words": ["Hausarbeit"]
+      },
+      {
+        "semantic_key": "education-scholarship",
+        "description": "Free money fiercely guarded by elitist committees, requiring you to jump through degrading bureaucratic hoops to prove your worth.",
+        "related_german_words": ["Stipendium"]
+      },
+      {
+        "semantic_key": "education-student_loan",
+        "description": "A crippling financial shackle you strap to your ankle for decades to pay for an education of questionable market value.",
+        "related_german_words": ["Studienkredit"]
+      },
+      {
+        "semantic_key": "education-tuition_fees",
+        "description": "The exorbitant entry fee paid simply for the privilege of being allowed to test yourself against the system.",
+        "related_german_words": ["Studiengebühren"]
+      },
+      {
+        "semantic_key": "education-campus",
+        "description": "The isolated academic bubble that completely shields students from the harsh, fast-paced realities of the actual market.",
+        "related_german_words": ["Campus", "Universitätsgelände"]
+      },
+      {
+        "semantic_key": "education-cafeteria",
+        "description": "The loud, crowded institutional feeding trough where cheap, mass-produced food is consumed between stressful classes.",
+        "related_german_words": ["Mensa"]
+      },
+      {
+        "semantic_key": "education-library",
+        "description": "A depressing silence-zone filled with panicked individuals cramming at the very last minute.",
+        "related_german_words": ["Bibliothek"]
+      },
+      {
+        "semantic_key": "education-semester",
+        "description": "A six-month cycle of initial procrastination followed by extreme, health-destroying panic right before finals.",
+        "related_german_words": ["Semester"]
+      },
+      {
+        "semantic_key": "education-schedule",
+        "description": "A chaotic, often poorly optimized grid that dictates your waking hours and ruins any chance of a flexible life.",
+        "related_german_words": ["Stundenplan"]
+      },
+      {
+        "semantic_key": "education-fellow_student",
+        "description": "Your immediate competition disguised as a peer; someone you will likely have to carry during forced group projects.",
+        "related_german_words": ["Kommilitone", "Mitstudent"]
+      },
+      {
+        "semantic_key": "education-professor",
+        "description": "A tenured academic entirely disconnected from industry reality, immune to firing, and openly hostile to basic teaching duties.",
+        "related_german_words": ["Professor"]
+      },
+      {
+        "semantic_key": "education-tutor",
+        "description": "An underpaid, slightly older student forced to do the actual teaching because the professor refuses to stoop to that level.",
+        "related_german_words": ["Tutor"]
+      },
+      {
+        "semantic_key": "education-dean",
+        "description": "The bureaucratic overlord of a faculty who cares more about budget allocation and rankings than student success.",
+        "related_german_words": ["Dekan"]
+      },
+      {
+        "semantic_key": "education-enrollment",
+        "description": "The administrative nightmare of entering the system, requiring endless paperwork to prove you exist.",
+        "related_german_words": ["Immatrikulation", "Einschreibung"]
+      },
+      {
+        "semantic_key": "education-expulsion",
+        "description": "The brutal, unceremonious removal from the institution when you finally exhaust all your given chances.",
+        "related_german_words": ["Exmatrikulation"]
+      },
+      {
+        "semantic_key": "education-presentation",
+        "description": "A terrifying public speaking ordeal where you must feign confidence while desperately reading off poorly designed slides.",
+        "related_german_words": ["Referat", "Präsentation"]
+      },
+      {
+        "semantic_key": "education-internship",
+        "description": "A modern form of indentured servitude where you trade your labor for 'experience' instead of actual money.",
+        "related_german_words": ["Praktikum"]
+      },
+      {
+        "semantic_key": "education-apprenticeship",
+        "description": "A grueling, multi-year commitment to learning a trade while being paid a fraction of minimum wage by a demanding boss.",
+        "related_german_words": ["Ausbildung", "Lehre"]
+      },
+      {
+        "semantic_key": "education-vocational_school",
+        "description": "The theoretical counterpart to manual labor, heavily focused on standardized rules and endless rote learning.",
+        "related_german_words": ["Berufsschule"]
+      },
+      {
+        "semantic_key": "education-high_school_diploma",
+        "description": "The basic entry ticket for university, completely devalued by grade inflation and standardized lowering of expectations.",
+        "related_german_words": ["Abitur", "Matura"]
+      },
+      {
+        "semantic_key": "education-tutoring",
+        "description": "A desperate, expensive fix paid by panicked parents to correct the fundamental failures of the public school system.",
+        "related_german_words": ["Nachhilfe"]
+      },
+      {
+        "semantic_key": "education-blackboard",
+        "description": "An outdated, dusty slab where obsolete information is slowly scribbled by instructors refusing to adapt to modern technology.",
+        "related_german_words": ["Tafel"]
+      },
+      {
+        "semantic_key": "education-projector",
+        "description": "A piece of technology that fails 50% of the time, consuming the first ten minutes of every single lecture.",
+        "related_german_words": ["Beamer", "Projektor"]
+      },
+      {
+        "semantic_key": "education-classroom",
+        "description": "A sterile, poorly ventilated room designed to suppress individuality and force compliance.",
+        "related_german_words": ["Klassenzimmer"]
+      },
+      {
+        "semantic_key": "education-curriculum",
+        "description": "A rigid, outdated document enforced by bureaucrats that actively prevents teachers from addressing current, relevant realities.",
+        "related_german_words": ["Lehrplan"]
+      },
+      {
+        "semantic_key": "education-theory",
+        "description": "Clean, idealized concepts that sound brilliant in a textbook but instantly fall apart upon contact with real-world chaos.",
+        "related_german_words": ["Theorie"]
+      },
+      {
+        "semantic_key": "education-practice",
+        "description": "The messy, uncompromising reality where academic theories go to die, completely ignored by university professors.",
+        "related_german_words": ["Praxis"]
+      },
+      {
+        "semantic_key": "education-research",
+        "description": "An endless cycle of seeking grant money to publish obscure papers that exactly three people will ever read.",
+        "related_german_words": ["Forschung"]
+      },
+      {
+        "semantic_key": "education-experiment",
+        "description": "A heavily controlled setup designed not to discover truth, but to strictly validate a pre-existing academic bias.",
+        "related_german_words": ["Experiment"]
+      },
+      {
+        "semantic_key": "education-laboratory",
+        "description": "A hazardous environment where underfunded students play with outdated equipment to recreate known results.",
+        "related_german_words": ["Labor"]
+      },
+      {
+        "semantic_key": "education-statistics",
+        "description": "The mathematical art of torturing raw data until it confesses to whatever hypothesis you need to secure funding.",
+        "related_german_words": ["Statistik"]
+      },
+      {
+        "semantic_key": "education-analysis",
+        "description": "The painful process of breaking down a subject to its atomic level, usually entirely destroying its original meaning.",
+        "related_german_words": ["Analyse"]
+      },
+      {
+        "semantic_key": "education-plagiarism",
+        "description": "The cardinal sin of stealing someone else's intellectual garbage and trying to pass it off as your own intellectual garbage.",
+        "related_german_words": ["Plagiat"]
+      },
+      {
+        "semantic_key": "education-footnote",
+        "description": "The pedantic formatting requirement that academics obsess over instead of actual content quality.",
+        "related_german_words": ["Fußnote"]
+      },
+      {
+        "semantic_key": "education-introduction",
+        "description": "The tedious opening paragraph where you pretend to care about the topic you are only writing about to pass.",
+        "related_german_words": ["Einleitung"]
+      },
+      {
+        "semantic_key": "education-conclusion",
+        "description": "The desperate final summary where you aggressively restate everything because you ran out of original thoughts.",
+        "related_german_words": ["Fazit", "Schlussfolgerung"]
+      },
+      {
+        "semantic_key": "education-correction",
+        "description": "The ego-crushing process where someone with more authority aggressively circles every single one of your inadequacies in red ink.",
+        "related_german_words": ["Korrektur"]
+      },
+      {
+        "semantic_key": "education-feedback",
+        "description": "Usually thinly veiled criticism wrapped in corporate-speak, meant to point out your flaws without triggering a lawsuit.",
+        "related_german_words": ["Feedback", "Rückmeldung"]
+      },
+      {
+        "semantic_key": "education-criticism",
+        "description": "The harsh reality check you receive when your substandard work is finally exposed to an objective professional.",
+        "related_german_words": ["Kritik"]
+      },
+      {
+        "semantic_key": "education-punishment",
+        "description": "The brutal enforcement mechanism used to keep rebellious or lazy students in line with institutional dogma.",
+        "related_german_words": ["Strafe"]
+      },
+      {
+        "semantic_key": "education-excuse",
+        "description": "A pathetic fabrication offered by a failure to explain why they didn't meet a completely reasonable deadline.",
+        "related_german_words": ["Ausrede"]
+      },
+      {
+        "semantic_key": "education-absence",
+        "description": "A missing block of time in your attendance record that signals to the evaluator that you simply do not care.",
+        "related_german_words": ["Fehlstunde"]
+      },
+      {
+        "semantic_key": "education-apology",
+        "description": "A useless verbal gesture that does nothing to actually fix the work you failed to deliver.",
+        "related_german_words": ["Entschuldigung"]
+      },
+      {
+        "semantic_key": "education-stress",
+        "description": "The constant, grinding baseline emotion of anyone trying to survive the competitive academic meat grinder.",
+        "related_german_words": ["Stress"]
+      },
+      {
+        "semantic_key": "education-pressure",
+        "description": "The crushing weight of expectations from parents, society, and your own sinking realization of failure.",
+        "related_german_words": ["Druck"]
+      },
+      {
+        "semantic_key": "education-burnout",
+        "description": "The total psychological collapse that occurs when you push your mind beyond its absolute limits for a meaningless grade.",
+        "related_german_words": ["Burnout", "Erschöpfung"]
+      },
+      {
+        "semantic_key": "education-overload",
+        "description": "The drowning sensation of being assigned far more work than is physically possible to complete well.",
+        "related_german_words": ["Überforderung"]
+      },
+      {
+        "semantic_key": "education-talent",
+        "description": "A natural advantage that makes you lazy, inevitably leading to your defeat by someone with zero talent but relentless discipline.",
+        "related_german_words": ["Talent", "Begabung"]
+      },
+      {
+        "semantic_key": "education-intelligence",
+        "description": "Raw processing power that is entirely useless if not combined with ruthless execution and work ethic.",
+        "related_german_words": ["Intelligenz"]
+      },
+      {
+        "semantic_key": "education-laziness",
+        "description": "The fatal character flaw that will ensure you remain permanently at the bottom of the socioeconomic hierarchy.",
+        "related_german_words": ["Faulheit"]
+      },
+      {
+        "semantic_key": "education-diligence",
+        "description": "The grueling, unglamorous daily grind of doing the hard work while everyone else is out partying.",
+        "related_german_words": ["Fleiß"]
+      },
+      {
+        "semantic_key": "education-discipline",
+        "description": "The cold, emotionless ability to force yourself to do things you absolutely hate doing because they are necessary.",
+        "related_german_words": ["Disziplin"]
+      },
+      {
+        "semantic_key": "education-boredom",
+        "description": "The agonizing mental state induced by listening to an unqualified instructor ramble about outdated concepts.",
+        "related_german_words": ["Langeweile"]
+      },
+      {
+        "semantic_key": "education-error",
+        "description": "A public demonstration of your incompetence that will be permanently recorded and held against you.",
+        "related_german_words": ["Fehler"]
+      },
+      {
+        "semantic_key": "education-problem",
+        "description": "An obstacle deliberately placed in your way by an examiner to watch you squirm and panic.",
+        "related_german_words": ["Problem"]
+      },
+      {
+        "semantic_key": "education-task",
+        "description": "A unit of soul-crushing busywork assigned simply to keep you compliant and occupied.",
+        "related_german_words": ["Aufgabe"]
+      },
+      {
+        "semantic_key": "education-vocabulary",
+        "description": "The thousands of arbitrary phonetic noises you must memorize just to barely function in a foreign society.",
+        "related_german_words": ["Vokabel"]
+      },
+      {
+        "semantic_key": "education-grammar",
+        "description": "A strict, unforgiving set of rules invented by pedants to instantly identify and exclude outsiders.",
+        "related_german_words": ["Grammatik"]
+      },
+      {
+        "semantic_key": "education-essay",
+        "description": "A structured format designed to force you to pretend you have a deep, analytical thought process.",
+        "related_german_words": ["Aufsatz"]
+      },
+      {
+        "semantic_key": "education-learn",
+        "description": "The painful cognitive friction required to force a new, complex concept into an uncooperative brain.",
+        "related_german_words": ["lernen"]
+      },
+      {
+        "semantic_key": "education-teach",
+        "description": "The often thankless task of trying to forcefully inject knowledge into the minds of people who actively resist it.",
+        "related_german_words": ["unterrichten", "lehren"]
+      },
+      {
+        "semantic_key": "education-explain",
+        "description": "Dumbing down a complex reality into a digestible, inaccurate lie just so a beginner can grasp it.",
+        "related_german_words": ["erklären"]
+      },
+      {
+        "semantic_key": "education-understand",
+        "description": "The rare, fleeting moment of clarity before you realize the next topic is exponentially harder.",
+        "related_german_words": ["verstehen", "begreifen"]
+      },
+      {
+        "semantic_key": "education-repeat",
+        "description": "The agonizingly boring act of hammering the same information into your skull until it sticks.",
+        "related_german_words": ["wiederholen"]
+      },
+      {
+        "semantic_key": "education-practice_verb",
+        "description": "Subjecting yourself to repetitive failure until you finally stop making the exact same embarrassing mistakes.",
+        "related_german_words": ["üben", "trainieren"]
+      },
+      {
+        "semantic_key": "education-evaluate",
+        "description": "The cold, clinical judgment of someone's work to determine if they are worth the institution's time.",
+        "related_german_words": ["bewerten", "beurteilen"]
+      },
+      {
+        "semantic_key": "education-correct",
+        "description": "The act of aggressively fixing someone's output to remind them of their fundamental inadequacies.",
+        "related_german_words": ["korrigieren"]
+      },
+      {
+        "semantic_key": "education-improve",
+        "description": "The slow, painful, non-linear process of sucking slightly less today than you did yesterday.",
+        "related_german_words": ["verbessern"]
+      },
+      {
+        "semantic_key": "education-praise",
+        "description": "A cheap psychological trick used by instructors to keep demoralized students from completely giving up.",
+        "related_german_words": ["loben"]
+      },
+      {
+        "semantic_key": "education-reprimand",
+        "description": "A harsh, direct confrontation designed to snap a lazy individual back into compliance.",
+        "related_german_words": ["tadeln"]
+      },
+      {
+        "semantic_key": "education-copy",
+        "description": "The desperate, unethical act of stealing a peer's hard work because you lack the competence to do it yourself.",
+        "related_german_words": ["abschreiben"]
+      },
+      {
+        "semantic_key": "education-skip_class",
+        "description": "The short-sighted act of avoiding a temporary discomfort, ensuring a catastrophic failure later on.",
+        "related_german_words": ["schwänzen"]
+      },
+      {
+        "semantic_key": "education-disrupt",
+        "description": "Selfishly ruining the learning environment for everyone else because you lack basic self-control.",
+        "related_german_words": ["stören"]
+      },
+      {
+        "semantic_key": "education-pay_attention",
+        "description": "The exhausting requirement to fight off your brain's desire for dopamine and focus on a boring necessity.",
+        "related_german_words": ["aufpassen"]
+      },
+      {
+        "semantic_key": "education-take_notes",
+        "description": "Frantically scribbling down everything the professor says in a desperate hope to decipher it later.",
+        "related_german_words": ["mitschreiben"]
+      },
+      {
+        "semantic_key": "education-ask",
+        "description": "Exposing your own ignorance to the group in a gamble to obtain clarity on a confusing topic.",
+        "related_german_words": ["fragen"]
+      },
+      {
+        "semantic_key": "education-answer",
+        "description": "Putting your reputation on the line to publicly commit to a solution that might be completely wrong.",
+        "related_german_words": ["antworten"]
+      },
+      {
+        "semantic_key": "education-discuss",
+        "description": "A largely unproductive clash of egos where no one actually changes their mind, but participation points are awarded.",
+        "related_german_words": ["diskutieren"]
+      },
+      {
+        "semantic_key": "education-present",
+        "description": "Standing vulnerable in front of a judging crowd, praying they don't notice you are shaking.",
+        "related_german_words": ["präsentieren"]
+      },
+      {
+        "semantic_key": "education-research_verb",
+        "description": "The tedious sifting through mountains of irrelevant data to find the one quote that supports your bias.",
+        "related_german_words": ["recherchieren"]
+      },
+      {
+        "semantic_key": "education-cite",
+        "description": "Legally covering your tracks so you aren't expelled for stealing someone else's intellectual property.",
+        "related_german_words": ["zitieren"]
+      },
+      {
+        "semantic_key": "education-analyze",
+        "description": "Dissecting a piece of work until all joy is removed from it, leaving only dry mechanics.",
+        "related_german_words": ["analysieren"]
+      },
+      {
+        "semantic_key": "education-interpret",
+        "description": "Projecting your own subjective assumptions onto a text while pretending it is objective academic fact.",
+        "related_german_words": ["interpretieren"]
+      },
+      {
+        "semantic_key": "education-summarize",
+        "description": "Ruthlessly cutting out the fluff to expose the fact that the author only had one actual point.",
+        "related_german_words": ["zusammenfassen"]
+      },
+      {
+        "semantic_key": "education-help",
+        "description": "Carrying a weaker peer across the finish line, often at the direct expense of your own time.",
+        "related_german_words": ["helfen", "unterstützen"]
+      },
+      {
+        "semantic_key": "education-motivate",
+        "description": "The exhausting task of trying to inject false enthusiasm into a depressed, burned-out student.",
+        "related_german_words": ["motivieren"]
+      },
+      {
+        "semantic_key": "education-frustrate",
+        "description": "The natural byproduct of designing a system that demands perfection from flawed human beings.",
+        "related_german_words": ["frustrieren"]
+      },
+      {
+        "semantic_key": "education-bore",
+        "description": "Draining the life force out of a room by speaking in a monotonous academic drone for 90 minutes.",
+        "related_german_words": ["langweilen"]
+      },
+      {
+        "semantic_key": "education-convince",
+        "description": "Manipulating the examiner into believing you actually possess the skills listed on your fraudulent resume.",
+        "related_german_words": ["überzeugen"]
+      },
+      {
+        "semantic_key": "education-fail_verb",
+        "description": "Collapsing under the pressure and validating the system's assumption that you were never good enough.",
+        "related_german_words": ["scheitern"]
+      },
+      {
+        "semantic_key": "education-give_up",
+        "description": "The final surrender when you realize the cost of success is far higher than you are willing to pay.",
+        "related_german_words": ["aufgeben"]
+      },
+      {
+        "semantic_key": "education-continue",
+        "description": "Stubbornly marching forward despite overwhelming evidence that you are entirely out of your depth.",
+        "related_german_words": ["weitermachen"]
+      },
+      {
+        "semantic_key": "education-apply",
+        "description": "Begging an institution or company to exploit your labor in exchange for a meager sliver of opportunity.",
+        "related_german_words": ["bewerben"]
+      },
+      {
+        "semantic_key": "education-difficult",
+        "description": "A harsh reality check that shatters your ego and proves you are not as smart as your mother told you.",
+        "related_german_words": ["schwer", "schwierig"]
+      },
+      {
+        "semantic_key": "education-easy",
+        "description": "An insulting waste of your time and money that provides exactly zero competitive advantage in the market.",
+        "related_german_words": ["leicht", "einfach"]
+      },
+      {
+        "semantic_key": "education-complex",
+        "description": "An intentionally convoluted system designed by academics to gatekeep knowledge from the general public.",
+        "related_german_words": ["komplex", "kompliziert"]
+      },
+      {
+        "semantic_key": "education-clear",
+        "description": "A dangerously rare state of understanding that usually means you are missing the underlying complications.",
+        "related_german_words": ["klar", "deutlich"]
+      },
+      {
+        "semantic_key": "education-illogical",
+        "description": "The standard operating procedure of most university bureaucracies when dealing with human beings.",
+        "related_german_words": ["unlogisch"]
+      },
+      {
+        "semantic_key": "education-wrong",
+        "description": "An objective failure. There is no 'my truth' in engineering or accounting, only this.",
+        "related_german_words": ["falsch"]
+      },
+      {
+        "semantic_key": "education-flawed",
+        "description": "Work that contains just enough errors to completely ruin the final execution, rendering the effort useless.",
+        "related_german_words": ["fehlerhaft"]
+      },
+      {
+        "semantic_key": "education-excellent",
+        "description": "The uncompromising standard demanded by top-tier institutions, totally unachievable by the vast majority.",
+        "related_german_words": ["exzellent", "hervorragend"]
+      },
+      {
+        "semantic_key": "education-lazy",
+        "description": "The primary reason 80% of students drop out, falsely blaming 'the system' for their own lack of drive.",
+        "related_german_words": ["faul"]
+      },
+      {
+        "semantic_key": "education-ambitious",
+        "description": "A willingness to step over your peers and sacrifice your personal life for a slight competitive edge.",
+        "related_german_words": ["ehrgeizig"]
+      },
+      {
+        "semantic_key": "education-motivated",
+        "description": "A temporary, highly volatile emotional state that vanishes the moment real, brutal work is required.",
+        "related_german_words": ["motiviert"]
+      },
+      {
+        "semantic_key": "education-disciplined",
+        "description": "Operating like a machine, entirely ignoring your feelings, and executing the required tasks flawlessly.",
+        "related_german_words": ["diszipliniert"]
+      },
+      {
+        "semantic_key": "education-distracted",
+        "description": "The default state of the modern student, hopelessly addicted to screens instead of securing their future.",
+        "related_german_words": ["abgelenkt"]
+      },
+      {
+        "semantic_key": "education-attentive",
+        "description": "Forcing your brain to remain locked onto a subject that brings you absolutely zero immediate pleasure.",
+        "related_german_words": ["aufmerksam"]
+      },
+      {
+        "semantic_key": "education-stupid",
+        "description": "A harsh, un-sugarcoated assessment of someone who repeatedly fails to grasp fundamental concepts.",
+        "related_german_words": ["dumm"]
+      },
+      {
+        "semantic_key": "education-smart",
+        "description": "Having the processing power to navigate complex systems, useless if entirely paralyzed by overthinking.",
+        "related_german_words": ["schlau", "klug"]
+      },
+      {
+        "semantic_key": "education-naive",
+        "description": "Believing that a university degree automatically guarantees you a high-paying job in the modern economy.",
+        "related_german_words": ["naiv"]
+      },
+      {
+        "semantic_key": "education-experienced",
+        "description": "Possessing battle scars from the real world, rendering you highly cynical toward academic theories.",
+        "related_german_words": ["erfahren"]
+      },
+      {
+        "semantic_key": "education-educated",
+        "description": "Having survived the indoctrination process, but not necessarily possessing any actual, practical utility.",
+        "related_german_words": ["gebildet"]
+      },
+      {
+        "semantic_key": "education-competent",
+        "description": "The rare, highly valued state of actually being able to do the job without needing constant babysitting.",
+        "related_german_words": ["kompetent"]
+      },
+      {
+        "semantic_key": "education-incompetent",
+        "description": "A liability to the team; someone who creates more work for others than they actually complete.",
+        "related_german_words": ["inkompetent"]
+      },
+      {
+        "semantic_key": "education-incapable",
+        "description": "Fundamentally lacking the cognitive or physical tools required to execute the necessary professional tasks.",
+        "related_german_words": ["unfähig"]
+      },
+      {
+        "semantic_key": "education-overqualified",
+        "description": "Too educated to be hired for a normal job, yet entirely lacking the practical skills for a specialized one.",
+        "related_german_words": ["überqualifiziert"]
+      },
+      {
+        "semantic_key": "education-theoretical",
+        "description": "Clean, perfect, and completely detached from the brutal friction and chaos of real-world application.",
+        "related_german_words": ["theoretisch"]
+      },
+      {
+        "semantic_key": "education-practical",
+        "description": "Dirty, uncompromising execution that gets results regardless of what the academic textbooks say.",
+        "related_german_words": ["praktisch"]
+      },
+      {
+        "semantic_key": "education-objective",
+        "description": "A cold, emotionless evaluation of facts, deeply offensive to those who rely entirely on their feelings.",
+        "related_german_words": ["objektiv"]
+      },
+      {
+        "semantic_key": "education-subjective",
+        "description": "Highly biased and entirely unreliable criteria often used by bad teachers to artificially penalize students they dislike.",
+        "related_german_words": ["subjektiv"]
+      },
+      {
+        "semantic_key": "education-unfair",
+        "description": "The default state of the universe, which losers constantly use as an excuse for their own lack of success.",
+        "related_german_words": ["ungerecht", "unfair"]
+      },
+      {
+        "semantic_key": "education-strict",
+        "description": "An uncompromising environment that crushes the weak but forges the highly competent professionals of tomorrow.",
+        "related_german_words": ["streng"]
+      },
+      {
+        "semantic_key": "education-relaxed",
+        "description": "A low-standard environment that breeds complacency and guarantees you will be eaten alive by the free market.",
+        "related_german_words": ["entspannt", "locker"]
+      },
+      {
+        "semantic_key": "education-stressed",
+        "description": "Operating near your breaking point because you failed to manage your time and responsibilities effectively.",
+        "related_german_words": ["gestresst"]
+      },
+      {
+        "semantic_key": "education-punctual",
+        "description": "The absolute bare minimum expectation of professionalism, treated by amateurs as if it were an achievement.",
+        "related_german_words": ["pünktlich"]
+      },
+      {
+        "semantic_key": "education-unreliable",
+        "description": "A fast track to being completely blacklisted by your peers and fired by your superiors.",
+        "related_german_words": ["unzuverlässig"]
+      },
+      {
+        "semantic_key": "education-relevant",
+        "description": "Information that actually moves the needle and matters to the bottom line, unlike 90% of a university curriculum.",
+        "related_german_words": ["relevant", "maßgeblich"]
+      },
+      {
+        "semantic_key": "education-useless",
+        "description": "Information or credentials that have absolutely zero exchange value in the ruthless modern economy.",
+        "related_german_words": ["nutzlos", "unbrauchbar"]
+      },
+      {
+        "semantic_key": "education-pointless",
+        "description": "Engaging in academic busywork purely to satisfy a bureaucratic mandate that benefits no one.",
+        "related_german_words": ["sinnlos"]
+      },
+      {
+        "semantic_key": "education-mandatory",
+        "description": "Forced compliance. You do it not because it is helpful, but because the system will crush you if you don't.",
+        "related_german_words": ["verpflichtend", "obligatorisch"]
+      },
+      {
+        "semantic_key": "education-voluntary",
+        "description": "Tasks you take on strictly to out-compete the lazy majority who only do the bare minimum.",
+        "related_german_words": ["freiwillig"]
+      },
+      {
+        "semantic_key": "education-deadline",
+        "description": "An arbitrary line in the sand used by institutions to manufacture panic and measure strict compliance rather than evaluate actual work quality.",
+        "related_german_words": ["Frist", "Abgabetermin"]
+      },
+      {
+        "semantic_key": "education-procrastinate",
+        "description": "The universal coping mechanism of delaying inevitable academic misery until the absolute last possible second, ensuring subpar results.",
+        "related_german_words": ["aufschieben", "prokrastinieren"]
+      },
+      {
+        "semantic_key": "education-cheat",
+        "description": "Risking complete academic ruin and permanent blacklisting because the required material is too dense or you are simply too lazy to put in the actual work.",
+        "related_german_words": ["schummeln", "betrügen"]
+      },
+      {
+        "semantic_key": "education-textbook",
+        "description": "An obscenely overpriced, heavy block of soon-to-be-obsolete paper forced upon you by a professor actively securing their own publishing royalties.",
+        "related_german_words": ["Lehrbuch"]
+      },
+      {
+        "semantic_key": "education-dropout_noun",
+        "description": "An individual who finally cut their losses and left the broken system, destined either for outsized entrepreneurial success or total financial ruin.",
+        "related_german_words": ["Abbrecher", "Studienabbrecher"]
+      },
+      {
+        "semantic_key": "education-cram",
+        "description": "Shoving a semester's worth of complex information into your short-term memory in 48 hours, guaranteeing zero long-term retention or actual skill acquisition.",
+        "related_german_words": ["pauken", "büffeln"]
+      },
+      {
+        "semantic_key": "education-graduation",
+        "description": "A tedious, overly formal ceremony where you wait hours in uncomfortable clothing just to hear your name mispronounced before entering unemployment.",
+        "related_german_words": ["Abschlussfeier", "Graduierung"]
+      },
+      {
+        "semantic_key": "education-dormitory",
+        "description": "An overpriced, cramped, and perpetually noisy concrete box where basic hygiene and privacy are treated as optional luxuries.",
+        "related_german_words": ["Studentenwohnheim", "Wohnheim"]
+      },
+      {
+        "semantic_key": "education-prerequisite",
+        "description": "A mandatory, usually irrelevant gatekeeper course designed purely to extract an extra semester of tuition money before you are allowed to learn what you actually need.",
+        "related_german_words": ["Voraussetzung", "Bedingung"]
+      },
+      {
+        "semantic_key": "education-syllabus",
+        "description": "A legally binding contract of suffering detailing exactly how and when your free time will be systematically destroyed over the next six months.",
+        "related_german_words": ["Seminarplan", "Lehrplan"]
+      },
+      {
+        "semantic_key": "education-advisor",
+        "description": "A disorganized university bureaucrat whose terrible scheduling advice can accidentally delay your graduation by a full calendar year.",
+        "related_german_words": ["Studienberater"]
+      },
+      {
+        "semantic_key": "education-principal",
+        "description": "The ultimate enforcer of institutional dogma, prioritizing school budget metrics, public relations, and reputation over actual student welfare.",
+        "related_german_words": ["Schulleiter", "Rektor"]
+      },
+      {
+        "semantic_key": "education-whiteboard",
+        "description": "A sterile modern replacement for the blackboard that is almost always accompanied by completely dried-out, useless markers.",
+        "related_german_words": ["Whiteboard"]
+      },
+      {
+        "semantic_key": "education-online_course",
+        "description": "A lonely, unengaging video series where you inevitably open another browser tab and completely ignore the actual lesson you paid for.",
+        "related_german_words": ["Onlinekurs"]
+      },
+      {
+        "semantic_key": "education-multiple_choice",
+        "description": "A highly lazy assessment method that primarily tests your ability to guess strategically rather than demanding you understand the concept deeply.",
+        "related_german_words": ["Multiple-Choice-Test"]
+      },
+      {
+        "semantic_key": "education-desk",
+        "description": "The designated physical torture station where you permanently sacrifice your spinal posture and youth for a piece of paper.",
+        "related_german_words": ["Schreibtisch"]
+      },
+      {
+        "semantic_key": "education-backpack",
+        "description": "The heavy physical burden you carry daily, perfectly symbolizing the crushing psychological weight of your academic obligations.",
+        "related_german_words": ["Rucksack"]
+      },
+      {
+        "semantic_key": "education-notebook",
+        "description": "A graveyard of good academic intentions, usually completely abandoned by the student after the first two weeks of the semester.",
+        "related_german_words": ["Notizbuch", "Heft"]
+      },
+      {
+        "semantic_key": "education-pen",
+        "description": "A cheap, disposable tool you will inevitably lose constantly, usually right before the most important written exam of your life.",
+        "related_german_words": ["Kugelschreiber", "Stift"]
+      },
+      {
+        "semantic_key": "education-calculator",
+        "description": "A digital crutch that successfully masks the harsh reality that most educated adults have completely lost the ability to do basic mental arithmetic.",
+        "related_german_words": ["Taschenrechner"]
+      },
+      {
+        "semantic_key": "education-recess",
+        "description": "A brief, chaotic physical release from institutional control before being forcefully shoved back into the classroom matrix.",
+        "related_german_words": ["Pause", "Schulpause"]
+      },
+      {
+        "semantic_key": "education-group_project",
+        "description": "A soul-crushing exercise in extreme frustration where one competent person does all the actual work while the rest leech off the final grade.",
+        "related_german_words": ["Gruppenarbeit"]
+      },
+      {
+        "semantic_key": "education-all_nighter",
+        "description": "Destroying your circadian rhythm and cognitive function with dangerous amounts of caffeine to compensate for a total lack of time management.",
+        "related_german_words": ["Nachtschicht", "Nachtarbeit"]
+      },
+      {
+        "semantic_key": "education-extension",
+        "description": "A brief, pathetic reprieve granted by a merciful professor, only delaying your inevitable panic and subpar submission by a few extra days.",
+        "related_german_words": ["Fristverlängerung"]
+      },
+      {
+        "semantic_key": "education-dropout_verb",
+        "description": "The final, devastating act of admitting defeat when the academic friction and financial burden become entirely unbearable.",
+        "related_german_words": ["abbrechen"]
+      },
+      {
+        "semantic_key": "education-graduate_verb",
+        "description": "Finally escaping the academic institutional meat grinder, only to immediately realize the corporate meat grinder is waiting for you.",
+        "related_german_words": ["absolvieren", "abschließen"]
+      },
+      {
+        "semantic_key": "education-read",
+        "description": "Forcing your eyes to scan incredibly dry, dense academic prose while your brain desperately tries to think about anything else.",
+        "related_german_words": ["lesen"]
+      },
+      {
+        "semantic_key": "education-write",
+        "description": "Translating your confused, highly fragmented thoughts into coherent, structured lies just to please an exhausted evaluator.",
+        "related_german_words": ["schreiben"]
+      },
+      {
+        "semantic_key": "education-calculate",
+        "description": "Blindly plugging numbers into mathematical formulas without actually understanding the underlying logic or real-world application.",
+        "related_german_words": ["rechnen", "kalkulieren"]
+      },
+      {
+        "semantic_key": "education-highlight",
+        "description": "The dangerous illusion of learning, where you paint pages in neon colors to feel productive instead of actually absorbing the information.",
+        "related_german_words": ["markieren", "hervorheben"]
+      },
+      {
+        "semantic_key": "education-debate",
+        "description": "Aggressively defending a theoretical position you barely understand just to sound highly intelligent in front of your peers.",
+        "related_german_words": ["debattieren"]
+      },
+      {
+        "semantic_key": "education-sleep",
+        "description": "The biological necessity you constantly and foolishly sacrifice, rendering all your late-night studying highly inefficient.",
+        "related_german_words": ["schlafen"]
+      },
+      {
+        "semantic_key": "education-panic",
+        "description": "The visceral, physical reaction when you flip over the exam paper and realize you recognize absolutely nothing on the page.",
+        "related_german_words": ["panisch werden", "in Panik geraten"]
+      },
+      {
+        "semantic_key": "education-register",
+        "description": "Fighting a crashing, decades-old university IT system to secure a spot in a mandatory class before it instantly fills up.",
+        "related_german_words": ["anmelden", "registrieren"]
+      },
+      {
+        "semantic_key": "education-withdraw",
+        "description": "Cowardly bailing out of a difficult course right before the drop deadline to artificially protect your fragile grade point average.",
+        "related_german_words": ["zurücktreten", "abmelden"]
+      },
+      {
+        "semantic_key": "education-outdated",
+        "description": "The precise state of roughly 90 percent of the expensive curriculum you are currently forced to memorize and regurgitate.",
+        "related_german_words": ["veraltet", "überholt"]
+      },
+      {
+        "semantic_key": "education-rigorous",
+        "description": "A corporate buzzword heavily used by elitist institutions to justify unreasonably heavy workloads and sadistically high failure rates.",
+        "related_german_words": ["rigoros", "strikt"]
+      },
+      {
+        "semantic_key": "education-tedious",
+        "description": "The grueling, highly repetitive nature of academic busywork that slowly and systematically drains your will to live.",
+        "related_german_words": ["mühsam", "ermüdend"]
+      },
+      {
+        "semantic_key": "education-competitive",
+        "description": "The highly toxic atmosphere where peers secretly hope you fail miserably so they look slightly better on the grading curve.",
+        "related_german_words": ["kompetitiv", "wettbewerbsorientiert"]
+      },
+      {
+        "semantic_key": "education-isolated",
+        "description": "The extremely lonely reality of sitting in your room studying for weeks on end while your non-academic friends actually enjoy their youth.",
+        "related_german_words": ["isoliert", "einsam"]
+      },
+      {
+        "semantic_key": "education-overwhelming",
+        "description": "The exact feeling when you look at the syllabus on day one and realize you are mathematically and physically doomed.",
+        "related_german_words": ["überwältigend", "erdrückend"]
+      },
+      {
+        "semantic_key": "education-plagiarized",
+        "description": "The stolen intellectual property you pathetically attempt to pass off as your own due to sheer desperation and lack of preparation.",
+        "related_german_words": ["plagiiert"]
+      },
+      {
+        "semantic_key": "education-supervised",
+        "description": "Being constantly watched and micromanaged by a proctor who assumes you will blatantly cheat the very moment they look away.",
+        "related_german_words": ["betreut", "beaufsichtigt"]
+      },
+      {
+        "semantic_key": "education-unsupervised",
+        "description": "A highly dangerous state of freedom where students immediately revert to their most lazy, unproductive, and destructive habits.",
+        "related_german_words": ["unbeaufsichtigt"]
+      },
+      {
+        "semantic_key": "education-oral_exam",
+        "description": "A terrifying, face-to-face interrogation where your natural nervousness is routinely and unfairly mistaken for total incompetence.",
+        "related_german_words": ["mündliche Prüfung"]
+      },
+      {
+        "semantic_key": "education-bulletin_board",
+        "description": "A physical wall entirely covered in layers of obsolete flyers and desperate requests for tutoring from failing students.",
+        "related_german_words": ["Schwarzes Brett", "Pinnwand"]
+      },
+      {
+        "semantic_key": "education-hallway",
+        "description": "The sterile liminal space between tortures, filled with highly anxious students competitively comparing how little they slept.",
+        "related_german_words": ["Flur", "Korridor"]
+      },
+      {
+        "semantic_key": "education-locker",
+        "description": "A incredibly small, rented metal box that constantly jams and smells vaguely of forgotten food and gym clothes.",
+        "related_german_words": ["Spind", "Schließfach"]
+      },
+      {
+        "semantic_key": "education-kindergarten",
+        "description": "The absolute only phase of the educational system where learning was actually permitted to be fun before the brutal sorting mechanism began.",
+        "related_german_words": ["Kindergarten"]
+      },
+      {
+        "semantic_key": "education-primary_school",
+        "description": "The institution where your natural human curiosity was systematically dismantled and fully replaced with strict compliance training.",
+        "related_german_words": ["Grundschule"]
+      },
+      {
+        "semantic_key": "education-high_school",
+        "description": "The heavily pressurized holding pen where insecure adolescents are judged entirely on their ability to conform and memorize.",
+        "related_german_words": ["Gymnasium", "Oberschule"]
+      },
+      {
+        "semantic_key": "education-extracurricular",
+        "description": "Unpaid, highly annoying side quests you are heavily pressured to complete just to pad your resume for ruthless admissions officers.",
+        "related_german_words": ["außerschulisch"]
+      },
+      {
+        "semantic_key": "education-detention",
+        "description": "A highly primitive form of institutional imprisonment used to punish minor infractions and establish total, unquestioned authority.",
+        "related_german_words": ["Nachsitzen"]
+      },
+      {
+        "semantic_key": "education-bully",
+        "description": "The apex predator of the schoolyard whose unchecked psychological damage will likely cost you thousands of dollars in therapy later in life.",
+        "related_german_words": ["Tyrann", "Mobber"]
+      },
+      {
+        "semantic_key": "education-nerd",
+        "description": "The socially isolated overachiever who sacrifices all peer respect for grades that ultimately won't guarantee them happiness or success.",
+        "related_german_words": ["Streber"]
+      },
+      {
+        "semantic_key": "education-janitor",
+        "description": "The entirely unseen, underpaid backbone of the school who quietly cleans up the disgusting messes left by highly entitled students.",
+        "related_german_words": ["Hausmeister"]
+      },
+      {
+        "semantic_key": "education-secretary",
+        "description": "The true, undisputed power broker of the faculty; cross them, and your essential paperwork will mysteriously and permanently disappear.",
+        "related_german_words": ["Sekretärin", "Sekretär"]
+      },
+      {
+        "semantic_key": "education-bell",
+        "description": "The shrill, Pavlovian auditory trigger that commands you to transition mindlessly from one entirely irrelevant subject to the next.",
+        "related_german_words": ["Schulklingel", "Klingel"]
+      },
+      {
+        "semantic_key": "education-vacation",
+        "description": "The singular reason teachers tolerate their miserable profession, and the only time students actually recover a fraction of their sanity.",
+        "related_german_words": ["Ferien", "Urlaub"]
+      },
+      {
+        "semantic_key": "education-weekend",
+        "description": "A remarkably brief two-day illusion of freedom usually completely ruined by the looming dread of Monday's heavy assignments.",
+        "related_german_words": ["Wochenende"]
+      },
+      {
+        "semantic_key": "education-knowledge",
+        "description": "What you mistakenly and naively thought you were paying for, rather than just an overpriced credential for the job market.",
+        "related_german_words": ["Wissen", "Kenntnis"]
+      },
+      {
+        "semantic_key": "education-wisdom",
+        "description": "A highly valuable human trait entirely absent from the modern university curriculum, which solely focuses on rigid data processing.",
+        "related_german_words": ["Weisheit"]
+      },
+      {
+        "semantic_key": "education-skill",
+        "description": "A practical, highly marketable asset that you will inevitably have to acquire entirely outside of your expensive formal classes.",
+        "related_german_words": ["Fähigkeit", "Fertigkeit"]
+      },
+      {
+        "semantic_key": "education-memorization",
+        "description": "The absolute primary metric of success in a deeply broken system that heavily punishes out-of-the-box thinking and creative problem-solving.",
+        "related_german_words": ["Auswendiglernen"]
+      },
+      {
+        "semantic_key": "education-question",
+        "description": "A risky public invitation for the professor to either deeply belittle your understanding or go off on a totally irrelevant tangent.",
+        "related_german_words": ["Frage"]
+      },
+      {
+        "semantic_key": "education-guess",
+        "description": "The absolute primary strategy actively employed by students when facing a poorly constructed, highly ambiguous exam prompt.",
+        "related_german_words": ["raten", "schätzen"]
+      },
+      {
+        "semantic_key": "education-summarization",
+        "description": "The highly necessary survival art of reducing a 500-page, bloated textbook into the 10 bullet points that actually matter for the test.",
+        "related_german_words": ["Zusammenfassung"]
+      },
+      {
+        "semantic_key": "education-draft",
+        "description": "The incredibly messy, highly embarrassing first attempt at writing that you desperately pray no one ever accidentally reads.",
+        "related_german_words": ["Entwurf"]
+      },
+      {
+        "semantic_key": "education-proofread",
+        "description": "Staring at your own garbage writing until the words lose all meaning, yet somehow still missing the most obvious typo on page one.",
+        "related_german_words": ["Korrektur lesen"]
+      },
+      {
+        "semantic_key": "education-submit",
+        "description": "The terrifying, irreversible final click where you surrender your deeply flawed work to the ruthless, subjective judgment of the evaluator.",
+        "related_german_words": ["einreichen", "abgeben"]
+      },
+      {
+        "semantic_key": "education-enroll",
+        "description": "Voluntarily entering a binding, multi-year contract of extreme financial debt, constant stress, and heavy sleep deprivation.",
+        "related_german_words": ["einschreiben", "immatrikulieren"]
+      },
+      {
+        "semantic_key": "education-auditor",
+        "description": "Someone who actually attends lectures purely for learning rather than credits, viewed with deep suspicion by the transactional system.",
+        "related_german_words": ["Gasthörer"]
+      },
+      {
+        "semantic_key": "education-certificate",
+        "description": "A lesser piece of paper often bought from online bootcamps in a desperate, expensive bid to remain relevant in a shifting economy.",
+        "related_german_words": ["Zertifikat", "Bescheinigung"]
+      },
+      {
+        "semantic_key": "education-alumnus",
+        "description": "You, in five years, getting automated, annoying emails begging for money from an institution with a billion-dollar endowment.",
+        "related_german_words": ["Alumnus", "Ehemaliger"]
+      },
+      {
+        "semantic_key": "education-flunk",
+        "description": "Failing so utterly and spectacularly that it requires a total, highly depressing re-evaluation of your life choices and intellect.",
+        "related_german_words": ["durchfliegen", "rasseln"]
+      },
+      {
+        "semantic_key": "education-cramming",
+        "description": "The incredibly desperate, cortisol-fueled act of trying to beat the academic system through sheer brute-force sleep deprivation.",
+        "related_german_words": ["Pauken"]
+      },
+      {
+        "semantic_key": "education-procrastination",
+        "description": "The absolute silent killer of academic dreams, heavily fueled by cheap digital dopamine and a false, arrogant sense of security.",
+        "related_german_words": ["Aufschieberitis"]
+      },
+      {
+        "semantic_key": "education-distraction",
+        "description": "Literally anything and everything in your environment that is not the mind-numbing task you are currently supposed to be doing.",
+        "related_german_words": ["Ablenkung"]
+      },
+      {
+        "semantic_key": "education-focus",
+        "description": "A mythical, highly sought-after state of deep work that is completely impossible to achieve in a modern, smartphone-addicted world.",
+        "related_german_words": ["Fokus"]
+      },
+      {
+        "semantic_key": "education-concentration",
+        "description": "A rapidly depleting cognitive resource that vanishes entirely after the first twenty minutes of a staggeringly boring lecture.",
+        "related_german_words": ["Konzentration"]
+      },
+      {
+        "semantic_key": "education-exhaustion",
+        "description": "The heavy physical and mental tax routinely collected by the institution simply for daring to seek a higher degree.",
+        "related_german_words": ["Erschöpfung"]
+      },
+      {
+        "semantic_key": "education-anxiety",
+        "description": "The permanent, underlying baseline psychological state of a modern student constantly worried about their highly uncertain future.",
+        "related_german_words": ["Prüfungsangst", "Angst"]
+      },
+      {
+        "semantic_key": "education-relief",
+        "description": "The fleeting, highly euphoric rush immediately following an exam, quickly and violently replaced by dread for the next one.",
+        "related_german_words": ["Erleichterung"]
+      },
+      {
+        "semantic_key": "education-pride",
+        "description": "The highly dangerous, irrational emotion that precedes a catastrophic failure simply because you vastly underestimated the material.",
+        "related_german_words": ["Stolz"]
+      },
+      {
+        "semantic_key": "education-shame",
+        "description": "The agonizing public humiliation of having your utter incompetence totally exposed in front of your judgmental peers.",
+        "related_german_words": ["Scham"]
+      },
+      {
+        "semantic_key": "education-arrogant",
+        "description": "The default, extremely annoying setting of a first-year student who thinks they know everything before taking their first real exam.",
+        "related_german_words": ["arrogant", "eingebildet"]
+      },
+      {
+        "semantic_key": "education-humble",
+        "description": "Exactly what you become after the academic system systematically and ruthlessly breaks down your ego over several long years.",
+        "related_german_words": ["bescheiden", "demütig"]
+      },
+      {
+        "semantic_key": "education-curious",
+        "description": "A rare, valuable trait that is usually beaten entirely out of students by endless standardized testing and highly rigid curriculums.",
+        "related_german_words": ["neugierig"]
+      },
+      {
+        "semantic_key": "education-apathetic",
+        "description": "The final, defense-mechanism state of a dead-eyed student who has been pushed entirely past their psychological breaking point.",
+        "related_german_words": ["apathisch", "gleichgültig"]
+      },
+      {
+        "semantic_key": "education-cynical",
+        "description": "The highly realistic, entirely justified worldview developed after observing how universities actually operate as ruthless businesses.",
+        "related_german_words": ["zynisch"]
+      },
+      {
+        "semantic_key": "education-expensive",
+        "description": "The core defining characteristic of modern higher education, successfully ensuring you start your adult life deeply in the negative.",
+        "related_german_words": ["teuer", "kostspielig"]
+      },
+      {
+        "semantic_key": "education-affordable",
+        "description": "A totally fictional word completely eradicated from the internal dictionary of higher education administrators decades ago.",
+        "related_german_words": ["erschwinglich", "bezahlbar"]
+      },
+      {
+        "semantic_key": "education-valuable",
+        "description": "A necessary trait for real-world survival that is shockingly and consistently absent from mandatory prerequisite academic courses.",
+        "related_german_words": ["wertvoll"]
+      },
+      {
+        "semantic_key": "education-worthless",
+        "description": "The actual, un-sugarcoated market value of an unspecialized arts degree in a heavily tech-driven, highly unforgiving economy.",
+        "related_german_words": ["wertlos"]
+      },
+      {
+        "semantic_key": "education-demanding",
+        "description": "A polite, institutional euphemism for a poorly structured course that will consume your entire life and destroy your physical health.",
+        "related_german_words": ["anspruchsvoll", "fordernd"]
+      },
+      {
+        "semantic_key": "education-lenient",
+        "description": "A broken professor who has completely given up on enforcing standards because fighting the administration is just too exhausting.",
+        "related_german_words": ["nachsichtig", "milde"]
+      },
+      {
+        "semantic_key": "education-strictness",
+        "description": "The entirely uncompromising application of rules, usually aggressively wielded by those lacking any actual teaching ability.",
+        "related_german_words": ["Strenge"]
+      },
+      {
+        "semantic_key": "education-fairness",
+        "description": "A complete illusion maintained by the institution; grading is entirely and inherently dependent on the evaluator's subjective mood.",
+        "related_german_words": ["Gerechtigkeit", "Fairness"]
+      },
+      {
+        "semantic_key": "education-bias",
+        "description": "The totally unspoken reality that professors heavily favor students who simply echo their own narrow opinions back to them.",
+        "related_german_words": ["Voreingenommenheit", "Befangenheit"]
+      },
+      {
+        "semantic_key": "education-memorizable",
+        "description": "Useless data that requires absolutely zero critical thinking, heavily favored by incredibly lazy examiners who hate grading essays.",
+        "related_german_words": ["auswendig lernbar"]
+      },
+      {
+        "semantic_key": "education-unintelligible",
+        "description": "The standard, highly convoluted prose style of most academic papers, deliberately used to mask a total lack of actual substance.",
+        "related_german_words": ["unverständlich"]
+      },
+      {
+        "semantic_key": "education-coherent",
+        "description": "A remarkably rare quality in a panicked student essay rapidly written at 3 AM the night before it is finally due.",
+        "related_german_words": ["zusammenhängend", "kohärent"]
+      },
+      {
+        "semantic_key": "education-rambling",
+        "description": "Desperately trying to hit the mandatory word count by saying the exact same useless thing in five completely different ways.",
+        "related_german_words": ["schweifend", "weitschweifig"]
+      },
+      {
+        "semantic_key": "education-concise",
+        "description": "Writing that gets straight to the point, which is ironically and routinely penalized by professors for simply not being long enough.",
+        "related_german_words": ["prägnant", "kurz und bündig"]
+      },
+      {
+        "semantic_key": "education-academic",
+        "description": "Completely divorced from brutal reality, overly theoretical, and largely irrelevant to absolutely anyone outside the university bubble.",
+        "related_german_words": ["akademisch"]
+      },
+      {
+        "semantic_key": "education-professional",
+        "description": "The stark, highly unforgiving reality of the actual workplace that your university left you entirely unprepared for upon graduation.",
+        "related_german_words": ["professionell", "beruflich"]
+      },
+      {
+        "semantic_key": "education-amateur",
+        "description": "The incredibly low quality of work routinely accepted by universities that would get you instantly fired in the real world.",
+        "related_german_words": ["amateurhaft", "laienhaft"]
+      }
+    ]
+  }
+]

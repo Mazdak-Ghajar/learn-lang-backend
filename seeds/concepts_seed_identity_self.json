@@ -8,139 +8,1274 @@
         "related_german_words": ["Name", "Bezeichnung"]
       },
       {
-        "semantic_key": "identity-first_name",
-        "description": "A personal name given to someone at birth.",
-        "related_german_words": ["Vorname", "Rufname"]
+        "semantic_key": "identity-self-first_name",
+        "description": "The personal name given at birth or baptism.",
+        "related_german_words": ["Vorname"]
       },
       {
-        "semantic_key": "identity-last_name",
-        "description": "A hereditary name common to all members of a family.",
+        "semantic_key": "identity-self-last_name",
+        "description": "The surname shared by family members.",
         "related_german_words": ["Nachname", "Familienname"]
       },
       {
-        "semantic_key": "identity-nickname",
-        "description": "A familiar or humorous name given to a person instead of their real name.",
-        "related_german_words": ["Spitzname", "Kosename"]
+        "semantic_key": "identity-self-maiden_name",
+        "description": "A woman's surname before marriage.",
+        "related_german_words": ["Mädchenname", "Geburtsname"]
       },
       {
-        "semantic_key": "identity-age",
-        "description": "The length of time that a person has lived.",
-        "related_german_words": ["Alter", "Lebensalter"]
+        "semantic_key": "identity-self-nickname",
+        "description": "A familiar or humorous name given to a person.",
+        "related_german_words": ["Spitzname"]
       },
       {
-        "semantic_key": "identity-gender",
-        "description": "The state of being male, female, or another classification.",
-        "related_german_words": ["Geschlecht", "Sexus"]
+        "semantic_key": "identity-self-pseudonym",
+        "description": "A fictitious name, especially one used by an author.",
+        "related_german_words": ["Pseudonym", "Künstlername"]
       },
       {
-        "semantic_key": "identity-man",
-        "description": "An adult male human being.",
-        "related_german_words": ["Mann", "Herr", "Kerl"]
+        "semantic_key": "identity-self-to_be_called",
+        "description": "To have a specific name.",
+        "related_german_words": ["heißen"]
       },
       {
-        "semantic_key": "identity-woman",
-        "description": "An adult female human being.",
-        "related_german_words": ["Frau", "Dame"]
+        "semantic_key": "identity-self-to_introduce_oneself",
+        "description": "To present oneself to another person.",
+        "related_german_words": ["sich vorstellen"]
       },
       {
-        "semantic_key": "identity-child",
-        "description": "A young human being below the age of puberty.",
-        "related_german_words": ["Kind", "Kleinkind"]
+        "semantic_key": "identity-self-to_spell",
+        "description": "To say or write the letters of a name in order.",
+        "related_german_words": ["buchstabieren"]
       },
       {
-        "semantic_key": "identity-boy",
-        "description": "A male child or young man.",
-        "related_german_words": ["Junge", "Knabe"]
+        "semantic_key": "identity-self-to_sign",
+        "description": "To write one's name on a document to authorize it.",
+        "related_german_words": ["unterschreiben", "signieren"]
       },
       {
-        "semantic_key": "identity-girl",
-        "description": "A female child or young woman.",
-        "related_german_words": ["Mädchen", "Mädel"]
+        "semantic_key": "identity-self-salutation",
+        "description": "A formal greeting used in letters or speech.",
+        "related_german_words": ["Anrede"]
       },
       {
-        "semantic_key": "identity-origin",
-        "description": "The point or place where a person begins, arises, or is derived from.",
-        "related_german_words": ["Herkunft", "Abstammung", "Ursprung"]
+        "semantic_key": "identity-self-title",
+        "description": "An academic or professional prefix (e.g., Dr., Prof.).",
+        "related_german_words": ["Titel"]
       },
       {
-        "semantic_key": "identity-nationality",
+        "semantic_key": "identity-self-gender",
+        "description": "The biological or social identity as male, female, or diverse.",
+        "related_german_words": ["Geschlecht"]
+      },
+      {
+        "semantic_key": "identity-self-male",
+        "description": "Of or denoting the male sex.",
+        "related_german_words": ["männlich"]
+      },
+      {
+        "semantic_key": "identity-self-female",
+        "description": "Of or denoting the female sex.",
+        "related_german_words": ["weiblich"]
+      },
+      {
+        "semantic_key": "identity-self-diverse",
+        "description": "A legal gender category for non-binary individuals.",
+        "related_german_words": ["divers"]
+      },
+      {
+        "semantic_key": "identity-self-age",
+        "description": "The number of years a person has lived.",
+        "related_german_words": ["Alter"]
+      },
+      {
+        "semantic_key": "identity-self-date_of_birth",
+        "description": "The specific day, month, and year a person was born.",
+        "related_german_words": ["Geburtsdatum"]
+      },
+      {
+        "semantic_key": "identity-self-place_of_birth",
+        "description": "The city or town where a person was born.",
+        "related_german_words": ["Geburtsort"]
+      },
+      {
+        "semantic_key": "identity-self-birthday",
+        "description": "The anniversary of the day a person was born.",
+        "related_german_words": ["Geburtstag"]
+      },
+      {
+        "semantic_key": "identity-self-underage",
+        "description": "Being below the legal age of majority.",
+        "related_german_words": ["minderjährig"]
+      },
+      {
+        "semantic_key": "identity-self-of_age",
+        "description": "Having reached the legal age of majority (18+).",
+        "related_german_words": ["volljährig"]
+      },
+      {
+        "semantic_key": "identity-self-nationality",
         "description": "The status of belonging to a particular nation.",
-        "related_german_words": ["Nationalität", "Staatsangehörigkeit", "Bürgerschaft"]
+        "related_german_words": ["Staatsangehörigkeit", "Nationalität"]
       },
       {
-        "semantic_key": "identity-language",
-        "description": "The principal method of human communication, consisting of words.",
-        "related_german_words": ["Sprache", "Muttersprache", "Fremdsprache"]
+        "semantic_key": "identity-self-citizenship",
+        "description": "The legal right to belong to a country.",
+        "related_german_words": ["Staatsbürgerschaft"]
       },
       {
-        "semantic_key": "identity-family",
-        "description": "A group of one or more parents and their children living together as a unit.",
-        "related_german_words": ["Familie", "Verwandtschaft"]
+        "semantic_key": "identity-self-origin",
+        "description": "The country or background a person comes from.",
+        "related_german_words": ["Herkunft"]
       },
       {
-        "semantic_key": "identity-mother",
-        "description": "A female parent.",
-        "related_german_words": ["Mutter", "Mama"]
+        "semantic_key": "identity-self-homeland",
+        "description": "The country where a person was born or feels at home.",
+        "related_german_words": ["Heimat", "Heimatland"]
       },
       {
-        "semantic_key": "identity-father",
-        "description": "A male parent.",
-        "related_german_words": ["Vater", "Papa"]
+        "semantic_key": "identity-self-mother_tongue",
+        "description": "The first language learned in childhood.",
+        "related_german_words": ["Muttersprache"]
       },
       {
-        "semantic_key": "identity-parents",
-        "description": "A person's father or mother.",
-        "related_german_words": ["Eltern", "Elternteile"]
+        "semantic_key": "identity-self-foreign_language",
+        "description": "A language that is not the person's native tongue.",
+        "related_german_words": ["Fremdsprache"]
       },
       {
-        "semantic_key": "identity-siblings",
-        "description": "Each of two or more children having one or both parents in common.",
-        "related_german_words": ["Geschwister"]
+        "semantic_key": "identity-self-migrant_background",
+        "description": "Having a family history of immigration.",
+        "related_german_words": ["Migrationshintergrund"]
       },
       {
-        "semantic_key": "identity-brother",
-        "description": "A man or boy in relation to other sons and daughters of his parents.",
-        "related_german_words": ["Bruder"]
+        "semantic_key": "identity-self-foreigner",
+        "description": "A person who comes from a different country.",
+        "related_german_words": ["Ausländer"]
       },
       {
-        "semantic_key": "identity-sister",
-        "description": "A woman or girl in relation to other daughters and sons of her parents.",
-        "related_german_words": ["Schwester"]
+        "semantic_key": "identity-self-native",
+        "description": "A person born in a specific place or country.",
+        "related_german_words": ["Einheimischer"]
       },
       {
-        "semantic_key": "identity-marital_status",
-        "description": "A person's state of being single, married, separated, divorced, or widowed.",
-        "related_german_words": ["Familienstand", "Zivilstand"]
+        "semantic_key": "identity-self-to_come_from",
+        "description": "To have one's place of origin in a specific country/city.",
+        "related_german_words": ["stammen", "herkommen"]
       },
       {
-        "semantic_key": "identity-single",
-        "description": "Unmarried or not involved in a stable romantic relationship.",
-        "related_german_words": ["ledig", "alleinstehend", "unverheiratet"]
+        "semantic_key": "identity-self-marital_status",
+        "description": "The legal state of being married or single.",
+        "related_german_words": ["Familienstand"]
       },
       {
-        "semantic_key": "identity-married",
-        "description": "Joined in marriage.",
-        "related_german_words": ["verheiratet", "vermählt"]
+        "semantic_key": "identity-self-single",
+        "description": "Not being married or in a legal partnership.",
+        "related_german_words": ["ledig"]
       },
       {
-        "semantic_key": "identity-divorced",
-        "description": "Legally dissolve one's marriage with someone.",
-        "related_german_words": ["geschieden", "getrennt"]
+        "semantic_key": "identity-self-married",
+        "description": "Legally joined in marriage.",
+        "related_german_words": ["verheiratet"]
       },
       {
-        "semantic_key": "identity-friend",
-        "description": "A person whom one knows and with whom one has a bond of mutual affection.",
-        "related_german_words": ["Freund", "Bekannter", "Kumpel"]
+        "semantic_key": "identity-self-divorced",
+        "description": "No longer married after a legal dissolution.",
+        "related_german_words": ["geschieden"]
       },
       {
-        "semantic_key": "identity-character",
+        "semantic_key": "identity-self-widowed",
+        "description": "Having lost a spouse through death.",
+        "related_german_words": ["verwitwet"]
+      },
+      {
+        "semantic_key": "identity-self-engaged",
+        "description": "Having promised to marry someone.",
+        "related_german_words": ["verlobt"]
+      },
+      {
+        "semantic_key": "identity-self-separated",
+        "description": "Living apart while still legally married.",
+        "related_german_words": ["getrenntlebend"]
+      },
+      {
+        "semantic_key": "identity-self-id_card",
+        "description": "An official document proving a person's identity.",
+        "related_german_words": ["Personalausweis", "Ausweis"]
+      },
+      {
+        "semantic_key": "identity-self-passport",
+        "description": "A document for international travel issued by a government.",
+        "related_german_words": ["Reisepass", "Pass"]
+      },
+      {
+        "semantic_key": "identity-self-visa",
+        "description": "An endorsement on a passport allowing entry to a country.",
+        "related_german_words": ["Visum"]
+      },
+      {
+        "semantic_key": "identity-self-residence_permit",
+        "description": "A legal document allowing a foreigner to live in a country.",
+        "related_german_words": ["Aufenthaltstitel", "Aufenthaltserlaubnis"]
+      },
+      {
+        "semantic_key": "identity-self-drivers_license",
+        "description": "A permit allowing one to operate a motor vehicle.",
+        "related_german_words": ["Führerschein"]
+      },
+      {
+        "semantic_key": "identity-self-birth_certificate",
+        "description": "A document recording the details of a person's birth.",
+        "related_german_words": ["Geburtsurkunde"]
+      },
+      {
+        "semantic_key": "identity-self-signature",
+        "description": "A person's name written in a distinctive way.",
+        "related_german_words": ["Unterschrift"]
+      },
+      {
+        "semantic_key": "identity-self-id_number",
+        "description": "A unique sequence of numbers on an identity document.",
+        "related_german_words": ["Ausweisnummer"]
+      },
+      {
+        "semantic_key": "identity-self-tax_id",
+        "description": "A unique number for tax purposes.",
+        "related_german_words": ["Steueridentifikationsnummer", "Steuer-ID"]
+      },
+      {
+        "semantic_key": "identity-self-social_security_number",
+        "description": "A number used for social insurance and pension.",
+        "related_german_words": ["Rentenversicherungsnummer"]
+      },
+      {
+        "semantic_key": "identity-self-health_insurance_card",
+        "description": "A card proving medical insurance coverage.",
+        "related_german_words": ["Versichertenkarte", "Gesundheitskarte"]
+      },
+      {
+        "semantic_key": "identity-self-height",
+        "description": "The measurement of how tall a person is.",
+        "related_german_words": ["Körpergröße"]
+      },
+      {
+        "semantic_key": "identity-self-weight",
+        "description": "The measurement of how heavy a person is.",
+        "related_german_words": ["Gewicht"]
+      },
+      {
+        "semantic_key": "identity-self-eye_color",
+        "description": "The pigmentation of a person's irises.",
+        "related_german_words": ["Augenfarbe"]
+      },
+      {
+        "semantic_key": "identity-self-hair_color",
+        "description": "The natural color of a person's hair.",
+        "related_german_words": ["Haarfarbe"]
+      },
+      {
+        "semantic_key": "identity-self-glasses",
+        "description": "Corrective lenses worn on the face.",
+        "related_german_words": ["Brille"]
+      },
+      {
+        "semantic_key": "identity-self-beard",
+        "description": "Hair growing on the chin and lower cheeks.",
+        "related_german_words": ["Bart"]
+      },
+      {
+        "semantic_key": "identity-self-tattoo",
+        "description": "A permanent design made on the skin with ink.",
+        "related_german_words": ["Tätowierung", "Tattoo"]
+      },
+      {
+        "semantic_key": "identity-self-scar",
+        "description": "A mark left on the skin after an injury has healed.",
+        "related_german_words": ["Narbe"]
+      },
+      {
+        "semantic_key": "identity-self-bald",
+        "description": "Having no hair on the head.",
+        "related_german_words": ["glatzköpfig"]
+      },
+      {
+        "semantic_key": "identity-self-curly",
+        "description": "Hair that grows in spirals or waves.",
+        "related_german_words": ["lockig"]
+      },
+      {
+        "semantic_key": "identity-self-straight_hair",
+        "description": "Hair with no curls or waves.",
+        "related_german_words": ["glatt"]
+      },
+      {
+        "semantic_key": "identity-self-blond",
+        "description": "Having fair or pale yellow hair.",
+        "related_german_words": ["blond"]
+      },
+      {
+        "semantic_key": "identity-self-brunette",
+        "description": "Having brown hair.",
+        "related_german_words": ["brünett"]
+      },
+      {
+        "semantic_key": "identity-self-personal_address",
+        "description": "The place where a person lives.",
+        "related_german_words": ["Anschrift", "Adresse"]
+      },
+      {
+        "semantic_key": "identity-self-street",
+        "description": "The specific road in an address.",
+        "related_german_words": ["Straße"]
+      },
+      {
+        "semantic_key": "identity-self-house_number",
+        "description": "The specific number of a building.",
+        "related_german_words": ["Hausnummer"]
+      },
+      {
+        "semantic_key": "identity-self-postal_code",
+        "description": "The numerical code for a mail delivery area.",
+        "related_german_words": ["Postleitzahl", "PLZ"]
+      },
+      {
+        "semantic_key": "identity-self-city",
+        "description": "The town or city of residence.",
+        "related_german_words": ["Wohnort", "Stadt"]
+      },
+      {
+        "semantic_key": "identity-self-phone_number",
+        "description": "The sequence of digits to call a person.",
+        "related_german_words": ["Telefonnummer", "Rufnummer"]
+      },
+      {
+        "semantic_key": "identity-self-mobile_number",
+        "description": "The number for a cellular phone.",
+        "related_german_words": ["Handynummer", "Mobilnummer"]
+      },
+      {
+        "semantic_key": "identity-self-email",
+        "description": "The digital address for electronic mail.",
+        "related_german_words": ["E-Mail-Adresse"]
+      },
+      {
+        "semantic_key": "identity-self-occupation",
+        "description": "A person's job or profession.",
+        "related_german_words": ["Beruf"]
+      },
+      {
+        "semantic_key": "identity-self-employer",
+        "description": "The company or person one works for.",
+        "related_german_words": ["Arbeitgeber"]
+      },
+      {
+        "semantic_key": "identity-self-employee",
+        "description": "A person who works for a company.",
+        "related_german_words": ["Arbeitnehmer"]
+      },
+      {
+        "semantic_key": "identity-self-self_employed",
+        "description": "Working for oneself rather than an employer.",
+        "related_german_words": ["selbstständig"]
+      },
+      {
+        "semantic_key": "identity-self-unemployed",
+        "description": "Currently without a job.",
+        "related_german_words": ["arbeitslos"]
+      },
+      {
+        "semantic_key": "identity-self-retired",
+        "description": "Having stopped working because of age.",
+        "related_german_words": ["pensioniert", "im Ruhestand"]
+      },
+      {
+        "semantic_key": "identity-self-student",
+        "description": "A person studying at a university.",
+        "related_german_words": ["Student"]
+      },
+      {
+        "semantic_key": "identity-self-pupil",
+        "description": "A person studying at a school.",
+        "related_german_words": ["Schüler"]
+      },
+      {
+        "semantic_key": "identity-self-religion",
+        "description": "A particular system of faith and worship.",
+        "related_german_words": ["Religion", "Glaube"]
+      },
+      {
+        "semantic_key": "identity-self-religious",
+        "description": "Relating to or believing in a religion.",
+        "related_german_words": ["religiös", "gläubig"]
+      },
+      {
+        "semantic_key": "identity-self-atheist",
+        "description": "A person who does not believe in a god.",
+        "related_german_words": ["Atheist"]
+      },
+      {
+        "semantic_key": "identity-self-friendly",
+        "description": "Kind and pleasant.",
+        "related_german_words": ["freundlich"]
+      },
+      {
+        "semantic_key": "identity-self-honest",
+        "description": "Telling the truth and not cheating.",
+        "related_german_words": ["ehrlich"]
+      },
+      {
+        "semantic_key": "identity-self-reliable",
+        "description": "Consistently good in quality or performance; trustworthy.",
+        "related_german_words": ["zuverlässig"]
+      },
+      {
+        "semantic_key": "identity-self-punctual",
+        "description": "Doing something at the agreed time.",
+        "related_german_words": ["pünktlich"]
+      },
+      {
+        "semantic_key": "identity-self-polite",
+        "description": "Having good manners.",
+        "related_german_words": ["höflich"]
+      },
+      {
+        "semantic_key": "identity-self-patient",
+        "description": "Able to accept delays or problems without becoming annoyed.",
+        "related_german_words": ["geduldig"]
+      },
+      {
+        "semantic_key": "identity-self-impatient",
+        "description": "Easily annoyed by waiting or delays.",
+        "related_german_words": ["ungeduldig"]
+      },
+      {
+        "semantic_key": "identity-self-creative",
+        "description": "Having the ability to produce original ideas.",
+        "related_german_words": ["kreativ"]
+      },
+      {
+        "semantic_key": "identity-self-hardworking",
+        "description": "Putting a lot of effort into work.",
+        "related_german_words": ["fleißig"]
+      },
+      {
+        "semantic_key": "identity-self-lazy",
+        "description": "Unwilling to work or use energy.",
+        "related_german_words": ["faul"]
+      },
+      {
+        "semantic_key": "identity-self-brave",
+        "description": "Ready to face and endure danger or pain.",
+        "related_german_words": ["mutig"]
+      },
+      {
+        "semantic_key": "identity-self-shy",
+        "description": "Being reserved or nervous in the company of others.",
+        "related_german_words": ["schüchtern"]
+      },
+      {
+        "semantic_key": "identity-self-open_minded",
+        "description": "Willing to consider new ideas.",
+        "related_german_words": ["offen"]
+      },
+      {
+        "semantic_key": "identity-self-sociable",
+        "description": "Willing to talk and engage with others.",
+        "related_german_words": ["kontaktfreudig"]
+      },
+      {
+        "semantic_key": "identity-self-serious",
+        "description": "Acting with careful consideration rather than humor.",
+        "related_german_words": ["ernst"]
+      },
+      {
+        "semantic_key": "identity-self-funny",
+        "description": "Causing laughter or amusement.",
+        "related_german_words": ["lustig", "witzig"]
+      },
+      {
+        "semantic_key": "identity-self-arrogant",
+        "description": "Having an exaggerated sense of one's own importance.",
+        "related_german_words": ["arrogant"]
+      },
+      {
+        "semantic_key": "identity-self-modest",
+        "description": "Unassuming in the estimation of one's abilities.",
+        "related_german_words": ["bescheiden"]
+      },
+      {
+        "semantic_key": "identity-self-calm",
+        "description": "Not showing or feeling nervousness or anger.",
+        "related_german_words": ["ruhig"]
+      },
+      {
+        "semantic_key": "identity-self-nervous",
+        "description": "Easily agitated or alarmed.",
+        "related_german_words": ["nervös"]
+      },
+      {
+        "semantic_key": "identity-self-confident",
+        "description": "Feeling sure of oneself and one's abilities.",
+        "related_german_words": ["selbstbewusst"]
+      },
+      {
+        "semantic_key": "identity-self-insecure",
+        "description": "Lacking confidence and being uncertain about oneself.",
+        "related_german_words": ["unsicher"]
+      },
+      {
+        "semantic_key": "identity-self-intelligent",
+        "description": "Having high mental capacity.",
+        "related_german_words": ["intelligent", "klug"]
+      },
+      {
+        "semantic_key": "identity-self-naive",
+        "description": "Showing a lack of experience or wisdom.",
+        "related_german_words": ["naiv"]
+      },
+      {
+        "semantic_key": "identity-self-optimistic",
+        "description": "Hopeful and confident about the future.",
+        "related_german_words": ["optimistisch"]
+      },
+      {
+        "semantic_key": "identity-self-pessimistic",
+        "description": "Tending to see the worst aspect of things.",
+        "related_german_words": ["pessimistisch"]
+      },
+      {
+        "semantic_key": "identity-self-curious",
+        "description": "Eager to know or learn something.",
+        "related_german_words": ["neugierig"]
+      },
+      {
+        "semantic_key": "identity-self-disciplined",
+        "description": "Showing a controlled form of behavior.",
+        "related_german_words": ["diszipliniert"]
+      },
+      {
+        "semantic_key": "identity-self-helpful",
+        "description": "Giving or ready to give help.",
+        "related_german_words": ["hilfsbereit"]
+      },
+      {
+        "semantic_key": "identity-self-selfish",
+        "description": "Lacking consideration for others.",
+        "related_german_words": ["egoistisch"]
+      },
+      {
+        "semantic_key": "identity-self-generous",
+        "description": "Showing a readiness to give more than is necessary.",
+        "related_german_words": ["großzügig"]
+      },
+      {
+        "semantic_key": "identity-self-stingy",
+        "description": "Unwilling to give or spend money.",
+        "related_german_words": ["geizig"]
+      },
+      {
+        "semantic_key": "identity-self-organized",
+        "description": "Able to plan one's activities efficiently.",
+        "related_german_words": ["ordentlich"]
+      },
+      {
+        "semantic_key": "identity-self-disorganized",
+        "description": "Not properly planned or controlled.",
+        "related_german_words": ["unordentlich"]
+      },
+      {
+        "semantic_key": "identity-self-ambitious",
+        "description": "Having a strong desire for success.",
+        "related_german_words": ["ehrgeizig"]
+      },
+      {
+        "semantic_key": "identity-self-resilient",
+        "description": "Able to withstand or recover quickly from difficult conditions.",
+        "related_german_words": ["belastbar"]
+      },
+      {
+        "semantic_key": "identity-self-flexible",
+        "description": "Ready and able to change or adapt.",
+        "related_german_words": ["flexibel"]
+      },
+      {
+        "semantic_key": "identity-self-stubborn",
+        "description": "Unwilling to change one's mind or attitude.",
+        "related_german_words": ["stur", "dickköpfig"]
+      },
+      {
+        "semantic_key": "identity-self-tolerant",
+        "description": "Showing willingness to allow the existence of opinions one does not agree with.",
+        "related_german_words": ["tolerant"]
+      },
+      {
+        "semantic_key": "identity-self-loyal",
+        "description": "Giving or showing firm support or allegiance.",
+        "related_german_words": ["loyal"]
+      },
+      {
+        "semantic_key": "identity-self-direct",
+        "description": "Straightforward in communication.",
+        "related_german_words": ["direkt"]
+      },
+      {
+        "semantic_key": "identity-self-diplomatic",
+        "description": "Deft and tactful in dealing with people.",
+        "related_german_words": ["diplomatisch"]
+      },
+      {
+        "semantic_key": "identity-self-emotional",
+        "description": "Having feelings that are easily excited.",
+        "related_german_words": ["emotional"]
+      },
+      {
+        "semantic_key": "identity-self-rational",
+        "description": "Based on or in accordance with reason or logic.",
+        "related_german_words": ["sachlich", "rational"]
+      },
+      {
+        "semantic_key": "identity-self-active",
+        "description": "Engaging or ready to engage in physical or mental energy.",
+        "related_german_words": ["aktiv"]
+      },
+      {
+        "semantic_key": "identity-self-sporty",
+        "description": "Fond of or good at sport.",
+        "related_german_words": ["sportlich"]
+      },
+      {
+        "semantic_key": "identity-self-username",
+        "description": "A unique name used to identify a person on a computer or network.",
+        "related_german_words": ["Benutzername"]
+      },
+      {
+        "semantic_key": "identity-self-password",
+        "description": "A secret word or phrase used to gain access.",
+        "related_german_words": ["Passwort"]
+      },
+      {
+        "semantic_key": "identity-self-avatar",
+        "description": "An icon or figure representing a person in a digital context.",
+        "related_german_words": ["Avatar"]
+      },
+      {
+        "semantic_key": "identity-self-account",
+        "description": "A profile of a user on a website or service.",
+        "related_german_words": ["Benutzerkonto", "Account"]
+      },
+      {
+        "semantic_key": "identity-self-login",
+        "description": "The process of identifying oneself to a computer system.",
+        "related_german_words": ["Anmeldung", "Login"]
+      },
+      {
+        "semantic_key": "identity-self-charakter",
         "description": "The mental and moral qualities distinctive to an individual.",
-        "related_german_words": ["Charakter", "Persönlichkeit", "Wesen"]
+        "related_german_words": ["Charakter"]
       },
       {
-        "semantic_key": "identity-mood",
-        "description": "A temporary state of mind or feeling.",
-        "related_german_words": ["Laune", "Stimmung", "Gefühl"]
+        "semantic_key": "identity-self-personality",
+        "description": "The combination of characteristics that form an individual's distinctive character.",
+        "related_german_words": ["Persönlichkeit"]
+      },
+      {
+        "semantic_key": "identity-self-self_confidence",
+        "description": "A feeling of trust in one's abilities, qualities, and judgment.",
+        "related_german_words": ["Selbstvertrauen"]
+      },
+      {
+        "semantic_key": "identity-self-self_esteem",
+        "description": "Confidence in one's own worth or abilities.",
+        "related_german_words": ["Selbstwertgefühl"]
+      },
+      {
+        "semantic_key": "identity-self-ego",
+        "description": "A person's sense of self-esteem or self-importance.",
+        "related_german_words": ["Ego"]
+      },
+      {
+        "semantic_key": "identity-self-cv",
+        "description": "A summary of a person's education and work history.",
+        "related_german_words": ["Lebenslauf"]
+      },
+      {
+        "semantic_key": "identity-self-belonging",
+        "description": "A sense of being part of a group or place.",
+        "related_german_words": ["Zugehörigkeit"]
+      },
+      {
+        "semantic_key": "identity-self-resident",
+        "description": "A person who lives in a particular place.",
+        "related_german_words": ["Einwohner"]
+      },
+      {
+        "semantic_key": "identity-self-citizen",
+        "description": "A legally recognized subject of a state.",
+        "related_german_words": ["Bürger"]
+      },
+      {
+        "semantic_key": "identity-self-refugee",
+        "description": "A person who has been forced to leave their country.",
+        "related_german_words": ["Flüchtling", "Geflüchteter"]
+      },
+      {
+        "semantic_key": "identity-self-asylum_seeker",
+        "description": "A person who has left their home country as a political refugee and is seeking asylum.",
+        "related_german_words": ["Asylbewerber"]
+      },
+      {
+        "semantic_key": "identity-self-migrant",
+        "description": "A person who moves from one place to another, especially to find work.",
+        "related_german_words": ["Migrant"]
+      },
+      {
+        "semantic_key": "identity-self-adult",
+        "description": "A person who is fully grown or developed.",
+        "related_german_words": ["Erwachsener"]
+      },
+      {
+        "semantic_key": "identity-self-youth",
+        "description": "The period between childhood and adult age.",
+        "related_german_words": ["Jugendlicher"]
+      },
+      {
+        "semantic_key": "identity-self-senior",
+        "description": "An elderly person.",
+        "related_german_words": ["Senior"]
+      },
+      {
+        "semantic_key": "identity-self-retiree",
+        "description": "A person who has retired from work.",
+        "related_german_words": ["Rentner"]
+      },
+      {
+        "semantic_key": "identity-self-apprentice",
+        "description": "A person who is learning a trade from a skilled employer.",
+        "related_german_words": ["Auszubildender", "Azubi"]
+      },
+      {
+        "semantic_key": "identity-self-to_identify",
+        "description": "To establish or indicate who or what someone is.",
+        "related_german_words": ["identifizieren"]
+      },
+      {
+        "semantic_key": "identity-self-to_change_name",
+        "description": "To legally adopt a new name.",
+        "related_german_words": ["den Namen ändern"]
+      },
+      {
+        "semantic_key": "identity-self-to_belong",
+        "description": "To be a member or part of a group.",
+        "related_german_words": ["dazugehören"]
+      },
+      {
+        "semantic_key": "identity-self-profile_picture",
+        "description": "The image used to represent a user in an account.",
+        "related_german_words": ["Profilbild"]
+      },
+      {
+        "semantic_key": "identity-self-fingerprint",
+        "description": "The unique pattern of ridges on a human finger.",
+        "related_german_words": ["Fingerabdruck"]
+      },
+      {
+        "semantic_key": "identity-self-blood_type",
+        "description": "The classification of blood based on antibodies.",
+        "related_german_words": ["Blutgruppe"]
+      },
+      {
+        "semantic_key": "identity-self-parental_status",
+        "description": "Whether a person has children or not.",
+        "related_german_words": ["Elternschaft"]
+      },
+      {
+        "semantic_key": "identity-self-childless",
+        "description": "Having no children.",
+        "related_german_words": ["kinderlos"]
+      },
+      {
+        "semantic_key": "identity-self-pregnant",
+        "description": "Having a child developing in the uterus.",
+        "related_german_words": ["schwanger"]
+      },
+      {
+        "semantic_key": "identity-self-handicapped",
+        "description": "Having a physical or mental disability.",
+        "related_german_words": ["behindert"]
+      },
+      {
+        "semantic_key": "identity-self-vegetarian",
+        "description": "A person who does not eat meat.",
+        "related_german_words": ["Vegetarier"]
+      },
+      {
+        "semantic_key": "identity-self-vegan",
+        "description": "A person who does not eat or use animal products.",
+        "related_german_words": ["Veganer"]
+      },
+      {
+        "semantic_key": "identity-self-smoker",
+        "description": "A person who smokes tobacco regularly.",
+        "related_german_words": ["Raucher"]
+      },
+      {
+        "semantic_key": "identity-self-non_smoker",
+        "description": "A person who does not smoke.",
+        "related_german_words": ["Nichtraucher"]
+      },
+      {
+        "semantic_key": "identity-self-extroverted",
+        "description": "Outgoing and socially confident.",
+        "related_german_words": ["extrovertiert"]
+      },
+      {
+        "semantic_key": "identity-self-introverted",
+        "description": "Reserved or shy and enjoying time alone.",
+        "related_german_words": ["introvertiert"]
+      },
+      {
+        "semantic_key": "identity-self-talented",
+        "description": "Having a natural aptitude or skill.",
+        "related_german_words": ["begabt", "talentiert"]
+      },
+      {
+        "semantic_key": "identity-self-ambidextrous",
+        "description": "Able to use the right and left hands equally well.",
+        "related_german_words": ["beidhändig"]
+      },
+      {
+        "semantic_key": "identity-self-right_handed",
+        "description": "Using the right hand more naturally than the left.",
+        "related_german_words": ["Rechtshänder"]
+      },
+      {
+        "semantic_key": "identity-self-left_handed",
+        "description": "Using the left hand more naturally than the right.",
+        "related_german_words": ["Linkshänder"]
+      },
+      {
+        "semantic_key": "identity-self-unmarried_partner",
+        "description": "A person living with another in a romantic relationship without marriage.",
+        "related_german_words": ["Lebensgefährte"]
+      },
+      {
+        "semantic_key": "identity-self-guardian",
+        "description": "A person who has the legal right and duty to care for another.",
+        "related_german_words": ["Vormund"]
+      },
+      {
+        "semantic_key": "identity-self-orphan",
+        "description": "A child whose parents are dead.",
+        "related_german_words": ["Waise"]
+      },
+      {
+        "semantic_key": "identity-self-adoptive_child",
+        "description": "A child who has been legally taken by another family.",
+        "related_german_words": ["Adoptivkind"]
+      },
+      {
+        "semantic_key": "identity-self-stepchild",
+        "description": "A child of one's spouse by a previous marriage.",
+        "related_german_words": ["Stiefkind"]
+      },
+      {
+        "semantic_key": "identity-self-birth_name",
+        "description": "The name given to a person at birth, especially if different from the current name.",
+        "related_german_words": ["Geburtsname"]
+      },
+      {
+        "semantic_key": "identity-self-maiden_name_suffix",
+        "description": "The formal addition to a name indicating the former surname (geb.).",
+        "related_german_words": ["geboren"]
+      },
+      {
+        "semantic_key": "identity-self-official_name",
+        "description": "The name as recorded in official government documents.",
+        "related_german_words": ["amtlicher Name"]
+      },
+      {
+        "semantic_key": "identity-self-to_verify",
+        "description": "To prove that someone is who they say they are.",
+        "related_german_words": ["verifizieren", "bestätigen"]
+      },
+      {
+        "semantic_key": "identity-self-identity_theft",
+        "description": "The fraudulent acquisition and use of a person's private identifying information.",
+        "related_german_words": ["Identitätsdiebstahl"]
+      },
+      {
+        "semantic_key": "identity-self-to_hide_identity",
+        "description": "To keep one's true identity secret.",
+        "related_german_words": ["die Identität verbergen"]
+      },
+      {
+        "semantic_key": "identity-self-biometric",
+        "description": "Relating to the identification of humans by their characteristics or traits.",
+        "related_german_words": ["biometrisch"]
+      },
+      {
+        "semantic_key": "identity-self-face_recognition",
+        "description": "The identification of a person by a computer system from a digital image.",
+        "related_german_words": ["Gesichtserkennung"]
+      },
+      {
+        "semantic_key": "identity-self-registration_office",
+        "description": "The government office where one registers their address.",
+        "related_german_words": ["Einwohnermeldeamt", "Bürgeramt"]
+      },
+      {
+        "semantic_key": "identity-self-registration_document",
+        "description": "The official paper confirming a registered address.",
+        "related_german_words": ["Meldebescheinigung"]
+      },
+      {
+        "semantic_key": "identity-self-deregistration",
+        "description": "The process of canceling a registered address.",
+        "related_german_words": ["Abmeldung"]
+      },
+      {
+        "semantic_key": "identity-self-homeless",
+        "description": "A person without a settled home.",
+        "related_german_words": ["obdachlos"]
+      },
+      {
+        "semantic_key": "identity-self-digital_nomad",
+        "description": "A person who works remotely while traveling.",
+        "related_german_words": ["digitaler Nomade"]
+      },
+      {
+        "semantic_key": "identity-self-commuter",
+        "description": "A person who travels some distance to work on a regular basis.",
+        "related_german_words": ["Pendler"]
+      },
+      {
+        "semantic_key": "identity-self-professional_title",
+        "description": "A title given to someone based on their job (e.g., Meister).",
+        "related_german_words": ["Berufsbezeichnung"]
+      },
+      {
+        "semantic_key": "identity-self-rank",
+        "description": "A position in a hierarchy (e.g., in the military).",
+        "related_german_words": ["Rang"]
+      },
+      {
+        "semantic_key": "identity-self-status_symbol",
+        "description": "A possession that indicates a person's wealth or social importance.",
+        "related_german_words": ["Statussymbol"]
+      },
+      {
+        "semantic_key": "identity-self-reputation",
+        "description": "The beliefs or opinions that are generally held about someone.",
+        "related_german_words": ["Ruf", "Ansehen"]
+      },
+      {
+        "semantic_key": "identity-self-egoist",
+        "description": "A person who is self-centered and inconsiderate.",
+        "related_german_words": ["Egoist"]
+      },
+      {
+        "semantic_key": "identity-self-altruist",
+        "description": "A person who is unselfish and concerned with the welfare of others.",
+        "related_german_words": ["Altruist"]
+      },
+      {
+        "semantic_key": "identity-self-melancholic",
+        "description": "Feeling or expressing pensive sadness.",
+        "related_german_words": ["melancholisch"]
+      },
+      {
+        "semantic_key": "identity-self-choleric",
+        "description": "Bad-tempered or irritable.",
+        "related_german_words": ["cholerisch"]
+      },
+      {
+        "semantic_key": "identity-self-phlegmatic",
+        "description": "Having an unemotional and stolidly calm disposition.",
+        "related_german_words": ["phlegmatisch"]
+      },
+      {
+        "semantic_key": "identity-self-sanguine",
+        "description": "Optimistic or positive, especially in an apparently bad or difficult situation.",
+        "related_german_words": ["sanguinisch"]
+      },
+      {
+        "semantic_key": "identity-self-stubbornness",
+        "description": "The quality of being stubborn.",
+        "related_german_words": ["Sturheit"]
+      },
+      {
+        "semantic_key": "identity-self-honesty",
+        "description": "The quality of being honest.",
+        "related_german_words": ["Ehrlichkeit"]
+      },
+      {
+        "semantic_key": "identity-self-loyalty",
+        "description": "A strong feeling of support or allegiance.",
+        "related_german_words": ["Loyalität"]
+      },
+      {
+        "semantic_key": "identity-self-self_portrait",
+        "description": "A representation of an artist that is drawn or painted by that artist.",
+        "related_german_words": ["Selbstporträt"]
+      },
+      {
+        "semantic_key": "identity-self-mirror_image",
+        "description": "The image of oneself in a mirror.",
+        "related_german_words": ["Spiegelbild"]
+      },
+      {
+        "semantic_key": "identity-self-self_realization",
+        "description": "The fulfillment by oneself of the possibilities of one's character or personality.",
+        "related_german_words": ["Selbstverwirklichung"]
+      },
+      {
+        "semantic_key": "identity-self-self_sufficient",
+        "description": "Needing no outside help in satisfying one's basic needs.",
+        "related_german_words": ["autark", "selbstgenügsam"]
+      },
+      {
+        "semantic_key": "identity-self-to_disguise",
+        "description": "To change one's appearance to conceal one's identity.",
+        "related_german_words": ["sich verkleiden"]
+      },
+      {
+        "semantic_key": "identity-self-to_betray",
+        "description": "To be disloyal to one's self or beliefs.",
+        "related_german_words": ["sich selbst verraten"]
+      },
+      {
+        "semantic_key": "identity-self-to_reinvent_oneself",
+        "description": "To change one's identity or career completely.",
+        "related_german_words": ["sich neu erfinden"]
+      },
+      {
+        "semantic_key": "identity-self-personal_data",
+        "description": "Information about an identifiable person.",
+        "related_german_words": ["personenbezogene Daten"]
+      },
+      {
+        "semantic_key": "identity-self-privacy",
+        "description": "The state or condition of being free from being observed or disturbed by other people.",
+        "related_german_words": ["Privatsphäre"]
+      },
+      {
+        "semantic_key": "identity-self-data_protection",
+        "description": "Legal protection of personal data.",
+        "related_german_words": ["Datenschutz"]
+      },
+      {
+        "semantic_key": "identity-self-anonymous",
+        "description": "Not identified by name; of unknown name.",
+        "related_german_words": ["anonym"]
+      },
+      {
+        "semantic_key": "identity-self-verified",
+        "description": "Demonstrated to be true, accurate, or justified.",
+        "related_german_words": ["verifiziert"]
+      },
+      {
+        "semantic_key": "identity-self-fake_identity",
+        "description": "An identity that is false or assumed.",
+        "related_german_words": ["falsche Identität"]
+      },
+      {
+        "semantic_key": "identity-self-alter_ego",
+        "description": "A person's secondary or alternative personality.",
+        "related_german_words": ["Alter Ego"]
+      },
+      {
+        "semantic_key": "identity-self-self_discipline",
+        "description": "The ability to control one's feelings and overcome one's weaknesses.",
+        "related_german_words": ["Selbstdisziplin"]
+      },
+      {
+        "semantic_key": "identity-self-self_criticism",
+        "description": "The examination and evaluation of one's own actions and attitudes.",
+        "related_german_words": ["Selbstkritik"]
+      },
+      {
+        "semantic_key": "identity-self-perfectionist",
+        "description": "A person who refuses to accept any standard short of perfection.",
+        "related_german_words": ["Perfektionist"]
+      },
+      {
+        "semantic_key": "identity-self-individualist",
+        "description": "A person who is independent and self-reliant.",
+        "related_german_words": ["Individualist"]
+      },
+      {
+        "semantic_key": "identity-self-team_player",
+        "description": "A person who plays or works well as a member of a team.",
+        "related_german_words": ["Teamplayer"]
+      },
+      {
+        "semantic_key": "identity-self-leader",
+        "description": "The person who leads or commands a group.",
+        "related_german_words": ["Anführer", "Führungspersönlichkeit"]
+      },
+      {
+        "semantic_key": "identity-self-follower",
+        "description": "An adherent or devotee of a particular person, cause, or movement.",
+        "related_german_words": ["Mitläufer"]
+      },
+      {
+        "semantic_key": "identity-self-outsider",
+        "description": "A person who does not belong to a particular group.",
+        "related_german_words": ["Außenseiter"]
+      },
+      {
+        "semantic_key": "identity-self-to_stand_out",
+        "description": "To be easily noticeable or significantly better than others.",
+        "related_german_words": ["auffallen"]
+      },
+      {
+        "semantic_key": "identity-self-to_blend_in",
+        "description": "To look or seem the same as surrounding people.",
+        "related_german_words": ["untertauchen", "sich anpassen"]
+      },
+      {
+        "semantic_key": "identity-self-to_be_born",
+        "description": "To come into existence by birth.",
+        "related_german_words": ["geboren werden"]
+      },
+      {
+        "semantic_key": "identity-self-to_grow_up",
+        "description": "To advance from childhood to maturity.",
+        "related_german_words": ["aufwachsen"]
+      },
+      {
+        "semantic_key": "identity-self-to_immigrate",
+        "description": "To come to live permanently in a foreign country.",
+        "related_german_words": ["einwandern"]
+      },
+      {
+        "semantic_key": "identity-self-to_emigrate",
+        "description": "To leave one's own country in order to settle permanently in another.",
+        "related_german_words": ["auswandern"]
+      },
+      {
+        "semantic_key": "identity-self-to_naturalize",
+        "description": "To admit a foreigner to the citizenship of a country.",
+        "related_german_words": ["einbürgern"]
+      },
+      {
+        "semantic_key": "identity-self-birth_year",
+        "description": "The year in which a person was born.",
+        "related_german_words": ["Geburtsjahr"]
+      },
+      {
+        "semantic_key": "identity-self-childhood",
+        "description": "The state or period of being a child.",
+        "related_german_words": ["Kindheit"]
+      },
+      {
+        "semantic_key": "identity-self-adulthood",
+        "description": "The period of life when one is fully developed.",
+        "related_german_words": ["Erwachsenenalter"]
+      },
+      {
+        "semantic_key": "identity-self-puberty",
+        "description": "The period during which adolescents reach sexual maturity.",
+        "related_german_words": ["Pubertät"]
+      },
+      {
+        "semantic_key": "identity-self-old_age",
+        "description": "The later part of a normal life.",
+        "related_german_words": ["Greisenalter", "hohes Alter"]
+      },
+      {
+        "semantic_key": "identity-self-deceased",
+        "description": "No longer living.",
+        "related_german_words": ["verstorben"]
+      },
+      {
+        "semantic_key": "identity-self-inheritance",
+        "description": "A thing that is inherited, part of one's legal identity after a death.",
+        "related_german_words": ["Erbe"]
+      },
+      {
+        "semantic_key": "identity-self-heir",
+        "description": "A person legally entitled to the property or rank of another.",
+        "related_german_words": ["Erbe"]
+      },
+      {
+        "semantic_key": "identity-self-testament",
+        "description": "A will or legal document for one's identity's legacy.",
+        "related_german_words": ["Testament"]
+      },
+      {
+        "semantic_key": "identity-self-blood_relative",
+        "description": "A person related by birth rather than marriage.",
+        "related_german_words": ["Blutsverwandter"]
+      },
+      {
+        "semantic_key": "identity-self-distant_relative",
+        "description": "A relative who is not part of the immediate family.",
+        "related_german_words": ["entfernter Verwandter"]
+      },
+      {
+        "semantic_key": "identity-self-next_of_kin",
+        "description": "A person's closest living relative.",
+        "related_german_words": ["nächster Angehöriger"]
+      },
+      {
+        "semantic_key": "identity-self-marital_status_married_legal",
+        "description": "The formal term for being in a marriage.",
+        "related_german_words": ["verheiratet"]
+      },
+      {
+        "semantic_key": "identity-self-to_marry",
+        "description": "To join in marriage.",
+        "related_german_words": ["heiraten"]
+      },
+      {
+        "semantic_key": "identity-self-to_divorce",
+        "description": "To legally end a marriage.",
+        "related_german_words": ["sich scheiden lassen"]
+      },
+      {
+        "semantic_key": "identity-self-to_stay_single",
+        "description": "To choose not to enter a partnership.",
+        "related_german_words": ["ledig bleiben"]
+      },
+      {
+        "semantic_key": "identity-self-single_parent",
+        "description": "A person bringing up a child or children without a partner.",
+        "related_german_words": ["Alleinerziehender"]
+      },
+      {
+        "semantic_key": "identity-self-breadwinner",
+        "description": "A person who earns money to support a family.",
+        "related_german_words": ["Hauptverdiener"]
+      },
+      {
+        "semantic_key": "identity-self-housewife",
+        "description": "A woman whose main occupation is managing her household.",
+        "related_german_words": ["Hausfrau"]
+      },
+      {
+        "semantic_key": "identity-self-househusband",
+        "description": "A man who lives at home and manages the household.",
+        "related_german_words": ["Hausmann"]
+      },
+      {
+        "semantic_key": "identity-self-stay_at_home_dad",
+        "description": "A father who stays at home to look after the children.",
+        "related_german_words": ["Hausmann"]
+      },
+      {
+        "semantic_key": "identity-self-to_support_family",
+        "description": "To provide money for one's family.",
+        "related_german_words": ["die Familie ernähren"]
+      },
+      {
+        "semantic_key": "identity-self-to_take_care_of",
+        "description": "To provide for the needs of someone.",
+        "related_german_words": ["sich kümmern"]
+      },
+      {
+        "semantic_key": "identity-self-to_raise_children",
+        "description": "To bring up children.",
+        "related_german_words": ["Kinder erziehen"]
       }
     ]
   }

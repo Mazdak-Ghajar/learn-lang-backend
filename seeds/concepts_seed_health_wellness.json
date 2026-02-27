@@ -1,0 +1,1427 @@
+[
+  {
+    "category_slug": "health-wellness",
+    "concepts": [
+      {
+        "semantic_key": "health_wellness-head",
+        "description": "The upper part of the human body containing the brain, eyes, ears, nose, and mouth.",
+        "related_german_words": ["Kopf"]
+      },
+      {
+        "semantic_key": "health_wellness-neck",
+        "description": "The part of the body that connects the head to the shoulders.",
+        "related_german_words": ["Hals", "Nacken"]
+      },
+      {
+        "semantic_key": "health_wellness-shoulder",
+        "description": "The joint connecting the arm with the torso.",
+        "related_german_words": ["Schulter"]
+      },
+      {
+        "semantic_key": "health_wellness-back",
+        "description": "The posterior part of the human body from the neck to the pelvis.",
+        "related_german_words": ["Rücken"]
+      },
+      {
+        "semantic_key": "health_wellness-chest",
+        "description": "The front surface of a person's body between the neck and the abdomen.",
+        "related_german_words": ["Brust"]
+      },
+      {
+        "semantic_key": "health_wellness-stomach_organ",
+        "description": "The internal organ in which the major part of the digestion of food occurs.",
+        "related_german_words": ["Magen"]
+      },
+      {
+        "semantic_key": "health_wellness-abdomen",
+        "description": "The part of the body of a mammal between the thorax and the pelvis; the belly.",
+        "related_german_words": ["Bauch"]
+      },
+      {
+        "semantic_key": "health_wellness-waist",
+        "description": "The part of the human body below the ribs and above the hips.",
+        "related_german_words": ["Taille"]
+      },
+      {
+        "semantic_key": "health_wellness-hip",
+        "description": "The projection of the pelvis and upper thigh bone on each side of the body.",
+        "related_german_words": ["Hüfte"]
+      },
+      {
+        "semantic_key": "health_wellness-arm",
+        "description": "Each of the two upper limbs of the human body from the shoulder to the hand.",
+        "related_german_words": ["Arm"]
+      },
+      {
+        "semantic_key": "health_wellness-elbow",
+        "description": "The joint between the forearm and the upper arm.",
+        "related_german_words": ["Ellbogen"]
+      },
+      {
+        "semantic_key": "health_wellness-wrist",
+        "description": "The joint connecting the hand with the forearm.",
+        "related_german_words": ["Handgelenk"]
+      },
+      {
+        "semantic_key": "health_wellness-hand",
+        "description": "The end part of a person's arm beyond the wrist.",
+        "related_german_words": ["Hand"]
+      },
+      {
+        "semantic_key": "health_wellness-finger",
+        "description": "Each of the four slender jointed parts attached to either hand.",
+        "related_german_words": ["Finger"]
+      },
+      {
+        "semantic_key": "health_wellness-thumb",
+        "description": "The short, thick first digit of the human hand.",
+        "related_german_words": ["Daumen"]
+      },
+      {
+        "semantic_key": "health_wellness-leg",
+        "description": "Each of the limbs on which a person stands and walks.",
+        "related_german_words": ["Bein"]
+      },
+      {
+        "semantic_key": "health_wellness-knee",
+        "description": "The joint between the thigh and the lower leg.",
+        "related_german_words": ["Knie"]
+      },
+      {
+        "semantic_key": "health_wellness-ankle",
+        "description": "The joint connecting the foot with the leg.",
+        "related_german_words": ["Fußgelenk", "Knöchel"]
+      },
+      {
+        "semantic_key": "health_wellness-foot",
+        "description": "The lower extremity of the leg below the ankle.",
+        "related_german_words": ["Fuß"]
+      },
+      {
+        "semantic_key": "health_wellness-toe",
+        "description": "Any of the five digits at the end of the human foot.",
+        "related_german_words": ["Zeh", "Zehe"]
+      },
+      {
+        "semantic_key": "health_wellness-heart",
+        "description": "A hollow muscular organ that pumps the blood through the circulatory system.",
+        "related_german_words": ["Herz"]
+      },
+      {
+        "semantic_key": "health_wellness-lung",
+        "description": "Each of the pair of organs situated within the rib cage into which air is drawn.",
+        "related_german_words": ["Lunge"]
+      },
+      {
+        "semantic_key": "health_wellness-liver",
+        "description": "A large glandular organ in the abdomen involved in many metabolic processes.",
+        "related_german_words": ["Leber"]
+      },
+      {
+        "semantic_key": "health_wellness-kidney",
+        "description": "Each of a pair of organs in the abdominal cavity excreting urine.",
+        "related_german_words": ["Niere"]
+      },
+      {
+        "semantic_key": "health_wellness-intestine",
+        "description": "The lower part of the alimentary canal from the stomach to the anus.",
+        "related_german_words": ["Darm"]
+      },
+      {
+        "semantic_key": "health_wellness-brain",
+        "description": "An organ of soft nervous tissue contained in the skull of vertebrates.",
+        "related_german_words": ["Gehirn"]
+      },
+      {
+        "semantic_key": "health_wellness-blood",
+        "description": "The red liquid that circulates in the arteries and veins of humans.",
+        "related_german_words": ["Blut"]
+      },
+      {
+        "semantic_key": "health_wellness-vein",
+        "description": "Any of the tubes forming part of the blood circulation system of the body.",
+        "related_german_words": ["Ader", "Vene"]
+      },
+      {
+        "semantic_key": "health_wellness-bone",
+        "description": "Any of the pieces of hard, whitish connective tissue making up the skeleton.",
+        "related_german_words": ["Knochen"]
+      },
+      {
+        "semantic_key": "health_wellness-muscle",
+        "description": "A band or bundle of fibrous tissue in a human body that has the ability to contract.",
+        "related_german_words": ["Muskel"]
+      },
+      {
+        "semantic_key": "health_wellness-skin",
+        "description": "The thin layer of tissue forming the natural outer covering of the body.",
+        "related_german_words": ["Haut"]
+      },
+      {
+        "semantic_key": "health_wellness-spine",
+        "description": "The series of vertebrae extending from the skull to the small of the back.",
+        "related_german_words": ["Wirbelsäule"]
+      },
+      {
+        "semantic_key": "health_wellness-joint",
+        "description": "A structure in the body at which two parts of the skeleton are fitted together.",
+        "related_german_words": ["Gelenk"]
+      },
+      {
+        "semantic_key": "health_wellness-tooth",
+        "description": "Each of a set of hard, bony enamel-coated structures in the jaws.",
+        "related_german_words": ["Zahn"]
+      },
+      {
+        "semantic_key": "health_wellness-face",
+        "description": "The front part of a person's head from the forehead to the chin.",
+        "related_german_words": ["Gesicht"]
+      },
+      {
+        "semantic_key": "health_wellness-eye",
+        "description": "Each of a pair of globular organs in the head through which people see.",
+        "related_german_words": ["Auge"]
+      },
+      {
+        "semantic_key": "health_wellness-ear",
+        "description": "The organ of hearing and equilibrium in humans.",
+        "related_german_words": ["Ohr"]
+      },
+      {
+        "semantic_key": "health_wellness-nose",
+        "description": "The part projecting above the mouth on the face of a person used for breathing and smelling.",
+        "related_german_words": ["Nase"]
+      },
+      {
+        "semantic_key": "health_wellness-mouth",
+        "description": "The opening in the lower part of the human face through which food is taken.",
+        "related_german_words": ["Mund"]
+      },
+      {
+        "semantic_key": "health_wellness-tongue",
+        "description": "The fleshy muscular organ in the mouth used for tasting, licking, and swallowing.",
+        "related_german_words": ["Zunge"]
+      },
+      {
+        "semantic_key": "health_wellness-sick",
+        "description": "Affected by physical or mental illness.",
+        "related_german_words": ["krank"]
+      },
+      {
+        "semantic_key": "health_wellness-healthy",
+        "description": "In good physical or mental condition; not ill.",
+        "related_german_words": ["gesund"]
+      },
+      {
+        "semantic_key": "health_wellness-fit",
+        "description": "In good physical condition; healthy and strong.",
+        "related_german_words": ["fit"]
+      },
+      {
+        "semantic_key": "health_wellness-weak",
+        "description": "Lacking physical strength and energy.",
+        "related_german_words": ["schwach"]
+      },
+      {
+        "semantic_key": "health_wellness-strong",
+        "description": "Having the power to move heavy weights or perform other physically demanding tasks.",
+        "related_german_words": ["stark"]
+      },
+      {
+        "semantic_key": "health_wellness-exhausted",
+        "description": "Very tired; drained of physical or mental resources.",
+        "related_german_words": ["erschöpft"]
+      },
+      {
+        "semantic_key": "health_wellness-pale",
+        "description": "Of a person's face having less color than usual, typically due to shock or fear.",
+        "related_german_words": ["blass"]
+      },
+      {
+        "semantic_key": "health_wellness-pain",
+        "description": "Physical suffering or discomfort caused by illness or injury.",
+        "related_german_words": ["Schmerz"]
+      },
+      {
+        "semantic_key": "health_wellness-fever",
+        "description": "An abnormally high body temperature, usually accompanied by shivering and headache.",
+        "related_german_words": ["Fieber"]
+      },
+      {
+        "semantic_key": "health_wellness-cough",
+        "description": "Expel air from the lungs with a sudden sharp sound.",
+        "related_german_words": ["Husten"]
+      },
+      {
+        "semantic_key": "health_wellness-sneeze",
+        "description": "Make a sudden involuntary expulsion of air from the nose and mouth.",
+        "related_german_words": ["niesen"]
+      },
+      {
+        "semantic_key": "health_wellness-runny_nose",
+        "description": "A condition in which the nose produces a lot of liquid mucus.",
+        "related_german_words": ["Schnupfen"]
+      },
+      {
+        "semantic_key": "health_wellness-sore_throat",
+        "description": "A condition in which the throat is red and painful.",
+        "related_german_words": ["Halsschmerzen"]
+      },
+      {
+        "semantic_key": "health_wellness-headache",
+        "description": "A continuous pain in the head.",
+        "related_german_words": ["Kopfschmerzen"]
+      },
+      {
+        "semantic_key": "health_wellness-backache",
+        "description": "Prolonged pain in one's back.",
+        "related_german_words": ["Rückenschmerzen"]
+      },
+      {
+        "semantic_key": "health_wellness-stomach_ache",
+        "description": "A pain in a person's belly.",
+        "related_german_words": ["Bauchschmerzen"]
+      },
+      {
+        "semantic_key": "health_wellness-toothache",
+        "description": "Pain in or around a tooth.",
+        "related_german_words": ["Zahnschmerzen"]
+      },
+      {
+        "semantic_key": "health_wellness-nausea",
+        "description": "A feeling of sickness with an inclination to vomit.",
+        "related_german_words": ["Übelkeit"]
+      },
+      {
+        "semantic_key": "health_wellness-vomit",
+        "description": "Eject matter from the stomach through the mouth.",
+        "related_german_words": ["brechen", "erbrechen"]
+      },
+      {
+        "semantic_key": "health_wellness-diarrhea",
+        "description": "A condition in which feces are discharged from the bowels frequently and in a liquid form.",
+        "related_german_words": ["Durchfall"]
+      },
+      {
+        "semantic_key": "health_wellness-constipation",
+        "description": "A condition in which there is difficulty in emptying the bowels.",
+        "related_german_words": ["Verstopfung"]
+      },
+      {
+        "semantic_key": "health_wellness-dizziness",
+        "description": "A sensation of spinning and losing one's balance.",
+        "related_german_words": ["Schwindel"]
+      },
+      {
+        "semantic_key": "health_wellness-faint",
+        "description": "Lose consciousness for a short time because of a temporarily insufficient supply of oxygen to the brain.",
+        "related_german_words": ["ohnmächtig werden"]
+      },
+      {
+        "semantic_key": "health_wellness-itch",
+        "description": "An uncomfortable sensation on the skin that causes a desire to scratch.",
+        "related_german_words": ["Juckreiz"]
+      },
+      {
+        "semantic_key": "health_wellness-rash",
+        "description": "An area of reddening or small spots on the skin.",
+        "related_german_words": ["Ausschlag"]
+      },
+      {
+        "semantic_key": "health_wellness-swelling",
+        "description": "An abnormal enlargement of a part of the body, typically as a result of accumulation of fluid.",
+        "related_german_words": ["Schwellung"]
+      },
+      {
+        "semantic_key": "health_wellness-bruise",
+        "description": "An injury appearing as an area of discolored skin on the body.",
+        "related_german_words": ["Bluterguss", "blauer Fleck"]
+      },
+      {
+        "semantic_key": "health_wellness-wound",
+        "description": "An injury to living tissue caused by a cut, blow, or other impact.",
+        "related_german_words": ["Wunde"]
+      },
+      {
+        "semantic_key": "health_wellness-scar",
+        "description": "A mark left on the skin or within body tissue where a wound, burn, or sore has not healed completely.",
+        "related_german_words": ["Narbe"]
+      },
+      {
+        "semantic_key": "health_wellness-bleeding",
+        "description": "The escape of blood from a ruptured blood vessel.",
+        "related_german_words": ["Blutung"]
+      },
+      {
+        "semantic_key": "health_wellness-fracture",
+        "description": "The cracking or breaking of a hard object or material, typically a bone.",
+        "related_german_words": ["Knochenbruch", "Fraktur"]
+      },
+      {
+        "semantic_key": "health_wellness-sprain",
+        "description": "Wrench or twist the ligaments of a joint violently so as to cause pain and swelling.",
+        "related_german_words": ["Verstauchung"]
+      },
+      {
+        "semantic_key": "health_wellness-inflammation",
+        "description": "A localized physical condition in which part of the body becomes reddened, swollen, hot, and often painful.",
+        "related_german_words": ["Entzündung"]
+      },
+      {
+        "semantic_key": "health_wellness-infection",
+        "description": "The process of infecting or the state of being infected.",
+        "related_german_words": ["Infektion"]
+      },
+      {
+        "semantic_key": "health_wellness-allergy",
+        "description": "A damaging immune response by the body to a substance to which it has become hypersensitive.",
+        "related_german_words": ["Allergie"]
+      },
+      {
+        "semantic_key": "health_wellness-cold_illness",
+        "description": "A common viral infection in which the mucous membrane of the nose and throat becomes inflamed.",
+        "related_german_words": ["Erkältung"]
+      },
+      {
+        "semantic_key": "health_wellness-flu",
+        "description": "A highly contagious viral infection of the respiratory passages causing fever and severe aching.",
+        "related_german_words": ["Grippe"]
+      },
+      {
+        "semantic_key": "health_wellness-asthma",
+        "description": "A respiratory condition marked by spasms in the bronchi of the lungs, causing difficulty in breathing.",
+        "related_german_words": ["Asthma"]
+      },
+      {
+        "semantic_key": "health_wellness-diabetes",
+        "description": "A disease in which the body’s ability to produce or respond to the hormone insulin is impaired.",
+        "related_german_words": ["Diabetes", "Zuckerkrankheit"]
+      },
+      {
+        "semantic_key": "health_wellness-blood_pressure",
+        "description": "The pressure of the blood in the circulatory system.",
+        "related_german_words": ["Blutdruck"]
+      },
+      {
+        "semantic_key": "health_wellness-heart_attack",
+        "description": "A sudden and sometimes fatal occurrence of coronary thrombosis, typically resulting in the death of part of a heart muscle.",
+        "related_german_words": ["Herzinfarkt"]
+      },
+      {
+        "semantic_key": "health_wellness-stroke",
+        "description": "A sudden disabling attack or loss of consciousness caused by an interruption in the blood supply to the brain.",
+        "related_german_words": ["Schlaganfall"]
+      },
+      {
+        "semantic_key": "health_wellness-cancer",
+        "description": "A disease caused by an uncontrolled division of abnormal cells in a part of the body.",
+        "related_german_words": ["Krebs"]
+      },
+      {
+        "semantic_key": "health_wellness-depression",
+        "description": "Feelings of severe despondency and dejection.",
+        "related_german_words": ["Depression"]
+      },
+      {
+        "semantic_key": "health_wellness-anxiety",
+        "description": "A feeling of worry, nervousness, or unease, typically about an imminent event or something with an uncertain outcome.",
+        "related_german_words": ["Angststörung"]
+      },
+      {
+        "semantic_key": "health_wellness-burnout",
+        "description": "Physical or mental collapse caused by overwork or stress.",
+        "related_german_words": ["Burnout"]
+      },
+      {
+        "semantic_key": "health_wellness-stress",
+        "description": "A state of mental or emotional strain or tension resulting from adverse or very demanding circumstances.",
+        "related_german_words": ["Stress"]
+      },
+      {
+        "semantic_key": "health_wellness-insomnia",
+        "description": "Habitual sleeplessness; inability to sleep.",
+        "related_german_words": ["Schlaflosigkeit"]
+      },
+      {
+        "semantic_key": "health_wellness-addiction",
+        "description": "The fact or condition of being addicted to a particular substance, thing, or activity.",
+        "related_german_words": ["Sucht"]
+      },
+      {
+        "semantic_key": "health_wellness-poisoning",
+        "description": "The action of administering poison to a person or animal.",
+        "related_german_words": ["Vergiftung"]
+      },
+      {
+        "semantic_key": "health_wellness-blind",
+        "description": "Lacking the power of sight.",
+        "related_german_words": ["blind"]
+      },
+      {
+        "semantic_key": "health_wellness-deaf",
+        "description": "Lacking the power of hearing.",
+        "related_german_words": ["taub"]
+      },
+      {
+        "semantic_key": "health_wellness-mute",
+        "description": "Lacking the power of speech.",
+        "related_german_words": ["stumm"]
+      },
+      {
+        "semantic_key": "health_wellness-disabled",
+        "description": "Having a physical or mental condition that limits movements, senses, or activities.",
+        "related_german_words": ["behindert"]
+      },
+      {
+        "semantic_key": "health_wellness-pregnant",
+        "description": "Having a child or young developing in the uterus.",
+        "related_german_words": ["schwanger"]
+      },
+      {
+        "semantic_key": "health_wellness-chronic",
+        "description": "Persisting for a long time or constantly recurring.",
+        "related_german_words": ["chronisch"]
+      },
+      {
+        "semantic_key": "health_wellness-acute",
+        "description": "Present or experienced to a severe or intense degree.",
+        "related_german_words": ["akut"]
+      },
+      {
+        "semantic_key": "health_wellness-contagious",
+        "description": "Spread from one person or organism to another by direct or indirect contact.",
+        "related_german_words": ["ansteckend"]
+      },
+      {
+        "semantic_key": "health_wellness-benign",
+        "description": "Not harmful in effect; in particular, of a tumor, not malignant.",
+        "related_german_words": ["gutartig"]
+      },
+      {
+        "semantic_key": "health_wellness-malignant",
+        "description": "Of a disease very virulent or infectious.",
+        "related_german_words": ["bösartig"]
+      },
+      {
+        "semantic_key": "health_wellness-doctor",
+        "description": "A person who is qualified to treat people who are ill.",
+        "related_german_words": ["Arzt", "Mediziner"]
+      },
+      {
+        "semantic_key": "health_wellness-dentist",
+        "description": "A person who is qualified to treat diseases and other conditions that affect the teeth and gums.",
+        "related_german_words": ["Zahnarzt"]
+      },
+      {
+        "semantic_key": "health_wellness-surgeon",
+        "description": "A medical practitioner qualified to practice surgery.",
+        "related_german_words": ["Chirurg"]
+      },
+      {
+        "semantic_key": "health_wellness-nurse",
+        "description": "A person trained to care for the sick or infirm, especially in a hospital.",
+        "related_german_words": ["Pflegekraft", "Krankenpfleger"]
+      },
+      {
+        "semantic_key": "health_wellness-midwife",
+        "description": "A person trained to assist women in childbirth.",
+        "related_german_words": ["Hebamme"]
+      },
+      {
+        "semantic_key": "health_wellness-pediatrician",
+        "description": "A medical practitioner specializing in children and their diseases.",
+        "related_german_words": ["Kinderarzt"]
+      },
+      {
+        "semantic_key": "health_wellness-gynecologist",
+        "description": "A physician or surgeon qualified to practice gynecology.",
+        "related_german_words": ["Frauenarzt", "Gynäkologe"]
+      },
+      {
+        "semantic_key": "health_wellness-dermatologist",
+        "description": "A medical practitioner qualified to diagnose and treat skin disorders.",
+        "related_german_words": ["Hautarzt", "Dermatologe"]
+      },
+      {
+        "semantic_key": "health_wellness-ophthalmologist",
+        "description": "A specialist in the branch of medicine concerned with the study and treatment of disorders and diseases of the eye.",
+        "related_german_words": ["Augenarzt"]
+      },
+      {
+        "semantic_key": "health_wellness-psychiatrist",
+        "description": "A medical practitioner specializing in the diagnosis and treatment of mental illness.",
+        "related_german_words": ["Psychiater"]
+      },
+      {
+        "semantic_key": "health_wellness-psychologist",
+        "description": "An expert or specialist in psychology.",
+        "related_german_words": ["Psychologe"]
+      },
+      {
+        "semantic_key": "health_wellness-orthopedist",
+        "description": "A doctor who corrects congenital or functional abnormalities of the bones with surgery, casting, and bracing.",
+        "related_german_words": ["Orthopäde"]
+      },
+      {
+        "semantic_key": "health_wellness-general_practitioner",
+        "description": "A doctor who provides routine health care and assesses and treats many different conditions.",
+        "related_german_words": ["Hausarzt"]
+      },
+      {
+        "semantic_key": "health_wellness-specialist_doctor",
+        "description": "A doctor who has completed advanced education and clinical training in a specific area of medicine.",
+        "related_german_words": ["Facharzt"]
+      },
+      {
+        "semantic_key": "health_wellness-pharmacist",
+        "description": "A person who is professionally qualified to prepare and dispense medicinal drugs.",
+        "related_german_words": ["Apotheker"]
+      },
+      {
+        "semantic_key": "health_wellness-patient",
+        "description": "A person receiving or registered to receive medical treatment.",
+        "related_german_words": ["Patient"]
+      },
+      {
+        "semantic_key": "health_wellness-hospital",
+        "description": "An institution providing medical and surgical treatment and nursing care for sick or injured people.",
+        "related_german_words": ["Krankenhaus", "Klinik"]
+      },
+      {
+        "semantic_key": "health_wellness-practice_medical",
+        "description": "The office or premises of a doctor or lawyer.",
+        "related_german_words": ["Praxis"]
+      },
+      {
+        "semantic_key": "health_wellness-pharmacy",
+        "description": "A shop or hospital department where medicinal drugs are prepared or sold.",
+        "related_german_words": ["Apotheke"]
+      },
+      {
+        "semantic_key": "health_wellness-emergency_room",
+        "description": "The department of a hospital that provides immediate treatment for acute illnesses and trauma.",
+        "related_german_words": ["Notaufnahme"]
+      },
+      {
+        "semantic_key": "health_wellness-intensive_care",
+        "description": "Specialized treatment given to patients who are critically ill.",
+        "related_german_words": ["Intensivstation"]
+      },
+      {
+        "semantic_key": "health_wellness-waiting_room",
+        "description": "A room in a place where people can sit while waiting, as in a surgery.",
+        "related_german_words": ["Wartezimmer"]
+      },
+      {
+        "semantic_key": "health_wellness-ambulance",
+        "description": "A vehicle equipped for taking sick or injured people to and from hospital.",
+        "related_german_words": ["Krankenwagen", "Rettungswagen"]
+      },
+      {
+        "semantic_key": "health_wellness-appointment_medical",
+        "description": "An arrangement to meet a doctor at a particular time and place.",
+        "related_german_words": ["Termin"]
+      },
+      {
+        "semantic_key": "health_wellness-prescription",
+        "description": "An instruction written by a medical practitioner that authorizes a patient to be provided with a medicine or treatment.",
+        "related_german_words": ["Rezept"]
+      },
+      {
+        "semantic_key": "health_wellness-medicine_drug",
+        "description": "A compound or preparation used for the treatment or prevention of disease.",
+        "related_german_words": ["Medikament", "Arznei"]
+      },
+      {
+        "semantic_key": "health_wellness-pill",
+        "description": "A small round mass of solid medicine to be swallowed whole.",
+        "related_german_words": ["Tablette", "Pille"]
+      },
+      {
+        "semantic_key": "health_wellness-capsule",
+        "description": "A small case or container, especially a round or cylindrical one, used to contain a dose of medicine.",
+        "related_german_words": ["Kapsel"]
+      },
+      {
+        "semantic_key": "health_wellness-ointment",
+        "description": "A smooth oily preparation that is rubbed on the skin for medicinal purposes.",
+        "related_german_words": ["Salbe"]
+      },
+      {
+        "semantic_key": "health_wellness-syrup_medicine",
+        "description": "A thick, sweet liquid containing medicine.",
+        "related_german_words": ["Saft"]
+      },
+      {
+        "semantic_key": "health_wellness-drops_medicine",
+        "description": "Medicine in liquid form to be used in very small amounts, typically for the eyes or ears.",
+        "related_german_words": ["Tropfen"]
+      },
+      {
+        "semantic_key": "health_wellness-spray_medicine",
+        "description": "Liquid medicine that is blown through the air in tiny drops.",
+        "related_german_words": ["Spray"]
+      },
+      {
+        "semantic_key": "health_wellness-injection",
+        "description": "An instance of injecting or being injected.",
+        "related_german_words": ["Spritze", "Injektion"]
+      },
+      {
+        "semantic_key": "health_wellness-vaccination",
+        "description": "Treatment with a vaccine to produce immunity against a disease.",
+        "related_german_words": ["Impfung"]
+      },
+      {
+        "semantic_key": "health_wellness-painkiller",
+        "description": "A drug or medicine for relieving pain.",
+        "related_german_words": ["Schmerzmittel"]
+      },
+      {
+        "semantic_key": "health_wellness-antibiotic",
+        "description": "A medicine that inhibits the growth of or destroys microorganisms.",
+        "related_german_words": ["Antibiotikum"]
+      },
+      {
+        "semantic_key": "health_wellness-suppository",
+        "description": "A solid medical preparation in a roughly conical or cylindrical shape, designed to be inserted into the rectum or vagina.",
+        "related_german_words": ["Zäpfchen"]
+      },
+      {
+        "semantic_key": "health_wellness-side_effect",
+        "description": "A secondary, typically undesirable effect of a drug or medical treatment.",
+        "related_german_words": ["Nebenwirkung"]
+      },
+      {
+        "semantic_key": "health_wellness-overdose",
+        "description": "An excessive and dangerous dose of a drug.",
+        "related_german_words": ["Überdosis"]
+      },
+      {
+        "semantic_key": "health_wellness-dosage",
+        "description": "The size or frequency of a dose of a medicine or drug.",
+        "related_german_words": ["Dosierung"]
+      },
+      {
+        "semantic_key": "health_wellness-health_insurance",
+        "description": "Insurance that covers the whole or a part of the risk of a person incurring medical expenses.",
+        "related_german_words": ["Krankenversicherung"]
+      },
+      {
+        "semantic_key": "health_wellness-insurance_card",
+        "description": "A card issued by an insurance company to its policyholders.",
+        "related_german_words": ["Versichertenkarte"]
+      },
+      {
+        "semantic_key": "health_wellness-sick_note",
+        "description": "A note from a doctor stating that a person is not fit for work.",
+        "related_german_words": ["Krankschreibung", "Attest"]
+      },
+      {
+        "semantic_key": "health_wellness-referral_medical",
+        "description": "An act of referring someone or something for consultation, review, or further action.",
+        "related_german_words": ["Überweisung"]
+      },
+      {
+        "semantic_key": "health_wellness-co_payment",
+        "description": "A payment made by a beneficiary in addition to that made by an insurer.",
+        "related_german_words": ["Zuzahlung"]
+      },
+      {
+        "semantic_key": "health_wellness-medical_checkup",
+        "description": "A thorough physical examination.",
+        "related_german_words": ["Untersuchung"]
+      },
+      {
+        "semantic_key": "health_wellness-operation_surgery",
+        "description": "An act of surgery performed on a patient.",
+        "related_german_words": ["Operation", "Eingriff"]
+      },
+      {
+        "semantic_key": "health_wellness-anaesthesia",
+        "description": "Insensitivity to pain, especially as artificially induced by the administration of gases or the injection of drugs before surgical operations.",
+        "related_german_words": ["Narkose"]
+      },
+      {
+        "semantic_key": "health_wellness-therapy_session",
+        "description": "A meeting with a therapist to resolve problematic behaviors, beliefs, feelings, and/or somatic responses.",
+        "related_german_words": ["Therapie"]
+      },
+      {
+        "semantic_key": "health_wellness-physiotherapy",
+        "description": "The treatment of disease, injury, or deformity by physical methods.",
+        "related_german_words": ["Physiotherapie"]
+      },
+      {
+        "semantic_key": "health_wellness-massage_medical",
+        "description": "The rubbing and kneading of muscles and joints of the body with the hands.",
+        "related_german_words": ["Massage"]
+      },
+      {
+        "semantic_key": "health_wellness-rehabilitation",
+        "description": "The action of restoring someone to health or normal life through training and therapy.",
+        "related_german_words": ["Rehabilitation", "Reha"]
+      },
+      {
+        "semantic_key": "health_wellness-first_aid",
+        "description": "Help given to a sick or injured person until full medical treatment is available.",
+        "related_german_words": ["Erste Hilfe"]
+      },
+      {
+        "semantic_key": "health_wellness-hygiene",
+        "description": "Conditions or practices conducive to maintaining health and preventing disease.",
+        "related_german_words": ["Hygiene"]
+      },
+      {
+        "semantic_key": "health_wellness-bandage",
+        "description": "A strip of woven material used to bind up a wound or to protect an injured part of the body.",
+        "related_german_words": ["Verband"]
+      },
+      {
+        "semantic_key": "health_wellness-plaster_medical",
+        "description": "An adhesive strip of material used to cover a small wound.",
+        "related_german_words": ["Pflaster"]
+      },
+      {
+        "semantic_key": "health_wellness-gauze",
+        "description": "A thin translucent fabric of silk, linen, or cotton.",
+        "related_german_words": ["Mull"]
+      },
+      {
+        "semantic_key": "health_wellness-thermometer",
+        "description": "An instrument for measuring and indicating temperature.",
+        "related_german_words": ["Fieberthermometer"]
+      },
+      {
+        "semantic_key": "health_wellness-scale_medical",
+        "description": "An instrument or machine for weighing.",
+        "related_german_words": ["Waage"]
+      },
+      {
+        "semantic_key": "health_wellness-crutches",
+        "description": "A long stick with a crosspiece at the top, used as a support under the armpit by a person with an injury.",
+        "related_german_words": ["Krücken"]
+      },
+      {
+        "semantic_key": "health_wellness-wheelchair",
+        "description": "A chair fitted with wheels for use as a means of transport by a person who is unable to walk.",
+        "related_german_words": ["Rollstuhl"]
+      },
+      {
+        "semantic_key": "health_wellness-hearing_aid",
+        "description": "A small device that fits in or on a person's ear to make sound louder.",
+        "related_german_words": ["Hörgerät"]
+      },
+      {
+        "semantic_key": "health_wellness-braces_teeth",
+        "description": "A device used to straighten teeth.",
+        "related_german_words": ["Zahnspange"]
+      },
+      {
+        "semantic_key": "health_wellness-glasses_medical",
+        "description": "A pair of lenses set in a frame resting on the nose and ears, used to correct or assist defective eyesight.",
+        "related_german_words": ["Brille"]
+      },
+      {
+        "semantic_key": "health_wellness-blood_test",
+        "description": "A laboratory analysis of a blood sample.",
+        "related_german_words": ["Bluttest", "Blutuntersuchung"]
+      },
+      {
+        "semantic_key": "health_wellness-urine_sample",
+        "description": "A sample of urine taken for testing.",
+        "related_german_words": ["Urinprobe"]
+      },
+      {
+        "semantic_key": "health_wellness-x_ray",
+        "description": "A photographic or digital image of the internal composition of something.",
+        "related_german_words": ["Röntgen"]
+      },
+      {
+        "semantic_key": "health_wellness-ultrasound",
+        "description": "Sound or other vibrations having an ultrasonic frequency.",
+        "related_german_words": ["Ultraschall"]
+      },
+      {
+        "semantic_key": "health_wellness-mri_scan",
+        "description": "A form of medical imaging that uses magnetic resonance imaging.",
+        "related_german_words": ["MRT"]
+      },
+      {
+        "semantic_key": "health_wellness-blood_sugar",
+        "description": "The concentration of glucose in the blood.",
+        "related_german_words": ["Blutzucker"]
+      },
+      {
+        "semantic_key": "health_wellness-pulse",
+        "description": "A rhythmical throbbing of the arteries as blood is propelled through them.",
+        "related_german_words": ["Puls"]
+      },
+      {
+        "semantic_key": "health_wellness-breathing",
+        "description": "The process of taking air into and expelling it from the lungs.",
+        "related_german_words": ["Atmung"]
+      },
+      {
+        "semantic_key": "health_wellness-digestion",
+        "description": "The process of breaking down food by mechanical and enzymatic action.",
+        "related_german_words": ["Verdauung"]
+      },
+      {
+        "semantic_key": "health_wellness-metabolism",
+        "description": "The chemical processes that occur within a living organism in order to maintain life.",
+        "related_german_words": ["Stoffwechsel"]
+      },
+      {
+        "semantic_key": "health_wellness-immune_system",
+        "description": "The organs and processes of the body that provide resistance to infection and toxins.",
+        "related_german_words": ["Immunsystem"]
+      },
+      {
+        "semantic_key": "health_wellness-nutrition",
+        "description": "The process of providing or obtaining the food necessary for health and growth.",
+        "related_german_words": ["Ernährung"]
+      },
+      {
+        "semantic_key": "health_wellness-calorie",
+        "description": "Either of two units of heat energy.",
+        "related_german_words": ["Kalorie"]
+      },
+      {
+        "semantic_key": "health_wellness-vitamin",
+        "description": "Any of a group of organic compounds which are essential for normal growth and nutrition.",
+        "related_german_words": ["Vitamin"]
+      },
+      {
+        "semantic_key": "health_wellness-mineral",
+        "description": "A solid inorganic substance of natural occurrence.",
+        "related_german_words": ["Mineralstoff"]
+      },
+      {
+        "semantic_key": "health_wellness-protein",
+        "description": "Any of a class of nitrogenous organic compounds that consist of large molecules composed of one or more long chains of amino acids.",
+        "related_german_words": ["Protein", "Eiweiß"]
+      },
+      {
+        "semantic_key": "health_wellness-carbohydrate",
+        "description": "Any of a large group of organic compounds occurring in foods and living tissues and including sugars, starch, and cellulose.",
+        "related_german_words": ["Kohlenhydrat"]
+      },
+      {
+        "semantic_key": "health_wellness-fat_nutrition",
+        "description": "A natural oily or greasy substance occurring in animal bodies.",
+        "related_german_words": ["Fett"]
+      },
+      {
+        "semantic_key": "health_wellness-fiber",
+        "description": "Dietary fiber.",
+        "related_german_words": ["Ballaststoffe"]
+      },
+      {
+        "semantic_key": "health_wellness-sugar",
+        "description": "A sweet crystalline substance obtained from various plants.",
+        "related_german_words": ["Zucker"]
+      },
+      {
+        "semantic_key": "health_wellness-salt",
+        "description": "A white crystalline substance which gives seawater its characteristic taste and is used for seasoning or preserving food.",
+        "related_german_words": ["Salz"]
+      },
+      {
+        "semantic_key": "health_wellness-water_drinking",
+        "description": "A colorless, transparent, odorless liquid that forms the seas, lakes, rivers, and rain and is the basis of the fluids of living organisms.",
+        "related_german_words": ["Wasser"]
+      },
+      {
+        "semantic_key": "health_wellness-vegetables",
+        "description": "A plant or part of a plant used as food.",
+        "related_german_words": ["Gemüse"]
+      },
+      {
+        "semantic_key": "health_wellness-fruit",
+        "description": "The sweet and fleshy product of a tree or other plant that contains seed and can be eaten as food.",
+        "related_german_words": ["Obst", "Frucht"]
+      },
+      {
+        "semantic_key": "health_wellness-wholegrain",
+        "description": "Cereal grain that contains the cereal germ, endosperm, and bran.",
+        "related_german_words": ["Vollkorn"]
+      },
+      {
+        "semantic_key": "health_wellness-vegetarian",
+        "description": "A person who does not eat meat.",
+        "related_german_words": ["Vegetarier"]
+      },
+      {
+        "semantic_key": "health_wellness-vegan",
+        "description": "A person who does not eat or use animal products.",
+        "related_german_words": ["Veganer"]
+      },
+      {
+        "semantic_key": "health_wellness-organic_food",
+        "description": "Produced by organic farming.",
+        "related_german_words": ["Bio"]
+      },
+      {
+        "semantic_key": "health_wellness-sleep_quality",
+        "description": "The measurement of how well you sleep.",
+        "related_german_words": ["Schlaf"]
+      },
+      {
+        "semantic_key": "health_wellness-dream",
+        "description": "A series of thoughts, images, and sensations occurring in a person's mind during sleep.",
+        "related_german_words": ["Traum"]
+      },
+      {
+        "semantic_key": "health_wellness-nap",
+        "description": "A short sleep, especially during the day.",
+        "related_german_words": ["Nickerchen"]
+      },
+      {
+        "semantic_key": "health_wellness-relaxation_technique",
+        "description": "Any method, process, procedure, or activity that helps a person to relax.",
+        "related_german_words": ["Entspannung"]
+      },
+      {
+        "semantic_key": "health_wellness-meditation",
+        "description": "The action or practice of meditating.",
+        "related_german_words": ["Meditation"]
+      },
+      {
+        "semantic_key": "health_wellness-yoga",
+        "description": "A Hindu spiritual and ascetic discipline.",
+        "related_german_words": ["Yoga"]
+      },
+      {
+        "semantic_key": "health_wellness-sport_activity",
+        "description": "An activity involving physical exertion and skill.",
+        "related_german_words": ["Sport"]
+      },
+      {
+        "semantic_key": "health_wellness-gym",
+        "description": "A gymnasium.",
+        "related_german_words": ["Fitnessstudio"]
+      },
+      {
+        "semantic_key": "health_wellness-workout",
+        "description": "A session of vigorous physical exercise or training.",
+        "related_german_words": ["Training", "Workout"]
+      },
+      {
+        "semantic_key": "health_wellness-running",
+        "description": "The action or movement of a runner.",
+        "related_german_words": ["Laufen", "Joggen"]
+      },
+      {
+        "semantic_key": "health_wellness-swimming",
+        "description": "The sport or activity of propelling oneself through water using the limbs.",
+        "related_german_words": ["Schwimmen"]
+      },
+      {
+        "semantic_key": "health_wellness-cycling",
+        "description": "The sport or activity of riding a bicycle.",
+        "related_german_words": ["Radfahren"]
+      },
+      {
+        "semantic_key": "health_wellness-wellness_state",
+        "description": "The state of being in good health, especially as an actively pursued goal.",
+        "related_german_words": ["Wellness"]
+      },
+      {
+        "semantic_key": "health_wellness-sauna",
+        "description": "A small room used as a hot-air or steam bath for cleaning and refreshing the body.",
+        "related_german_words": ["Sauna"]
+      },
+      {
+        "semantic_key": "health_wellness-to_examine",
+        "description": "To inspect someone in detail to determine their health status.",
+        "related_german_words": ["untersuchen"]
+      },
+      {
+        "semantic_key": "health_wellness-to_treat",
+        "description": "To give medical care or attention to someone.",
+        "related_german_words": ["behandeln"]
+      },
+      {
+        "semantic_key": "health_wellness-to_prescribe",
+        "description": "To advise and authorize the use of a medicine or treatment for someone.",
+        "related_german_words": ["verschreiben"]
+      },
+      {
+        "semantic_key": "health_wellness-to_vaccinate",
+        "description": "To treat with a vaccine to produce immunity.",
+        "related_german_words": ["impfen"]
+      },
+      {
+        "semantic_key": "health_wellness-to_heal",
+        "description": "To cause a wound, injury, or person to become sound or healthy again.",
+        "related_german_words": ["heilen"]
+      },
+      {
+        "semantic_key": "health_wellness-to_recover",
+        "description": "To return to a normal state of health, mind, or strength.",
+        "related_german_words": ["sich erholen", "genesen"]
+      },
+      {
+        "semantic_key": "health_wellness-to_suffer",
+        "description": "To experience or be subjected to something bad or unpleasant.",
+        "related_german_words": ["leiden"]
+      },
+      {
+        "semantic_key": "health_wellness-to_hurt",
+        "description": "To cause physical pain or injury to.",
+        "related_german_words": ["weh tun", "schmerzen"]
+      },
+      {
+        "semantic_key": "health_wellness-to_bleed",
+        "description": "To lose blood from the body.",
+        "related_german_words": ["bluten"]
+      },
+      {
+        "semantic_key": "health_wellness-to_breathe",
+        "description": "To take air into the lungs and then expel it.",
+        "related_german_words": ["atmen"]
+      },
+      {
+        "semantic_key": "health_wellness-to_sweat",
+        "description": "To exude sweat.",
+        "related_german_words": ["schwitzen"]
+      },
+      {
+        "semantic_key": "health_wellness-to_shiver",
+        "description": "To shake slightly and uncontrollably as a result of being cold, frightened, or excited.",
+        "related_german_words": ["zittern"]
+      },
+      {
+        "semantic_key": "health_wellness-to_vomit_verb",
+        "description": "To eject the contents of the stomach through the mouth.",
+        "related_german_words": ["erbrechen"]
+      },
+      {
+        "semantic_key": "health_wellness-to_operate_surgical",
+        "description": "To perform a surgical operation.",
+        "related_german_words": ["operieren"]
+      },
+      {
+        "semantic_key": "health_wellness-to_take_medicine",
+        "description": "To ingest a medical drug.",
+        "related_german_words": ["einnehmen"]
+      },
+      {
+        "semantic_key": "health_wellness-to_bandage",
+        "description": "To bind a wound with a strip of material.",
+        "related_german_words": ["verbinden"]
+      },
+      {
+        "semantic_key": "health_wellness-to_disinfect",
+        "description": "To clean with a chemical in order to destroy bacteria.",
+        "related_german_words": ["desinfizieren"]
+      },
+      {
+        "semantic_key": "health_wellness-to_prevent",
+        "description": "To keep something from happening.",
+        "related_german_words": ["vorbeugen"]
+      },
+      {
+        "semantic_key": "health_wellness-to_diagnose",
+        "description": "To identify the nature of an illness or other problem by examination of the symptoms.",
+        "related_german_words": ["diagnostizieren"]
+      },
+      {
+        "semantic_key": "health_wellness-to_exercise",
+        "description": "To engage in physical activity to sustain or improve health and fitness.",
+        "related_german_words": ["trainieren", "Sport treiben"]
+      },
+      {
+        "semantic_key": "health_wellness-to_relax",
+        "description": "To make or become less tense or anxious.",
+        "related_german_words": ["sich entspannen"]
+      },
+      {
+        "semantic_key": "health_wellness-to_meditate",
+        "description": "To think deeply or focus one's mind for a period of time.",
+        "related_german_words": ["meditieren"]
+      },
+      {
+        "semantic_key": "health_wellness-to_sleep_verb",
+        "description": "To be in a state of rest in which your eyes are closed.",
+        "related_german_words": ["schlafen"]
+      },
+      {
+        "semantic_key": "health_wellness-to_diet",
+        "description": "To restrict oneself to small amounts or special kinds of food.",
+        "related_german_words": ["eine Diät machen"]
+      },
+      {
+        "semantic_key": "health_wellness-hygienic",
+        "description": "Conducive to maintaining health and preventing disease.",
+        "related_german_words": ["hygienisch"]
+      },
+      {
+        "semantic_key": "health_wellness-sterile_medical",
+        "description": "Free from bacteria or other living microorganisms.",
+        "related_german_words": ["steril"]
+      },
+      {
+        "semantic_key": "health_wellness-infectious",
+        "description": "Likely to be transmitted to people, organisms, etc. through the environment.",
+        "related_german_words": ["infektiös"]
+      },
+      {
+        "semantic_key": "health_wellness-painful",
+        "description": "Affected with, causing, or characterized by pain.",
+        "related_german_words": ["schmerzhaft"]
+      },
+      {
+        "semantic_key": "health_wellness-swollen_state",
+        "description": "Puffed up; distended.",
+        "related_german_words": ["geschwollen"]
+      },
+      {
+        "semantic_key": "health_wellness-conscious",
+        "description": "Aware of and responding to one's surroundings.",
+        "related_german_words": ["bei Bewusstsein", "wach"]
+      },
+      {
+        "semantic_key": "health_wellness-unconscious",
+        "description": "Not conscious.",
+        "related_german_words": ["bewusstlos"]
+      },
+      {
+        "semantic_key": "health_wellness-dead",
+        "description": "No longer alive.",
+        "related_german_words": ["tot"]
+      },
+      {
+        "semantic_key": "health_wellness-stretcher",
+        "description": "A framework of two poles with a long piece of canvas used for carrying sick or injured people.",
+        "related_german_words": ["Trage"]
+      },
+      {
+        "semantic_key": "health_wellness-mask_protection",
+        "description": "A protective covering for the face.",
+        "related_german_words": ["Maske"]
+      },
+      {
+        "semantic_key": "health_wellness-gloves_medical",
+        "description": "Protective coverings for the hands.",
+        "related_german_words": ["Handschuhe"]
+      },
+      {
+        "semantic_key": "health_wellness-syphon",
+        "description": "A tube used for medical drainage or similar.",
+        "related_german_words": ["Drainage"]
+      },
+      {
+        "semantic_key": "health_wellness-microscope",
+        "description": "An optical instrument used for viewing very small objects.",
+        "related_german_words": ["Mikroskop"]
+      },
+      {
+        "semantic_key": "health_wellness-laboratory",
+        "description": "A room or building equipped for scientific experiments, research, or teaching.",
+        "related_german_words": ["Labor"]
+      },
+      {
+        "semantic_key": "health_wellness-sample_medical",
+        "description": "A small part or quantity intended to show what the whole is like.",
+        "related_german_words": ["Probe"]
+      },
+      {
+        "semantic_key": "health_wellness-results_test",
+        "description": "The findings of a medical test.",
+        "related_german_words": ["Befund", "Ergebnis"]
+      },
+      {
+        "semantic_key": "health_wellness-statutory_health_insurance",
+        "description": "Health insurance required by law.",
+        "related_german_words": ["gesetzliche Krankenversicherung"]
+      },
+      {
+        "semantic_key": "health_wellness-private_health_insurance",
+        "description": "Health insurance provided by a private company.",
+        "related_german_words": ["private Krankenversicherung"]
+      },
+      {
+        "semantic_key": "health_wellness-nursing_care",
+        "description": "The provision of care for people who are unable to look after themselves.",
+        "related_german_words": ["Pflege"]
+      },
+      {
+        "semantic_key": "health_wellness-retirement_home",
+        "description": "An establishment providing accommodation and care for elderly people.",
+        "related_german_words": ["Altersheim", "Seniorenheim"]
+      },
+      {
+        "semantic_key": "health_wellness-death",
+        "description": "The action or fact of dying or being killed.",
+        "related_german_words": ["Tod"]
+      },
+      {
+        "semantic_key": "health_wellness-autopsy",
+        "description": "A post-mortem examination to discover the cause of death.",
+        "related_german_words": ["Obduktion"]
+      },
+      {
+        "semantic_key": "health_wellness-funeral",
+        "description": "The ceremonies honoring a dead person.",
+        "related_german_words": ["Beerdigung"]
+      },
+      {
+        "semantic_key": "health_wellness-organ_donor",
+        "description": "A person who allows their organs to be used after their death.",
+        "related_german_words": ["Organspender"]
+      },
+      {
+        "semantic_key": "health_wellness-blood_donor",
+        "description": "A person who gives blood to be used in transfusions.",
+        "related_german_words": ["Blutspender"]
+      },
+      {
+        "semantic_key": "health_wellness-overweight",
+        "description": "Above a weight considered normal or desirable.",
+        "related_german_words": ["übergewichtig"]
+      },
+      {
+        "semantic_key": "health_wellness-underweight",
+        "description": "Below a weight considered normal or desirable.",
+        "related_german_words": ["untergewichtig"]
+      },
+      {
+        "semantic_key": "health_wellness-obese",
+        "description": "Grossly fat or overweight.",
+        "related_german_words": ["fettleibig", "adipös"]
+      },
+      {
+        "semantic_key": "health_wellness-skinny",
+        "description": "Very thin.",
+        "related_german_words": ["dünn", "mager"]
+      },
+      {
+        "semantic_key": "health_wellness-mental_health",
+        "description": "A person’s condition with regard to their psychological and emotional well-being.",
+        "related_german_words": ["psychische Gesundheit"]
+      },
+      {
+        "semantic_key": "health_wellness-self_care",
+        "description": "The practice of taking an active role in protecting one's own well-being.",
+        "related_german_words": ["Selbstfürsorge"]
+      },
+      {
+        "semantic_key": "health_wellness-mindfulness",
+        "description": "A mental state achieved by focusing one's awareness on the present moment.",
+        "related_german_words": ["Achtsamkeit"]
+      },
+      {
+        "semantic_key": "health_wellness-balance_life",
+        "description": "A state of equilibrium.",
+        "related_german_words": ["Gleichgewicht"]
+      },
+      {
+        "semantic_key": "health_wellness-vitality",
+        "description": "The state of being strong and active; energy.",
+        "related_german_words": ["Vitalität"]
+      },
+      {
+        "semantic_key": "health_wellness-stamina",
+        "description": "The ability to sustain prolonged physical or mental effort.",
+        "related_german_words": ["Ausdauer"]
+      },
+      {
+        "semantic_key": "health_wellness-strength",
+        "description": "The quality or state of being physically strong.",
+        "related_german_words": ["Kraft"]
+      },
+      {
+        "semantic_key": "health_wellness-flexibility",
+        "description": "The quality of bending easily without breaking.",
+        "related_german_words": ["Beweglichkeit"]
+      },
+      {
+        "semantic_key": "health_wellness-posture",
+        "description": "The position in which someone holds their body.",
+        "related_german_words": ["Haltung"]
+      },
+      {
+        "semantic_key": "health_wellness-physician",
+        "description": "A person qualified to practice medicine.",
+        "related_german_words": ["Mediziner"]
+      },
+      {
+        "semantic_key": "health_wellness-vaccination_card",
+        "description": "A small booklet in which vaccinations are recorded.",
+        "related_german_words": ["Impfpass"]
+      },
+      {
+        "semantic_key": "health_wellness-allergy_pass",
+        "description": "A document listing a person's allergies.",
+        "related_german_words": ["Allergiepass"]
+      },
+      {
+        "semantic_key": "health_wellness-health_app",
+        "description": "A mobile application for monitoring health data.",
+        "related_german_words": ["Gesundheits-App"]
+      },
+      {
+        "semantic_key": "health_wellness-fitness_tracker",
+        "description": "A device used for monitoring and tracking fitness-related metrics.",
+        "related_german_words": ["Fitnesstracker"]
+      },
+      {
+        "semantic_key": "health_wellness-telemedicine",
+        "description": "The remote diagnosis and treatment of patients by means of telecommunications technology.",
+        "related_german_words": ["Telemedizin"]
+      },
+      {
+        "semantic_key": "health_wellness-medical_certificate",
+        "description": "A statement from a physician or other health provider that attests to the result of a medical examination.",
+        "related_german_words": ["Attest", "ärztliches Zeugnis"]
+      },
+      {
+        "semantic_key": "health_wellness-emergency_call",
+        "description": "A phone call to the emergency services.",
+        "related_german_words": ["Notruf"]
+      },
+      {
+        "semantic_key": "health_wellness-poison_control_center",
+        "description": "A service that provides immediate treatment advice for poisonings.",
+        "related_german_words": ["Giftnotruf"]
+      },
+      {
+        "semantic_key": "health_wellness-first_aid_kit",
+        "description": "A collection of supplies and equipment that is used to give medical treatment.",
+        "related_german_words": ["Verbandskasten", "Erste-Hilfe-Set"]
+      },
+      {
+        "semantic_key": "health_wellness-disinfectant",
+        "description": "A chemical liquid that destroys bacteria.",
+        "related_german_words": ["Desinfektionsmittel"]
+      },
+      {
+        "semantic_key": "health_wellness-sunscreen",
+        "description": "A cream or lotion rubbed on to the skin to protect it from the sun.",
+        "related_german_words": ["Sonnencreme"]
+      },
+      {
+        "semantic_key": "health_wellness-toothpaste",
+        "description": "A paste used with a brush for cleaning the teeth.",
+        "related_german_words": ["Zahnpasta"]
+      },
+      {
+        "semantic_key": "health_wellness-toothbrush",
+        "description": "A small brush used for cleaning the teeth.",
+        "related_german_words": ["Zahnbürste"]
+      },
+      {
+        "semantic_key": "health_wellness-dental_floss",
+        "description": "A soft thread used for cleaning between the teeth.",
+        "related_german_words": ["Zahnseide"]
+      },
+      {
+        "semantic_key": "health_wellness-mouthwash",
+        "description": "An antiseptic liquid for rinsing the mouth or gargling.",
+        "related_german_words": ["Mundwasser"]
+      }
+    ]
+  }
+]

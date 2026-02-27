@@ -1,0 +1,1472 @@
+[
+  {
+    "category_slug": "home-living",
+    "concepts": [
+      {
+        "semantic_key": "home-living-bedroom",
+        "description": "A private room primarily used for sleeping.",
+        "related_german_words": ["Schlafzimmer"]
+      },
+      {
+        "semantic_key": "home-living-apartment",
+        "description": "A self-contained housing unit that occupies only part of a building.",
+        "related_german_words": ["Wohnung"]
+      },
+      {
+        "semantic_key": "home-living-house",
+        "description": "A building that functions as a primary residence.",
+        "related_german_words": ["Haus"]
+      },
+      {
+        "semantic_key": "home-living-living_room",
+        "description": "The main room in a house for relaxing and socializing.",
+        "related_german_words": ["Wohnzimmer"]
+      },
+      {
+        "semantic_key": "home-living-kitchen",
+        "description": "A room or area where food is prepared and cooked.",
+        "related_german_words": ["Küche"]
+      },
+      {
+        "semantic_key": "home-living-bathroom",
+        "description": "A room containing a toilet and washing facilities.",
+        "related_german_words": ["Badezimmer", "Bad"]
+      },
+      {
+        "semantic_key": "home-living-hallway",
+        "description": "A corridor or passage in a building.",
+        "related_german_words": ["Flur", "Diele", "Korridor"]
+      },
+      {
+        "semantic_key": "home-living-balcony",
+        "description": "A platform on the outside of a building with a railing.",
+        "related_german_words": ["Balkon"]
+      },
+      {
+        "semantic_key": "home-living-terrace",
+        "description": "A paved area next to a house; a patio.",
+        "related_german_words": ["Terrasse"]
+      },
+      {
+        "semantic_key": "home-living-basement",
+        "description": "The floor of a building which is partly or entirely below ground level.",
+        "related_german_words": ["Keller"]
+      },
+      {
+        "semantic_key": "home-living-attic",
+        "description": "A space or room just below the roof of a house.",
+        "related_german_words": ["Dachboden", "Speicher"]
+      },
+      {
+        "semantic_key": "home-living-nursery",
+        "description": "A room in a house for the special use of young children.",
+        "related_german_words": ["Kinderzimmer"]
+      },
+      {
+        "semantic_key": "home-living-study_room",
+        "description": "A room used for paper work, computer work, or reading.",
+        "related_german_words": ["Arbeitszimmer"]
+      },
+      {
+        "semantic_key": "home-living-guest_room",
+        "description": "A bedroom kept for the use of visitors.",
+        "related_german_words": ["Gästezimmer"]
+      },
+      {
+        "semantic_key": "home-living-dining_room",
+        "description": "A room in which meals are eaten.",
+        "related_german_words": ["Esszimmer"]
+      },
+      {
+        "semantic_key": "home-living-storage_room",
+        "description": "A small room for storing household items.",
+        "related_german_words": ["Abstellraum", "Abstellkammer"]
+      },
+      {
+        "semantic_key": "home-living-staircase",
+        "description": "A set of stairs and its surrounding structure.",
+        "related_german_words": ["Treppenhaus"]
+      },
+      {
+        "semantic_key": "home-living-elevator",
+        "description": "A platform or compartment housed in a shaft for raising and lowering people.",
+        "related_german_words": ["Aufzug", "Fahrstuhl", "Lift"]
+      },
+      {
+        "semantic_key": "home-living-entrance",
+        "description": "An opening, such as a door or gate, that allows access to a place.",
+        "related_german_words": ["Eingang"]
+      },
+      {
+        "semantic_key": "home-living-floor_level",
+        "description": "A level of a building.",
+        "related_german_words": ["Stockwerk", "Etage"]
+      },
+      {
+        "semantic_key": "home-living-ground_floor",
+        "description": "The floor of a building at ground level.",
+        "related_german_words": ["Erdgeschoss"]
+      },
+      {
+        "semantic_key": "home-living-garden",
+        "description": "A piece of ground adjoining a house used for growing plants.",
+        "related_german_words": ["Garten"]
+      },
+      {
+        "semantic_key": "home-living-yard",
+        "description": "A piece of uncultivated ground adjoining a building.",
+        "related_german_words": ["Hof"]
+      },
+      {
+        "semantic_key": "home-living-garage",
+        "description": "A building for housing a motor vehicle.",
+        "related_german_words": ["Garage"]
+      },
+      {
+        "semantic_key": "home-living-roof",
+        "description": "The top covering of a building.",
+        "related_german_words": ["Dach"]
+      },
+      {
+        "semantic_key": "home-living-wall",
+        "description": "A vertical structure that defines an area.",
+        "related_german_words": ["Wand"]
+      },
+      {
+        "semantic_key": "home-living-floor_surface",
+        "description": "The lower surface of a room on which one may walk.",
+        "related_german_words": ["Fußboden", "Boden"]
+      },
+      {
+        "semantic_key": "home-living-ceiling",
+        "description": "The upper interior surface of a room.",
+        "related_german_words": ["Zimmerdecke"]
+      },
+      {
+        "semantic_key": "home-living-window",
+        "description": "An opening in a wall to admit light or air.",
+        "related_german_words": ["Fenster"]
+      },
+      {
+        "semantic_key": "home-living-door",
+        "description": "A hinged or sliding barrier used to close an entrance.",
+        "related_german_words": ["Tür"]
+      },
+      {
+        "semantic_key": "home-living-doorbell",
+        "description": "A bell or chime at an entrance door.",
+        "related_german_words": ["Türklingel", "Klingel"]
+      },
+      {
+        "semantic_key": "home-living-mailbox",
+        "description": "A box into which mail is delivered.",
+        "related_german_words": ["Briefkasten"]
+      },
+      {
+        "semantic_key": "home-living-table",
+        "description": "A piece of furniture with a flat top and one or more legs.",
+        "related_german_words": ["Tisch"]
+      },
+      {
+        "semantic_key": "home-living-chair",
+        "description": "A separate seat for one person, typically with a back and four legs.",
+        "related_german_words": ["Stuhl"]
+      },
+      {
+        "semantic_key": "home-living-sofa",
+        "description": "A long upholstered seat with a back and arms, for two or more people.",
+        "related_german_words": ["Sofa", "Couch"]
+      },
+      {
+        "semantic_key": "home-living-armchair",
+        "description": "A comfortable chair with side supports for a person's arms.",
+        "related_german_words": ["Sessel"]
+      },
+      {
+        "semantic_key": "home-living-shelf",
+        "description": "A flat board fixed horizontally for supporting objects.",
+        "related_german_words": ["Regal"]
+      },
+      {
+        "semantic_key": "home-living-wardrobe",
+        "description": "A large, tall cupboard in which clothes may be hung or stored.",
+        "related_german_words": ["Kleiderschrank"]
+      },
+      {
+        "semantic_key": "home-living-bed",
+        "description": "A piece of furniture for sleep or rest.",
+        "related_german_words": ["Bett"]
+      },
+      {
+        "semantic_key": "home-living-nightstand",
+        "description": "A small table or cabinet next to a bed.",
+        "related_german_words": ["Nachttisch"]
+      },
+      {
+        "semantic_key": "home-living-desk",
+        "description": "A piece of furniture with a flat surface used for writing or working.",
+        "related_german_words": ["Schreibtisch"]
+      },
+      {
+        "semantic_key": "home-living-chest_of_drawers",
+        "description": "A piece of furniture consisting of several drawers.",
+        "related_german_words": ["Kommode"]
+      },
+      {
+        "semantic_key": "home-living-mirror",
+        "description": "A surface which reflects a clear image.",
+        "related_german_words": ["Spiegel"]
+      },
+      {
+        "semantic_key": "home-living-coat_rack",
+        "description": "A rack with hooks or pegs for hanging coats.",
+        "related_german_words": ["Garderobe"]
+      },
+      {
+        "semantic_key": "home-living-shoe_rack",
+        "description": "A storage unit for shoes.",
+        "related_german_words": ["Schuhregal"]
+      },
+      {
+        "semantic_key": "home-living-lamp",
+        "description": "A device for giving light.",
+        "related_german_words": ["Lampe", "Leuchte"]
+      },
+      {
+        "semantic_key": "home-living-refrigerator",
+        "description": "An appliance that is kept cold to store food and drink.",
+        "related_german_words": ["Kühlschrank"]
+      },
+      {
+        "semantic_key": "home-living-freezer",
+        "description": "An appliance that keeps food at very cold temperatures.",
+        "related_german_words": ["Gefrierschrank"]
+      },
+      {
+        "semantic_key": "home-living-stove",
+        "description": "An apparatus for cooking or heating that operates by burning fuel or using electricity.",
+        "related_german_words": ["Herd"]
+      },
+      {
+        "semantic_key": "home-living-oven",
+        "description": "An enclosed compartment used for heating or baking food.",
+        "related_german_words": ["Backofen"]
+      },
+      {
+        "semantic_key": "home-living-dishwasher",
+        "description": "A machine for washing dishes automatically.",
+        "related_german_words": ["Spülmaschine", "Geschirrspüler"]
+      },
+      {
+        "semantic_key": "home-living-microwave",
+        "description": "An oven that uses microwaves to cook or heat food quickly.",
+        "related_german_words": ["Mikrowelle"]
+      },
+      {
+        "semantic_key": "home-living-sink_kitchen",
+        "description": "A fixed basin in a kitchen for washing dishes.",
+        "related_german_words": ["Spüle", "Spülbecken"]
+      },
+      {
+        "semantic_key": "home-living-faucet",
+        "description": "A device by which a flow of liquid from a pipe is controlled.",
+        "related_german_words": ["Wasserhahn"]
+      },
+      {
+        "semantic_key": "home-living-coffee_maker",
+        "description": "A machine for making coffee.",
+        "related_german_words": ["Kaffeemaschine"]
+      },
+      {
+        "semantic_key": "home-living-kettle",
+        "description": "A container with a lid, spout, and handle, used for boiling water.",
+        "related_german_words": ["Wasserkocher"]
+      },
+      {
+        "semantic_key": "home-living-toaster",
+        "description": "An electrical device for making toast.",
+        "related_german_words": ["Toaster"]
+      },
+      {
+        "semantic_key": "home-living-trash_can",
+        "description": "A container for household waste.",
+        "related_german_words": ["Mülleimer"]
+      },
+      {
+        "semantic_key": "home-living-shower",
+        "description": "An enclosure in which a person bathes under a spray of water.",
+        "related_german_words": ["Dusche"]
+      },
+      {
+        "semantic_key": "home-living-bathtub",
+        "description": "A large container for bathing.",
+        "related_german_words": ["Badewanne"]
+      },
+      {
+        "semantic_key": "home-living-toilet",
+        "description": "A fixed ceramic bowl used for defecation and urination.",
+        "related_german_words": ["Toilette", "WC"]
+      },
+      {
+        "semantic_key": "home-living-sink_bathroom",
+        "description": "A fixed basin in a bathroom for washing hands and face.",
+        "related_german_words": ["Waschbecken"]
+      },
+      {
+        "semantic_key": "home-living-washing_machine",
+        "description": "A machine for washing clothes.",
+        "related_german_words": ["Waschmaschine"]
+      },
+      {
+        "semantic_key": "home-living-dryer",
+        "description": "A machine for drying clothes.",
+        "related_german_words": ["Wäschetrockner", "Trockner"]
+      },
+      {
+        "semantic_key": "home-living-carpet",
+        "description": "A floor covering made from thick woven fabric.",
+        "related_german_words": ["Teppich"]
+      },
+      {
+        "semantic_key": "home-living-curtain",
+        "description": "A piece of material hung to cover a window.",
+        "related_german_words": ["Vorhang", "Gardine"]
+      },
+      {
+        "semantic_key": "home-living-pillow",
+        "description": "A rectangular cloth bag filled with soft material, used to rest the head.",
+        "related_german_words": ["Kissen"]
+      },
+      {
+        "semantic_key": "home-living-blanket",
+        "description": "A large piece of woolen or similar material used as a bed covering for warmth.",
+        "related_german_words": ["Decke"]
+      },
+      {
+        "semantic_key": "home-living-bed_linen",
+        "description": "The sheets and pillowcases used on a bed.",
+        "related_german_words": ["Bettwäsche"]
+      },
+      {
+        "semantic_key": "home-living-mattress",
+        "description": "A large, rectangular pad for supporting the reclining body.",
+        "related_german_words": ["Matratze"]
+      },
+      {
+        "semantic_key": "home-living-houseplant",
+        "description": "A plant grown indoors.",
+        "related_german_words": ["Zimmerpflanze"]
+      },
+      {
+        "semantic_key": "home-living-to_live",
+        "description": "To have one's home in a particular place.",
+        "related_german_words": ["wohnen"]
+      },
+      {
+        "semantic_key": "home-living-to_move_in",
+        "description": "To start living in a new house or apartment.",
+        "related_german_words": ["einziehen"]
+      },
+      {
+        "semantic_key": "home-living-to_move_out",
+        "description": "To stop living in a particular house or apartment.",
+        "related_german_words": ["ausziehen"]
+      },
+      {
+        "semantic_key": "home-living-to_move_house",
+        "description": "To change one's place of residence.",
+        "related_german_words": ["umziehen"]
+      },
+      {
+        "semantic_key": "home-living-to_rent",
+        "description": "To pay someone for the use of a house or apartment.",
+        "related_german_words": ["mieten"]
+      },
+      {
+        "semantic_key": "home-living-to_clean",
+        "description": "To make something free of dirt or mess.",
+        "related_german_words": ["putzen", "reinigen"]
+      },
+      {
+        "semantic_key": "home-living-to_tidy_up",
+        "description": "To put things in their correct place.",
+        "related_german_words": ["aufräumen"]
+      },
+      {
+        "semantic_key": "home-living-to_vacuum",
+        "description": "To clean with a vacuum cleaner.",
+        "related_german_words": ["staubsaugen"]
+      },
+      {
+        "semantic_key": "home-living-to_wash_dishes",
+        "description": "The act of cleaning plates, cups, and cutlery.",
+        "related_german_words": ["abwaschen", "spülen"]
+      },
+      {
+        "semantic_key": "home-living-rent",
+        "description": "The regular payment made to a landlord.",
+        "related_german_words": ["Miete"]
+      },
+      {
+        "semantic_key": "home-living-warm_rent",
+        "description": "Total rent including heating and utility costs.",
+        "related_german_words": ["Warmmiete"]
+      },
+      {
+        "semantic_key": "home-living-utility_costs",
+        "description": "Expenses for water, heating, and waste collection.",
+        "related_german_words": ["Nebenkosten"]
+      },
+      {
+        "semantic_key": "home-living-landlord",
+        "description": "A person who rents out a building or apartment.",
+        "related_german_words": ["Vermieter"]
+      },
+      {
+        "semantic_key": "home-living-tenant",
+        "description": "A person who occupies land or property rented from a landlord.",
+        "related_german_words": ["Mieter"]
+      },
+      {
+        "semantic_key": "home-living-neighbor",
+        "description": "A person living next door to or very near to the speaker.",
+        "related_german_words": ["Nachbar"]
+      },
+      {
+        "semantic_key": "home-living-shared_apartment",
+        "description": "A living arrangement where several people share a flat.",
+        "related_german_words": ["Wohngemeinschaft", "WG"]
+      },
+      {
+        "semantic_key": "home-living-deposit",
+        "description": "A sum of money paid as a security when renting.",
+        "related_german_words": ["Kaution"]
+      },
+      {
+        "semantic_key": "home-living-cozy",
+        "description": "Giving a feeling of comfort, warmth, and relaxation.",
+        "related_german_words": ["gemütlich"]
+      },
+      {
+        "semantic_key": "home-living-bright",
+        "description": "Giving out or reflecting a lot of light.",
+        "related_german_words": ["hell"]
+      },
+      {
+        "semantic_key": "home-living-dark",
+        "description": "With little or no light.",
+        "related_german_words": ["dunkel"]
+      },
+      {
+        "semantic_key": "home-living-spacious",
+        "description": "Having ample space.",
+        "related_german_words": ["geräumig", "großzügig"]
+      },
+      {
+        "semantic_key": "home-living-modern",
+        "description": "Relating to the present or recent times.",
+        "related_german_words": ["modern"]
+      },
+      {
+        "semantic_key": "home-living-furnished",
+        "description": "An apartment provided with furniture.",
+        "related_german_words": ["möbliert"]
+      },
+      {
+        "semantic_key": "home-living-heating",
+        "description": "The equipment or system used to heat a building.",
+        "related_german_words": ["Heizung"]
+      },
+      {
+        "semantic_key": "home-living-light_switch",
+        "description": "A switch that controls an electric light.",
+        "related_german_words": ["Lichtschalter"]
+      },
+      {
+        "semantic_key": "home-living-socket",
+        "description": "A device on a wall to which electrical equipment can be connected.",
+        "related_german_words": ["Steckdose"]
+      },
+      {
+        "semantic_key": "home-living-key",
+        "description": "A small piece of metal used to open a lock.",
+        "related_german_words": ["Schlüssel"]
+      },
+      {
+        "semantic_key": "home-living-floor_tiles",
+        "description": "Flat thin slabs of ceramic or stone used for floors.",
+        "related_german_words": ["Fliesen"]
+      },
+      {
+        "semantic_key": "home-living-parquet",
+        "description": "Flooring composed of wooden blocks arranged in a geometric pattern.",
+        "related_german_words": ["Parkett"]
+      },
+      {
+        "semantic_key": "home-living-vacuum_cleaner",
+        "description": "An electrical appliance for cleaning floors by suction.",
+        "related_german_words": ["Staubsauger"]
+      },
+      {
+        "semantic_key": "home-living-broom",
+        "description": "A brush with a long handle, used for sweeping.",
+        "related_german_words": ["Besen"]
+      },
+      {
+        "semantic_key": "home-living-detergent",
+        "description": "A substance used for washing clothes.",
+        "related_german_words": ["Waschmittel"]
+      },
+      {
+        "semantic_key": "home-living-alarm_clock",
+        "description": "A clock that can be set to sound at a particular time, used for waking up.",
+        "related_german_words": ["Wecker"]
+      },
+      {
+        "semantic_key": "home-living-television",
+        "description": "A device with a screen for receiving broadcast signals.",
+        "related_german_words": ["Fernseher", "TV"]
+      },
+      {
+        "semantic_key": "home-living-remote_control",
+        "description": "A device for controlling a machine from a distance.",
+        "related_german_words": ["Fernbedienung"]
+      },
+      {
+        "semantic_key": "home-living-wifi",
+        "description": "A facility allowing computers and smartphones to connect to the internet wirelessly.",
+        "related_german_words": ["WLAN"]
+      },
+      {
+        "semantic_key": "home-living-built_in_kitchen",
+        "description": "A kitchen where the units and appliances are integrated.",
+        "related_german_words": ["Einbauküche"]
+      },
+      {
+        "semantic_key": "home-living-moving_box",
+        "description": "A cardboard box used for transporting items during a move.",
+        "related_german_words": ["Umzugskarton"]
+      },
+      {
+        "semantic_key": "home-living-caretaker",
+        "description": "A person employed to look after a building.",
+        "related_german_words": ["Hausmeister"]
+      },
+      {
+        "semantic_key": "home-living-garbage_collection",
+        "description": "The service of collecting and removing household waste.",
+        "related_german_words": ["Müllabfuhr"]
+      },
+      {
+        "semantic_key": "home-living-plate",
+        "description": "A flat dish from which food is eaten.",
+        "related_german_words": ["Teller"]
+      },
+      {
+        "semantic_key": "home-living-cup",
+        "description": "A small bowl-shaped container for drinking.",
+        "related_german_words": ["Tasse"]
+      },
+      {
+        "semantic_key": "home-living-glass",
+        "description": "A drinking vessel made of glass.",
+        "related_german_words": ["Glas"]
+      },
+      {
+        "semantic_key": "home-living-cutlery",
+        "description": "Knives, forks, and spoons used for eating.",
+        "related_german_words": ["Besteck"]
+      },
+      {
+        "semantic_key": "home-living-fork",
+        "description": "A tool with prongs used for lifting food to the mouth.",
+        "related_german_words": ["Gabel"]
+      },
+      {
+        "semantic_key": "home-living-knife",
+        "description": "An instrument with a blade used for cutting.",
+        "related_german_words": ["Messer"]
+      },
+      {
+        "semantic_key": "home-living-spoon",
+        "description": "A utensil with a shallow bowl used for eating liquid food.",
+        "related_german_words": ["Löffel"]
+      },
+      {
+        "semantic_key": "home-living-frying_pan",
+        "description": "A shallow pan with a long handle, used for frying food.",
+        "related_german_words": ["Pfanne"]
+      },
+      {
+        "semantic_key": "home-living-pot",
+        "description": "A container used for cooking, typically round and deep.",
+        "related_german_words": ["Topf"]
+      },
+      {
+        "semantic_key": "home-living-towel",
+        "description": "A piece of absorbent cloth for drying the body.",
+        "related_german_words": ["Handtuch"]
+      },
+      {
+        "semantic_key": "home-living-toilet_paper",
+        "description": "Paper in a roll used for cleaning oneself after defecation or urination.",
+        "related_german_words": ["Toilettenpapier", "Klopapier"]
+      },
+      {
+        "semantic_key": "home-living-soap",
+        "description": "A substance used with water for washing.",
+        "related_german_words": ["Seife"]
+      },
+      {
+        "semantic_key": "home-living-toothbrush",
+        "description": "A brush for cleaning the teeth.",
+        "related_german_words": ["Zahnbürste"]
+      },
+      {
+        "semantic_key": "home-living-toothpaste",
+        "description": "A paste used with a brush for cleaning the teeth.",
+        "related_german_words": ["Zahnpasta"]
+      },
+      {
+        "semantic_key": "home-living-hairdryer",
+        "description": "An electrical device for drying hair.",
+        "related_german_words": ["Föhn"]
+      },
+      {
+        "semantic_key": "home-living-laundry_basket",
+        "description": "A basket for holding dirty or clean laundry.",
+        "related_german_words": ["Wäschekorb"]
+      },
+      {
+        "semantic_key": "home-living-iron",
+        "description": "An appliance used to smooth wrinkles in clothes.",
+        "related_german_words": ["Bügeleisen"]
+      },
+      {
+        "semantic_key": "home-living-ironing_board",
+        "description": "A long, narrow board on which clothes are ironed.",
+        "related_german_words": ["Bügelbrett"]
+      },
+      {
+        "semantic_key": "home-living-blind",
+        "description": "A screen for a window, especially one on a roller.",
+        "related_german_words": ["Jalousie", "Rollo"]
+      },
+      {
+        "semantic_key": "home-living-painting",
+        "description": "A picture or design executed in paints.",
+        "related_german_words": ["Gemälde"]
+      },
+      {
+        "semantic_key": "home-living-vase",
+        "description": "A vessel used as an ornament or for holding cut flowers.",
+        "related_german_words": ["Vase"]
+      },
+      {
+        "semantic_key": "home-living-candle",
+        "description": "A cylinder or block of wax with a central wick.",
+        "related_german_words": ["Kerze"]
+      },
+      {
+        "semantic_key": "home-living-wallpaper",
+        "description": "Paper used to decorate the walls of a room.",
+        "related_german_words": ["Tapete"]
+      },
+      {
+        "semantic_key": "home-living-to_renovate",
+        "description": "To restore to a good state of repair.",
+        "related_german_words": ["renovieren"]
+      },
+      {
+        "semantic_key": "home-living-to_furnish",
+        "description": "To provide a house or room with furniture.",
+        "related_german_words": ["einrichten"]
+      },
+      {
+        "semantic_key": "home-living-to_fix",
+        "description": "To mend or repair something.",
+        "related_german_words": ["reparieren"]
+      },
+      {
+        "semantic_key": "home-living-to_ring_bell",
+        "description": "To cause a bell to sound, especially at a door.",
+        "related_german_words": ["klingeln"]
+      },
+      {
+        "semantic_key": "home-living-to_ventilate",
+        "description": "To cause fresh air to enter and move around a room.",
+        "related_german_words": ["lüften"]
+      },
+      {
+        "semantic_key": "home-living-electricity",
+        "description": "A form of energy resulting from the existence of charged particles.",
+        "related_german_words": ["Strom"]
+      },
+      {
+        "semantic_key": "home-living-water",
+        "description": "The liquid that descends from the clouds as rain, used for domestic needs.",
+        "related_german_words": ["Wasser"]
+      },
+      {
+        "semantic_key": "home-living-neighbor_female",
+        "description": "A female person living near the speaker.",
+        "related_german_words": ["Nachbarin"]
+      },
+      {
+        "semantic_key": "home-living-rental_contract",
+        "description": "A legal agreement between a tenant and a landlord.",
+        "related_german_words": ["Mietvertrag"]
+      },
+      {
+        "semantic_key": "home-living-apartment_viewing",
+        "description": "An occasion for looking at an apartment before renting.",
+        "related_german_words": ["Besichtigung"]
+      },
+      {
+        "semantic_key": "home-living-square_meters",
+        "description": "A unit of area equal to a square one meter long on each side.",
+        "related_german_words": ["Quadratmeter"]
+      },
+      {
+        "semantic_key": "home-living-house_rules",
+        "description": "A set of rules for people living in a building.",
+        "related_german_words": ["Hausordnung"]
+      },
+      {
+        "semantic_key": "home-living-detached_house",
+        "description": "A house not joined to any other house.",
+        "related_german_words": ["Einfamilienhaus"]
+      },
+      {
+        "semantic_key": "home-living-apartment_building",
+        "description": "A building containing several separate apartments.",
+        "related_german_words": ["Mehrfamilienhaus"]
+      },
+      {
+        "semantic_key": "home-living-old_building",
+        "description": "A house or apartment built before a certain date (usually WWII).",
+        "related_german_words": ["Altbau"]
+      },
+      {
+        "semantic_key": "home-living-new_building",
+        "description": "A newly constructed building.",
+        "related_german_words": ["Neubau"]
+      },
+      {
+        "semantic_key": "home-living-address",
+        "description": "The particulars of the place where someone lives.",
+        "related_german_words": ["Adresse"]
+      },
+      {
+        "semantic_key": "home-living-street",
+        "description": "A public road in a city or town.",
+        "related_german_words": ["Straße"]
+      },
+      {
+        "semantic_key": "home-living-house_number",
+        "description": "The specific number assigned to a building on a street.",
+        "related_german_words": ["Hausnummer"]
+      },
+      {
+        "semantic_key": "home-living-postal_code",
+        "description": "A group of letters or numbers which are part of an address.",
+        "related_german_words": ["Postleitzahl", "PLZ"]
+      },
+      {
+        "semantic_key": "home-living-city",
+        "description": "A large town.",
+        "related_german_words": ["Stadt"]
+      },
+      {
+        "semantic_key": "home-living-district",
+        "description": "A particular part of a city.",
+        "related_german_words": ["Stadtteil", "Viertel"]
+      },
+      {
+        "semantic_key": "home-living-expensive",
+        "description": "Costing a lot of money.",
+        "related_german_words": ["teuer"]
+      },
+      {
+        "semantic_key": "home-living-cheap",
+        "description": "Low in price; inexpensive.",
+        "related_german_words": ["billig", "günstig"]
+      },
+      {
+        "semantic_key": "home-living-unfurnished",
+        "description": "An apartment provided without furniture.",
+        "related_german_words": ["unmöbliert"]
+      },
+      {
+        "semantic_key": "home-living-clean_adj",
+        "description": "Free from dirt, marks, or stains.",
+        "related_german_words": ["sauber"]
+      },
+      {
+        "semantic_key": "home-living-dirty",
+        "description": "Covered or marked with an unclean substance.",
+        "related_german_words": ["dreckig", "schmutzig"]
+      },
+      {
+        "semantic_key": "home-living-tidy",
+        "description": "Arranged neatly and in order.",
+        "related_german_words": ["ordentlich"]
+      },
+      {
+        "semantic_key": "home-living-quiet",
+        "description": "Making little or no noise.",
+        "related_german_words": ["ruhig"]
+      },
+      {
+        "semantic_key": "home-living-central",
+        "description": "Located in the middle of a town or city.",
+        "related_german_words": ["zentral"]
+      },
+      {
+        "semantic_key": "home-living-radiator",
+        "description": "A device for heating a room by circulating hot water.",
+        "related_german_words": ["Heizkörper"]
+      },
+      {
+        "semantic_key": "home-living-air_conditioning",
+        "description": "A system for controlling the temperature and humidity of air in a building.",
+        "related_german_words": ["Klimaanlage"]
+      },
+      {
+        "semantic_key": "home-living-fan",
+        "description": "An apparatus with rotating blades that creates a current of air.",
+        "related_german_words": ["Ventilator"]
+      },
+      {
+        "semantic_key": "home-living-fireplace",
+        "description": "A place for a domestic fire, especially at the base of a chimney.",
+        "related_german_words": ["Kamin"]
+      },
+      {
+        "semantic_key": "home-living-plug",
+        "description": "A device for making an electrical connection.",
+        "related_german_words": ["Stecker"]
+      },
+      {
+        "semantic_key": "home-living-cable",
+        "description": "A thick wire used for transmitting electricity or signals.",
+        "related_german_words": ["Kabel"]
+      },
+      {
+        "semantic_key": "home-living-battery",
+        "description": "A container consisting of one or more cells, used as a source of power.",
+        "related_german_words": ["Batterie"]
+      },
+      {
+        "semantic_key": "home-living-hammer",
+        "description": "A tool with a heavy metal head, used for breaking things or driving nails.",
+        "related_german_words": ["Hammer"]
+      },
+      {
+        "semantic_key": "home-living-screwdriver",
+        "description": "A tool with a shaped tip that fits into the head of a screw to turn it.",
+        "related_german_words": ["Schraubenzieher"]
+      },
+      {
+        "semantic_key": "home-living-screw",
+        "description": "A metal pin with a raised helical thread.",
+        "related_german_words": ["Schraube"]
+      },
+      {
+        "semantic_key": "home-living-nail",
+        "description": "A small metal spike driven into wood to join things.",
+        "related_german_words": ["Nagel"]
+      },
+      {
+        "semantic_key": "home-living-ladder",
+        "description": "A structure consisting of a series of bars between two uprights, used for climbing.",
+        "related_german_words": ["Leiter"]
+      },
+      {
+        "semantic_key": "home-living-wood",
+        "description": "The hard fibrous material forming the main substance of a tree.",
+        "related_german_words": ["Holz"]
+      },
+      {
+        "semantic_key": "home-living-plastic",
+        "description": "A synthetic material made from organic polymers.",
+        "related_german_words": ["Kunststoff", "Plastik"]
+      },
+      {
+        "semantic_key": "home-living-concrete",
+        "description": "A heavy, rough building material made from a mixture of broken stone or gravel, sand, cement, and water.",
+        "related_german_words": ["Beton"]
+      },
+      {
+        "semantic_key": "home-living-laminate",
+        "description": "A manufactured flooring material.",
+        "related_german_words": ["Laminat"]
+      },
+      {
+        "semantic_key": "home-living-bucket",
+        "description": "A cylindrical open container with a handle.",
+        "related_german_words": ["Eimer"]
+      },
+      {
+        "semantic_key": "home-living-sponge",
+        "description": "A piece of soft, porous substance used for washing or cleaning.",
+        "related_german_words": ["Schwamm"]
+      },
+      {
+        "semantic_key": "home-living-cleaning_agent",
+        "description": "A chemical substance used to clean things.",
+        "related_german_words": ["Reinigungsmittel", "Putzmittel"]
+      },
+      {
+        "semantic_key": "home-living-dish_soap",
+        "description": "Liquid soap used for washing dishes by hand.",
+        "related_german_words": ["Spülmittel"]
+      },
+      {
+        "semantic_key": "home-living-clock",
+        "description": "An instrument for measuring and indicating time.",
+        "related_german_words": ["Uhr"]
+      },
+      {
+        "semantic_key": "home-living-calendar",
+        "description": "A chart or series of pages showing the days, weeks, and months of a year.",
+        "related_german_words": ["Kalender"]
+      },
+      {
+        "semantic_key": "home-living-bookshelf",
+        "description": "A shelf or set of shelves for books.",
+        "related_german_words": ["Bücherregal"]
+      },
+      {
+        "semantic_key": "home-living-magazine",
+        "description": "A periodical publication containing articles and illustrations.",
+        "related_german_words": ["Zeitschrift", "Magazin"]
+      },
+      {
+        "semantic_key": "home-living-newspaper",
+        "description": "A daily or weekly publication containing news.",
+        "related_german_words": ["Zeitung"]
+      },
+      {
+        "semantic_key": "home-living-laptop",
+        "description": "A computer that is portable and suitable for use while traveling.",
+        "related_german_words": ["Laptop"]
+      },
+      {
+        "semantic_key": "home-living-charger",
+        "description": "A device for charging a battery.",
+        "related_german_words": ["Ladegerät"]
+      },
+      {
+        "semantic_key": "home-living-front_door",
+        "description": "The main entrance door of a house.",
+        "related_german_words": ["Haustür"]
+      },
+      {
+        "semantic_key": "home-living-shutter",
+        "description": "A movable cover for a window, typically on the outside.",
+        "related_german_words": ["Rollladen"]
+      },
+      {
+        "semantic_key": "home-living-smoke_detector",
+        "description": "A device that sounds an alarm when it detects smoke.",
+        "related_german_words": ["Rauchmelder"]
+      },
+      {
+        "semantic_key": "home-living-intercom",
+        "description": "An electrical device allowing communication between an entrance and a room.",
+        "related_german_words": ["Gegensprechanlage"]
+      },
+      {
+        "semantic_key": "home-living-moving_truck",
+        "description": "A large vehicle used for moving furniture and belongings.",
+        "related_german_words": ["Umzugswagen"]
+      },
+      {
+        "semantic_key": "home-living-residual_waste",
+        "description": "Household waste that cannot be recycled.",
+        "related_german_words": ["Restmüll"]
+      },
+      {
+        "semantic_key": "home-living-biowaste",
+        "description": "Organic waste that can be composted.",
+        "related_german_words": ["Biomüll"]
+      },
+      {
+        "semantic_key": "home-living-paper_waste",
+        "description": "Waste consisting of paper and cardboard.",
+        "related_german_words": ["Papiermüll"]
+      },
+      {
+        "semantic_key": "home-living-barrier_free",
+        "description": "Designed so that it can be used by people with disabilities.",
+        "related_german_words": ["barrierefrei"]
+      },
+      {
+        "semantic_key": "home-living-pet_friendly",
+        "description": "A place where pets are allowed to live.",
+        "related_german_words": ["haustierfreundlich"]
+      },
+      {
+        "semantic_key": "home-living-non_smoking",
+        "description": "Designated as a place where smoking is not allowed.",
+        "related_german_words": ["Nichtraucher"]
+      },
+      {
+        "semantic_key": "home-living-can_opener",
+        "description": "A tool used to open metal cans.",
+        "related_german_words": ["Dosenöffner"]
+      },
+      {
+        "semantic_key": "home-living-bottle_opener",
+        "description": "A device for removing metal caps from bottles.",
+        "related_german_words": ["Flaschenöffner"]
+      },
+      {
+        "semantic_key": "home-living-kitchen_scale",
+        "description": "A device used to weigh ingredients in the kitchen.",
+        "related_german_words": ["Küchenwaage"]
+      },
+      {
+        "semantic_key": "home-living-measuring_cup",
+        "description": "A cup marked in graded amounts, used for measuring ingredients.",
+        "related_german_words": ["Messbecher"]
+      },
+      {
+        "semantic_key": "home-living-whisk",
+        "description": "A utensil for whipping eggs or cream.",
+        "related_german_words": ["Schneebesen"]
+      },
+      {
+        "semantic_key": "home-living-tea_towel",
+        "description": "A cloth for drying washed dishes.",
+        "related_german_words": ["Geschirrtuch"]
+      },
+      {
+        "semantic_key": "home-living-clothespin",
+        "description": "A wooden or plastic clip used for hanging laundry.",
+        "related_german_words": ["Wäscheklammer"]
+      },
+      {
+        "semantic_key": "home-living-toilet_brush",
+        "description": "A brush for cleaning the inside of a toilet bowl.",
+        "related_german_words": ["Klobürste"]
+      },
+      {
+        "semantic_key": "home-living-printer",
+        "description": "A machine for printing text or pictures onto paper.",
+        "related_german_words": ["Drucker"]
+      },
+      {
+        "semantic_key": "home-living-watering_can",
+        "description": "A portable container with a long spout used to water plants.",
+        "related_german_words": ["Gießkanne"]
+      },
+      {
+        "semantic_key": "home-living-laundry_room",
+        "description": "A room where clothes are washed and dried.",
+        "related_german_words": ["Waschküche"]
+      },
+      {
+        "semantic_key": "home-living-to_paint_walls",
+        "description": "The act of applying paint to interior walls.",
+        "related_german_words": ["streichen"]
+      },
+      {
+        "semantic_key": "home-living-to_drill",
+        "description": "To produce a hole in something using a drill.",
+        "related_german_words": ["bohren"]
+      },
+      {
+        "semantic_key": "home-living-to_hammer",
+        "description": "To strike something with a hammer.",
+        "related_german_words": ["hämmern"]
+      },
+      {
+        "semantic_key": "home-living-village",
+        "description": "A group of houses and associated buildings, larger than a hamlet and smaller than a town.",
+        "related_german_words": ["Dorf"]
+      },
+      {
+        "semantic_key": "home-living-door_handle",
+        "description": "A handle used to open or close a door.",
+        "related_german_words": ["Türgriff", "Türklinke"]
+      },
+      {
+        "semantic_key": "home-living-door_lock",
+        "description": "A mechanism for keeping a door fastened.",
+        "related_german_words": ["Türschloss"]
+      },
+      {
+        "semantic_key": "home-living-minimalist",
+        "description": "A style characterized by spareness and simplicity.",
+        "related_german_words": ["minimalistisch"]
+      },
+      {
+        "semantic_key": "home-living-gas_bill",
+        "description": "A statement of money owed for gas supply.",
+        "related_german_words": ["Gasrechnung"]
+      },
+      {
+        "semantic_key": "home-living-water_meter",
+        "description": "A device that measures the volume of water used.",
+        "related_german_words": ["Wasserzähler"]
+      },
+      {
+        "semantic_key": "home-living-loan",
+        "description": "A sum of money that is borrowed and is expected to be paid back.",
+        "related_german_words": ["Darlehen", "Kredit"]
+      },
+      {
+        "semantic_key": "home-living-household_insurance",
+        "description": "Insurance covering the contents of a home.",
+        "related_german_words": ["Hausratversicherung"]
+      },
+      {
+        "semantic_key": "home-living-roof_terrace",
+        "description": "A terrace located on the roof of a building.",
+        "related_german_words": ["Dachterrasse"]
+      },
+      {
+        "semantic_key": "home-living-housewarming_party",
+        "description": "A party held to celebrate moving into a new home.",
+        "related_german_words": ["Einweihungsparty"]
+      },
+      {
+        "semantic_key": "home-living-to_reside",
+        "description": "A formal way of saying to live in a place.",
+        "related_german_words": ["residieren"]
+      },
+      {
+        "semantic_key": "home-living-shoe_cabinet",
+        "description": "A small cabinet designed specifically for storing shoes.",
+        "related_german_words": ["Schuhschrank"]
+      },
+      {
+        "semantic_key": "home-living-hanger",
+        "description": "A shaped piece of wood or plastic with a hook at the top for hanging clothes.",
+        "related_german_words": ["Kleiderbügel"]
+      },
+      {
+        "semantic_key": "home-living-bath_mat",
+        "description": "A piece of absorbent material placed on the floor of a bathroom.",
+        "related_german_words": ["Badematte", "Badvorleger"]
+      },
+      {
+        "semantic_key": "home-living-shampoo",
+        "description": "A liquid soap used for washing the hair.",
+        "related_german_words": ["Shampoo"]
+      },
+      {
+        "semantic_key": "home-living-razor",
+        "description": "An instrument with a sharp blade used for shaving hair.",
+        "related_german_words": ["Rasierer"]
+      },
+      {
+        "semantic_key": "home-living-clothesline",
+        "description": "A rope on which washed clothes are hung to dry.",
+        "related_german_words": ["Wäscheleine"]
+      },
+      {
+        "semantic_key": "home-living-sheet",
+        "description": "A large piece of thin cloth used on a bed.",
+        "related_german_words": ["Bettlaken", "Laken"]
+      },
+      {
+        "semantic_key": "home-living-poster",
+        "description": "A large printed picture used for decoration.",
+        "related_german_words": ["Poster"]
+      },
+      {
+        "semantic_key": "home-living-decoration",
+        "description": "Objects used to make something look more attractive.",
+        "related_german_words": ["Dekoration", "Deko"]
+      },
+      {
+        "semantic_key": "home-living-to_sweep",
+        "description": "To clean a floor by using a brush.",
+        "related_german_words": ["fegen", "kehren"]
+      },
+      {
+        "semantic_key": "home-living-to_mop",
+        "description": "To clean a floor using a mop and water.",
+        "related_german_words": ["wischen"]
+      },
+      {
+        "semantic_key": "home-living-to_dust",
+        "description": "To remove dust from surfaces.",
+        "related_german_words": ["staubwischen"]
+      },
+      {
+        "semantic_key": "home-living-to_iron_verb",
+        "description": "The action of using an iron on clothes.",
+        "related_german_words": ["bügeln"]
+      },
+      {
+        "semantic_key": "home-living-to_dekorate",
+        "description": "To add ornaments to a room.",
+        "related_german_words": ["dekorieren"]
+      },
+      {
+        "semantic_key": "home-living-to_lock",
+        "description": "To fasten a door with a key.",
+        "related_german_words": ["abschließen"]
+      },
+      {
+        "semantic_key": "home-living-cold_rent",
+        "description": "The basic rent amount without utility or heating costs.",
+        "related_german_words": ["Kaltmiete"]
+      },
+      {
+        "semantic_key": "home-living-electricity_bill",
+        "description": "A bill for the amount of electricity used.",
+        "related_german_words": ["Stromrechnung"]
+      },
+      {
+        "semantic_key": "home-living-sublet",
+        "description": "To lease a property to a third party.",
+        "related_german_words": ["Untermiete"]
+      },
+      {
+        "semantic_key": "home-living-notice_period",
+        "description": "The length of time between notifying and leaving a property.",
+        "related_german_words": ["Kündigungsfrist"]
+      },
+      {
+        "semantic_key": "home-living-real_estate_agent",
+        "description": "A person who sells or lets out buildings and land.",
+        "related_german_words": ["Makler"]
+      },
+      {
+        "semantic_key": "home-living-comfortable_furniture",
+        "description": "Providing physical ease and relaxation.",
+        "related_german_words": ["bequem"]
+      },
+      {
+        "semantic_key": "home-living-noisy",
+        "description": "Making a lot of noise.",
+        "related_german_words": ["laut"]
+      },
+      {
+        "semantic_key": "home-living-remote",
+        "description": "Situated far from the main centers of population.",
+        "related_german_words": ["abgelegen"]
+      },
+      {
+        "semantic_key": "home-living-luxury",
+        "description": "Characterized by great comfort and extravagance.",
+        "related_german_words": ["luxuriös"]
+      },
+      {
+        "semantic_key": "home-living-simple",
+        "description": "Plain and basic in design.",
+        "related_german_words": ["einfach"]
+      },
+      {
+        "semantic_key": "home-living-sustainable",
+        "description": "Able to be maintained at a certain rate or level; eco-friendly.",
+        "related_german_words": ["nachhaltig"]
+      },
+      {
+        "semantic_key": "home-living-chimney",
+        "description": "A vertical pipe which conducts smoke and combustion gases up from a fire.",
+        "related_german_words": ["Schornstein"]
+      },
+      {
+        "semantic_key": "home-living-fuse_box",
+        "description": "A box containing the fuses for an electrical system.",
+        "related_german_words": ["Sicherungskasten"]
+      },
+      {
+        "semantic_key": "home-living-flashlight",
+        "description": "A small portable electric lamp.",
+        "related_german_words": ["Taschenlampe"]
+      },
+      {
+        "semantic_key": "home-living-toolbox",
+        "description": "A box for storing and carrying tools.",
+        "related_german_words": ["Werkzeugkasten"]
+      },
+      {
+        "semantic_key": "home-living-material",
+        "description": "The matter from which a thing is or can be made.",
+        "related_german_words": ["Material"]
+      },
+      {
+        "semantic_key": "home-living-metal",
+        "description": "A solid material which is typically hard and shiny.",
+        "related_german_words": ["Metall"]
+      },
+      {
+        "semantic_key": "home-living-stone",
+        "description": "Hard solid non-metallic mineral matter.",
+        "related_german_words": ["Stein"]
+      },
+      {
+        "semantic_key": "home-living-brick",
+        "description": "A small rectangular block typically made of fired or sun-dried clay.",
+        "related_german_words": ["Ziegel", "Backstein"]
+      },
+      {
+        "semantic_key": "home-living-dustpan",
+        "description": "A flat container used for collecting dust and dirt swept from a floor.",
+        "related_german_words": ["Kehrblech"]
+      },
+      {
+        "semantic_key": "home-living-fabric_softener",
+        "description": "A substance added to laundry to make the clothes feel softer.",
+        "related_german_words": ["Weichspüler"]
+      },
+      {
+        "semantic_key": "home-living-speakers",
+        "description": "Devices that convert electrical signals into sound.",
+        "related_german_words": ["Lautsprecher"]
+      },
+      {
+        "semantic_key": "home-living-radio",
+        "description": "The transmission and reception of electromagnetic waves of radio frequency.",
+        "related_german_words": ["Radio"]
+      },
+      {
+        "semantic_key": "home-living-tablet",
+        "description": "A portable computer with a touchscreen.",
+        "related_german_words": ["Tablet"]
+      },
+      {
+        "semantic_key": "home-living-window_sill",
+        "description": "A ledge or sill at the foot of a window.",
+        "related_german_words": ["Fensterbank"]
+      },
+      {
+        "semantic_key": "home-living-power_strip",
+        "description": "A block of electrical sockets that allows multiple devices to be plugged in.",
+        "related_german_words": ["Steckerleiste"]
+      },
+      {
+        "semantic_key": "home-living-extension_cord",
+        "description": "An electric cord that extends the reach of an outlet.",
+        "related_german_words": ["Verlängerungskabel"]
+      },
+      {
+        "semantic_key": "home-living-fire_extinguisher",
+        "description": "A portable device that discharges a jet of water, foam, gas, or other material to extinguish a fire.",
+        "related_german_words": ["Feuerlöscher"]
+      },
+      {
+        "semantic_key": "home-living-doormat",
+        "description": "A mat placed outside an exterior door for wiping one's shoes.",
+        "related_german_words": ["Fußmatte"]
+      },
+      {
+        "semantic_key": "home-living-neighborhood_help",
+        "description": "Support provided by neighbors to each other.",
+        "related_german_words": ["Nachbarschaftshilfe"]
+      },
+      {
+        "semantic_key": "home-living-well_maintained",
+        "description": "Kept in good condition.",
+        "related_german_words": ["gepflegt"]
+      },
+      {
+        "semantic_key": "home-living-run_down",
+        "description": "In a very bad condition; neglected.",
+        "related_german_words": ["verwahrlost"]
+      },
+      {
+        "semantic_key": "home-living-baking_sheet",
+        "description": "A flat metal tray used for baking food in an oven.",
+        "related_german_words": ["Backblech"]
+      },
+      {
+        "semantic_key": "home-living-corkscrew",
+        "description": "A device for pulling corks from bottles.",
+        "related_german_words": ["Korkenzieher"]
+      },
+      {
+        "semantic_key": "home-living-colander",
+        "description": "A perforated bowl used to strain off liquid from food.",
+        "related_german_words": ["Sieb"]
+      },
+      {
+        "semantic_key": "home-living-pot_holder",
+        "description": "A thick piece of material used for holding hot pots.",
+        "related_german_words": ["Topflappen"]
+      },
+      {
+        "semantic_key": "home-living-apron",
+        "description": "A protective garment worn over the front of one's clothes and tied at the back.",
+        "related_german_words": ["Schürze"]
+      },
+      {
+        "semantic_key": "home-living-shower_curtain",
+        "description": "A curtain used to prevent water from splashing out of a shower.",
+        "related_german_words": ["Duschvorhang"]
+      },
+      {
+        "semantic_key": "home-living-shower_head",
+        "description": "The nozzle that sprays water in a shower.",
+        "related_german_words": ["Duschkopf"]
+      },
+      {
+        "semantic_key": "home-living-plunger",
+        "description": "A tool used to clear blockages in drains or toilets.",
+        "related_german_words": ["Pümpel"]
+      },
+      {
+        "semantic_key": "home-living-home_office",
+        "description": "The practice of working from home.",
+        "related_german_words": ["Homeoffice"]
+      },
+      {
+        "semantic_key": "home-living-desk_chair",
+        "description": "A chair designed for use at a desk.",
+        "related_german_words": ["Schreibtischstuhl"]
+      },
+      {
+        "semantic_key": "home-living-filing_cabinet",
+        "description": "A piece of office furniture used for storing files.",
+        "related_german_words": ["Aktenschrank"]
+      },
+      {
+        "semantic_key": "home-living-sunshade",
+        "description": "A device used to protect against the sun, especially on a balcony.",
+        "related_german_words": ["Sonnenschirm"]
+      },
+      {
+        "semantic_key": "home-living-flower_pot",
+        "description": "A container in which plants are grown.",
+        "related_german_words": ["Blumentopf"]
+      },
+      {
+        "semantic_key": "home-living-to_tapezieren",
+        "description": "To cover walls with wallpaper.",
+        "related_german_words": ["tapezieren"]
+      },
+      {
+        "semantic_key": "home-living-outskirts",
+        "description": "The outer parts of a town or city.",
+        "related_german_words": ["Stadtrand"]
+      },
+      {
+        "semantic_key": "home-living-suburb",
+        "description": "An outlying district of a city.",
+        "related_german_words": ["Vorort"]
+      },
+      {
+        "semantic_key": "home-living-insulation",
+        "description": "Material used to prevent the loss of heat.",
+        "related_german_words": ["Isolierung", "Dämmung"]
+      },
+      {
+        "semantic_key": "home-living-mortgage",
+        "description": "A legal agreement by which a bank lends money at interest in exchange for taking title of the debtor's property.",
+        "related_german_words": ["Hypothek"]
+      },
+      {
+        "semantic_key": "home-living-inner_courtyard",
+        "description": "An open area surrounded by buildings.",
+        "related_german_words": ["Innenhof"]
+      }
+    ]
+  }
+]

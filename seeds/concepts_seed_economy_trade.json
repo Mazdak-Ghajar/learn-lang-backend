@@ -1,0 +1,1252 @@
+[
+  {
+    "category_slug": "economy-trade",
+    "concepts": [
+      {
+        "semantic_key": "economy-trade-money",
+        "description": "A current medium of exchange in the form of coins and banknotes.",
+        "related_german_words": ["Geld"]
+      },
+      {
+        "semantic_key": "economy-trade-currency",
+        "description": "A system of money in general use in a particular country.",
+        "related_german_words": ["Währung"]
+      },
+      {
+        "semantic_key": "economy-trade-cash",
+        "description": "Money in the form of physical notes and coins.",
+        "related_german_words": ["Bargeld"]
+      },
+      {
+        "semantic_key": "economy-trade-coin",
+        "description": "A small, round piece of metal used as money.",
+        "related_german_words": ["Münze"]
+      },
+      {
+        "semantic_key": "economy-trade-banknote",
+        "description": "A piece of paper money issued by a central bank.",
+        "related_german_words": ["Geldschein", "Banknote"]
+      },
+      {
+        "semantic_key": "economy-trade-price",
+        "description": "The amount of money expected, required, or given in payment for something.",
+        "related_german_words": ["Preis"]
+      },
+      {
+        "semantic_key": "economy-trade-value",
+        "description": "The material or monetary worth of something.",
+        "related_german_words": ["Wert"]
+      },
+      {
+        "semantic_key": "economy-trade-to_buy",
+        "description": "To obtain in exchange for payment.",
+        "related_german_words": ["kaufen"]
+      },
+      {
+        "semantic_key": "economy-trade-to_sell",
+        "description": "To give or hand over something in exchange for money.",
+        "related_german_words": ["verkaufen"]
+      },
+      {
+        "semantic_key": "economy-trade-to_pay",
+        "description": "To give a person or organization money that is due.",
+        "related_german_words": ["bezahlen", "zahlen"]
+      },
+      {
+        "semantic_key": "economy-trade-expensive",
+        "description": "Costing a lot of money.",
+        "related_german_words": ["teuer"]
+      },
+      {
+        "semantic_key": "economy-trade-cheap",
+        "description": "Low in price; worth more than its cost.",
+        "related_german_words": ["günstig", "billig", "preiswert"]
+      },
+      {
+        "semantic_key": "economy-trade-free_of_charge",
+        "description": "Costing nothing; provided without payment.",
+        "related_german_words": ["kostenlos", "gratis", "unentgeltlich"]
+      },
+      {
+        "semantic_key": "economy-trade-market",
+        "description": "An arena in which commercial dealings are conducted.",
+        "related_german_words": ["Markt"]
+      },
+      {
+        "semantic_key": "economy-trade-trade",
+        "description": "The action of buying and selling goods and services.",
+        "related_german_words": ["Handel"]
+      },
+      {
+        "semantic_key": "economy-trade-goods",
+        "description": "Merchandise or possessions.",
+        "related_german_words": ["Ware"]
+      },
+      {
+        "semantic_key": "economy-trade-customer",
+        "description": "A person or organization that buys goods or services.",
+        "related_german_words": ["Kunde"]
+      },
+      {
+        "semantic_key": "economy-trade-merchant",
+        "description": "A person or company involved in wholesale trade.",
+        "related_german_words": ["Händler"]
+      },
+      {
+        "semantic_key": "economy-trade-company",
+        "description": "A commercial business or legal entity.",
+        "related_german_words": ["Unternehmen", "Firma"]
+      },
+      {
+        "semantic_key": "economy-trade-profit",
+        "description": "A financial gain, especially the difference between the amount earned and the amount spent.",
+        "related_german_words": ["Gewinn", "Profit"]
+      },
+      {
+        "semantic_key": "economy-trade-loss",
+        "description": "An amount of money lost by a business or organization.",
+        "related_german_words": ["Verlust"]
+      },
+      {
+        "semantic_key": "economy-trade-turnover",
+        "description": "The amount of money taken by a business in a particular period.",
+        "related_german_words": ["Umsatz"]
+      },
+      {
+        "semantic_key": "economy-trade-tax",
+        "description": "A compulsory contribution to state revenue.",
+        "related_german_words": ["Steuer"]
+      },
+      {
+        "semantic_key": "economy-trade-vat",
+        "description": "A tax on the amount by which the value of an article has been increased.",
+        "related_german_words": ["Mehrwertsteuer"]
+      },
+      {
+        "semantic_key": "economy-trade-income_tax",
+        "description": "Tax levied directly on personal income.",
+        "related_german_words": ["Einkommensteuer"]
+      },
+      {
+        "semantic_key": "economy-trade-discount",
+        "description": "A deduction from the usual cost of something.",
+        "related_german_words": ["Rabatt", "Preisnachlass"]
+      },
+      {
+        "semantic_key": "economy-trade-invoice",
+        "description": "A list of goods sent or services provided, with a statement of the sum due.",
+        "related_german_words": ["Rechnung"]
+      },
+      {
+        "semantic_key": "economy-trade-receipt",
+        "description": "A written acknowledgment that a specified article or sum of money has been received.",
+        "related_german_words": ["Quittung", "Beleg"]
+      },
+      {
+        "semantic_key": "economy-trade-demand",
+        "description": "The desire of consumers for a particular commodity or service.",
+        "related_german_words": ["Nachfrage"]
+      },
+      {
+        "semantic_key": "economy-trade-supply",
+        "description": "The total amount of a specific good or service that is available to consumers.",
+        "related_german_words": ["Angebot"]
+      },
+      {
+        "semantic_key": "economy-trade-competition",
+        "description": "The activity or condition of competing.",
+        "related_german_words": ["Wettbewerb", "Konkurrenz"]
+      },
+      {
+        "semantic_key": "economy-trade-budget",
+        "description": "An estimate of income and expenditure for a set period of time.",
+        "related_german_words": ["Budget"]
+      },
+      {
+        "semantic_key": "economy-trade-inflation",
+        "description": "A general increase in prices and fall in the purchasing value of money.",
+        "related_german_words": ["Inflation"]
+      },
+      {
+        "semantic_key": "economy-trade-interest",
+        "description": "Money paid regularly at a particular rate for the use of money lent.",
+        "related_german_words": ["Zinsen"]
+      },
+      {
+        "semantic_key": "economy-trade-interest_rate",
+        "description": "The proportion of a loan that is charged as interest to the borrower.",
+        "related_german_words": ["Zinssatz"]
+      },
+      {
+        "semantic_key": "economy-trade-bank",
+        "description": "A financial establishment that invests money deposited by customers.",
+        "related_german_words": ["Bank"]
+      },
+      {
+        "semantic_key": "economy-trade-bank_account",
+        "description": "An arrangement with a bank for depositing and withdrawing money.",
+        "related_german_words": ["Konto", "Bankkonto"]
+      },
+      {
+        "semantic_key": "economy-trade-balance",
+        "description": "The amount of money held in a bank account at a given time.",
+        "related_german_words": ["Kontostand"]
+      },
+      {
+        "semantic_key": "economy-trade-to_deposit",
+        "description": "To put money into a bank account.",
+        "related_german_words": ["einzahlen"]
+      },
+      {
+        "semantic_key": "economy-trade-to_withdraw",
+        "description": "To take money out of a bank account.",
+        "related_german_words": ["abheben"]
+      },
+      {
+        "semantic_key": "economy-trade-atm",
+        "description": "A machine that dispenses cash and performs other banking services.",
+        "related_german_words": ["Geldautomat"]
+      },
+      {
+        "semantic_key": "economy-trade-transfer",
+        "description": "The act of moving money from one account to another.",
+        "related_german_words": ["Überweisung"]
+      },
+      {
+        "semantic_key": "economy-trade-to_transfer",
+        "description": "To move money electronically between bank accounts.",
+        "related_german_words": ["überweisen"]
+      },
+      {
+        "semantic_key": "economy-trade-credit_card",
+        "description": "A card issued by a bank allowing the holder to purchase goods on credit.",
+        "related_german_words": ["Kreditkarte"]
+      },
+      {
+        "semantic_key": "economy-trade-loan",
+        "description": "A thing that is borrowed, especially a sum of money that is expected to be paid back with interest.",
+        "related_german_words": ["Kredit", "Darlehen"]
+      },
+      {
+        "semantic_key": "economy-trade-debt",
+        "description": "Something, typically money, that is owed or due.",
+        "related_german_words": ["Schulden"]
+      },
+      {
+        "semantic_key": "economy-trade-investment",
+        "description": "The action or process of investing money for profit or material result.",
+        "related_german_words": ["Investition", "Anlage"]
+      },
+      {
+        "semantic_key": "economy-trade-to_invest",
+        "description": "To put money into financial schemes, shares, or property with the expectation of profit.",
+        "related_german_words": ["investieren", "anlegen"]
+      },
+      {
+        "semantic_key": "economy-trade-capital",
+        "description": "Wealth in the form of money or other assets owned by a person or organization.",
+        "related_german_words": ["Kapital"]
+      },
+      {
+        "semantic_key": "economy-trade-share",
+        "description": "One of the equal parts into which a company's capital is divided, entitling the holder to a proportion of the profits.",
+        "related_german_words": ["Aktie"]
+      },
+      {
+        "semantic_key": "economy-trade-stock_market",
+        "description": "A stock exchange.",
+        "related_german_words": ["Börse", "Aktienmarkt"]
+      },
+      {
+        "semantic_key": "economy-trade-dividend",
+        "description": "A sum of money paid regularly by a company to its shareholders out of its profits.",
+        "related_german_words": ["Dividende"]
+      },
+      {
+        "semantic_key": "economy-trade-insurance",
+        "description": "A practice or arrangement by which a company provides a guarantee of compensation for specified loss.",
+        "related_german_words": ["Versicherung"]
+      },
+      {
+        "semantic_key": "economy-trade-economy_system",
+        "description": "The state of a country or region in terms of the production and consumption of goods and services.",
+        "related_german_words": ["Wirtschaft"]
+      },
+      {
+        "semantic_key": "economy-trade-gdp",
+        "description": "The total value of goods produced and services provided in a country during one year.",
+        "related_german_words": ["Bruttoinlandsprodukt", "BIP"]
+      },
+      {
+        "semantic_key": "economy-trade-export",
+        "description": "The act of sending goods or services to another country for sale.",
+        "related_german_words": ["Export", "Ausfuhr"]
+      },
+      {
+        "semantic_key": "economy-trade-import",
+        "description": "The act of bringing goods or services into a country from abroad for sale.",
+        "related_german_words": ["Import", "Einfuhr"]
+      },
+      {
+        "semantic_key": "economy-trade-customs",
+        "description": "The official department that administers and collects the duties levied by a government on imported goods.",
+        "related_german_words": ["Zoll"]
+      },
+      {
+        "semantic_key": "economy-trade-contract",
+        "description": "A written or spoken agreement that is intended to be enforceable by law.",
+        "related_german_words": ["Vertrag"]
+      },
+      {
+        "semantic_key": "economy-trade-entrepreneur",
+        "description": "A person who organizes and operates a business or businesses.",
+        "related_german_words": ["Unternehmer"]
+      },
+      {
+        "semantic_key": "economy-trade-startup",
+        "description": "A newly established business venture.",
+        "related_german_words": ["Startup"]
+      },
+      {
+        "semantic_key": "economy-trade-ecommerce",
+        "description": "Commercial transactions conducted electronically on the internet.",
+        "related_german_words": ["Onlinehandel", "E-Commerce"]
+      },
+      {
+        "semantic_key": "economy-trade-shopping_cart",
+        "description": "A software component that allows customers to accumulate items for purchase in an online store.",
+        "related_german_words": ["Warenkorb"]
+      },
+      {
+        "semantic_key": "economy-trade-to_order",
+        "description": "To request to be made, supplied, or served.",
+        "related_german_words": ["bestellen"]
+      },
+      {
+        "semantic_key": "economy-trade-delivery",
+        "description": "The action of delivering letters, packages, or ordered goods.",
+        "related_german_words": ["Lieferung"]
+      },
+      {
+        "semantic_key": "economy-trade-cryptocurrency",
+        "description": "A digital currency in which transactions are verified and records maintained by a decentralized system.",
+        "related_german_words": ["Kryptowährung"]
+      },
+      {
+        "semantic_key": "economy-trade-subscription",
+        "description": "An arrangement to receive something, typically a service, regularly by paying in advance.",
+        "related_german_words": ["Abonnement", "Abo"]
+      },
+      {
+        "semantic_key": "economy-trade-insolvent",
+        "description": "Unable to pay one's debts.",
+        "related_german_words": ["insolvent", "zahlungsunfähig"]
+      },
+      {
+        "semantic_key": "economy-trade-net",
+        "description": "The amount remaining after all deductions have been made.",
+        "related_german_words": ["netto"]
+      },
+      {
+        "semantic_key": "economy-trade-gross",
+        "description": "The total amount before any deductions are made.",
+        "related_german_words": ["brutto"]
+      },
+      {
+        "semantic_key": "economy-trade-to_negotiate",
+        "description": "To try to reach an agreement or compromise by discussion.",
+        "related_german_words": ["verhandeln"]
+      },
+      {
+        "semantic_key": "economy-trade-to_save",
+        "description": "To put money aside for future use.",
+        "related_german_words": ["sparen"]
+      },
+      {
+        "semantic_key": "economy-trade-to_spend",
+        "description": "To pay out money in buying or hiring goods or services.",
+        "related_german_words": ["ausgeben"]
+      },
+      {
+        "semantic_key": "economy-trade-consumer",
+        "description": "A person who purchases goods and services for personal use.",
+        "related_german_words": ["Konsument", "Verbraucher"]
+      },
+      {
+        "semantic_key": "economy-trade-production",
+        "description": "The action of making or manufacturing from components or raw materials.",
+        "related_german_words": ["Produktion", "Herstellung"]
+      },
+      {
+        "semantic_key": "economy-trade-supply_chain",
+        "description": "The sequence of processes involved in the production and distribution of a commodity.",
+        "related_german_words": ["Lieferkette"]
+      },
+      {
+        "semantic_key": "economy-trade-raw_material",
+        "description": "The basic material from which a product is made.",
+        "related_german_words": ["Rohstoff"]
+      },
+      {
+        "semantic_key": "economy-trade-logistics",
+        "description": "The detailed coordination of a complex operation involving many people, facilities, or supplies.",
+        "related_german_words": ["Logistik"]
+      },
+      {
+        "semantic_key": "economy-trade-wholesale",
+        "description": "The selling of goods in large quantities to be retailed by others.",
+        "related_german_words": ["Großhandel"]
+      },
+      {
+        "semantic_key": "economy-trade-retail",
+        "description": "The sale of goods to the public in relatively small quantities for use or consumption.",
+        "related_german_words": ["Einzelhandel"]
+      },
+      {
+        "semantic_key": "economy-trade-bank_card",
+        "description": "A small plastic card issued by a bank to allow a customer to access their account.",
+        "related_german_words": ["Bankkarte", "EC-Karte"]
+      },
+      {
+        "semantic_key": "economy-trade-pin",
+        "description": "A number used by an individual to identify themselves to a computer system, especially a bank.",
+        "related_german_words": ["Geheimzahl", "PIN"]
+      },
+      {
+        "semantic_key": "economy-trade-standing_order",
+        "description": "An instruction to a bank by an account holder to make regular fixed payments to a particular person or organization.",
+        "related_german_words": ["Dauerauftrag"]
+      },
+      {
+        "semantic_key": "economy-trade-direct_debit",
+        "description": "An arrangement made with a bank that allows a third party to transfer money from a person's account.",
+        "related_german_words": ["Bankeinzug", "Lastschrift"]
+      },
+      {
+        "semantic_key": "economy-trade-wallet",
+        "description": "A pocket-sized, flat folding holder for money and plastic cards.",
+        "related_german_words": ["Geldbörse", "Portemonnaie"]
+      },
+      {
+        "semantic_key": "economy-trade-change_money",
+        "description": "Money given back when the amount given is more than the price.",
+        "related_german_words": ["Wechselgeld"]
+      },
+      {
+        "semantic_key": "economy-trade-offer",
+        "description": "A presentation of something for someone to accept or reject as desired.",
+        "related_german_words": ["Angebot"]
+      },
+      {
+        "semantic_key": "economy-trade-special_offer",
+        "description": "A low price for a short period of time.",
+        "related_german_words": ["Sonderangebot"]
+      },
+      {
+        "semantic_key": "economy-trade-advertising",
+        "description": "The activity or profession of producing advertisements for commercial products or services.",
+        "related_german_words": ["Werbung"]
+      },
+      {
+        "semantic_key": "economy-trade-monopoly",
+        "description": "The exclusive possession or control of the supply of or trade in a commodity or service.",
+        "related_german_words": ["Monopol"]
+      },
+      {
+        "semantic_key": "economy-trade-recession",
+        "description": "A period of temporary economic decline during which trade and industrial activity are reduced.",
+        "related_german_words": ["Rezession"]
+      },
+      {
+        "semantic_key": "economy-trade-poverty",
+        "description": "The state of being extremely poor.",
+        "related_german_words": ["Armut"]
+      },
+      {
+        "semantic_key": "economy-trade-wealth",
+        "description": "An abundance of valuable possessions or money.",
+        "related_german_words": ["Reichtum", "Wohlstand"]
+      },
+      {
+        "semantic_key": "economy-trade-to_consume",
+        "description": "To use up a resource.",
+        "related_german_words": ["konsumieren", "verbrauchen"]
+      },
+      {
+        "semantic_key": "economy-trade-to_earn",
+        "description": "To obtain money in return for labor or services.",
+        "related_german_words": ["verdienen"]
+      },
+      {
+        "semantic_key": "economy-trade-to_borrow",
+        "description": "To take and use something that belongs to someone else with the intention of returning it.",
+        "related_german_words": ["leihen", "ausleihen"]
+      },
+      {
+        "semantic_key": "economy-trade-to_lend",
+        "description": "To grant to another the use of something on the understanding that it will be returned.",
+        "related_german_words": ["verleihen"]
+      },
+      {
+        "semantic_key": "economy-trade-asset",
+        "description": "A useful or valuable thing, person, or quality, especially for a business.",
+        "related_german_words": ["Vermögenswert"]
+      },
+      {
+        "semantic_key": "economy-trade-liability",
+        "description": "A thing for which someone is responsible, especially a debt or financial obligation.",
+        "related_german_words": ["Verbindlichkeit"]
+      },
+      {
+        "semantic_key": "economy-trade-broker",
+        "description": "A person who buys and sells goods or assets for others.",
+        "related_german_words": ["Makler"]
+      },
+      {
+        "semantic_key": "economy-trade-dividend_payout",
+        "description": "The distribution of a portion of a company's earnings to its shareholders.",
+        "related_german_words": ["Dividende"]
+      },
+      {
+        "semantic_key": "economy-trade-economic_growth",
+        "description": "An increase in the amount of goods and services produced per head of the population over a period of time.",
+        "related_german_words": ["Wachstum"]
+      },
+      {
+        "semantic_key": "economy-trade-to_subsidize",
+        "description": "To support an organization or activity financially.",
+        "related_german_words": ["subventionieren"]
+      },
+      {
+        "semantic_key": "economy-trade-subsidy",
+        "description": "A sum of money granted by the government or a public body to assist an industry or business.",
+        "related_german_words": ["Subvention"]
+      },
+      {
+        "semantic_key": "economy-trade-globalization",
+        "description": "The process by which businesses or other organizations develop international influence.",
+        "related_german_words": ["Globalisierung"]
+      },
+      {
+        "semantic_key": "economy-trade-fair_trade",
+        "description": "Trade between companies in developed countries and producers in developing countries in which fair prices are paid to the producers.",
+        "related_german_words": ["Fairer Handel"]
+      },
+      {
+        "semantic_key": "economy-trade-sustainability",
+        "description": "The ability to be maintained at a certain rate or level.",
+        "related_german_words": ["Nachhaltigkeit"]
+      },
+      {
+        "semantic_key": "economy-trade-sustainable",
+        "description": "Able to be maintained at a certain rate or level; ecological.",
+        "related_german_words": ["nachhaltig"]
+      },
+      {
+        "semantic_key": "economy-trade-commercial",
+        "description": "Concerned with or engaged in commerce.",
+        "related_german_words": ["kommerziell"]
+      },
+      {
+        "semantic_key": "economy-trade-financial",
+        "description": "Of or relating to finance.",
+        "related_german_words": ["finanziell"]
+      },
+      {
+        "semantic_key": "economy-trade-profitable",
+        "description": "Yielding profit or financial gain.",
+        "related_german_words": ["rentabel", "profitabel"]
+      },
+      {
+        "semantic_key": "economy-trade-to_bankrupt",
+        "description": "To cause a person or organization to become unable to pay their debts.",
+        "related_german_words": ["ruinieren"]
+      },
+      {
+        "semantic_key": "economy-trade-debtor",
+        "description": "A person or institution that owes a sum of money.",
+        "related_german_words": ["Schuldner"]
+      },
+      {
+        "semantic_key": "economy-trade-creditor",
+        "description": "A person or company to whom money is owed.",
+        "related_german_words": ["Gläubiger"]
+      },
+      {
+        "semantic_key": "economy-trade-bankruptcy",
+        "description": "The state of being bankrupt.",
+        "related_german_words": ["Insolvenz", "Bankrott"]
+      },
+      {
+        "semantic_key": "economy-trade-exchange_rate",
+        "description": "The value of one currency for the purpose of conversion to another.",
+        "related_german_words": ["Wechselkurs"]
+      },
+      {
+        "semantic_key": "economy-trade-customs_duty",
+        "description": "A tax on imported or exported goods.",
+        "related_german_words": ["Zollgebühr"]
+      },
+      {
+        "semantic_key": "economy-trade-to_insure",
+        "description": "To arrange for compensation in the event of damage or loss.",
+        "related_german_words": ["versichern"]
+      },
+      {
+        "semantic_key": "economy-trade-audit",
+        "description": "An official inspection of an individual's or organization's accounts.",
+        "related_german_words": ["Buchprüfung", "Audit"]
+      },
+      {
+        "semantic_key": "economy-trade-accounting",
+        "description": "The action or process of keeping financial accounts.",
+        "related_german_words": ["Buchhaltung"]
+      },
+      {
+        "semantic_key": "economy-trade-to_sign_contract",
+        "description": "To write one's name on a formal agreement to show that one agrees with its terms.",
+        "related_german_words": ["unterschreiben"]
+      },
+      {
+        "semantic_key": "economy-trade-signature",
+        "description": "A person's name written in a distinctive way as a form of identification.",
+        "related_german_words": ["Unterschrift"]
+      },
+      {
+        "semantic_key": "economy-trade-to_refund",
+        "description": "To pay back money to a customer who is not satisfied with goods or services bought.",
+        "related_german_words": ["erstatten"]
+      },
+      {
+        "semantic_key": "economy-trade-refund_noun",
+        "description": "A repayment of a sum of money.",
+        "related_german_words": ["Rückerstattung", "Erstattung"]
+      },
+      {
+        "semantic_key": "economy-trade-shipment",
+        "description": "The action of shipping goods.",
+        "related_german_words": ["Versand"]
+      },
+      {
+        "semantic_key": "economy-trade-checkout_process",
+        "description": "The final stage of a purchase in an online or physical store.",
+        "related_german_words": ["Kasse"]
+      },
+      {
+        "semantic_key": "economy-trade-to_speculate",
+        "description": "To invest in stocks, property, or other ventures in the hope of gain but with the risk of loss.",
+        "related_german_words": ["spekulieren"]
+      },
+      {
+        "semantic_key": "economy-trade-speculation",
+        "description": "Investment in stocks, property, or other ventures in the hope of gain but with the risk of loss.",
+        "related_german_words": ["Spekulation"]
+      },
+      {
+        "semantic_key": "economy-trade-risk_management",
+        "description": "The identification and assessment of risks followed by coordinated application of resources to minimize impact.",
+        "related_german_words": ["Risikomanagement"]
+      },
+      {
+        "semantic_key": "economy-trade-risky_investment",
+        "description": "An investment that carries a high probability of loss.",
+        "related_german_words": ["riskant"]
+      },
+      {
+        "semantic_key": "economy-trade-safe_deposit",
+        "description": "A secure container for storing valuables, usually in a bank.",
+        "related_german_words": ["Schließfach"]
+      },
+      {
+        "semantic_key": "economy-trade-to_agree_on_price",
+        "description": "To reach a mutual understanding regarding the cost of a product or service.",
+        "related_german_words": ["einigen"]
+      },
+      {
+        "semantic_key": "economy-trade-agreement_contract",
+        "description": "A negotiated and typically legally binding arrangement between parties.",
+        "related_german_words": ["Vereinbarung"]
+      },
+      {
+        "semantic_key": "economy-trade-monetary_policy",
+        "description": "The actions of a central bank, currency board, or other regulatory committee that determine the size and rate of growth of the money supply.",
+        "related_german_words": ["Geldpolitik"]
+      },
+      {
+        "semantic_key": "economy-trade-central_bank",
+        "description": "A national bank that provides financial and banking services for its country's government.",
+        "related_german_words": ["Zentralbank"]
+      },
+      {
+        "semantic_key": "economy-trade-real_estate",
+        "description": "Property consisting of land or buildings.",
+        "related_german_words": ["Immobilien"]
+      },
+      {
+        "semantic_key": "economy-trade-mortgage_loan",
+        "description": "A loan used to purchase or maintain a home, land, or other types of real estate.",
+        "related_german_words": ["Hypothek"]
+      },
+      {
+        "semantic_key": "economy-trade-to_own_property",
+        "description": "To have the legal right to a piece of real estate or an object.",
+        "related_german_words": ["besitzen"]
+      },
+      {
+        "semantic_key": "economy-trade-ownership",
+        "description": "The act, state, or right of possessing something.",
+        "related_german_words": ["Eigentum"]
+      },
+      {
+        "semantic_key": "economy-trade-auction",
+        "description": "A public sale in which goods or property are sold to the highest bidder.",
+        "related_german_words": ["Auktion", "Versteigerung"]
+      },
+      {
+        "semantic_key": "economy-trade-to_bid",
+        "description": "To offer a certain price for something, especially at an auction.",
+        "related_german_words": ["bieten"]
+      },
+      {
+        "semantic_key": "economy-trade-bidder",
+        "description": "A person who offers a price for something at an auction.",
+        "related_german_words": ["Bieter"]
+      },
+      {
+        "semantic_key": "economy-trade-to_pay_in_installments",
+        "description": "To pay for something in multiple small payments over time.",
+        "related_german_words": ["in Raten zahlen"]
+      },
+      {
+        "semantic_key": "economy-trade-installment",
+        "description": "One of several equal payments for something.",
+        "related_german_words": ["Rate"]
+      },
+      {
+        "semantic_key": "economy-trade-down_payment",
+        "description": "An initial payment made when something is bought on credit.",
+        "related_german_words": ["Anzahlung"]
+      },
+      {
+        "semantic_key": "economy-trade-total_amount",
+        "description": "The complete sum of money due.",
+        "related_german_words": ["Gesamtbetrag"]
+      },
+      {
+        "semantic_key": "economy-trade-efficient_business",
+        "description": "Achieving maximum productivity with minimum wasted effort.",
+        "related_german_words": ["effizient"]
+      },
+      {
+        "semantic_key": "economy-trade-digitalization_trend",
+        "description": "The use of digital technologies to change a business model.",
+        "related_german_words": ["Digitalisierung"]
+      },
+      {
+        "semantic_key": "economy-trade-outsourcing",
+        "description": "Obtaining goods or a service from an outside or foreign supplier.",
+        "related_german_words": ["Outsourcing"]
+      },
+      {
+        "semantic_key": "economy-trade-productivity_rate",
+        "description": "The effectiveness of productive effort, especially in industry.",
+        "related_german_words": ["Produktivität"]
+      },
+      {
+        "semantic_key": "economy-trade-industrial_sector",
+        "description": "The part of the economy concerned with manufacturing.",
+        "related_german_words": ["Industrie"]
+      },
+      {
+        "semantic_key": "economy-trade-commercial_bank",
+        "description": "A bank that offers services to the general public and to companies.",
+        "related_german_words": ["Geschäftsbank"]
+      },
+      {
+        "semantic_key": "economy-trade-private_sector",
+        "description": "The part of the national economy that is not under direct state control.",
+        "related_german_words": ["Privatwirtschaft"]
+      },
+      {
+        "semantic_key": "economy-trade-public_sector",
+        "description": "The part of an economy that is controlled by the state.",
+        "related_german_words": ["öffentlicher Sektor"]
+      },
+      {
+        "semantic_key": "economy-trade-fiscal_year",
+        "description": "A period used for calculating annual financial statements in businesses.",
+        "related_german_words": ["Geschäftsjahr"]
+      },
+      {
+        "semantic_key": "economy-trade-market_value",
+        "description": "The amount for which something can be sold on a given market.",
+        "related_german_words": ["Marktwert"]
+      },
+      {
+        "semantic_key": "economy-trade-global_market",
+        "description": "The world-wide exchange of goods and services.",
+        "related_german_words": ["Weltmarkt"]
+      },
+      {
+        "semantic_key": "economy-trade-economic_boom",
+        "description": "A period of rapid economic growth.",
+        "related_german_words": ["Aufschwung", "Boom"]
+      },
+      {
+        "semantic_key": "economy-trade-deflation",
+        "description": "A reduction of the general level of prices in an economy.",
+        "related_german_words": ["Deflation"]
+      },
+      {
+        "semantic_key": "economy-trade-purchasing_power",
+        "description": "The financial ability to buy goods and services.",
+        "related_german_words": ["Kaufkraft"]
+      },
+      {
+        "semantic_key": "economy-trade-supply_and_demand",
+        "description": "The amount of a product, service, or other item available and the desire of buyers for it.",
+        "related_german_words": ["Angebot und Nachfrage"]
+      },
+      {
+        "semantic_key": "economy-trade-competition_law",
+        "description": "Law that promotes or seeks to maintain market competition by regulating anti-competitive conduct.",
+        "related_german_words": ["Wettbewerbsrecht"]
+      },
+      {
+        "semantic_key": "economy-trade-price_tag",
+        "description": "A label on an item showing its price.",
+        "related_german_words": ["Preisschild"]
+      },
+      {
+        "semantic_key": "economy-trade-to_offer_discount",
+        "description": "To provide a lower price than usual for a product.",
+        "related_german_words": ["Rabatt geben"]
+      },
+      {
+        "semantic_key": "economy-trade-price_list",
+        "description": "A list of the prices of goods or services for sale.",
+        "related_german_words": ["Preisliste"]
+      },
+      {
+        "semantic_key": "economy-trade-billing_address",
+        "description": "The address where a customer receives their invoices.",
+        "related_german_words": ["Rechnungsadresse"]
+      },
+      {
+        "semantic_key": "economy-trade-shipping_address",
+        "description": "The address where a customer wants their ordered goods to be delivered.",
+        "related_german_words": ["Lieferadresse"]
+      },
+      {
+        "semantic_key": "economy-trade-to_cancel_order",
+        "description": "To annul a previously placed request for goods.",
+        "related_german_words": ["abbestellen", "stornieren"]
+      },
+      {
+        "semantic_key": "economy-trade-order_confirmation",
+        "description": "A document or message confirming that an order has been received.",
+        "related_german_words": ["Bestellbestätigung"]
+      },
+      {
+        "semantic_key": "economy-trade-to_track_package",
+        "description": "To monitor the status and location of a delivery.",
+        "related_german_words": ["verfolgen"]
+      },
+      {
+        "semantic_key": "economy-trade-shipping_costs",
+        "description": "The fees charged for delivering an item to a customer.",
+        "related_german_words": ["Versandkosten"]
+      },
+      {
+        "semantic_key": "economy-trade-product_quality",
+        "description": "The characteristics of a product that bear on its ability to satisfy stated or implied needs.",
+        "related_german_words": ["Produktqualität"]
+      },
+      {
+        "semantic_key": "economy-trade-to_advertise",
+        "description": "To describe or draw attention to a product, service, or event in a public medium.",
+        "related_german_words": ["werben"]
+      },
+      {
+        "semantic_key": "economy-trade-marketing_strategy",
+        "description": "A long-term, forward-looking approach and an overall game plan of any organization.",
+        "related_german_words": ["Marketingstrategie"]
+      },
+      {
+        "semantic_key": "economy-trade-brand_name",
+        "description": "A name given by a maker to a product or range of products.",
+        "related_german_words": ["Markenname"]
+      },
+      {
+        "semantic_key": "economy-trade-customer_service",
+        "description": "The assistance and advice provided by a company to those people who buy or use its products.",
+        "related_german_words": ["Kundenservice"]
+      },
+      {
+        "semantic_key": "economy-trade-customer_loyalty",
+        "description": "The likelihood of a customer to continue buying from a particular business.",
+        "related_german_words": ["Kundenbindung"]
+      },
+      {
+        "semantic_key": "economy-trade-to_return_goods",
+        "description": "To send back purchased items to the seller.",
+        "related_german_words": ["zurückgeben", "zurückschicken"]
+      },
+      {
+        "semantic_key": "economy-trade-money_back_guarantee",
+        "description": "A guarantee that money will be returned to a customer if they are not satisfied.",
+        "related_german_words": ["Geld-zurück-Garantie"]
+      },
+      {
+        "semantic_key": "economy-trade-business_partner",
+        "description": "A person who is co-owner of a commercial enterprise.",
+        "related_german_words": ["Geschäftspartner"]
+      },
+      {
+        "semantic_key": "economy-trade-ceo",
+        "description": "The highest-ranking person in a company or other institution.",
+        "related_german_words": ["Geschäftsführer", "Vorstandsvorsitzender"]
+      },
+      {
+        "semantic_key": "economy-trade-board_of_directors",
+        "description": "A group of people who jointly supervise the activities of an organization.",
+        "related_german_words": ["Vorstand"]
+      },
+      {
+        "semantic_key": "economy-trade-company_structure",
+        "description": "The hierarchy within an organization.",
+        "related_german_words": ["Unternehmensstruktur"]
+      },
+      {
+        "semantic_key": "economy-trade-subsidiary",
+        "description": "A company controlled by a holding company.",
+        "related_german_words": ["Tochtergesellschaft"]
+      },
+      {
+        "semantic_key": "economy-trade-merger",
+        "description": "A combination of two companies into one.",
+        "related_german_words": ["Fusion"]
+      },
+      {
+        "semantic_key": "economy-trade-to_take_over",
+        "description": "To assume control of a company by buying its shares.",
+        "related_german_words": ["übernehmen"]
+      },
+      {
+        "semantic_key": "economy-trade-acquisition",
+        "description": "An asset or object bought or obtained, typically by a library or museum, or in this context, a company.",
+        "related_german_words": ["Übernahme"]
+      },
+      {
+        "semantic_key": "economy-trade-to_found_company",
+        "description": "To establish or originate an organization or business.",
+        "related_german_words": ["gründen"]
+      },
+      {
+        "semantic_key": "economy-trade-founder",
+        "description": "A person who establishes an organization or business.",
+        "related_german_words": ["Gründer"]
+      },
+      {
+        "semantic_key": "economy-trade-business_idea",
+        "description": "A concept that can be used for financial gain that is usually centered on a product or service.",
+        "related_german_words": ["Geschäftsidee"]
+      },
+      {
+        "semantic_key": "economy-trade-business_plan",
+        "description": "A document setting out a business's future objectives and strategies for achieving them.",
+        "related_german_words": ["Businessplan"]
+      },
+      {
+        "semantic_key": "economy-trade-investor_relations",
+        "description": "A department in a company that manages communication between corporate management and shareholders.",
+        "related_german_words": ["Anlegerbeziehungen"]
+      },
+      {
+        "semantic_key": "economy-trade-to_go_public",
+        "description": "To offer shares of a company for sale to the general public.",
+        "related_german_words": ["an die Börse gehen"]
+      },
+      {
+        "semantic_key": "economy-trade-ipo",
+        "description": "The first time that the stock of a private company is offered to the public.",
+        "related_german_words": ["Börsengang"]
+      },
+      {
+        "semantic_key": "economy-trade-share_price",
+        "description": "The price of a single share of a number of saleable stocks of a company.",
+        "related_german_words": ["Aktienkurs"]
+      },
+      {
+        "semantic_key": "economy-trade-bull_market",
+        "description": "A market in which share prices are rising, encouraging buying.",
+        "related_german_words": ["Hausse"]
+      },
+      {
+        "semantic_key": "economy-trade-bear_market",
+        "description": "A market in which prices are falling, encouraging selling.",
+        "related_german_words": ["Baisse"]
+      },
+      {
+        "semantic_key": "economy-trade-to_liquidate",
+        "description": "To wind up the affairs of a company by ascertaining liabilities and apportioning assets.",
+        "related_german_words": ["liquidieren"]
+      },
+      {
+        "semantic_key": "economy-trade-financial_statement",
+        "description": "A formal record of the financial activities and position of a business.",
+        "related_german_words": ["Jahresabschluss"]
+      },
+      {
+        "semantic_key": "economy-trade-cash_flow",
+        "description": "The total amount of money being transferred into and out of a business.",
+        "related_german_words": ["Cashflow"]
+      },
+      {
+        "semantic_key": "economy-trade-operating_costs",
+        "description": "The expenses which are related to the operation of a business.",
+        "related_german_words": ["Betriebskosten"]
+      },
+      {
+        "semantic_key": "economy-trade-fixed_costs",
+        "description": "Business costs, such as rent, that are constant whatever the quantity of goods or services produced.",
+        "related_german_words": ["Fixkosten"]
+      },
+      {
+        "semantic_key": "economy-trade-variable_costs",
+        "description": "A cost that varies with the level of output.",
+        "related_german_words": ["variable Kosten"]
+      },
+      {
+        "semantic_key": "economy-trade-labor_costs",
+        "description": "The sum of all wages paid to employees.",
+        "related_german_words": ["Lohnkosten"]
+      },
+      {
+        "semantic_key": "economy-trade-minimum_wage_law",
+        "description": "Legislation specifying the lowest wage permitted by law.",
+        "related_german_words": ["Mindestlohn"]
+      },
+      {
+        "semantic_key": "economy-trade-to_audit_accounts",
+        "description": "To conduct an official inspection of financial accounts.",
+        "related_german_words": ["prüfen"]
+      },
+      {
+        "semantic_key": "economy-trade-tax_evasion",
+        "description": "The illegal non-payment or underpayment of tax.",
+        "related_german_words": ["Steuerhinterziehung"]
+      },
+      {
+        "semantic_key": "economy-trade-tax_haven",
+        "description": "A country or independent area where taxes are levied at a low rate.",
+        "related_german_words": ["Steueroase"]
+      },
+      {
+        "semantic_key": "economy-trade-to_avoid_tax",
+        "description": "The legal usage of the tax regime to one's own advantage to reduce the amount of tax that is payable.",
+        "related_german_words": ["Steuern sparen"]
+      },
+      {
+        "semantic_key": "economy-trade-tax_office",
+        "description": "The government department responsible for collecting taxes.",
+        "related_german_words": ["Finanzamt"]
+      },
+      {
+        "semantic_key": "economy-trade-tax_return",
+        "description": "A form on which a taxpayer makes an annual statement of income and personal circumstances.",
+        "related_german_words": ["Steuererklärung"]
+      },
+      {
+        "semantic_key": "economy-trade-social_security_tax",
+        "description": "Tax used to fund social security programs.",
+        "related_german_words": ["Sozialabgaben"]
+      },
+      {
+        "semantic_key": "economy-trade-corporate_tax",
+        "description": "A tax on the profits of a corporation.",
+        "related_german_words": ["Körperschaftsteuer"]
+      },
+      {
+        "semantic_key": "economy-trade-property_tax",
+        "description": "A tax levied on real estate.",
+        "related_german_words": ["Grundsteuer"]
+      },
+      {
+        "semantic_key": "economy-trade-trade_surplus",
+        "description": "The amount by which the value of a country's exports exceeds the cost of its imports.",
+        "related_german_words": ["Handelsüberschuss"]
+      },
+      {
+        "semantic_key": "economy-trade-trade_deficit",
+        "description": "The amount by which the cost of a country's imports exceeds the value of its exports.",
+        "related_german_words": ["Handelsdefizit"]
+      },
+      {
+        "semantic_key": "economy-trade-free_trade_agreement",
+        "description": "A pact between two or more nations to reduce barriers to imports and exports.",
+        "related_german_words": ["Freihandelsabkommen"]
+      },
+      {
+        "semantic_key": "economy-trade-trade_barrier",
+        "description": "A government-imposed restraint on the flow of international goods or services.",
+        "related_german_words": ["Handelshemmnis"]
+      },
+      {
+        "semantic_key": "economy-trade-economic_sanctions",
+        "description": "Commercial and financial penalties applied by one or more countries against a targeted self-governing state.",
+        "related_german_words": ["Wirtschaftssanktionen"]
+      },
+      {
+        "semantic_key": "economy-trade-to_boycott",
+        "description": "To withdraw from commercial or social relations with a country or organization as a punishment or protest.",
+        "related_german_words": ["boykottieren"]
+      },
+      {
+        "semantic_key": "economy-trade-boycott_noun",
+        "description": "A punitive ban that forbids relations with certain groups.",
+        "related_german_words": ["Boykott"]
+      },
+      {
+        "semantic_key": "economy-trade-protectionism",
+        "description": "The theory or practice of shielding a country's domestic industries from foreign competition by taxing imports.",
+        "related_german_words": ["Protektionismus"]
+      },
+      {
+        "semantic_key": "economy-trade-emerging_economy",
+        "description": "A nation's economy that is progressing toward becoming more advanced.",
+        "related_german_words": ["Schwellenland"]
+      },
+      {
+        "semantic_key": "economy-trade-developed_nation",
+        "description": "A sovereign state that has a high quality of life, developed economy, and advanced technological infrastructure.",
+        "related_german_words": ["Industrienation"]
+      },
+      {
+        "semantic_key": "economy-trade-underdeveloped_country",
+        "description": "A country with a less developed industrial base.",
+        "related_german_words": ["Entwicklungsland"]
+      },
+      {
+        "semantic_key": "economy-trade-bribery_and_corruption",
+        "description": "Dishonest or fraudulent conduct by those in power, typically involving bribery.",
+        "related_german_words": ["Korruption"]
+      },
+      {
+        "semantic_key": "economy-trade-to_bribe",
+        "description": "To persuade someone to act in one's favor, typically illegally or dishonestly, by a gift of money.",
+        "related_german_words": ["bestechen"]
+      },
+      {
+        "semantic_key": "economy-trade-bribe_money",
+        "description": "Money or a favor given or promised to a person in a position of trust to influence their judgment.",
+        "related_german_words": ["Bestechungsgeld"]
+      },
+      {
+        "semantic_key": "economy-trade-money_laundering",
+        "description": "The concealment of the origins of illegally obtained money.",
+        "related_german_words": ["Geldwäsche"]
+      },
+      {
+        "semantic_key": "economy-trade-black_market",
+        "description": "An illegal traffic or trade in officially controlled or scarce commodities.",
+        "related_german_words": ["Schwarzmarkt"]
+      },
+      {
+        "semantic_key": "economy-trade-shadow_economy",
+        "description": "The part of an economy involving goods and services which are paid for in cash and therefore not declared for tax.",
+        "related_german_words": ["Schattenwirtschaft"]
+      },
+      {
+        "semantic_key": "economy-trade-to_launder_money",
+        "description": "To process illegally obtained money through a legitimate business or bank.",
+        "related_german_words": ["Geld waschen"]
+      },
+      {
+        "semantic_key": "economy-trade-ethical_business",
+        "description": "The moral principles that guide the way a business behaves.",
+        "related_german_words": ["Ethik"]
+      },
+      {
+        "semantic_key": "economy-trade-social_responsibility",
+        "description": "An ethical framework and suggests that an individual has an obligation to work and cooperate with other individuals and organizations.",
+        "related_german_words": ["soziale Verantwortung"]
+      },
+      {
+        "semantic_key": "economy-trade-transparency_policy",
+        "description": "Operating in such a way that it is easy for others to see what actions are performed.",
+        "related_german_words": ["Transparenz"]
+      },
+      {
+        "semantic_key": "economy-trade-economic_recovery",
+        "description": "The phase of the business cycle following a recession during which an economy regains and exceeds peak employment and output levels.",
+        "related_german_words": ["Erholung"]
+      },
+      {
+        "semantic_key": "economy-trade-stagnation",
+        "description": "A prolonged period of little or no economic growth.",
+        "related_german_words": ["Stagnation"]
+      },
+      {
+        "semantic_key": "economy-trade-structural_reform",
+        "description": "Measures that change the institutional and regulatory framework in which businesses and people operate.",
+        "related_german_words": ["Strukturreform"]
+      },
+      {
+        "semantic_key": "economy-trade-to_privatize",
+        "description": "To transfer a business or service from public to private ownership and control.",
+        "related_german_words": ["privatisieren"]
+      },
+      {
+        "semantic_key": "economy-trade-privatization",
+        "description": "The transfer of a business, industry, or service from public to private ownership and control.",
+        "related_german_words": ["Privatisierung"]
+      },
+      {
+        "semantic_key": "economy-trade-to_nationalize",
+        "description": "To transfer a major branch of industry or commerce from private to state ownership or control.",
+        "related_german_words": ["verstaatlichen"]
+      },
+      {
+        "semantic_key": "economy-trade-nationalization",
+        "description": "The transfer of a major branch of industry or commerce from private to state ownership or control.",
+        "related_german_words": ["Verstaatlichung"]
+      },
+      {
+        "semantic_key": "economy-trade-deregulation",
+        "description": "The reduction or elimination of government power in a particular industry.",
+        "related_german_words": ["Deregulierung"]
+      },
+      {
+        "semantic_key": "economy-trade-regulation_policy",
+        "description": "A rule or directive made and maintained by an authority.",
+        "related_german_words": ["Regulierung"]
+      },
+      {
+        "semantic_key": "economy-trade-market_entry",
+        "description": "The activities associated with a company bringing a product or service to a targeted market.",
+        "related_german_words": ["Markteintritt"]
+      },
+      {
+        "semantic_key": "economy-trade-market_share",
+        "description": "The portion of a market controlled by a particular company or product.",
+        "related_german_words": ["Marktanteil"]
+      },
+      {
+        "semantic_key": "economy-trade-target_market",
+        "description": "A particular group of consumers at which a product or service is aimed.",
+        "related_german_words": ["Zielmarkt"]
+      },
+      {
+        "semantic_key": "economy-trade-market_research",
+        "description": "The action or activity of gathering information about consumers' needs and preferences.",
+        "related_german_words": ["Marktforschung"]
+      },
+      {
+        "semantic_key": "economy-trade-consumer_protection",
+        "description": "Laws and organizations designed to ensure the rights of consumers as well as fair trade, competition and accurate information in the marketplace.",
+        "related_german_words": ["Verbraucherschutz"]
+      }
+    ]
+  }
+]

@@ -1,0 +1,1417 @@
+[
+  {
+    "category_slug": "society-politics",
+    "concepts": [
+      {
+        "semantic_key": "society-politics-society",
+        "description": "The aggregate of people living together in a more or less ordered community.",
+        "related_german_words": ["Gesellschaft"]
+      },
+      {
+        "semantic_key": "society-politics-politics",
+        "description": "The activities associated with the governance of a country or area.",
+        "related_german_words": ["Politik"]
+      },
+      {
+        "semantic_key": "society-politics-state",
+        "description": "A nation or territory considered as an organized political community under one government.",
+        "related_german_words": ["Staat"]
+      },
+      {
+        "semantic_key": "society-politics-democracy",
+        "description": "A system of government by the whole population or all the eligible members of a state.",
+        "related_german_words": ["Demokratie"]
+      },
+      {
+        "semantic_key": "society-politics-republic",
+        "description": "A state in which supreme power is held by the people and their elected representatives.",
+        "related_german_words": ["Republik"]
+      },
+      {
+        "semantic_key": "society-politics-dictatorship",
+        "description": "A government by a dictator with absolute power.",
+        "related_german_words": ["Diktatur"]
+      },
+      {
+        "semantic_key": "society-politics-monarchy",
+        "description": "A form of government with a monarch at the head.",
+        "related_german_words": ["Monarchie"]
+      },
+      {
+        "semantic_key": "society-politics-constitution",
+        "description": "A body of fundamental principles according to which a state is governed.",
+        "related_german_words": ["Verfassung"]
+      },
+      {
+        "semantic_key": "society-politics-basic_law",
+        "description": "The fundamental law of a nation, specifically the German constitution.",
+        "related_german_words": ["Grundgesetz"]
+      },
+      {
+        "semantic_key": "society-politics-human_rights",
+        "description": "A right which is believed to belong justifiably to every person.",
+        "related_german_words": ["Menschenrechte"]
+      },
+      {
+        "semantic_key": "society-politics-citizen",
+        "description": "A legally recognized subject or national of a state or commonwealth.",
+        "related_german_words": ["Bürger"]
+      },
+      {
+        "semantic_key": "society-politics-population",
+        "description": "All the inhabitants of a particular town, area, or country.",
+        "related_german_words": ["Bevölkerung"]
+      },
+      {
+        "semantic_key": "society-politics-people_nation",
+        "description": "The citizens of a particular nation or ethnic group.",
+        "related_german_words": ["Volk"]
+      },
+      {
+        "semantic_key": "society-politics-community",
+        "description": "A group of people living in the same place or having a particular characteristic in common.",
+        "related_german_words": ["Gemeinschaft"]
+      },
+      {
+        "semantic_key": "society-politics-individual",
+        "description": "A single human being as distinct from a group, class, or family.",
+        "related_german_words": ["Individuum"]
+      },
+      {
+        "semantic_key": "society-politics-to_govern",
+        "description": "To conduct the policy, actions, and affairs of a state or organization.",
+        "related_german_words": ["regieren"]
+      },
+      {
+        "semantic_key": "society-politics-government",
+        "description": "The governing body of a nation, state, or community.",
+        "related_german_words": ["Regierung"]
+      },
+      {
+        "semantic_key": "society-politics-parliament",
+        "description": "A legislative body of government.",
+        "related_german_words": ["Parlament"]
+      },
+      {
+        "semantic_key": "society-politics-ministry",
+        "description": "A government department under the direction of a minister.",
+        "related_german_words": ["Ministerium"]
+      },
+      {
+        "semantic_key": "society-politics-chancellor",
+        "description": "The head of the government in Germany.",
+        "related_german_words": ["Kanzler"]
+      },
+      {
+        "semantic_key": "society-politics-president",
+        "description": "The elected head of a republican state.",
+        "related_german_words": ["Präsident"]
+      },
+      {
+        "semantic_key": "society-politics-minister",
+        "description": "A head of a government department.",
+        "related_german_words": ["Minister"]
+      },
+      {
+        "semantic_key": "society-politics-mayor",
+        "description": "The elected head of a city, town, or other municipality.",
+        "related_german_words": ["Bürgermeister"]
+      },
+      {
+        "semantic_key": "society-politics-politician",
+        "description": "A person who is professionally involved in politics.",
+        "related_german_words": ["Politiker"]
+      },
+      {
+        "semantic_key": "society-politics-representative",
+        "description": "A person chosen or appointed to act or speak for others, especially in a legislative assembly.",
+        "related_german_words": ["Abgeordneter"]
+      },
+      {
+        "semantic_key": "society-politics-civil_servant",
+        "description": "A person in the public sector employed by a government department or agency.",
+        "related_german_words": ["Beamter"]
+      },
+      {
+        "semantic_key": "society-politics-administration",
+        "description": "The process or activity of running an organization or government.",
+        "related_german_words": ["Verwaltung"]
+      },
+      {
+        "semantic_key": "society-politics-bureaucracy",
+        "description": "A system of government in which most of the important decisions are made by state officials.",
+        "related_german_words": ["Bürokratie"]
+      },
+      {
+        "semantic_key": "society-politics-to_elect",
+        "description": "To choose someone to hold public office by voting.",
+        "related_german_words": ["wählen"]
+      },
+      {
+        "semantic_key": "society-politics-election",
+        "description": "A formal and organized choice by vote of a person for a political office or other position.",
+        "related_german_words": ["Wahl"]
+      },
+      {
+        "semantic_key": "society-politics-voter",
+        "description": "A person who votes or has the right to vote at an election.",
+        "related_german_words": ["Wähler"]
+      },
+      {
+        "semantic_key": "society-politics-candidate",
+        "description": "A person who applies for a job or is nominated for election.",
+        "related_german_words": ["Kandidat"]
+      },
+      {
+        "semantic_key": "society-politics-vote_cast",
+        "description": "A formal expression of opinion or choice in an election.",
+        "related_german_words": ["Stimme"]
+      },
+      {
+        "semantic_key": "society-politics-majority",
+        "description": "The greater number, especially more than half of the total number.",
+        "related_german_words": ["Mehrheit"]
+      },
+      {
+        "semantic_key": "society-politics-minority",
+        "description": "The smaller number or part, especially a number that is less than half the whole number.",
+        "related_german_words": ["Minderheit"]
+      },
+      {
+        "semantic_key": "society-politics-opposition",
+        "description": "The political party or group that is not in government and opposes its policies.",
+        "related_german_words": ["Opposition"]
+      },
+      {
+        "semantic_key": "society-politics-coalition",
+        "description": "An alliance for combined action, especially a temporary alliance of political parties forming a government.",
+        "related_german_words": ["Koalition"]
+      },
+      {
+        "semantic_key": "society-politics-political_party",
+        "description": "An organized group of people who have the same political aims and beliefs.",
+        "related_german_words": ["Partei"]
+      },
+      {
+        "semantic_key": "society-politics-campaign",
+        "description": "An organized course of action to achieve a goal, especially in politics.",
+        "related_german_words": ["Wahlkampf"]
+      },
+      {
+        "semantic_key": "society-politics-poll",
+        "description": "The process of voting in an election or a survey of public opinion.",
+        "related_german_words": ["Umfrage"]
+      },
+      {
+        "semantic_key": "society-politics-ideology",
+        "description": "A system of ideas and ideals, especially one which forms the basis of economic or political theory.",
+        "related_german_words": ["Ideologie"]
+      },
+      {
+        "semantic_key": "society-politics-program",
+        "description": "A set of political goals or principles of a party.",
+        "related_german_words": ["Programm"]
+      },
+      {
+        "semantic_key": "society-politics-reform",
+        "description": "The improvement or amendment of what is wrong, corrupt, or unsatisfactory.",
+        "related_german_words": ["Reform"]
+      },
+      {
+        "semantic_key": "society-politics-to_reform",
+        "description": "To make changes in order to improve something.",
+        "related_german_words": ["reformieren"]
+      },
+      {
+        "semantic_key": "society-politics-to_protest",
+        "description": "To express an objection to what someone has said or done.",
+        "related_german_words": ["protestieren"]
+      },
+      {
+        "semantic_key": "society-politics-protest",
+        "description": "A statement or action expressing disapproval of or objection to something.",
+        "related_german_words": ["Protest"]
+      },
+      {
+        "semantic_key": "society-politics-demonstration",
+        "description": "A public meeting or march protesting against something or expressing views.",
+        "related_german_words": ["Demonstration", "Demo"]
+      },
+      {
+        "semantic_key": "society-politics-revolution",
+        "description": "A forcible overthrow of a government or social order, in favor of a new system.",
+        "related_german_words": ["Revolution"]
+      },
+      {
+        "semantic_key": "society-politics-to_demonstrate",
+        "description": "To take part in a public meeting or march to express political views.",
+        "related_german_words": ["demonstrieren"]
+      },
+      {
+        "semantic_key": "society-politics-freedom",
+        "description": "The power or right to act, speak, or think as one wants.",
+        "related_german_words": ["Freiheit"]
+      },
+      {
+        "semantic_key": "society-politics-equality",
+        "description": "The state of being equal, especially in status, rights, and opportunities.",
+        "related_german_words": ["Gleichheit"]
+      },
+      {
+        "semantic_key": "society-politics-solidarity",
+        "description": "Unity or agreement of feeling or action, especially among individuals with a common interest.",
+        "related_german_words": ["Solidarität"]
+      },
+      {
+        "semantic_key": "society-politics-tolerance",
+        "description": "The ability or willingness to tolerate something, in particular the existence of opinions or behavior that one does not necessarily agree with.",
+        "related_german_words": ["Toleranz"]
+      },
+      {
+        "semantic_key": "society-politics-justice",
+        "description": "Just behavior or treatment.",
+        "related_german_words": ["Gerechtigkeit"]
+      },
+      {
+        "semantic_key": "society-politics-injustice",
+        "description": "Lack of fairness or justice.",
+        "related_german_words": ["Ungerechtigkeit"]
+      },
+      {
+        "semantic_key": "society-politics-law",
+        "description": "The system of rules which a particular country or community recognizes as regulating the actions of its members.",
+        "related_german_words": ["Gesetz"]
+      },
+      {
+        "semantic_key": "society-politics-right_legal",
+        "description": "An entitlement to have or obtain something or to act in a certain way.",
+        "related_german_words": ["Recht"]
+      },
+      {
+        "semantic_key": "society-politics-duty",
+        "description": "A moral or legal obligation.",
+        "related_german_words": ["Pflicht"]
+      },
+      {
+        "semantic_key": "society-politics-article_law",
+        "description": "A separate clause or paragraph of a legal document or constitution.",
+        "related_german_words": ["Artikel"]
+      },
+      {
+        "semantic_key": "society-politics-paragraph",
+        "description": "A distinct section of a piece of writing, specifically in a legal text.",
+        "related_german_words": ["Paragraph"]
+      },
+      {
+        "semantic_key": "society-politics-court",
+        "description": "A body of people presided over by a judge, judges, or a magistrate, and acting as a tribunal in civil and criminal cases.",
+        "related_german_words": ["Gericht"]
+      },
+      {
+        "semantic_key": "society-politics-judge",
+        "description": "A public official appointed to decide cases in a court of law.",
+        "related_german_words": ["Richter"]
+      },
+      {
+        "semantic_key": "society-politics-lawyer",
+        "description": "A person who practices or studies law; an attorney.",
+        "related_german_words": ["Rechtsanwalt", "Anwalt"]
+      },
+      {
+        "semantic_key": "society-politics-police",
+        "description": "The civil force of a national or local government, responsible for the prevention and detection of crime and the maintenance of public order.",
+        "related_german_words": ["Polizei"]
+      },
+      {
+        "semantic_key": "society-politics-officer",
+        "description": "A person holding a position of authority in a police force.",
+        "related_german_words": ["Polizist"]
+      },
+      {
+        "semantic_key": "society-politics-crime",
+        "description": "An action or omission that constitutes an offense and is punishable by law.",
+        "related_german_words": ["Verbrechen", "Straftat"]
+      },
+      {
+        "semantic_key": "society-politics-criminal_person",
+        "description": "A person who has committed a crime.",
+        "related_german_words": ["Krimineller"]
+      },
+      {
+        "semantic_key": "society-politics-perpetrator",
+        "description": "A person who carries out a harmful, illegal, or immoral act.",
+        "related_german_words": ["Täter"]
+      },
+      {
+        "semantic_key": "society-politics-victim",
+        "description": "A person harmed, injured, or killed as a result of a crime, accident, or other event or action.",
+        "related_german_words": ["Opfer"]
+      },
+      {
+        "semantic_key": "society-politics-witness",
+        "description": "A person who sees an event, typically a crime or accident, take place.",
+        "related_german_words": ["Zeuge"]
+      },
+      {
+        "semantic_key": "society-politics-evidence",
+        "description": "The available body of facts or information indicating whether a belief or proposition is true or valid.",
+        "related_german_words": ["Beweis"]
+      },
+      {
+        "semantic_key": "society-politics-arrest_noun",
+        "description": "The action of seizing someone and taking them into custody.",
+        "related_german_words": ["Verhaftung"]
+      },
+      {
+        "semantic_key": "society-politics-to_arrest",
+        "description": "To seize someone by legal authority and take them into custody.",
+        "related_german_words": ["verhaften"]
+      },
+      {
+        "semantic_key": "society-politics-prison",
+        "description": "A building in which people are legally held as a punishment for a crime they have committed or while awaiting trial.",
+        "related_german_words": ["Gefängnis", "Haftanstalt"]
+      },
+      {
+        "semantic_key": "society-politics-punishment",
+        "description": "The infliction or imposition of a penalty as retribution for an offense.",
+        "related_german_words": ["Strafe"]
+      },
+      {
+        "semantic_key": "society-politics-to_punish",
+        "description": "To inflict a penalty on someone as retribution for an offense, fault, or a mistake.",
+        "related_german_words": ["bestrafen"]
+      },
+      {
+        "semantic_key": "society-politics-fine_money",
+        "description": "A sum of money exacted as a penalty by a court of law or other authority.",
+        "related_german_words": ["Bußgeld"]
+      },
+      {
+        "semantic_key": "society-politics-trial",
+        "description": "A formal examination of evidence before a judge, and typically before a jury, in order to decide guilt in a case of criminal or civil proceedings.",
+        "related_german_words": ["Prozess"]
+      },
+      {
+        "semantic_key": "society-politics-verdict",
+        "description": "A decision on a disputed issue in a civil or criminal case.",
+        "related_german_words": ["Urteil"]
+      },
+      {
+        "semantic_key": "society-politics-peace",
+        "description": "Freedom from disturbance; tranquility.",
+        "related_german_words": ["Frieden"]
+      },
+      {
+        "semantic_key": "society-politics-war",
+        "description": "A state of armed conflict between different nations or states or different groups within a nation or state.",
+        "related_german_words": ["Krieg"]
+      },
+      {
+        "semantic_key": "society-politics-conflict",
+        "description": "A serious disagreement or argument, typically a protracted one.",
+        "related_german_words": ["Konflikt"]
+      },
+      {
+        "semantic_key": "society-politics-crisis",
+        "description": "A time of intense difficulty, trouble, or danger.",
+        "related_german_words": ["Krise"]
+      },
+      {
+        "semantic_key": "society-politics-border",
+        "description": "A line separating two political or geographical areas, especially countries.",
+        "related_german_words": ["Grenze"]
+      },
+      {
+        "semantic_key": "society-politics-passport",
+        "description": "An official document issued by a government, certifying the holder's identity and citizenship and entitling them to travel under its protection to and from foreign countries.",
+        "related_german_words": ["Reisepass", "Pass"]
+      },
+      {
+        "semantic_key": "society-politics-visa",
+        "description": "An endorsement on a passport indicating that the holder is allowed to enter, leave, or stay for a specified period of time in a country.",
+        "related_german_words": ["Visum"]
+      },
+      {
+        "semantic_key": "society-politics-migration",
+        "description": "Movement of people to a new area or country in order to find work or better living conditions.",
+        "related_german_words": ["Migration"]
+      },
+      {
+        "semantic_key": "society-politics-to_migrate",
+        "description": "To move from one area or country to settle in another.",
+        "related_german_words": ["migrieren"]
+      },
+      {
+        "semantic_key": "society-politics-immigration",
+        "description": "The action of coming to live permanently in a foreign country.",
+        "related_german_words": ["Einwanderung", "Immigration"]
+      },
+      {
+        "semantic_key": "society-politics-refugee",
+        "description": "A person who has been forced to leave their country in order to escape war, persecution, or natural disaster.",
+        "related_german_words": ["Flüchtling", "Geflüchteter"]
+      },
+      {
+        "semantic_key": "society-politics-asylum",
+        "description": "The protection granted by a nation to someone who has left their native country as a political refugee.",
+        "related_german_words": ["Asyl"]
+      },
+      {
+        "semantic_key": "society-politics-asylum_seeker",
+        "description": "A person who has left their home country as a political refugee and is seeking asylum in another.",
+        "related_german_words": ["Asylbewerber"]
+      },
+      {
+        "semantic_key": "society-politics-nationality",
+        "description": "The status of belonging to a particular nation.",
+        "related_german_words": ["Staatsangehörigkeit"]
+      },
+      {
+        "semantic_key": "society-politics-integration",
+        "description": "The process of integrating a person or group into a larger community.",
+        "related_german_words": ["Integration"]
+      },
+      {
+        "semantic_key": "society-politics-to_integrate",
+        "description": "To mix with and join society or a group of people, often changing to suit their way of life, habits, and customs.",
+        "related_german_words": ["integrieren"]
+      },
+      {
+        "semantic_key": "society-politics-economy",
+        "description": "The wealth and resources of a country or region, especially in terms of the production and consumption of goods and services.",
+        "related_german_words": ["Wirtschaft"]
+      },
+      {
+        "semantic_key": "society-politics-market",
+        "description": "An area or arena in which commercial dealings are conducted.",
+        "related_german_words": ["Markt"]
+      },
+      {
+        "semantic_key": "society-politics-trade",
+        "description": "The action of buying and selling goods and services.",
+        "related_german_words": ["Handel"]
+      },
+      {
+        "semantic_key": "society-politics-money",
+        "description": "A current medium of exchange in the form of coins and banknotes.",
+        "related_german_words": ["Geld"]
+      },
+      {
+        "semantic_key": "society-politics-tax",
+        "description": "A compulsory contribution to state revenue, levied by the government on workers' income and business profits or added to the cost of some goods, services, and transactions.",
+        "related_german_words": ["Steuer"]
+      },
+      {
+        "semantic_key": "society-politics-income_tax",
+        "description": "Tax levied directly on personal income.",
+        "related_german_words": ["Einkommensteuer"]
+      },
+      {
+        "semantic_key": "society-politics-vat",
+        "description": "A tax on the amount by which the value of an article has been increased at each stage of its production or distribution.",
+        "related_german_words": ["Mehrwertsteuer"]
+      },
+      {
+        "semantic_key": "society-politics-budget",
+        "description": "An estimate of income and expenditure for a set period of time, specifically for a state.",
+        "related_german_words": ["Haushalt"]
+      },
+      {
+        "semantic_key": "society-politics-debt",
+        "description": "Something, typically money, that is owed or due.",
+        "related_german_words": ["Schulden"]
+      },
+      {
+        "semantic_key": "society-politics-inflation",
+        "description": "A general increase in prices and fall in the purchasing value of money.",
+        "related_german_words": ["Inflation"]
+      },
+      {
+        "semantic_key": "society-politics-growth",
+        "description": "The process of increasing in physical size or economic value.",
+        "related_german_words": ["Wachstum"]
+      },
+      {
+        "semantic_key": "society-politics-labor",
+        "description": "Work, especially hard physical work.",
+        "related_german_words": ["Arbeit"]
+      },
+      {
+        "semantic_key": "society-politics-unemployment",
+        "description": "The state of being unemployed.",
+        "related_german_words": ["Arbeitslosigkeit"]
+      },
+      {
+        "semantic_key": "society-politics-union",
+        "description": "An organized association of workers, often in a trade or profession, formed to protect and further their rights and interests.",
+        "related_german_words": ["Gewerkschaft"]
+      },
+      {
+        "semantic_key": "society-politics-strike",
+        "description": "A refusal to work organized by a body of employees as a form of protest.",
+        "related_german_words": ["Streik"]
+      },
+      {
+        "semantic_key": "society-politics-to_strike",
+        "description": "To refuse to work as a form of protest, typically in an attempt to gain a concession or concessions from an employer.",
+        "related_german_words": ["streiken"]
+      },
+      {
+        "semantic_key": "society-politics-wage",
+        "description": "A fixed regular payment, typically paid on a daily or weekly basis, made by an employer to an employee.",
+        "related_german_words": ["Lohn"]
+      },
+      {
+        "semantic_key": "society-politics-salary",
+        "description": "A fixed regular payment, typically paid on a monthly basis but often expressed as an annual sum, made by an employer to an employee.",
+        "related_german_words": ["Gehalt"]
+      },
+      {
+        "semantic_key": "society-politics-minimum_wage",
+        "description": "The lowest wage permitted by law or by a special agreement.",
+        "related_german_words": ["Mindestlohn"]
+      },
+      {
+        "semantic_key": "society-politics-welfare",
+        "description": "Financial support given to people in need.",
+        "related_german_words": ["Sozialhilfe"]
+      },
+      {
+        "semantic_key": "society-politics-social_security",
+        "description": "A system of providing assistance to people with little or no income.",
+        "related_german_words": ["Sozialversicherung"]
+      },
+      {
+        "semantic_key": "society-politics-health_insurance",
+        "description": "Insurance that covers the whole or a part of the risk of a person incurring medical expenses.",
+        "related_german_words": ["Krankenversicherung"]
+      },
+      {
+        "semantic_key": "society-politics-pension",
+        "description": "A regular payment made during a person's retirement from an investment fund to which that person or their employer has contributed during their working life.",
+        "related_german_words": ["Rente"]
+      },
+      {
+        "semantic_key": "society-politics-environment",
+        "description": "The surroundings or conditions in which a person, animal, or plant lives or operates.",
+        "related_german_words": ["Umwelt"]
+      },
+      {
+        "semantic_key": "society-politics-nature",
+        "description": "The physical world and everything in it that is not made by people.",
+        "related_german_words": ["Natur"]
+      },
+      {
+        "semantic_key": "society-politics-climate",
+        "description": "The weather conditions prevailing in an area in general or over a long period.",
+        "related_german_words": ["Klima"]
+      },
+      {
+        "semantic_key": "society-politics-climate_change",
+        "description": "A change in global or regional climate patterns.",
+        "related_german_words": ["Klimawandel"]
+      },
+      {
+        "semantic_key": "society-politics-global_warming",
+        "description": "A gradual increase in the overall temperature of the earth's atmosphere generally attributed to the greenhouse effect.",
+        "related_german_words": ["Erderwärmung"]
+      },
+      {
+        "semantic_key": "society-politics-sustainability",
+        "description": "The ability to be maintained at a certain rate or level.",
+        "related_german_words": ["Nachhaltigkeit"]
+      },
+      {
+        "semantic_key": "society-politics-energy",
+        "description": "Power derived from the utilization of physical or chemical resources, especially to provide light and heat or to work machines.",
+        "related_german_words": ["Energie"]
+      },
+      {
+        "semantic_key": "society-politics-pollution",
+        "description": "The presence in or introduction into the environment of a substance or thing that has harmful or poisonous effects.",
+        "related_german_words": ["Verschmutzung"]
+      },
+      {
+        "semantic_key": "society-politics-protection",
+        "description": "The action of protecting someone or something.",
+        "related_german_words": ["Schutz"]
+      },
+      {
+        "semantic_key": "society-politics-to_protect",
+        "description": "To keep safe from harm or injury.",
+        "related_german_words": ["schützen"]
+      },
+      {
+        "semantic_key": "society-politics-education",
+        "description": "The process of receiving or giving systematic instruction, especially at a school or university.",
+        "related_german_words": ["Bildung"]
+      },
+      {
+        "semantic_key": "society-politics-school",
+        "description": "An institution for educating children.",
+        "related_german_words": ["Schule"]
+      },
+      {
+        "semantic_key": "society-politics-university",
+        "description": "A high-level educational institution in which students study for degrees and academic research is done.",
+        "related_german_words": ["Universität"]
+      },
+      {
+        "semantic_key": "society-politics-knowledge",
+        "description": "Facts, information, and skills acquired by a person through experience or education.",
+        "related_german_words": ["Wissen"]
+      },
+      {
+        "semantic_key": "society-politics-science",
+        "description": "The intellectual and practical activity encompassing the systematic study of the structure and behavior of the physical and natural world through observation and experiment.",
+        "related_german_words": ["Wissenschaft"]
+      },
+      {
+        "semantic_key": "society-politics-research",
+        "description": "The systematic investigation into and study of materials and sources in order to establish facts and reach new conclusions.",
+        "related_german_words": ["Forschung"]
+      },
+      {
+        "semantic_key": "society-politics-media",
+        "description": "The main means of mass communication (broadcasting, publishing, and the internet) regarded collectively.",
+        "related_german_words": ["Medien"]
+      },
+      {
+        "semantic_key": "society-politics-press",
+        "description": "Newspapers and magazines collectively.",
+        "related_german_words": ["Presse"]
+      },
+      {
+        "semantic_key": "society-politics-journalism",
+        "description": "The activity or profession of writing for newspapers, magazines, or news websites or preparing news to be broadcast.",
+        "related_german_words": ["Journalismus"]
+      },
+      {
+        "semantic_key": "society-politics-news",
+        "description": "Newly received or noteworthy information, especially about recent or important events.",
+        "related_german_words": ["Nachrichten"]
+      },
+      {
+        "semantic_key": "society-politics-information",
+        "description": "Facts provided or learned about something or someone.",
+        "related_german_words": ["Information"]
+      },
+      {
+        "semantic_key": "society-politics-fake_news",
+        "description": "False stories that appear to be news spread on the internet or using other media.",
+        "related_german_words": ["Desinformation"]
+      },
+      {
+        "semantic_key": "society-politics-propaganda",
+        "description": "Information, especially of a biased or misleading nature, used to promote or publicize a particular political cause or point of view.",
+        "related_german_words": ["Propaganda"]
+      },
+      {
+        "semantic_key": "society-politics-censorship",
+        "description": "The suppression or prohibition of any parts of books, films, news, etc. that are considered obscene, politically unacceptable, or a threat to security.",
+        "related_german_words": ["Zensur"]
+      },
+      {
+        "semantic_key": "society-politics-freedom_of_speech",
+        "description": "The power or right to express one's opinions without censorship, restraint, or legal penalty.",
+        "related_german_words": ["Meinungsfreiheit"]
+      },
+      {
+        "semantic_key": "society-politics-freedom_of_press",
+        "description": "The right of journalists to publish stories without being controlled by the government.",
+        "related_german_words": ["Pressefreiheit"]
+      },
+      {
+        "semantic_key": "society-politics-discrimination",
+        "description": "The unjust or prejudicial treatment of different categories of people or things, especially on the grounds of race, age, or sex.",
+        "related_german_words": ["Diskriminierung"]
+      },
+      {
+        "semantic_key": "society-politics-racism",
+        "description": "Prejudice, discrimination, or antagonism directed against someone of a different race based on the belief that one's own race is superior.",
+        "related_german_words": ["Rassismus"]
+      },
+      {
+        "semantic_key": "society-politics-antisemitism",
+        "description": "Hostility to or prejudice against Jewish people.",
+        "related_german_words": ["Antisemitismus"]
+      },
+      {
+        "semantic_key": "society-politics-sexism",
+        "description": "Prejudice, stereotyping, or discrimination, typically against women, on the basis of sex.",
+        "related_german_words": ["Sexismus"]
+      },
+      {
+        "semantic_key": "society-politics-homophobia",
+        "description": "Dislike of or prejudice against gay people.",
+        "related_german_words": ["Homophobie"]
+      },
+      {
+        "semantic_key": "society-politics-poverty",
+        "description": "The state of being extremely poor.",
+        "related_german_words": ["Armut"]
+      },
+      {
+        "semantic_key": "society-politics-wealth",
+        "description": "An abundance of valuable possessions or money.",
+        "related_german_words": ["Reichtum"]
+      },
+      {
+        "semantic_key": "society-politics-values",
+        "description": "A person's principles or standards of behavior.",
+        "related_german_words": ["Werte"]
+      },
+      {
+        "semantic_key": "society-politics-tradition",
+        "description": "The transmission of customs or beliefs from generation to generation.",
+        "related_german_words": ["Tradition"]
+      },
+      {
+        "semantic_key": "society-politics-progress",
+        "description": "Forward or onward movement towards a destination or a better state.",
+        "related_german_words": ["Fortschritt"]
+      },
+      {
+        "semantic_key": "society-politics-corruption",
+        "description": "Dishonest or fraudulent conduct by those in power, typically involving bribery.",
+        "related_german_words": ["Korruption"]
+      },
+      {
+        "semantic_key": "society-politics-power",
+        "description": "The capacity or ability to direct or influence the behavior of others or the course of events.",
+        "related_german_words": ["Macht"]
+      },
+      {
+        "semantic_key": "society-politics-authority",
+        "description": "The power or right to give orders, make decisions, and enforce obedience.",
+        "related_german_words": ["Autorität"]
+      },
+      {
+        "semantic_key": "society-politics-security",
+        "description": "The state of being free from danger or threat.",
+        "related_german_words": ["Sicherheit"]
+      },
+      {
+        "semantic_key": "society-politics-threat",
+        "description": "A statement of an intention to inflict pain, injury, damage, or other hostile action.",
+        "related_german_words": ["Bedrohung"]
+      },
+      {
+        "semantic_key": "society-politics-danger",
+        "description": "The possibility of suffering harm or injury.",
+        "related_german_words": ["Gefahr"]
+      },
+      {
+        "semantic_key": "society-politics-terrorism",
+        "description": "The unlawful use of violence and intimidation, especially against civilians, in the pursuit of political aims.",
+        "related_german_words": ["Terrorismus"]
+      },
+      {
+        "semantic_key": "society-politics-ethics",
+        "description": "Moral principles that govern a person's behavior or the conducting of an activity.",
+        "related_german_words": ["Ethik"]
+      },
+      {
+        "semantic_key": "society-politics-moral",
+        "description": "Concerned with the principles of right and wrong behavior and the goodness or badness of human character.",
+        "related_german_words": ["moralisch"]
+      },
+      {
+        "semantic_key": "society-politics-human_dignity",
+        "description": "The recognition that human beings possess a special value intrinsic to their humanity.",
+        "related_german_words": ["Menschenwürde"]
+      },
+      {
+        "semantic_key": "society-politics-common_good",
+        "description": "The benefit or interests of all.",
+        "related_german_words": ["Gemeinwohl"]
+      },
+      {
+        "semantic_key": "society-politics-dialogue",
+        "description": "Discussion between two or more people or groups, especially one directed towards exploration of a particular subject or resolution of a problem.",
+        "related_german_words": ["Dialog"]
+      },
+      {
+        "semantic_key": "society-politics-consensus",
+        "description": "A general agreement.",
+        "related_german_words": ["Konsens"]
+      },
+      {
+        "semantic_key": "society-politics-alliance",
+        "description": "A union or association formed for mutual benefit, especially between countries or organizations.",
+        "related_german_words": ["Bündnis", "Allianz"]
+      },
+      {
+        "semantic_key": "society-politics-treaty",
+        "description": "A formally concluded and ratified agreement between countries.",
+        "related_german_words": ["Vertrag"]
+      },
+      {
+        "semantic_key": "society-politics-diplomacy",
+        "description": "The profession, activity, or skill of managing international relations.",
+        "related_german_words": ["Diplomatie"]
+      },
+      {
+        "semantic_key": "society-politics-diplomat",
+        "description": "An official representing a country abroad.",
+        "related_german_words": ["Diplomat"]
+      },
+      {
+        "semantic_key": "society-politics-embassy",
+        "description": "The official residence or offices of an ambassador.",
+        "related_german_words": ["Botschaft"]
+      },
+      {
+        "semantic_key": "society-politics-to_negotiate",
+        "description": "To try to reach an agreement or compromise by discussion with others.",
+        "related_german_words": ["verhandeln"]
+      },
+      {
+        "semantic_key": "society-politics-negotiation",
+        "description": "Discussion aimed at reaching an agreement.",
+        "related_german_words": ["Verhandlung"]
+      },
+      {
+        "semantic_key": "society-politics-army",
+        "description": "An organized military force equipped for fighting on land.",
+        "related_german_words": ["Armee"]
+      },
+      {
+        "semantic_key": "society-politics-military",
+        "description": "The armed forces of a country.",
+        "related_german_words": ["Militär"]
+      },
+      {
+        "semantic_key": "society-politics-soldier",
+        "description": "A person who serves in an army.",
+        "related_german_words": ["Soldat"]
+      },
+      {
+        "semantic_key": "society-politics-defense",
+        "description": "The action of defending from or resisting attack.",
+        "related_german_words": ["Verteidigung"]
+      },
+      {
+        "semantic_key": "society-politics-to_defend",
+        "description": "To resist an attack made on (someone or something); to protect from harm or danger.",
+        "related_german_words": ["verteidigen"]
+      },
+      {
+        "semantic_key": "society-politics-humanitarian_aid",
+        "description": "Material or logistical assistance provided for humanitarian purposes.",
+        "related_german_words": ["humanitäre Hilfe"]
+      },
+      {
+        "semantic_key": "society-politics-development_aid",
+        "description": "Financial aid given by governments and other agencies to support the economic, environmental, social, and political development of developing countries.",
+        "related_german_words": ["Entwicklungshilfe"]
+      },
+      {
+        "semantic_key": "society-politics-future",
+        "description": "The time or a period of time following the moment of speaking or writing.",
+        "related_german_words": ["Zukunft"]
+      },
+      {
+        "semantic_key": "society-politics-challenge",
+        "description": "A task or situation that tests someone's abilities.",
+        "related_german_words": ["Herausforderung"]
+      },
+      {
+        "semantic_key": "society-politics-change_noun",
+        "description": "The act or instance of making or becoming different.",
+        "related_german_words": ["Wandel", "Veränderung"]
+      },
+      {
+        "semantic_key": "society-politics-history",
+        "description": "The study of past events, particularly in human affairs.",
+        "related_german_words": ["Geschichte"]
+      },
+      {
+        "semantic_key": "society-politics-identity",
+        "description": "The fact of being who or what a person or thing is.",
+        "related_german_words": ["Identität"]
+      },
+      {
+        "semantic_key": "society-politics-culture",
+        "description": "The arts and other manifestations of human intellectual achievement regarded collectively.",
+        "related_german_words": ["Kultur"]
+      },
+      {
+        "semantic_key": "society-politics-participation",
+        "description": "The action of taking part in something.",
+        "related_german_words": ["Teilhabe"]
+      },
+      {
+        "semantic_key": "society-politics-to_participate",
+        "description": "To take part in an action or endeavor.",
+        "related_german_words": ["teilnehmen"]
+      },
+      {
+        "semantic_key": "society-politics-commitment",
+        "description": "The state or quality of being dedicated to a cause, activity, etc.",
+        "related_german_words": ["Engagement"]
+      },
+      {
+        "semantic_key": "society-politics-to_engage",
+        "description": "To participate or become involved in something.",
+        "related_german_words": ["sich engagieren"]
+      },
+      {
+        "semantic_key": "society-politics-civil_society",
+        "description": "The aggregate of non-governmental organizations and institutions that manifest interests and will of citizens.",
+        "related_german_words": ["Zivilgesellschaft"]
+      },
+      {
+        "semantic_key": "society-politics-state_of_law",
+        "description": "A state governed by the rule of law.",
+        "related_german_words": ["Rechtsstaat"]
+      },
+      {
+        "semantic_key": "society-politics-federalism",
+        "description": "The federal principle or system of government.",
+        "related_german_words": ["Föderalismus"]
+      },
+      {
+        "semantic_key": "society-politics-globalization",
+        "description": "The process by which businesses or other organizations develop international influence or start operating on an international scale.",
+        "related_german_words": ["Globalisierung"]
+      },
+      {
+        "semantic_key": "society-politics-interest",
+        "description": "The feeling of wanting to know or learn about something or someone.",
+        "related_german_words": ["Interesse"]
+      },
+      {
+        "semantic_key": "society-politics-lobby",
+        "description": "A group of people seeking to influence politicians or public officials on a particular issue.",
+        "related_german_words": ["Lobby"]
+      },
+      {
+        "semantic_key": "society-politics-influence",
+        "description": "The capacity to have an effect on the character, development, or behavior of someone or something.",
+        "related_german_words": ["Einfluss"]
+      },
+      {
+        "semantic_key": "society-politics-to_influence",
+        "description": "To have an influence on someone or something.",
+        "related_german_words": ["beeinflussen"]
+      },
+      {
+        "semantic_key": "society-politics-responsibility",
+        "description": "The state or fact of having a duty to deal with something or of having control over someone.",
+        "related_german_words": ["Verantwortung"]
+      },
+      {
+        "semantic_key": "society-politics-responsible",
+        "description": "Having an obligation to do something, or having control over or care for someone, as part of one's job or role.",
+        "related_german_words": ["verantwortlich"]
+      },
+      {
+        "semantic_key": "society-politics-solution",
+        "description": "A means of solving a problem or dealing with a difficult situation.",
+        "related_german_words": ["Lösung"]
+      },
+      {
+        "semantic_key": "society-politics-to_solve",
+        "description": "To find an answer to, explanation for, or means of effectively dealing with (a problem or mystery).",
+        "related_german_words": ["lösen"]
+      },
+      {
+        "semantic_key": "society-politics-resources",
+        "description": "A stock or supply of money, materials, staff, and other assets that can be drawn on by a person or organization in order to function effectively.",
+        "related_german_words": ["Ressourcen"]
+      },
+      {
+        "semantic_key": "society-politics-innovation",
+        "description": "A new method, idea, product, etc.",
+        "related_german_words": ["Innovation"]
+      },
+      {
+        "semantic_key": "society-politics-perspective",
+        "description": "A particular attitude towards or way of regarding something; a point of view.",
+        "related_german_words": ["Perspektive"]
+      },
+      {
+        "semantic_key": "society-politics-era",
+        "description": "A long and distinct period of history with a particular feature or characteristic.",
+        "related_german_words": ["Ära"]
+      },
+      {
+        "semantic_key": "society-politics-political_adj",
+        "description": "Relating to the government or the public affairs of a country.",
+        "related_german_words": ["politisch"]
+      },
+      {
+        "semantic_key": "society-politics-social_adj",
+        "description": "Relating to society or its organization.",
+        "related_german_words": ["sozial"]
+      },
+      {
+        "semantic_key": "society-politics-public_adj",
+        "description": "Of or concerning the people as a whole.",
+        "related_german_words": ["öffentlich"]
+      },
+      {
+        "semantic_key": "society-politics-private_adj",
+        "description": "Belonging to or for the use of one particular person or group of people only.",
+        "related_german_words": ["privat"]
+      },
+      {
+        "semantic_key": "society-politics-official_adj",
+        "description": "Relating to an authority or public body and its duties, actions, and responsibilities.",
+        "related_german_words": ["offiziell"]
+      },
+      {
+        "semantic_key": "society-politics-legal_adj",
+        "description": "Relating to the law.",
+        "related_german_words": ["gesetzlich"]
+      },
+      {
+        "semantic_key": "society-politics-democratic_adj",
+        "description": "Relating to or supporting democracy or its principles.",
+        "related_german_words": ["demokratisch"]
+      },
+      {
+        "semantic_key": "society-politics-liberal_adj",
+        "description": "Willing to respect or accept behavior or opinions different from one's own; open to new ideas.",
+        "related_german_words": ["liberal"]
+      },
+      {
+        "semantic_key": "society-politics-conservative_adj",
+        "description": "Holding to traditional attitudes and values and cautious about change or innovation, typically in relation to politics or religion.",
+        "related_german_words": ["konservativ"]
+      },
+      {
+        "semantic_key": "society-politics-radical_adj",
+        "description": "Representing or supporting an extreme or progressive section of a political party.",
+        "related_german_words": ["radikal"]
+      },
+      {
+        "semantic_key": "society-politics-extremist_adj",
+        "description": "A person who holds extreme or fanatical political or religious views, especially one who resorts to or advocates extreme action.",
+        "related_german_words": ["extremistisch"]
+      },
+      {
+        "semantic_key": "society-politics-peaceful_adj",
+        "description": "Free from disturbance; tranquil.",
+        "related_german_words": ["friedlich"]
+      },
+      {
+        "semantic_key": "society-politics-violent_adj",
+        "description": "Using or involving physical force intended to hurt, damage, or kill someone or something.",
+        "related_german_words": ["gewalttätig"]
+      },
+      {
+        "semantic_key": "society-politics-fair_adj",
+        "description": "In accordance with the rules or standards; legitimate.",
+        "related_german_words": ["gerecht"]
+      },
+      {
+        "semantic_key": "society-politics-unfair_adj",
+        "description": "Not based on or behaving according to the principles of equality and justice.",
+        "related_german_words": ["ungerecht"]
+      },
+      {
+        "semantic_key": "society-politics-independent_adj",
+        "description": "Free from outside control; not depending on another's authority.",
+        "related_german_words": ["unabhängig"]
+      },
+      {
+        "semantic_key": "society-politics-international_adj",
+        "description": "Existing, occurring, or carried on between two or more nations.",
+        "related_german_words": ["international"]
+      },
+      {
+        "semantic_key": "society-politics-national_adj",
+        "description": "Relating to or characteristic of a nation; common to a whole nation.",
+        "related_german_words": ["national"]
+      },
+      {
+        "semantic_key": "society-politics-local_adj",
+        "description": "Relating or restricted to a particular area or one's neighborhood.",
+        "related_german_words": ["lokal"]
+      },
+      {
+        "semantic_key": "society-politics-global_adj",
+        "description": "Relating to the whole world; worldwide.",
+        "related_german_words": ["global"]
+      },
+      {
+        "semantic_key": "society-politics-corrupt_adj",
+        "description": "Having or showing a willingness to act dishonestly in return for money or personal gain.",
+        "related_german_words": ["korrupt"]
+      },
+      {
+        "semantic_key": "society-politics-modern_adj",
+        "description": "Relating to the present or recent times as opposed to the remote past.",
+        "related_german_words": ["modern"]
+      },
+      {
+        "semantic_key": "society-politics-traditional_adj",
+        "description": "Existing in or as part of a tradition; long-established.",
+        "related_german_words": ["traditionell"]
+      },
+      {
+        "semantic_key": "society-politics-progressive_adj",
+        "description": "Happening or developing gradually or in stages; step by step, specifically in political thought.",
+        "related_german_words": ["progressiv"]
+      },
+      {
+        "semantic_key": "society-politics-sustainable_adj",
+        "description": "Able to be maintained at a certain rate or level.",
+        "related_german_words": ["nachhaltig"]
+      },
+      {
+        "semantic_key": "society-politics-secular_adj",
+        "description": "Not connected with religious or spiritual matters.",
+        "related_german_words": ["säkular"]
+      },
+      {
+        "semantic_key": "society-politics-religious_adj",
+        "description": "Relating to or believing in a religion.",
+        "related_german_words": ["religiös"]
+      },
+      {
+        "semantic_key": "society-politics-multicultural_adj",
+        "description": "Relating to or constituting several cultural or ethnic groups within a society.",
+        "related_german_words": ["multikulturell"]
+      },
+      {
+        "semantic_key": "society-politics-ethical_adj",
+        "description": "Relating to moral principles or the branch of knowledge dealing with these.",
+        "related_german_words": ["ethisch"]
+      },
+      {
+        "semantic_key": "society-politics-to_discuss",
+        "description": "To talk about something with another person or group of people.",
+        "related_german_words": ["diskutieren"]
+      },
+      {
+        "semantic_key": "society-politics-to_debate",
+        "description": "To argue about a subject, especially in a formal manner.",
+        "related_german_words": ["debattieren"]
+      },
+      {
+        "semantic_key": "society-politics-to_agree_verb",
+        "description": "To have the same opinion about something; concur.",
+        "related_german_words": ["zustimmen"]
+      },
+      {
+        "semantic_key": "society-politics-to_oppose",
+        "description": "To disagree with and attempt to prevent, especially by argument.",
+        "related_german_words": ["ablehnen"]
+      },
+      {
+        "semantic_key": "society-politics-to_decide",
+        "description": "To come to a resolution in the mind as a result of consideration.",
+        "related_german_words": ["entscheiden"]
+      },
+      {
+        "semantic_key": "society-politics-to_demand",
+        "description": "To insist on having.",
+        "related_german_words": ["fordern"]
+      },
+      {
+        "semantic_key": "society-politics-to_promote",
+        "description": "To further the progress of something, especially a cause, venture, or aim; support or encourage.",
+        "related_german_words": ["fördern"]
+      },
+      {
+        "semantic_key": "society-politics-to_support_verb",
+        "description": "To give assistance to, especially financially; enable to function or act.",
+        "related_german_words": ["unterstützen"]
+      },
+      {
+        "semantic_key": "society-politics-to_criticize",
+        "description": "To indicate the faults of someone or something in a disapproving way.",
+        "related_german_words": ["kritisieren"]
+      },
+      {
+        "semantic_key": "society-politics-to_coordinate",
+        "description": "To bring the different elements of a complex activity or organization into a relationship that will ensure efficiency or harmony.",
+        "related_german_words": ["koordinieren"]
+      },
+      {
+        "semantic_key": "society-politics-to_govern_rule",
+        "description": "To exercise ultimate power or authority over an area and its people.",
+        "related_german_words": ["herrschen"]
+      },
+      {
+        "semantic_key": "society-politics-authority_person",
+        "description": "A person with the power or right to give orders, make decisions, and enforce obedience.",
+        "related_german_words": ["Vorgesetzter"]
+      },
+      {
+        "semantic_key": "society-politics-municipality",
+        "description": "A town or district that has local government.",
+        "related_german_words": ["Kommune", "Gemeinde"]
+      },
+      {
+        "semantic_key": "society-politics-federal_state",
+        "description": "A political entity characterized by a union of partially self-governing states or regions under a central government.",
+        "related_german_words": ["Bundesland"]
+      },
+      {
+        "semantic_key": "society-politics-sovereignty",
+        "description": "The authority of a state to govern itself or another state.",
+        "related_german_words": ["Souveränität"]
+      },
+      {
+        "semantic_key": "society-politics-pluralism",
+        "description": "A condition or system in which two or more states, groups, principles, sources of authority, etc., coexist.",
+        "related_german_words": ["Pluralismus"]
+      },
+      {
+        "semantic_key": "society-politics-civil_disobedience",
+        "description": "The refusal to comply with certain laws or to pay taxes and fines, as a peaceful form of political protest.",
+        "related_german_words": ["ziviler Ungehorsam"]
+      },
+      {
+        "semantic_key": "society-politics-state_of_emergency",
+        "description": "A situation in which a government is empowered to perform actions or impose policies that it would normally not be permitted to undertake.",
+        "related_german_words": ["Ausnahmezustand"]
+      },
+      {
+        "semantic_key": "society-politics-to_obey",
+        "description": "To comply with the command, direction, or request of (a person or a law); submit to the authority of.",
+        "related_german_words": ["befolgen"]
+      },
+      {
+        "semantic_key": "society-politics-to_violate",
+        "description": "To break or fail to comply with a rule or formal agreement.",
+        "related_german_words": ["verletzen"]
+      },
+      {
+        "semantic_key": "society-politics-violation",
+        "description": "The action of violating someone or something.",
+        "related_german_words": ["Verstoß", "Verletzung"]
+      },
+      {
+        "semantic_key": "society-politics-witness_legal",
+        "description": "A person who gives evidence in a court of law.",
+        "related_german_words": ["Zeuge"]
+      },
+      {
+        "semantic_key": "society-politics-to_testify",
+        "description": "To give evidence as a witness in a law court.",
+        "related_german_words": ["aussagen"]
+      },
+      {
+        "semantic_key": "society-politics-statement_legal",
+        "description": "A formal account of events given by a witness, defendant, or other party to the police or in a court.",
+        "related_german_words": ["Aussage"]
+      },
+      {
+        "semantic_key": "society-politics-to_sue",
+        "description": "To institute legal proceedings against a person or institution.",
+        "related_german_words": ["verklagen"]
+      },
+      {
+        "semantic_key": "society-politics-to_defend_legal",
+        "description": "To conduct the case for (the party being accused or sued) in a lawsuit.",
+        "related_german_words": ["verteidigen"]
+      },
+      {
+        "semantic_key": "society-politics-to_accuse",
+        "description": "To charge (someone) with an offense or crime.",
+        "related_german_words": ["anklagen"]
+      },
+      {
+        "semantic_key": "society-politics-accusation",
+        "description": "A charge or claim that someone has done something illegal or wrong.",
+        "related_german_words": ["Anklage"]
+      },
+      {
+        "semantic_key": "society-politics-innocent",
+        "description": "Not guilty of a crime or offense.",
+        "related_german_words": ["unschuldig"]
+      },
+      {
+        "semantic_key": "society-politics-guilty",
+        "description": "Culpable of or responsible for a specified wrongdoing.",
+        "related_german_words": ["schuldig"]
+      },
+      {
+        "semantic_key": "society-politics-to_pardon",
+        "description": "To release (a person) from the legal consequences of an offense or conviction, and often implicitly from blame.",
+        "related_german_words": ["begnadigen"]
+      },
+      {
+        "semantic_key": "society-politics-pardon_noun",
+        "description": "The action of forgiving or being forgiven for an error or offense.",
+        "related_german_words": ["Begnadigung"]
+      },
+      {
+        "semantic_key": "society-politics-parliamentary_group",
+        "description": "A group of members of parliament belonging to the same party.",
+        "related_german_words": ["Fraktion"]
+      },
+      {
+        "semantic_key": "society-politics-petition",
+        "description": "A formal written request, typically one signed by many people, appealing to authority with respect to a particular cause.",
+        "related_german_words": ["Petition"]
+      },
+      {
+        "semantic_key": "society-politics-referendum",
+        "description": "A general vote by the electorate on a single political question which has been referred to them for a direct decision.",
+        "related_german_words": ["Volksentscheid"]
+      },
+      {
+        "semantic_key": "society-politics-legislation",
+        "description": "Laws, considered collectively.",
+        "related_german_words": ["Gesetzgebung"]
+      },
+      {
+        "semantic_key": "society-politics-legal_force",
+        "description": "The state of a law or agreement being valid and enforceable.",
+        "related_german_words": ["Rechtskraft"]
+      },
+      {
+        "semantic_key": "society-politics-to_ratify",
+        "description": "To sign or give formal consent to (a treaty, contract, or agreement), making it officially valid.",
+        "related_german_words": ["ratifizieren"]
+      },
+      {
+        "semantic_key": "society-politics-ratification",
+        "description": "The action of signing or giving formal consent to a treaty, contract, or agreement, making it officially valid.",
+        "related_german_words": ["Ratifizierung"]
+      },
+      {
+        "semantic_key": "society-politics-to_veto",
+        "description": "To exercise a veto against (a decision or proposal).",
+        "related_german_words": ["Veto einlegen"]
+      },
+      {
+        "semantic_key": "society-politics-veto_noun",
+        "description": "A constitutional right to reject a decision or proposal made by a law-making body.",
+        "related_german_words": ["Veto"]
+      },
+      {
+        "semantic_key": "society-politics-official_duty",
+        "description": "A task or action that someone is required to perform as part of their job, especially for the state.",
+        "related_german_words": ["Amtspflicht"]
+      },
+      {
+        "semantic_key": "society-politics-to_resign",
+        "description": "To voluntarily leave a job or other position.",
+        "related_german_words": ["zurücktreten"]
+      },
+      {
+        "semantic_key": "society-politics-resignation",
+        "description": "An act of retiring or giving up a position.",
+        "related_german_words": ["Rücktritt"]
+      },
+      {
+        "semantic_key": "society-politics-head_of_state",
+        "description": "The public representative of a country who may also be the head of government.",
+        "related_german_words": ["Staatsoberhaupt"]
+      },
+      {
+        "semantic_key": "society-politics-legislative_period",
+        "description": "The period of time for which a parliament is elected.",
+        "related_german_words": ["Legislaturperiode"]
+      }
+    ]
+  }
+]

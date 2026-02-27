@@ -2,16 +2,17 @@ I am building a relational database for a professional German-learning applicati
 
 I have attached a JSON file containing seed data for a specific category. This data uses a strict "Semantic Anchor" architecture. 
 
-Your task is to act as a Senior Data Engineer and Linguist. You will analyze the attached JSON file and generate [INSERT NUMBER] completely NEW, highly relevant, and modern concepts for the SAME `category_slug`. 
+Your task is to act as a Senior Data Engineer and Linguist. You will analyze the attached JSON file and generate 250 completely NEW, highly relevant, and modern concepts for the SAME `category_slug`. 
 
 You MUST obey these strict architectural rules:
 
-1. The "Golden Rule of Concepts": A Concept represents a single, atomic mental image. If the Farsi translation would change, or if the nuance is distinctly different (e.g., "First Name" vs. "Last Name"), you MUST create separate concept blocks. Do not group them.
-2. `semantic_key`: Must be formatted as `category_slug-concept_name` (e.g., `identity-hobby`). It must be unique and immutable.
-3. `related_german_words` Array: 
-   - The FIRST word in the array is the Primary Word that learners must know.
-   - Any subsequent words in the array must be EXACT SYNONYMS of the Primary Word. 
-   - Do NOT include words that are merely "related" (e.g., do not put "Auto" and "Reifen" (Tire) in the same array). 
-   - Do not include archaic, overly academic, or useless words.
-4. The "No Regurgitation" Rule: Do NOT output the concepts that are already in the uploaded JSON file. I already have them. Your output must consist EXCLUSIVELY of brand new concepts that do not exist in the provided file.
-5. Output Format: Return ONLY a raw JSON array matching the exact structure of the uploaded file. Do not wrap it in explanations or markdown text outside the code block.
+1. The "Golden Rule of Concepts": A Concept represents a single, atomic mental image. If the Farsi translation would change, or if the nuance is distinctly different, you MUST create separate concept blocks. 
+2. Strict Atomicity (NO PHRASES): Generate ONLY single words or reflexive verbs (e.g., "sich vorstellen"). Do NOT generate sentences, greetings, or multi-word phrases (e.g., No "Guten Morgen", No "Wie geht es dir", No "Ich bin"). Every `related_german_words` entry must be a dictionary-level headword.
+3. `semantic_key`: Must be formatted as `category_slug-concept_name`. It must be unique and immutable.
+4. `related_german_words` Array: 
+   - The FIRST word in the array is the Primary Word.
+   - Subsequent words MUST be EXACT SYNONYMS. 
+   - Nouns must be capitalized (e.g., "Mensch"). Verbs/Adjectives must be lowercase (e.g., "menschlich").
+5. Part of Speech Diversity: Provide a realistic mix of Nouns, Verbs, and Adjectives.
+6. The "No Regurgitation" Rule: Do NOT output concepts already in the uploaded JSON file.
+7. Output Format: Return ONLY a raw JSON array. No explanations. No markdown prose.

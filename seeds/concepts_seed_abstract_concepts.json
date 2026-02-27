@@ -1,0 +1,1712 @@
+[
+  {
+    "category_slug": "abstract-concepts",
+    "concepts": [
+      {
+        "semantic_key": "abstract-concepts-freedom",
+        "description": "The state of being free; liberty and autonomy.",
+        "related_german_words": ["Freiheit"]
+      },
+      {
+        "semantic_key": "abstract-concepts-justice",
+        "description": "The quality of being fair and reasonable; judicial fairness.",
+        "related_german_words": ["Gerechtigkeit"]
+      },
+      {
+        "semantic_key": "abstract-concepts-responsibility",
+        "description": "The state of being accountable for something.",
+        "related_german_words": ["Verantwortung"]
+      },
+      {
+        "semantic_key": "abstract-concepts-truth",
+        "description": "That which is true or in accordance with fact or reality.",
+        "related_german_words": ["Wahrheit"]
+      },
+      {
+        "semantic_key": "abstract-concepts-lie",
+        "description": "An intentional false statement.",
+        "related_german_words": ["Lüge"]
+      },
+      {
+        "semantic_key": "abstract-concepts-peace",
+        "description": "Freedom from disturbance; tranquility.",
+        "related_german_words": ["Frieden"]
+      },
+      {
+        "semantic_key": "abstract-concepts-war",
+        "description": "A state of armed conflict between different nations or states.",
+        "related_german_words": ["Krieg"]
+      },
+      {
+        "semantic_key": "abstract-concepts-power",
+        "description": "The capacity or ability to direct or influence the behavior of others.",
+        "related_german_words": ["Macht"]
+      },
+      {
+        "semantic_key": "abstract-concepts-honor",
+        "description": "High respect; great esteem.",
+        "related_german_words": ["Ehre"]
+      },
+      {
+        "semantic_key": "abstract-concepts-pride",
+        "description": "A feeling of deep pleasure or satisfaction derived from one's own achievements.",
+        "related_german_words": ["Stolz"]
+      },
+      {
+        "semantic_key": "abstract-concepts-hope",
+        "description": "A feeling of expectation and desire for a certain thing to happen.",
+        "related_german_words": ["Hoffnung"]
+      },
+      {
+        "semantic_key": "abstract-concepts-doubt",
+        "description": "A feeling of uncertainty or lack of conviction.",
+        "related_german_words": ["Zweifel"]
+      },
+      {
+        "semantic_key": "abstract-concepts-success",
+        "description": "The accomplishment of an aim or purpose.",
+        "related_german_words": ["Erfolg"]
+      },
+      {
+        "semantic_key": "abstract-concepts-failure",
+        "description": "Lack of success.",
+        "related_german_words": ["Misserfolg", "Scheitern"]
+      },
+      {
+        "semantic_key": "abstract-concepts-risk",
+        "description": "A situation involving exposure to danger.",
+        "related_german_words": ["Risiko"]
+      },
+      {
+        "semantic_key": "abstract-concepts-chance",
+        "description": "A possibility of something happening.",
+        "related_german_words": ["Chance", "Möglichkeit"]
+      },
+      {
+        "semantic_key": "abstract-concepts-luck",
+        "description": "Success or failure apparently brought by chance rather than through one's own actions.",
+        "related_german_words": ["Glück"]
+      },
+      {
+        "semantic_key": "abstract-concepts-misfortune",
+        "description": "Bad luck; an unfortunate state.",
+        "related_german_words": ["Unglück"]
+      },
+      {
+        "semantic_key": "abstract-concepts-fate",
+        "description": "The development of events beyond a person's control, regarded as determined by a supernatural power.",
+        "related_german_words": ["Schicksal"]
+      },
+      {
+        "semantic_key": "abstract-concepts-coincidence",
+        "description": "A remarkable concurrence of events or circumstances without apparent causal connection.",
+        "related_german_words": ["Zufall"]
+      },
+      {
+        "semantic_key": "abstract-concepts-meaning",
+        "description": "The significance or importance of something.",
+        "related_german_words": ["Sinn"]
+      },
+      {
+        "semantic_key": "abstract-concepts-purpose",
+        "description": "The reason for which something is done or created.",
+        "related_german_words": ["Zweck"]
+      },
+      {
+        "semantic_key": "abstract-concepts-goal",
+        "description": "The object of a person's ambition or effort; an aim or desired result.",
+        "related_german_words": ["Ziel"]
+      },
+      {
+        "semantic_key": "abstract-concepts-dream",
+        "description": "A cherished aspiration, ambition, or ideal.",
+        "related_german_words": ["Traum"]
+      },
+      {
+        "semantic_key": "abstract-concepts-reality",
+        "description": "The world or the state of things as they actually exist.",
+        "related_german_words": ["Wirklichkeit", "Realität"]
+      },
+      {
+        "semantic_key": "abstract-concepts-illusion",
+        "description": "A false idea or belief.",
+        "related_german_words": ["Illusion"]
+      },
+      {
+        "semantic_key": "abstract-concepts-logic",
+        "description": "Reasoning conducted or assessed according to strict principles of validity.",
+        "related_german_words": ["Logik"]
+      },
+      {
+        "semantic_key": "abstract-concepts-reason",
+        "description": "The power of the mind to think, understand, and form judgments by a process of logic.",
+        "related_german_words": ["Vernunft"]
+      },
+      {
+        "semantic_key": "abstract-concepts-emotion",
+        "description": "A strong feeling deriving from one's circumstances, mood, or relationships.",
+        "related_german_words": ["Emotion"]
+      },
+      {
+        "semantic_key": "abstract-concepts-feeling",
+        "description": "An emotional state or reaction.",
+        "related_german_words": ["Gefühl"]
+      },
+      {
+        "semantic_key": "abstract-concepts-patience",
+        "description": "The capacity to accept or tolerate delay, trouble, or suffering.",
+        "related_german_words": ["Geduld"]
+      },
+      {
+        "semantic_key": "abstract-concepts-courage",
+        "description": "The ability to do something that frightens one.",
+        "related_german_words": ["Mut"]
+      },
+      {
+        "semantic_key": "abstract-concepts-fear",
+        "description": "An unpleasant emotion caused by the belief that someone or something is dangerous.",
+        "related_german_words": ["Angst"]
+      },
+      {
+        "semantic_key": "abstract-concepts-love",
+        "description": "An intense feeling of deep affection.",
+        "related_german_words": ["Liebe"]
+      },
+      {
+        "semantic_key": "abstract-concepts-hate",
+        "description": "Intense hostility and aversion.",
+        "related_german_words": ["Hass"]
+      },
+      {
+        "semantic_key": "abstract-concepts-envy",
+        "description": "A feeling of discontented or resentful longing aroused by someone else's possessions or qualities.",
+        "related_german_words": ["Neid"]
+      },
+      {
+        "semantic_key": "abstract-concepts-jealousy",
+        "description": "Envy of someone or their achievements and advantages.",
+        "related_german_words": ["Eifersucht"]
+      },
+      {
+        "semantic_key": "abstract-concepts-pity",
+        "description": "The feeling of sorrow and compassion caused by the suffering and misfortunes of others.",
+        "related_german_words": ["Mitleid"]
+      },
+      {
+        "semantic_key": "abstract-concepts-respect",
+        "description": "A feeling of deep admiration for someone or something elicited by their abilities or qualities.",
+        "related_german_words": ["Respekt", "Achtung"]
+      },
+      {
+        "semantic_key": "abstract-concepts-trust",
+        "description": "Firm belief in the reliability, truth, ability, or strength of someone or something.",
+        "related_german_words": ["Vertrauen"]
+      },
+      {
+        "semantic_key": "abstract-concepts-knowledge",
+        "description": "Facts, information, and skills acquired by a person through experience or education.",
+        "related_german_words": ["Wissen"]
+      },
+      {
+        "semantic_key": "abstract-concepts-ignorance",
+        "description": "Lack of knowledge or information.",
+        "related_german_words": ["Unwissenheit"]
+      },
+      {
+        "semantic_key": "abstract-concepts-wisdom",
+        "description": "The quality of having experience, knowledge, and good judgment.",
+        "related_german_words": ["Weisheit"]
+      },
+      {
+        "semantic_key": "abstract-concepts-stupidity",
+        "description": "Behavior that shows a lack of good sense or judgment.",
+        "related_german_words": ["Dummheit"]
+      },
+      {
+        "semantic_key": "abstract-concepts-education",
+        "description": "The process of receiving or giving systematic instruction.",
+        "related_german_words": ["Bildung"]
+      },
+      {
+        "semantic_key": "abstract-concepts-experience",
+        "description": "Practical contact with and observation of facts or events.",
+        "related_german_words": ["Erfahrung"]
+      },
+      {
+        "semantic_key": "abstract-concepts-talent",
+        "description": "Natural aptitude or skill.",
+        "related_german_words": ["Talent", "Begabung"]
+      },
+      {
+        "semantic_key": "abstract-concepts-genius",
+        "description": "Exceptional intellectual or creative power or other natural ability.",
+        "related_german_words": ["Genie"]
+      },
+      {
+        "semantic_key": "abstract-concepts-art",
+        "description": "The expression or application of human creative skill and imagination.",
+        "related_german_words": ["Kunst"]
+      },
+      {
+        "semantic_key": "abstract-concepts-culture",
+        "description": "The arts and other manifestations of human intellectual achievement regarded collectively.",
+        "related_german_words": ["Kultur"]
+      },
+      {
+        "semantic_key": "abstract-concepts-time",
+        "description": "The indefinite continued progress of existence and events in the past, present, and future.",
+        "related_german_words": ["Zeit"]
+      },
+      {
+        "semantic_key": "abstract-concepts-eternity",
+        "description": "Infinite or unending time.",
+        "related_german_words": ["Ewigkeit"]
+      },
+      {
+        "semantic_key": "abstract-concepts-past",
+        "description": "The time or a period of time before the moment of speaking or writing.",
+        "related_german_words": ["Vergangenheit"]
+      },
+      {
+        "semantic_key": "abstract-concepts-present",
+        "description": "The period of time now occurring.",
+        "related_german_words": ["Gegenwart"]
+      },
+      {
+        "semantic_key": "abstract-concepts-future",
+        "description": "The time or a period of time following the moment of speaking or writing.",
+        "related_german_words": ["Zukunft"]
+      },
+      {
+        "semantic_key": "abstract-concepts-moment",
+        "description": "A very brief period of time.",
+        "related_german_words": ["Moment", "Augenblick"]
+      },
+      {
+        "semantic_key": "abstract-concepts-duration",
+        "description": "The time during which something continues.",
+        "related_german_words": ["Dauer"]
+      },
+      {
+        "semantic_key": "abstract-concepts-speed",
+        "description": "The rate at which someone or something is able to move or operate.",
+        "related_german_words": ["Geschwindigkeit"]
+      },
+      {
+        "semantic_key": "abstract-concepts-rhythm",
+        "description": "A strong, regular, repeated pattern of movement or sound.",
+        "related_german_words": ["Rhythmus"]
+      },
+      {
+        "semantic_key": "abstract-concepts-tempo",
+        "description": "The speed at which a passage of music is or should be played.",
+        "related_german_words": ["Takt", "Tempo"]
+      },
+      {
+        "semantic_key": "abstract-concepts-space",
+        "description": "A continuous area or expanse which is free, available, or unoccupied.",
+        "related_german_words": ["Raum"]
+      },
+      {
+        "semantic_key": "abstract-concepts-infinity",
+        "description": "The state or quality of being infinite.",
+        "related_german_words": ["Unendlichkeit"]
+      },
+      {
+        "semantic_key": "abstract-concepts-distance",
+        "description": "An amount of space between two things or people.",
+        "related_german_words": ["Ferne", "Distanz"]
+      },
+      {
+        "semantic_key": "abstract-concepts-proximity",
+        "description": "Nearness in space, time, or relationship.",
+        "related_german_words": ["Nähe"]
+      },
+      {
+        "semantic_key": "abstract-concepts-depth",
+        "description": "The distance from the top or surface to the bottom of something.",
+        "related_german_words": ["Tiefe"]
+      },
+      {
+        "semantic_key": "abstract-concepts-height",
+        "description": "The measurement from base to top.",
+        "related_german_words": ["Höhe"]
+      },
+      {
+        "semantic_key": "abstract-concepts-width",
+        "description": "The measurement or extent of something from side to side.",
+        "related_german_words": ["Breite"]
+      },
+      {
+        "semantic_key": "abstract-concepts-boundary",
+        "description": "A line that marks the limits of an area.",
+        "related_german_words": ["Grenze"]
+      },
+      {
+        "semantic_key": "abstract-concepts-vastness",
+        "description": "Great extent or quantity; immensity.",
+        "related_german_words": ["Weite"]
+      },
+      {
+        "semantic_key": "abstract-concepts-emptiness",
+        "description": "The state of containing nothing.",
+        "related_german_words": ["Leere"]
+      },
+      {
+        "semantic_key": "abstract-concepts-nature",
+        "description": "The phenomena of the physical world collectively.",
+        "related_german_words": ["Natur"]
+      },
+      {
+        "semantic_key": "abstract-concepts-spirit",
+        "description": "The non-physical part of a person which is the seat of emotions and character.",
+        "related_german_words": ["Geist"]
+      },
+      {
+        "semantic_key": "abstract-concepts-matter",
+        "description": "Physical substance in general, as distinct from mind and spirit.",
+        "related_german_words": ["Materie"]
+      },
+      {
+        "semantic_key": "abstract-concepts-energy",
+        "description": "Power derived from the utilization of physical or chemical resources.",
+        "related_german_words": ["Energie"]
+      },
+      {
+        "semantic_key": "abstract-concepts-light",
+        "description": "The natural agent that stimulates sight and makes things visible.",
+        "related_german_words": ["Licht"]
+      },
+      {
+        "semantic_key": "abstract-concepts-shadow",
+        "description": "A dark area or shape produced by a body coming between rays of light and a surface.",
+        "related_german_words": ["Schatten"]
+      },
+      {
+        "semantic_key": "abstract-concepts-chaos",
+        "description": "Complete disorder and confusion.",
+        "related_german_words": ["Chaos"]
+      },
+      {
+        "semantic_key": "abstract-concepts-order",
+        "description": "The arrangement or disposition of people or things in relation to each other.",
+        "related_german_words": ["Ordnung"]
+      },
+      {
+        "semantic_key": "abstract-concepts-structure",
+        "description": "The arrangement of and relations between the parts or elements of something complex.",
+        "related_german_words": ["Struktur"]
+      },
+      {
+        "semantic_key": "abstract-concepts-system",
+        "description": "A set of things working together as parts of a mechanism or an interconnecting network.",
+        "related_german_words": ["System"]
+      },
+      {
+        "semantic_key": "abstract-concepts-life",
+        "description": "The condition that distinguishes animals and plants from inorganic matter.",
+        "related_german_words": ["Leben"]
+      },
+      {
+        "semantic_key": "abstract-concepts-death",
+        "description": "The action or fact of dying or being killed; the end of the life of a person or organism.",
+        "related_german_words": ["Tod"]
+      },
+      {
+        "semantic_key": "abstract-concepts-birth",
+        "description": "The emergence of a young from the body of its mother; the start of life.",
+        "related_german_words": ["Geburt"]
+      },
+      {
+        "semantic_key": "abstract-concepts-age",
+        "description": "The length of time that a person has lived or a thing has existed.",
+        "related_german_words": ["Alter"]
+      },
+      {
+        "semantic_key": "abstract-concepts-youth",
+        "description": "The period between childhood and adult age.",
+        "related_german_words": ["Jugend"]
+      },
+      {
+        "semantic_key": "abstract-concepts-health",
+        "description": "The state of being free from illness or injury.",
+        "related_german_words": ["Gesundheit"]
+      },
+      {
+        "semantic_key": "abstract-concepts-illness",
+        "description": "A disease or period of sickness affecting the body or mind.",
+        "related_german_words": ["Krankheit"]
+      },
+      {
+        "semantic_key": "abstract-concepts-pain",
+        "description": "Physical suffering or discomfort caused by illness or injury.",
+        "related_german_words": ["Schmerz"]
+      },
+      {
+        "semantic_key": "abstract-concepts-healing",
+        "description": "The process of making or becoming sound or healthy again.",
+        "related_german_words": ["Heilung"]
+      },
+      {
+        "semantic_key": "abstract-concepts-sleep",
+        "description": "A condition of body and mind that typically recurs for several hours every night.",
+        "related_german_words": ["Schlaf"]
+      },
+      {
+        "semantic_key": "abstract-concepts-beauty",
+        "description": "A combination of qualities, such as shape, color, or form, that pleases the aesthetic senses.",
+        "related_german_words": ["Schönheit"]
+      },
+      {
+        "semantic_key": "abstract-concepts-ugliness",
+        "description": "The quality of being unpleasant or repulsive in appearance.",
+        "related_german_words": ["Hässlichkeit"]
+      },
+      {
+        "semantic_key": "abstract-concepts-perfection",
+        "description": "The state or quality of being perfect.",
+        "related_german_words": ["Perfektion"]
+      },
+      {
+        "semantic_key": "abstract-concepts-error",
+        "description": "A mistake.",
+        "related_german_words": ["Fehler"]
+      },
+      {
+        "semantic_key": "abstract-concepts-form",
+        "description": "The visible shape or configuration of something.",
+        "related_german_words": ["Form"]
+      },
+      {
+        "semantic_key": "abstract-concepts-content",
+        "description": "The subjects or topics covered in a book or document.",
+        "related_german_words": ["Inhalt"]
+      },
+      {
+        "semantic_key": "abstract-concepts-quality",
+        "description": "The standard of something as measured against other things of a similar kind.",
+        "related_german_words": ["Qualität"]
+      },
+      {
+        "semantic_key": "abstract-concepts-quantity",
+        "description": "The amount or number of a material or immaterial thing.",
+        "related_german_words": ["Quantität"]
+      },
+      {
+        "semantic_key": "abstract-concepts-value",
+        "description": "The regard that something is held to deserve; the importance, worth, or usefulness of something.",
+        "related_german_words": ["Wert"]
+      },
+      {
+        "semantic_key": "abstract-concepts-price",
+        "description": "The amount of money expected, required, or given in payment for something.",
+        "related_german_words": ["Preis"]
+      },
+      {
+        "semantic_key": "abstract-concepts-work",
+        "description": "Activity involving mental or physical effort done in order to achieve a purpose or result.",
+        "related_german_words": ["Arbeit"]
+      },
+      {
+        "semantic_key": "abstract-concepts-leisure",
+        "description": "Time when one is not working or occupied; free time.",
+        "related_german_words": ["Freizeit"]
+      },
+      {
+        "semantic_key": "abstract-concepts-duty",
+        "description": "A moral or legal obligation; a responsibility.",
+        "related_german_words": ["Pflicht"]
+      },
+      {
+        "semantic_key": "abstract-concepts-right",
+        "description": "A moral or legal entitlement to have or do something.",
+        "related_german_words": ["Recht"]
+      },
+      {
+        "semantic_key": "abstract-concepts-law",
+        "description": "The system of rules which a particular country or community recognizes as regulating the actions of its members.",
+        "related_german_words": ["Gesetz"]
+      },
+      {
+        "semantic_key": "abstract-concepts-rule",
+        "description": "One of a set of explicit or understood regulations or principles.",
+        "related_german_words": ["Regel"]
+      },
+      {
+        "semantic_key": "abstract-concepts-norm",
+        "description": "Something that is usual, typical, or standard.",
+        "related_german_words": ["Norm"]
+      },
+      {
+        "semantic_key": "abstract-concepts-moral",
+        "description": "Concerned with the principles of right and wrong behavior.",
+        "related_german_words": ["Moral"]
+      },
+      {
+        "semantic_key": "abstract-concepts-ethics",
+        "description": "Moral principles that govern a person's behavior or the conducting of an activity.",
+        "related_german_words": ["Ethik"]
+      },
+      {
+        "semantic_key": "abstract-concepts-conscience",
+        "description": "A person's moral sense of right and wrong.",
+        "related_german_words": ["Gewissen"]
+      },
+      {
+        "semantic_key": "abstract-concepts-religion",
+        "description": "The belief in and worship of a superhuman controlling power.",
+        "related_german_words": ["Religion"]
+      },
+      {
+        "semantic_key": "abstract-concepts-belief",
+        "description": "An acceptance that a statement is true or that something exists.",
+        "related_german_words": ["Glaube"]
+      },
+      {
+        "semantic_key": "abstract-concepts-god",
+        "description": "The creator and ruler of the universe and source of all moral authority.",
+        "related_german_words": ["Gott"]
+      },
+      {
+        "semantic_key": "abstract-concepts-soul",
+        "description": "The spiritual or immaterial part of a human being or animal.",
+        "related_german_words": ["Seele"]
+      },
+      {
+        "semantic_key": "abstract-concepts-miracle",
+        "description": "A surprising and welcome event that is not explicable by natural or scientific laws.",
+        "related_german_words": ["Wunder"]
+      },
+      {
+        "semantic_key": "abstract-concepts-prayer",
+        "description": "A solemn request for help or expression of thanks addressed to God.",
+        "related_german_words": ["Gebet"]
+      },
+      {
+        "semantic_key": "abstract-concepts-ritual",
+        "description": "A religious or solemn ceremony consisting of a series of actions performed according to a prescribed order.",
+        "related_german_words": ["Ritual"]
+      },
+      {
+        "semantic_key": "abstract-concepts-sacrament",
+        "description": "A religious ceremony or act of the Christian Church that is regarded as an outward and visible sign of inward and spiritual divine grace.",
+        "related_german_words": ["Sakrament"]
+      },
+      {
+        "semantic_key": "abstract-concepts-salvation",
+        "description": "Deliverance from sin and its consequences.",
+        "related_german_words": ["Erlösung"]
+      },
+      {
+        "semantic_key": "abstract-concepts-forgiveness",
+        "description": "The action or process of forgiving or being forgiven.",
+        "related_german_words": ["Vergebung"]
+      },
+      {
+        "semantic_key": "abstract-concepts-politics",
+        "description": "The activities associated with the governance of a country or area.",
+        "related_german_words": ["Politik"]
+      },
+      {
+        "semantic_key": "abstract-concepts-state",
+        "description": "A nation or territory considered as an organized political community under one government.",
+        "related_german_words": ["Staat"]
+      },
+      {
+        "semantic_key": "abstract-concepts-society",
+        "description": "The aggregate of people living together in a more or less ordered community.",
+        "related_german_words": ["Gesellschaft"]
+      },
+      {
+        "semantic_key": "abstract-concepts-people",
+        "description": "The members of a particular nation, community, or ethnic group.",
+        "related_german_words": ["Volk"]
+      },
+      {
+        "semantic_key": "abstract-concepts-nation",
+        "description": "A large body of people united by common descent, history, culture, or language.",
+        "related_german_words": ["Nation"]
+      },
+      {
+        "semantic_key": "abstract-concepts-homeland",
+        "description": "A person's native land.",
+        "related_german_words": ["Heimat"]
+      },
+      {
+        "semantic_key": "abstract-concepts-foreign-land",
+        "description": "A country other than one's own.",
+        "related_german_words": ["Fremde"]
+      },
+      {
+        "semantic_key": "abstract-concepts-equality",
+        "description": "The state of being equal, especially in status, rights, and opportunities.",
+        "related_german_words": ["Gleichheit"]
+      },
+      {
+        "semantic_key": "abstract-concepts-democracy",
+        "description": "A system of government by the whole population or all the eligible members of a state.",
+        "related_german_words": ["Demokratie"]
+      },
+      {
+        "semantic_key": "abstract-concepts-dictatorship",
+        "description": "Government by a dictator.",
+        "related_german_words": ["Diktatur"]
+      },
+      {
+        "semantic_key": "abstract-concepts-economy",
+        "description": "The wealth and resources of a country or region.",
+        "related_german_words": ["Wirtschaft"]
+      },
+      {
+        "semantic_key": "abstract-concepts-money",
+        "description": "A current medium of exchange in the form of coins and banknotes.",
+        "related_german_words": ["Geld"]
+      },
+      {
+        "semantic_key": "abstract-concepts-wealth",
+        "description": "An abundance of valuable possessions or money.",
+        "related_german_words": ["Reichtum"]
+      },
+      {
+        "semantic_key": "abstract-concepts-poverty",
+        "description": "The state of being extremely poor.",
+        "related_german_words": ["Armut"]
+      },
+      {
+        "semantic_key": "abstract-concepts-possession",
+        "description": "The state of having, owning, or controlling something.",
+        "related_german_words": ["Besitz"]
+      },
+      {
+        "semantic_key": "abstract-concepts-property",
+        "description": "A thing or things belonging to someone.",
+        "related_german_words": ["Eigentum"]
+      },
+      {
+        "semantic_key": "abstract-concepts-trade",
+        "description": "The action of buying and selling goods and services.",
+        "related_german_words": ["Handel"]
+      },
+      {
+        "semantic_key": "abstract-concepts-market",
+        "description": "An area or arena in which commercial dealings are conducted.",
+        "related_german_words": ["Markt"]
+      },
+      {
+        "semantic_key": "abstract-concepts-competition",
+        "description": "The activity or condition of competing.",
+        "related_german_words": ["Konkurrenz"]
+      },
+      {
+        "semantic_key": "abstract-concepts-crisis",
+        "description": "A time of intense difficulty, trouble, or danger.",
+        "related_german_words": ["Krise"]
+      },
+      {
+        "semantic_key": "abstract-concepts-communication",
+        "description": "The imparting or exchanging of information or news.",
+        "related_german_words": ["Kommunikation"]
+      },
+      {
+        "semantic_key": "abstract-concepts-language",
+        "description": "The method of human communication.",
+        "related_german_words": ["Sprache"]
+      },
+      {
+        "semantic_key": "abstract-concepts-word",
+        "description": "A single distinct meaningful element of speech or writing.",
+        "related_german_words": ["Wort"]
+      },
+      {
+        "semantic_key": "abstract-concepts-sentence",
+        "description": "A set of words that is complete in itself.",
+        "related_german_words": ["Satz"]
+      },
+      {
+        "semantic_key": "abstract-concepts-conversation",
+        "description": "A talk, especially an informal one, between two or more people.",
+        "related_german_words": ["Gespräch"]
+      },
+      {
+        "semantic_key": "abstract-concepts-dialogue",
+        "description": "Conversation between two or more people as a feature of a book, play, or movie.",
+        "related_german_words": ["Dialog"]
+      },
+      {
+        "semantic_key": "abstract-concepts-discussion",
+        "description": "The action or process of talking about something in order to reach a decision or to exchange ideas.",
+        "related_german_words": ["Diskussion"]
+      },
+      {
+        "semantic_key": "abstract-concepts-criticism",
+        "description": "The expression of disapproval of someone or something based on perceived faults or mistakes.",
+        "related_german_words": ["Kritik"]
+      },
+      {
+        "semantic_key": "abstract-concepts-praise",
+        "description": "The expression of approval or admiration for someone or something.",
+        "related_german_words": ["Lob"]
+      },
+      {
+        "semantic_key": "abstract-concepts-conflict",
+        "description": "A serious disagreement or argument.",
+        "related_german_words": ["Streit", "Konflikt"]
+      },
+      {
+        "semantic_key": "abstract-concepts-science",
+        "description": "The intellectual and practical activity encompassing the systematic study of the structure and behavior of the physical and natural world.",
+        "related_german_words": ["Wissenschaft"]
+      },
+      {
+        "semantic_key": "abstract-concepts-research",
+        "description": "The systematic investigation into and study of materials and sources in order to establish facts and reach new conclusions.",
+        "related_german_words": ["Forschung"]
+      },
+      {
+        "semantic_key": "abstract-concepts-discovery",
+        "description": "The action or process of discovering or being discovered.",
+        "related_german_words": ["Entdeckung"]
+      },
+      {
+        "semantic_key": "abstract-concepts-invention",
+        "description": "The action of inventing something, typically a process or device.",
+        "related_german_words": ["Erfindung"]
+      },
+      {
+        "semantic_key": "abstract-concepts-theory",
+        "description": "A supposition or a system of ideas intended to explain something.",
+        "related_german_words": ["Theorie"]
+      },
+      {
+        "semantic_key": "abstract-concepts-proof",
+        "description": "Evidence or argument establishing or helping to establish a fact or the truth of a statement.",
+        "related_german_words": ["Beweis"]
+      },
+      {
+        "semantic_key": "abstract-concepts-hypothesis",
+        "description": "A proposed explanation made on the basis of limited evidence as a starting point for further investigation.",
+        "related_german_words": ["Hypothese"]
+      },
+      {
+        "semantic_key": "abstract-concepts-analysis",
+        "description": "Detailed examination of the elements or structure of something.",
+        "related_german_words": ["Analyse"]
+      },
+      {
+        "semantic_key": "abstract-concepts-method",
+        "description": "A particular procedure for accomplishing or approaching something.",
+        "related_german_words": ["Methode"]
+      },
+      {
+        "semantic_key": "abstract-concepts-technology",
+        "description": "The application of scientific knowledge for practical purposes.",
+        "related_german_words": ["Technik", "Technologie"]
+      },
+      {
+        "semantic_key": "abstract-concepts-progress",
+        "description": "Forward or onward movement towards a destination or a better condition.",
+        "related_german_words": ["Fortschritt"]
+      },
+      {
+        "semantic_key": "abstract-concepts-innovation",
+        "description": "The action or process of innovating.",
+        "related_german_words": ["Innovation"]
+      },
+      {
+        "semantic_key": "abstract-concepts-machine",
+        "description": "An apparatus using or applying mechanical power.",
+        "related_german_words": ["Maschine"]
+      },
+      {
+        "semantic_key": "abstract-concepts-tool",
+        "description": "A device or implement used to carry out a particular function.",
+        "related_german_words": ["Werkzeug"]
+      },
+      {
+        "semantic_key": "abstract-concepts-strength",
+        "description": "The quality or state of being physically strong.",
+        "related_german_words": ["Kraft"]
+      },
+      {
+        "semantic_key": "abstract-concepts-effect",
+        "description": "A change which is a result or consequence of an action or other cause.",
+        "related_german_words": ["Wirkung", "Effekt"]
+      },
+      {
+        "semantic_key": "abstract-concepts-cause",
+        "description": "A person or thing that gives rise to an action, phenomenon, or condition.",
+        "related_german_words": ["Ursache"]
+      },
+      {
+        "semantic_key": "abstract-concepts-consequence",
+        "description": "A result or effect of an action or condition.",
+        "related_german_words": ["Folge", "Konsequenz"]
+      },
+      {
+        "semantic_key": "abstract-concepts-change",
+        "description": "The act or instance of making or becoming different.",
+        "related_german_words": ["Veränderung"]
+      },
+      {
+        "semantic_key": "abstract-concepts-standstill",
+        "description": "A situation or condition in which there is no movement or activity at all.",
+        "related_german_words": ["Stillstand"]
+      },
+      {
+        "semantic_key": "abstract-concepts-development",
+        "description": "The process of developing or being developed.",
+        "related_german_words": ["Entwicklung"]
+      },
+      {
+        "semantic_key": "abstract-concepts-evolution",
+        "description": "The gradual development of something.",
+        "related_german_words": ["Evolution"]
+      },
+      {
+        "semantic_key": "abstract-concepts-revolution",
+        "description": "A forcible overthrow of a government or social order.",
+        "related_german_words": ["Revolution"]
+      },
+      {
+        "semantic_key": "abstract-concepts-reform",
+        "description": "Make changes in order to improve it.",
+        "related_german_words": ["Reform"]
+      },
+      {
+        "semantic_key": "abstract-concepts-transformation",
+        "description": "A thorough or dramatic change in form or appearance.",
+        "related_german_words": ["Wandel", "Transformation"]
+      },
+      {
+        "semantic_key": "abstract-concepts-process",
+        "description": "A series of actions or steps taken in order to achieve a particular end.",
+        "related_german_words": ["Prozess"]
+      },
+      {
+        "semantic_key": "abstract-concepts-event",
+        "description": "A thing that happens, especially one of importance.",
+        "related_german_words": ["Ereignis"]
+      },
+      {
+        "semantic_key": "abstract-concepts-procedure",
+        "description": "An established or official way of doing something.",
+        "related_german_words": ["Ablauf"]
+      },
+      {
+        "semantic_key": "abstract-concepts-connection",
+        "description": "A relationship in which a person, thing, or idea is linked or associated with something else.",
+        "related_german_words": ["Verbindung"]
+      },
+      {
+        "semantic_key": "abstract-concepts-separation",
+        "description": "The action or state of moving or being moved apart.",
+        "related_german_words": ["Trennung"]
+      },
+      {
+        "semantic_key": "abstract-concepts-relationship",
+        "description": "The way in which two or more concepts, objects, or people are connected.",
+        "related_german_words": ["Beziehung"]
+      },
+      {
+        "semantic_key": "abstract-concepts-friendship",
+        "description": "The emotions or conduct of friends; the state of being friends.",
+        "related_german_words": ["Freundschaft"]
+      },
+      {
+        "semantic_key": "abstract-concepts-enmity",
+        "description": "The state or feeling of being actively opposed or hostile to someone or something.",
+        "related_german_words": ["Feindschaft"]
+      },
+      {
+        "semantic_key": "abstract-concepts-partnership",
+        "description": "An association of two or more people as partners.",
+        "related_german_words": ["Partnerschaft"]
+      },
+      {
+        "semantic_key": "abstract-concepts-family",
+        "description": "A group of people related by blood or marriage.",
+        "related_german_words": ["Familie"]
+      },
+      {
+        "semantic_key": "abstract-concepts-community",
+        "description": "A group of people living in the same place or having a particular characteristic in common.",
+        "related_german_words": ["Gemeinschaft"]
+      },
+      {
+        "semantic_key": "abstract-concepts-loneliness",
+        "description": "The state of being alone and feeling sad about it.",
+        "related_german_words": ["Einsamkeit"]
+      },
+      {
+        "semantic_key": "abstract-concepts-isolation",
+        "description": "The process or fact of isolating or being isolated.",
+        "related_german_words": ["Isolation"]
+      },
+      {
+        "semantic_key": "abstract-concepts-compulsion",
+        "description": "The action or state of forcing or being forced to do something.",
+        "related_german_words": ["Zwang"]
+      },
+      {
+        "semantic_key": "abstract-concepts-will",
+        "description": "The faculty by which a person decides on and initiates action.",
+        "related_german_words": ["Wille"]
+      },
+      {
+        "semantic_key": "abstract-concepts-choice",
+        "description": "An act of selecting or making a decision.",
+        "related_german_words": ["Wahl"]
+      },
+      {
+        "semantic_key": "abstract-concepts-decision",
+        "description": "A conclusion or resolution reached after consideration.",
+        "related_german_words": ["Entscheidung"]
+      },
+      {
+        "semantic_key": "abstract-concepts-action",
+        "description": "The fact or process of doing something, typically to achieve an aim.",
+        "related_german_words": ["Handlung"]
+      },
+      {
+        "semantic_key": "abstract-concepts-deed",
+        "description": "An action that is performed intentionally or consciously.",
+        "related_german_words": ["Tat"]
+      },
+      {
+        "semantic_key": "abstract-concepts-behavior",
+        "description": "The way in which one acts or conducts oneself.",
+        "related_german_words": ["Verhalten"]
+      },
+      {
+        "semantic_key": "abstract-concepts-habit",
+        "description": "A settled or regular tendency or practice.",
+        "related_german_words": ["Gewohnheit"]
+      },
+      {
+        "semantic_key": "abstract-concepts-character",
+        "description": "The mental and moral qualities distinctive to an individual.",
+        "related_german_words": ["Charakter"]
+      },
+      {
+        "semantic_key": "abstract-concepts-temperament",
+        "description": "A person's or animal's nature, especially as it permanently affects their behavior.",
+        "related_german_words": ["Temperament"]
+      },
+      {
+        "semantic_key": "abstract-concepts-identity",
+        "description": "The fact of being who or what a person or thing is.",
+        "related_german_words": ["Identität"]
+      },
+      {
+        "semantic_key": "abstract-concepts-personality",
+        "description": "The combination of characteristics or qualities that form an individual's distinctive character.",
+        "related_german_words": ["Persönlichkeit"]
+      },
+      {
+        "semantic_key": "abstract-concepts-egoism",
+        "description": "An ethical theory that treats self-interest as the foundation of morality.",
+        "related_german_words": ["Egoismus"]
+      },
+      {
+        "semantic_key": "abstract-concepts-altruism",
+        "description": "The belief in or practice of disinterested and selfless concern for the well-being of others.",
+        "related_german_words": ["Altruismus"]
+      },
+      {
+        "semantic_key": "abstract-concepts-tolerance",
+        "description": "The ability or willingness to tolerate something.",
+        "related_german_words": ["Toleranz"]
+      },
+      {
+        "semantic_key": "abstract-concepts-prejudice",
+        "description": "Preconceived opinion that is not based on reason or actual experience.",
+        "related_german_words": ["Vorurteil"]
+      },
+      {
+        "semantic_key": "abstract-concepts-discrimination",
+        "description": "The unjust or prejudicial treatment of different categories of people or things.",
+        "related_german_words": ["Diskriminierung"]
+      },
+      {
+        "semantic_key": "abstract-concepts-integration",
+        "description": "The action or process of integrating.",
+        "related_german_words": ["Integration"]
+      },
+      {
+        "semantic_key": "abstract-concepts-diversity",
+        "description": "The state of being diverse; variety.",
+        "related_german_words": ["Vielfalt"]
+      },
+      {
+        "semantic_key": "abstract-concepts-unity",
+        "description": "The state of being united or joined as a whole.",
+        "related_german_words": ["Einheit"]
+      },
+      {
+        "semantic_key": "abstract-concepts-memory",
+        "description": "The faculty by which the mind stores and remembers information.",
+        "related_german_words": ["Gedächtnis"]
+      },
+      {
+        "semantic_key": "abstract-concepts-remembrance",
+        "description": "The action of remembering something.",
+        "related_german_words": ["Erinnerung"]
+      },
+      {
+        "semantic_key": "abstract-concepts-forgetting",
+        "description": "The failure to remember.",
+        "related_german_words": ["Vergessen"]
+      },
+      {
+        "semantic_key": "abstract-concepts-fantasy",
+        "description": "The faculty or activity of imagining things.",
+        "related_german_words": ["Phantasie"]
+      },
+      {
+        "semantic_key": "abstract-concepts-creativity",
+        "description": "The use of the imagination or original ideas.",
+        "related_german_words": ["Kreativität"]
+      },
+      {
+        "semantic_key": "abstract-concepts-inspiration",
+        "description": "The process of being mentally stimulated to do or feel something.",
+        "related_german_words": ["Inspiration"]
+      },
+      {
+        "semantic_key": "abstract-concepts-intuition",
+        "description": "The ability to understand something immediately, without the need for conscious reasoning.",
+        "related_german_words": ["Intuition"]
+      },
+      {
+        "semantic_key": "abstract-concepts-instinct",
+        "description": "An innate, typically fixed pattern of behavior in animals in response to certain stimuli.",
+        "related_german_words": ["Instinkt"]
+      },
+      {
+        "semantic_key": "abstract-concepts-reflex",
+        "description": "An action that is performed as a response to a stimulus and without conscious thought.",
+        "related_german_words": ["Reflex"]
+      },
+      {
+        "semantic_key": "abstract-concepts-consciousness",
+        "description": "The state of being awake and aware of one's surroundings.",
+        "related_german_words": ["Bewusstsein"]
+      },
+      {
+        "semantic_key": "abstract-concepts-harmony",
+        "description": "The quality of forming a pleasing and consistent whole.",
+        "related_german_words": ["Harmonie"]
+      },
+      {
+        "semantic_key": "abstract-concepts-disharmony",
+        "description": "Lack of harmony or agreement.",
+        "related_german_words": ["Disharmonie"]
+      },
+      {
+        "semantic_key": "abstract-concepts-balance",
+        "description": "An even distribution of weight enabling someone or something to remain upright and steady.",
+        "related_german_words": ["Balance", "Gleichgewicht"]
+      },
+      {
+        "semantic_key": "abstract-concepts-symmetry",
+        "description": "The quality of being made up of exactly similar parts facing each other.",
+        "related_german_words": ["Symmetrie"]
+      },
+      {
+        "semantic_key": "abstract-concepts-contrast",
+        "description": "The state of being strikingly different from something else in juxtaposition or close association.",
+        "related_german_words": ["Kontrast"]
+      },
+      {
+        "semantic_key": "abstract-concepts-tension",
+        "description": "The state of being stretched tight.",
+        "related_german_words": ["Spannung"]
+      },
+      {
+        "semantic_key": "abstract-concepts-relaxation",
+        "description": "The state of being free from tension and anxiety.",
+        "related_german_words": ["Entspannung"]
+      },
+      {
+        "semantic_key": "abstract-concepts-melody",
+        "description": "A sequence of single notes that is musically satisfying.",
+        "related_german_words": ["Melodie"]
+      },
+      {
+        "semantic_key": "abstract-concepts-danger",
+        "description": "The possibility of suffering harm or injury.",
+        "related_german_words": ["Gefahr"]
+      },
+      {
+        "semantic_key": "abstract-concepts-safety",
+        "description": "The condition of being protected from or unlikely to cause danger, risk, or injury.",
+        "related_german_words": ["Sicherheit"]
+      },
+      {
+        "semantic_key": "abstract-concepts-protection",
+        "description": "A person or thing that prevents someone or something from suffering harm or injury.",
+        "related_german_words": ["Schutz"]
+      },
+      {
+        "semantic_key": "abstract-concepts-help",
+        "description": "The action of helping someone to do something.",
+        "related_german_words": ["Hilfe"]
+      },
+      {
+        "semantic_key": "abstract-concepts-support",
+        "description": "Bear all or part of the weight of; hold up.",
+        "related_german_words": ["Unterstützung"]
+      },
+      {
+        "semantic_key": "abstract-concepts-solidarity",
+        "description": "Unity or agreement of feeling or action.",
+        "related_german_words": ["Solidarität"]
+      },
+      {
+        "semantic_key": "abstract-concepts-greed",
+        "description": "Intense and selfish desire for something, especially wealth, power, or food.",
+        "related_german_words": ["Gier"]
+      },
+      {
+        "semantic_key": "abstract-concepts-modesty",
+        "description": "The quality or state of being unassuming or moderate in the estimation of one's abilities.",
+        "related_german_words": ["Bescheidenheit"]
+      },
+      {
+        "semantic_key": "abstract-concepts-humility",
+        "description": "A modest or low view of one's own importance.",
+        "related_german_words": ["Demut"]
+      },
+      {
+        "semantic_key": "abstract-concepts-arrogance",
+        "description": "The quality of being arrogant.",
+        "related_german_words": ["Arroganz"]
+      },
+      {
+        "semantic_key": "abstract-concepts-complexity",
+        "description": "The state or quality of being intricate or complex.",
+        "related_german_words": ["Komplexität"]
+      },
+      {
+        "semantic_key": "abstract-concepts-simplicity",
+        "description": "The quality or condition of being easy to understand or do.",
+        "related_german_words": ["Einfachheit"]
+      },
+      {
+        "semantic_key": "abstract-concepts-clarity",
+        "description": "The quality of being coherent and intelligible.",
+        "related_german_words": ["Klarheit"]
+      },
+      {
+        "semantic_key": "abstract-concepts-confusion",
+        "description": "Lack of understanding; uncertainty.",
+        "related_german_words": ["Verwirrung"]
+      },
+      {
+        "semantic_key": "abstract-concepts-distinctness",
+        "description": "The quality of being sharp and clear.",
+        "related_german_words": ["Deutlichkeit"]
+      },
+      {
+        "semantic_key": "abstract-concepts-ambiguity",
+        "description": "The quality of being open to more than one interpretation; inexactness.",
+        "related_german_words": ["Mehrdeutigkeit"]
+      },
+      {
+        "semantic_key": "abstract-concepts-irony",
+        "description": "The expression of one's meaning by using language that normally signifies the opposite.",
+        "related_german_words": ["Ironie"]
+      },
+      {
+        "semantic_key": "abstract-concepts-sarcasm",
+        "description": "The use of irony to mock or convey contempt.",
+        "related_german_words": ["Sarkasmus"]
+      },
+      {
+        "semantic_key": "abstract-concepts-humor",
+        "description": "The quality of being amusing or comic.",
+        "related_german_words": ["Humor"]
+      },
+      {
+        "semantic_key": "abstract-concepts-seriousness",
+        "description": "The quality of being serious.",
+        "related_german_words": ["Ernst"]
+      },
+      {
+        "semantic_key": "abstract-concepts-exist",
+        "description": "Have objective reality or being.",
+        "related_german_words": ["existieren"]
+      },
+      {
+        "semantic_key": "abstract-concepts-think",
+        "description": "Have a particular opinion, belief, or idea about someone or something.",
+        "related_german_words": ["denken"]
+      },
+      {
+        "semantic_key": "abstract-concepts-feel",
+        "description": "Experience an emotion or sensation.",
+        "related_german_words": ["fühlen"]
+      },
+      {
+        "semantic_key": "abstract-concepts-want",
+        "description": "Have a desire to possess or do something.",
+        "related_german_words": ["wollen"]
+      },
+      {
+        "semantic_key": "abstract-concepts-should",
+        "description": "Used to indicate obligation, duty, or correctness.",
+        "related_german_words": ["sollen"]
+      },
+      {
+        "semantic_key": "abstract-concepts-must",
+        "description": "Be obliged to; should.",
+        "related_german_words": ["müssen"]
+      },
+      {
+        "semantic_key": "abstract-concepts-may",
+        "description": "Used to ask for or give permission.",
+        "related_german_words": ["dürfen"]
+      },
+      {
+        "semantic_key": "abstract-concepts-can",
+        "description": "Be able to.",
+        "related_german_words": ["können"]
+      },
+      {
+        "semantic_key": "abstract-concepts-act",
+        "description": "Take action; do something.",
+        "related_german_words": ["handeln"]
+      },
+      {
+        "semantic_key": "abstract-concepts-work-verb",
+        "description": "Have an effect; be effective.",
+        "related_german_words": ["wirken"]
+      },
+      {
+        "semantic_key": "abstract-concepts-seem",
+        "description": "Give the impression or sensation of being something.",
+        "related_german_words": ["scheinen"]
+      },
+      {
+        "semantic_key": "abstract-concepts-mean-verb",
+        "description": "Intend to convey, indicate, or refer to.",
+        "related_german_words": ["bedeuten"]
+      },
+      {
+        "semantic_key": "abstract-concepts-belong",
+        "description": "Be the property of.",
+        "related_german_words": ["gehören"]
+      },
+      {
+        "semantic_key": "abstract-concepts-lack",
+        "description": "Be without or deficient in.",
+        "related_german_words": ["fehlen"]
+      },
+      {
+        "semantic_key": "abstract-concepts-stay",
+        "description": "Remain in the same place.",
+        "related_german_words": ["bleiben"]
+      },
+      {
+        "semantic_key": "abstract-concepts-become",
+        "description": "Begin to be.",
+        "related_german_words": ["werden"]
+      },
+      {
+        "semantic_key": "abstract-concepts-happen",
+        "description": "Take place; occur.",
+        "related_german_words": ["geschehen"]
+      },
+      {
+        "semantic_key": "abstract-concepts-pass",
+        "description": "Happen; occur (colloquial).",
+        "related_german_words": ["passieren"]
+      },
+      {
+        "semantic_key": "abstract-concepts-arise",
+        "description": "Emerge; become apparent.",
+        "related_german_words": ["entstehen"]
+      },
+      {
+        "semantic_key": "abstract-concepts-perish",
+        "description": "Suffer death, typically in a violent, sudden, or untimely way.",
+        "related_german_words": ["vergehen"]
+      },
+      {
+        "semantic_key": "abstract-concepts-doubt-verb",
+        "description": "Feel uncertain about.",
+        "related_german_words": ["zweifeln"]
+      },
+      {
+        "semantic_key": "abstract-concepts-hope-verb",
+        "description": "Want something to happen or be the case.",
+        "related_german_words": ["hoffen"]
+      },
+      {
+        "semantic_key": "abstract-concepts-love-verb",
+        "description": "Feel a deep romantic or sexual attachment to (someone).",
+        "related_german_words": ["lieben"]
+      },
+      {
+        "semantic_key": "abstract-concepts-hate-verb",
+        "description": "Feel intense dislike for.",
+        "related_german_words": ["hassen"]
+      },
+      {
+        "semantic_key": "abstract-concepts-believe-verb",
+        "description": "Accept (something) as true.",
+        "related_german_words": ["glauben"]
+      },
+      {
+        "semantic_key": "abstract-concepts-know-verb",
+        "description": "Be aware of through observation, inquiry, or information.",
+        "related_german_words": ["wissen"]
+      },
+      {
+        "semantic_key": "abstract-concepts-understand",
+        "description": "Perceive the intended meaning of.",
+        "related_german_words": ["verstehen"]
+      },
+      {
+        "semantic_key": "abstract-concepts-recognize",
+        "description": "Identify from having encountered them before.",
+        "related_german_words": ["erkennen"]
+      },
+      {
+        "semantic_key": "abstract-concepts-experience-verb",
+        "description": "Encounter or undergo (an event or occurrence).",
+        "related_german_words": ["erfahren"]
+      },
+      {
+        "semantic_key": "abstract-concepts-learn",
+        "description": "Acquire knowledge of or skill in (something) by study, experience, or being taught.",
+        "related_german_words": ["lernen"]
+      },
+      {
+        "semantic_key": "abstract-concepts-teach",
+        "description": "Impart knowledge to or instruct someone as to how to do something.",
+        "related_german_words": ["lehren"]
+      },
+      {
+        "semantic_key": "abstract-concepts-show",
+        "description": "Allow or cause (something) to be visible.",
+        "related_german_words": ["zeigen"]
+      },
+      {
+        "semantic_key": "abstract-concepts-hide",
+        "description": "Put or keep out of sight.",
+        "related_german_words": ["verbergen"]
+      },
+      {
+        "semantic_key": "abstract-concepts-seek",
+        "description": "Attempt to find (something).",
+        "related_german_words": ["suchen"]
+      },
+      {
+        "semantic_key": "abstract-concepts-find",
+        "description": "Discover or perceive by chance or unexpectedly.",
+        "related_german_words": ["finden"]
+      },
+      {
+        "semantic_key": "abstract-concepts-give",
+        "description": "Freely transfer the possession of (something) to (someone).",
+        "related_german_words": ["geben"]
+      },
+      {
+        "semantic_key": "abstract-concepts-take",
+        "description": "Lay hold of (something) with one's hands; reach for and hold.",
+        "related_german_words": ["nehmen"]
+      },
+      {
+        "semantic_key": "abstract-concepts-share",
+        "description": "Have a portion of (something) with another or others.",
+        "related_german_words": ["teilen"]
+      },
+      {
+        "semantic_key": "abstract-concepts-connect",
+        "description": "Bring together or into contact so that a real or notional link is established.",
+        "related_german_words": ["verbinden"]
+      },
+      {
+        "semantic_key": "abstract-concepts-separate",
+        "description": "Cause to move or be apart.",
+        "related_german_words": ["trennen"]
+      },
+      {
+        "semantic_key": "abstract-concepts-imagine",
+        "description": "Form a mental image or concept of.",
+        "related_german_words": ["sich vorstellen"]
+      },
+      {
+        "semantic_key": "abstract-concepts-remember",
+        "description": "Have in or be able to bring to one's mind an awareness of.",
+        "related_german_words": ["sich erinnern"]
+      },
+      {
+        "semantic_key": "abstract-concepts-mistake",
+        "description": "Be wrong about something.",
+        "related_german_words": ["sich irren"]
+      },
+      {
+        "semantic_key": "abstract-concepts-shame",
+        "description": "Feel shame.",
+        "related_german_words": ["sich schämen"]
+      },
+      {
+        "semantic_key": "abstract-concepts-longing",
+        "description": "Have an intense desire for.",
+        "related_german_words": ["sich sehnen"]
+      },
+      {
+        "semantic_key": "abstract-concepts-good",
+        "description": "To be desired or approved of.",
+        "related_german_words": ["gut"]
+      },
+      {
+        "semantic_key": "abstract-concepts-evil",
+        "description": "Profoundly immoral and wicked.",
+        "related_german_words": ["böse"]
+      },
+      {
+        "semantic_key": "abstract-concepts-true",
+        "description": "In accordance with fact or reality.",
+        "related_german_words": ["wahr"]
+      },
+      {
+        "semantic_key": "abstract-concepts-false",
+        "description": "Not according with truth or fact.",
+        "related_german_words": ["falsch"]
+      },
+      {
+        "semantic_key": "abstract-concepts-correct",
+        "description": "Free from error; in accordance with fact or truth.",
+        "related_german_words": ["richtig"]
+      },
+      {
+        "semantic_key": "abstract-concepts-important",
+        "description": "Of great significance or value.",
+        "related_german_words": ["wichtig"]
+      },
+      {
+        "semantic_key": "abstract-concepts-possible",
+        "description": "Able to be done or achieved.",
+        "related_german_words": ["möglich"]
+      },
+      {
+        "semantic_key": "abstract-concepts-necessary",
+        "description": "Required to be done, achieved, or present.",
+        "related_german_words": ["nötig"]
+      },
+      {
+        "semantic_key": "abstract-concepts-certain",
+        "description": "Known for sure; established beyond doubt.",
+        "related_german_words": ["sicher"]
+      },
+      {
+        "semantic_key": "abstract-concepts-uncertain",
+        "description": "Not able to be relied on; not known or definite.",
+        "related_german_words": ["unsicher"]
+      },
+      {
+        "semantic_key": "abstract-concepts-free",
+        "description": "Not under the control or in the power of another.",
+        "related_german_words": ["frei"]
+      },
+      {
+        "semantic_key": "abstract-concepts-caught",
+        "description": "Not free.",
+        "related_german_words": ["gefangen"]
+      },
+      {
+        "semantic_key": "abstract-concepts-beautiful",
+        "description": "Pleasing the senses or mind aesthetically.",
+        "related_german_words": ["schön"]
+      },
+      {
+        "semantic_key": "abstract-concepts-ugly",
+        "description": "Unpleasant or repulsive in appearance.",
+        "related_german_words": ["hässlich"]
+      },
+      {
+        "semantic_key": "abstract-concepts-strong",
+        "description": "Having the power to move heavy weights or perform other physically demanding tasks.",
+        "related_german_words": ["stark"]
+      },
+      {
+        "semantic_key": "abstract-concepts-weak",
+        "description": "Lacking the power to perform physically demanding tasks.",
+        "related_german_words": ["schwach"]
+      },
+      {
+        "semantic_key": "abstract-concepts-large",
+        "description": "Of considerable or relatively great size, extent, or capacity.",
+        "related_german_words": ["groß"]
+      },
+      {
+        "semantic_key": "abstract-concepts-small",
+        "description": "Of a size that is less than normal or usual.",
+        "related_german_words": ["klein"]
+      },
+      {
+        "semantic_key": "abstract-concepts-old",
+        "description": "Having lived for a long time.",
+        "related_german_words": ["alt"]
+      },
+      {
+        "semantic_key": "abstract-concepts-new",
+        "description": "Not existing before; made, introduced, or discovered recently or now for the first time.",
+        "related_german_words": ["neu"]
+      },
+      {
+        "semantic_key": "abstract-concepts-young",
+        "description": "Having lived or existed for only a short time.",
+        "related_german_words": ["jung"]
+      },
+      {
+        "semantic_key": "abstract-concepts-eternal",
+        "description": "Lasting or existing forever; without end or beginning.",
+        "related_german_words": ["ewig"]
+      },
+      {
+        "semantic_key": "abstract-concepts-finite",
+        "description": "Having limits or bounds.",
+        "related_german_words": ["endlich"]
+      },
+      {
+        "semantic_key": "abstract-concepts-infinite",
+        "description": "Limitless or endless in space, extent, or size.",
+        "related_german_words": ["unendlich"]
+      },
+      {
+        "semantic_key": "abstract-concepts-absolute",
+        "description": "Not qualified or diminished in any way; total.",
+        "related_german_words": ["absolut"]
+      },
+      {
+        "semantic_key": "abstract-concepts-relative",
+        "description": "Considered in relation or in proportion to something else.",
+        "related_german_words": ["relativ"]
+      },
+      {
+        "semantic_key": "abstract-concepts-objective",
+        "description": "Not influenced by personal feelings or opinions in considering and representing facts.",
+        "related_german_words": ["objektiv"]
+      },
+      {
+        "semantic_key": "abstract-concepts-subjective",
+        "description": "Based on or influenced by personal feelings, tastes, or opinions.",
+        "related_german_words": ["subjektiv"]
+      },
+      {
+        "semantic_key": "abstract-concepts-concrete",
+        "description": "Existing in a material or physical form; real or solid; not abstract.",
+        "related_german_words": ["konkret"]
+      },
+      {
+        "semantic_key": "abstract-concepts-abstract",
+        "description": "Existing in thought or as an idea but not having a physical or concrete existence.",
+        "related_german_words": ["abstrakt"]
+      },
+      {
+        "semantic_key": "abstract-concepts-authority",
+        "description": "The power or right to give orders, make decisions, and enforce obedience.",
+        "related_german_words": ["Autorität"]
+      },
+      {
+        "semantic_key": "abstract-concepts-authenticity",
+        "description": "The quality of being authentic.",
+        "related_german_words": ["Authentizität"]
+      },
+      {
+        "semantic_key": "abstract-concepts-ambivalence",
+        "description": "The state of having mixed feelings or contradictory ideas about something or someone.",
+        "related_german_words": ["Ambivalenz"]
+      },
+      {
+        "semantic_key": "abstract-concepts-integrity",
+        "description": "The quality of being honest and having strong moral principles.",
+        "related_german_words": ["Integrität"]
+      },
+      {
+        "semantic_key": "abstract-concepts-sustainability",
+        "description": "The ability to be maintained at a certain rate or level.",
+        "related_german_words": ["Nachhaltigkeit"]
+      },
+      {
+        "semantic_key": "abstract-concepts-solidarity-alt",
+        "description": "Unity of feeling or action among individuals with a common interest.",
+        "related_german_words": ["Zusammenhalt"]
+      },
+      {
+        "semantic_key": "abstract-concepts-logic-alt",
+        "description": "Systematic logic.",
+        "related_german_words": ["Folgerichtigkeit"]
+      },
+      {
+        "semantic_key": "abstract-concepts-precision",
+        "description": "The quality, condition, or fact of being exact and accurate.",
+        "related_german_words": ["Präzision"]
+      },
+      {
+        "semantic_key": "abstract-concepts-diversity-alt",
+        "description": "Variety.",
+        "related_german_words": ["Mannigfaltigkeit"]
+      },
+      {
+        "semantic_key": "abstract-concepts-permanence",
+        "description": "The state or quality of lasting or remaining unchanged indefinitely.",
+        "related_german_words": ["Beständigkeit"]
+      },
+      {
+        "semantic_key": "abstract-concepts-potential",
+        "description": "Having or showing the capacity to become or develop into something in the future.",
+        "related_german_words": ["Potenzial"]
+      },
+      {
+        "semantic_key": "abstract-concepts-dimension",
+        "description": "A measurable extent of some kind.",
+        "related_german_words": ["Dimension"]
+      },
+      {
+        "semantic_key": "abstract-concepts-ideal",
+        "description": "Satisfying one's conception of what is perfect.",
+        "related_german_words": ["Ideal"]
+      },
+      {
+        "semantic_key": "abstract-concepts-paradox",
+        "description": "A seemingly absurd or self-contradictory statement.",
+        "related_german_words": ["Paradoxon"]
+      },
+      {
+        "semantic_key": "abstract-concepts-redundancy",
+        "description": "The state of being no longer needed or useful.",
+        "related_german_words": ["Redundanz"]
+      },
+      {
+        "semantic_key": "abstract-concepts-paradigm",
+        "description": "A typical example or pattern of something; a model.",
+        "related_german_words": ["Paradigma"]
+      },
+      {
+        "semantic_key": "abstract-concepts-consensus",
+        "description": "General agreement.",
+        "related_german_words": ["Konsens"]
+      },
+      {
+        "semantic_key": "abstract-concepts-compromise",
+        "description": "An agreement or a settlement of a dispute.",
+        "related_german_words": ["Kompromiss"]
+      },
+      {
+        "semantic_key": "abstract-concepts-legitimacy",
+        "description": "Conformity to the law or to rules.",
+        "related_german_words": ["Legitimität"]
+      },
+      {
+        "semantic_key": "abstract-concepts-rationality",
+        "description": "The quality of being based on or in accordance with reason or logic.",
+        "related_german_words": ["Rationalität"]
+      }
+    ]
+  }
+]

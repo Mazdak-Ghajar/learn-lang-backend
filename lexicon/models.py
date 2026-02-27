@@ -18,9 +18,7 @@ class Concept(models.Model):
     semantic_key = models.CharField(max_length=255,unique=True)
     description= models.TextField(blank=True)
     created_at = models.DateTimeField(auto_now_add=True)
-
     category = models.ForeignKey(Category,on_delete=models.SET_NULL,null=True, blank=True)
-
 
     def __str__(self):
         return f"CONCEPT SEMANTIC_KEY: {self.semantic_key}"

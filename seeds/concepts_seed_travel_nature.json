@@ -1,0 +1,1302 @@
+[
+  {
+    "category_slug": "travel-nature",
+    "concepts": [
+      {
+        "semantic_key": "travel-nature-trip",
+        "description": "An act of going to a place and returning.",
+        "related_german_words": ["Reise", "Trip"]
+      },
+      {
+        "semantic_key": "travel-nature-vacation",
+        "description": "An extended period of recreation, especially one spent away from home.",
+        "related_german_words": ["Urlaub", "Ferien"]
+      },
+      {
+        "semantic_key": "travel-nature-destination",
+        "description": "The place to which someone is going.",
+        "related_german_words": ["Reiseziel", "Zielort"]
+      },
+      {
+        "semantic_key": "travel-nature-to_travel",
+        "description": "To make a journey, typically of some length.",
+        "related_german_words": ["reisen"]
+      },
+      {
+        "semantic_key": "travel-nature-to_depart",
+        "description": "To leave, especially on a journey.",
+        "related_german_words": ["abreisen", "abfahren"]
+      },
+      {
+        "semantic_key": "travel-nature-to_arrive",
+        "description": "To reach a destination.",
+        "related_german_words": ["ankommen", "eintreffen"]
+      },
+      {
+        "semantic_key": "travel-nature-departure",
+        "description": "The action of leaving a place.",
+        "related_german_words": ["Abfahrt", "Abreise"]
+      },
+      {
+        "semantic_key": "travel-nature-arrival",
+        "description": "The action or process of arriving.",
+        "related_german_words": ["Ankunft"]
+      },
+      {
+        "semantic_key": "travel-nature-flight",
+        "description": "A journey made through the air.",
+        "related_german_words": ["Flug"]
+      },
+      {
+        "semantic_key": "travel-nature-to_fly",
+        "description": "To move through the air using wings or in an aircraft.",
+        "related_german_words": ["fliegen"]
+      },
+      {
+        "semantic_key": "travel-nature-airport",
+        "description": "A complex of runways and buildings for the take-off and landing of aircraft.",
+        "related_german_words": ["Flughafen"]
+      },
+      {
+        "semantic_key": "travel-nature-plane",
+        "description": "A powered flying vehicle with fixed wings.",
+        "related_german_words": ["Flugzeug", "Maschine"]
+      },
+      {
+        "semantic_key": "travel-nature-train",
+        "description": "A series of connected railway carriages.",
+        "related_german_words": ["Zug", "Bahn"]
+      },
+      {
+        "semantic_key": "travel-nature-station",
+        "description": "A stopping place on a railway line.",
+        "related_german_words": ["Bahnhof"]
+      },
+      {
+        "semantic_key": "travel-nature-platform",
+        "description": "The raised structure along which a train stops.",
+        "related_german_words": ["Bahnsteig", "Gleis"]
+      },
+      {
+        "semantic_key": "travel-nature-ticket",
+        "description": "A piece of paper or electronic document showing that one has paid for a journey.",
+        "related_german_words": ["Fahrkarte", "Ticket"]
+      },
+      {
+        "semantic_key": "travel-nature-to_book",
+        "description": "To reserve accommodation, a ticket, etc., in advance.",
+        "related_german_words": ["buchen", "reservieren"]
+      },
+      {
+        "semantic_key": "travel-nature-booking",
+        "description": "An act of reserving something.",
+        "related_german_words": ["Buchung", "Reservierung"]
+      },
+      {
+        "semantic_key": "travel-nature-suitcase",
+        "description": "A case with a handle and a lid, used for carrying clothes.",
+        "related_german_words": ["Koffer"]
+      },
+      {
+        "semantic_key": "travel-nature-luggage",
+        "description": "Suitcases or other bags in which to pack personal belongings for traveling.",
+        "related_german_words": ["Gepäck"]
+      },
+      {
+        "semantic_key": "travel-nature-backpack",
+        "description": "A bag with shoulder straps that allow it to be carried on one's back.",
+        "related_german_words": ["Rucksack"]
+      },
+      {
+        "semantic_key": "travel-nature-to_pack",
+        "description": "To fill a bag with clothes and other items for a trip.",
+        "related_german_words": ["packen", "einpacken"]
+      },
+      {
+        "semantic_key": "travel-nature-hand_luggage",
+        "description": "Small bags that passengers are allowed to carry onto a plane.",
+        "related_german_words": ["Handgepäck"]
+      },
+      {
+        "semantic_key": "travel-nature-passport",
+        "description": "An official document issued by a government, certifying the holder's identity.",
+        "related_german_words": ["Reisepass", "Pass"]
+      },
+      {
+        "semantic_key": "travel-nature-visa",
+        "description": "An endorsement on a passport indicating that the holder is allowed to enter a country.",
+        "related_german_words": ["Visum"]
+      },
+      {
+        "semantic_key": "travel-nature-border",
+        "description": "A line separating two countries.",
+        "related_german_words": ["Grenze"]
+      },
+      {
+        "semantic_key": "travel-nature-to_stay_overnight",
+        "description": "To spend the night in a place.",
+        "related_german_words": ["übernachten"]
+      },
+      {
+        "semantic_key": "travel-nature-overnight_stay",
+        "description": "An act of spending the night.",
+        "related_german_words": ["Übernachtung"]
+      },
+      {
+        "semantic_key": "travel-nature-hotel",
+        "description": "An establishment providing accommodation, meals, and other services for travelers.",
+        "related_german_words": ["Hotel"]
+      },
+      {
+        "semantic_key": "travel-nature-hostel",
+        "description": "An establishment that provides inexpensive food and lodging for students or travelers.",
+        "related_german_words": ["Jugendherberge", "Hostel"]
+      },
+      {
+        "semantic_key": "travel-nature-reception",
+        "description": "The area in a hotel where visitors are greeted and registered.",
+        "related_german_words": ["Rezeption", "Empfang"]
+      },
+      {
+        "semantic_key": "travel-nature-single_room",
+        "description": "A room intended for one person.",
+        "related_german_words": ["Einzelzimmer"]
+      },
+      {
+        "semantic_key": "travel-nature-double_room",
+        "description": "A room intended for two people.",
+        "related_german_words": ["Doppelzimmer"]
+      },
+      {
+        "semantic_key": "travel-nature-to_check_in",
+        "description": "To register one's arrival at a hotel or airport.",
+        "related_german_words": ["einchecken"]
+      },
+      {
+        "semantic_key": "travel-nature-to_check_out",
+        "description": "To settle one's bill and leave a hotel.",
+        "related_german_words": ["auschecken"]
+      },
+      {
+        "semantic_key": "travel-nature-camping",
+        "description": "The activity of spending a holiday living in a tent.",
+        "related_german_words": ["Camping"]
+      },
+      {
+        "semantic_key": "travel-nature-tent",
+        "description": "A portable shelter made of cloth, supported by one or more poles.",
+        "related_german_words": ["Zelt"]
+      },
+      {
+        "semantic_key": "travel-nature-to_camp",
+        "description": "To live in a tent for a short period.",
+        "related_german_words": ["zelten", "campen"]
+      },
+      {
+        "semantic_key": "travel-nature-campsite",
+        "description": "A place used for camping.",
+        "related_german_words": ["Campingplatz"]
+      },
+      {
+        "semantic_key": "travel-nature-nature",
+        "description": "The physical world and everything in it that is not made by people.",
+        "related_german_words": ["Natur"]
+      },
+      {
+        "semantic_key": "travel-nature-landscape",
+        "description": "All the visible features of an area of countryside or land.",
+        "related_german_words": ["Landschaft"]
+      },
+      {
+        "semantic_key": "travel-nature-mountain",
+        "description": "A very high hill.",
+        "related_german_words": ["Berg"]
+      },
+      {
+        "semantic_key": "travel-nature-valley",
+        "description": "A low area of land between hills or mountains.",
+        "related_german_words": ["Tal"]
+      },
+      {
+        "semantic_key": "travel-nature-forest",
+        "description": "A large area covered chiefly with trees and undergrowth.",
+        "related_german_words": ["Wald"]
+      },
+      {
+        "semantic_key": "travel-nature-tree",
+        "description": "A woody perennial plant, typically having a single stem.",
+        "related_german_words": ["Baum"]
+      },
+      {
+        "semantic_key": "travel-nature-leaf",
+        "description": "A flattened structure of a higher plant, typically green.",
+        "related_german_words": ["Blatt"]
+      },
+      {
+        "semantic_key": "travel-nature-river",
+        "description": "A large natural stream of water flowing in a channel.",
+        "related_german_words": ["Fluss"]
+      },
+      {
+        "semantic_key": "travel-nature-stream",
+        "description": "A small, narrow river.",
+        "related_german_words": ["Bach"]
+      },
+      {
+        "semantic_key": "travel-nature-lake",
+        "description": "A large body of water surrounded by land.",
+        "related_german_words": ["See"]
+      },
+      {
+        "semantic_key": "travel-nature-sea",
+        "description": "The expanse of salt water that covers most of the earth's surface.",
+        "related_german_words": ["Meer", "See"]
+      },
+      {
+        "semantic_key": "travel-nature-ocean",
+        "description": "A very large expanse of sea.",
+        "related_german_words": ["Ozean"]
+      },
+      {
+        "semantic_key": "travel-nature-beach",
+        "description": "A pebbly or sandy shore, especially by the ocean between high- and low-water marks.",
+        "related_german_words": ["Strand"]
+      },
+      {
+        "semantic_key": "travel-nature-coast",
+        "description": "The part of the land adjoining or near the sea.",
+        "related_german_words": ["Küste"]
+      },
+      {
+        "semantic_key": "travel-nature-island",
+        "description": "A piece of land surrounded by water.",
+        "related_german_words": ["Insel"]
+      },
+      {
+        "semantic_key": "travel-nature-peninsula",
+        "description": "A piece of land almost surrounded by water or projecting out into a body of water.",
+        "related_german_words": ["Halbinsel"]
+      },
+      {
+        "semantic_key": "travel-nature-desert",
+        "description": "A dry, barren area of land, especially one covered with sand.",
+        "related_german_words": ["Wüste"]
+      },
+      {
+        "semantic_key": "travel-nature-field",
+        "description": "An area of open land, especially one planted with crops.",
+        "related_german_words": ["Feld", "Acker"]
+      },
+      {
+        "semantic_key": "travel-nature-meadow",
+        "description": "A piece of grassland.",
+        "related_german_words": ["Wiese"]
+      },
+      {
+        "semantic_key": "travel-nature-flower",
+        "description": "The seed-bearing part of a plant, consisting of reproductive organs.",
+        "related_german_words": ["Blume"]
+      },
+      {
+        "semantic_key": "travel-nature-to_bloom",
+        "description": "To produce flowers; to blossom.",
+        "related_german_words": ["blühen"]
+      },
+      {
+        "semantic_key": "travel-nature-grass",
+        "description": "Vegetation consisting of typically short plants with long narrow leaves.",
+        "related_german_words": ["Gras"]
+      },
+      {
+        "semantic_key": "travel-nature-sky",
+        "description": "The region of the atmosphere and outer space seen from the earth.",
+        "related_german_words": ["Himmel"]
+      },
+      {
+        "semantic_key": "travel-nature-sun",
+        "description": "The star around which the earth orbits.",
+        "related_german_words": ["Sonne"]
+      },
+      {
+        "semantic_key": "travel-nature-moon",
+        "description": "The natural satellite of the earth.",
+        "related_german_words": ["Mond"]
+      },
+      {
+        "semantic_key": "travel-nature-star",
+        "description": "A fixed luminous point in the night sky.",
+        "related_german_words": ["Stern"]
+      },
+      {
+        "semantic_key": "travel-nature-weather",
+        "description": "The state of the atmosphere at a place and time.",
+        "related_german_words": ["Wetter"]
+      },
+      {
+        "semantic_key": "travel-nature-temperature",
+        "description": "The degree or intensity of heat present in a substance or object.",
+        "related_german_words": ["Temperatur"]
+      },
+      {
+        "semantic_key": "travel-nature-sunny",
+        "description": "Bright with sunlight.",
+        "related_german_words": ["sonnig"]
+      },
+      {
+        "semantic_key": "travel-nature-cloudy",
+        "description": "Covered with or characterized by clouds.",
+        "related_german_words": ["bewölkt", "wolkig"]
+      },
+      {
+        "semantic_key": "travel-nature-cloud",
+        "description": "A visible mass of condensed water vapor floating in the atmosphere.",
+        "related_german_words": ["Wolke"]
+      },
+      {
+        "semantic_key": "travel-nature-rain",
+        "description": "Moisture condensed from the atmosphere that falls in separate drops.",
+        "related_german_words": ["Regen"]
+      },
+      {
+        "semantic_key": "travel-nature-to_rain",
+        "description": "To fall as rain from the sky.",
+        "related_german_words": ["regnen"]
+      },
+      {
+        "semantic_key": "travel-nature-rainy",
+        "description": "Characterized by or having a lot of rain.",
+        "related_german_words": ["regnerisch"]
+      },
+      {
+        "semantic_key": "travel-nature-snow",
+        "description": "Atmospheric water vapor frozen into ice crystals and falling in light white flakes.",
+        "related_german_words": ["Schnee"]
+      },
+      {
+        "semantic_key": "travel-nature-to_snow",
+        "description": "To fall as snow from the sky.",
+        "related_german_words": ["schneien"]
+      },
+      {
+        "semantic_key": "travel-nature-wind",
+        "description": "The perceptible natural movement of the air.",
+        "related_german_words": ["Wind"]
+      },
+      {
+        "semantic_key": "travel-nature-windy",
+        "description": "Exposed to or characterized by strong wind.",
+        "related_german_words": ["windig"]
+      },
+      {
+        "semantic_key": "travel-nature-storm",
+        "description": "A violent disturbance of the atmosphere with strong winds and usually rain, thunder, lightning, or snow.",
+        "related_german_words": ["Sturm"]
+      },
+      {
+        "semantic_key": "travel-nature-thunderstorm",
+        "description": "A storm with thunder and lightning and typically also heavy rain.",
+        "related_german_words": ["Gewitter"]
+      },
+      {
+        "semantic_key": "travel-nature-lightning",
+        "description": "The occurrence of a natural electrical discharge of very short duration and high voltage between a cloud and the ground.",
+        "related_german_words": ["Blitz"]
+      },
+      {
+        "semantic_key": "travel-nature-thunder",
+        "description": "A loud rumbling or crashing noise heard after a lightning flash.",
+        "related_german_words": ["Donner"]
+      },
+      {
+        "semantic_key": "travel-nature-fog",
+        "description": "A thick cloud of tiny water droplets suspended in the atmosphere at or near the earth's surface.",
+        "related_german_words": ["Nebel"]
+      },
+      {
+        "semantic_key": "travel-nature-foggy",
+        "description": "Full of or accompanied by fog.",
+        "related_german_words": ["neblig"]
+      },
+      {
+        "semantic_key": "travel-nature-hot",
+        "description": "Having a high degree of heat.",
+        "related_german_words": ["heiß"]
+      },
+      {
+        "semantic_key": "travel-nature-warm",
+        "description": "Of or at a fairly or comfortably high temperature.",
+        "related_german_words": ["warm"]
+      },
+      {
+        "semantic_key": "travel-nature-cold",
+        "description": "Of or at a low temperature.",
+        "related_german_words": ["kalt"]
+      },
+      {
+        "semantic_key": "travel-nature-cool",
+        "description": "Of or at a fairly low temperature.",
+        "related_german_words": ["kühl"]
+      },
+      {
+        "semantic_key": "travel-nature-ice",
+        "description": "Frozen water.",
+        "related_german_words": ["Eis"]
+      },
+      {
+        "semantic_key": "travel-nature-to_freeze",
+        "description": "To turn into ice as a result of extreme cold.",
+        "related_german_words": ["frieren", "gefrieren"]
+      },
+      {
+        "semantic_key": "travel-nature-animal",
+        "description": "A living organism that feeds on organic matter.",
+        "related_german_words": ["Tier"]
+      },
+      {
+        "semantic_key": "travel-nature-wild_animal",
+        "description": "An animal that lives in nature and is not tame.",
+        "related_german_words": ["Wildtier"]
+      },
+      {
+        "semantic_key": "travel-nature-bird",
+        "description": "A warm-blooded egg-laying vertebrate distinguished by the possession of feathers, wings, and a beak.",
+        "related_german_words": ["Vogel"]
+      },
+      {
+        "semantic_key": "travel-nature-fish",
+        "description": "A limbless cold-blooded vertebrate animal with gills and fins and living wholly in water.",
+        "related_german_words": ["Fisch"]
+      },
+      {
+        "semantic_key": "travel-nature-insect",
+        "description": "A small arthropod animal that has six legs and generally one or two pairs of wings.",
+        "related_german_words": ["Insekt"]
+      },
+      {
+        "semantic_key": "travel-nature-pet",
+        "description": "A domestic or tamed animal kept for companionship or pleasure.",
+        "related_german_words": ["Haustier"]
+      },
+      {
+        "semantic_key": "travel-nature-to_hike",
+        "description": "To walk a long distance of the country or in the woods.",
+        "related_german_words": ["wandern"]
+      },
+      {
+        "semantic_key": "travel-nature-hiking",
+        "description": "The activity of going for long walks.",
+        "related_german_words": ["Wandern"]
+      },
+      {
+        "semantic_key": "travel-nature-hiking_trail",
+        "description": "A path for hiking.",
+        "related_german_words": ["Wanderweg"]
+      },
+      {
+        "semantic_key": "travel-nature-to_climb",
+        "description": "To go up or as if by using the hands and feet.",
+        "related_german_words": ["klettern"]
+      },
+      {
+        "semantic_key": "travel-nature-summit",
+        "description": "The highest point of a hill or mountain.",
+        "related_german_words": ["Gipfel"]
+      },
+      {
+        "semantic_key": "travel-nature-to_swim",
+        "description": "To propel oneself through water using the limbs.",
+        "related_german_words": ["schwimmen"]
+      },
+      {
+        "semantic_key": "travel-nature-swimming_pool",
+        "description": "An artificial pool for swimming.",
+        "related_german_words": ["Schwimmbad", "Pool"]
+      },
+      {
+        "semantic_key": "travel-nature-to_dive",
+        "description": "To swim underwater using breathing equipment or by holding one's breath.",
+        "related_german_words": ["tauchen"]
+      },
+      {
+        "semantic_key": "travel-nature-sightseeing",
+        "description": "The activity of visiting places of interest in a particular location.",
+        "related_german_words": ["Sightseeing", "Besichtigung"]
+      },
+      {
+        "semantic_key": "travel-nature-to_visit",
+        "description": "To go to see and spend time with someone or in a place.",
+        "related_german_words": ["besuchen", "besichtigen"]
+      },
+      {
+        "semantic_key": "travel-nature-museum",
+        "description": "A building in which objects of historical, scientific, artistic, or cultural interest are stored.",
+        "related_german_words": ["Museum"]
+      },
+      {
+        "semantic_key": "travel-nature-guide",
+        "description": "A person who shows the way to others.",
+        "related_german_words": ["Reiseleiter", "Führer"]
+      },
+      {
+        "semantic_key": "travel-nature-guidebook",
+        "description": "A book of information about a place, designed for the use of visitors or tourists.",
+        "related_german_words": ["Reiseführer"]
+      },
+      {
+        "semantic_key": "travel-nature-map",
+        "description": "A diagrammatic representation of an area of land or sea.",
+        "related_german_words": ["Karte", "Landkarte"]
+      },
+      {
+        "semantic_key": "travel-nature-compass",
+        "description": "An instrument containing a magnetized pointer that shows the direction of magnetic north.",
+        "related_german_words": ["Kompass"]
+      },
+      {
+        "semantic_key": "travel-nature-to_navigate",
+        "description": "To plan and direct the route or course of a ship, aircraft, or other form of transport.",
+        "related_german_words": ["navigieren"]
+      },
+      {
+        "semantic_key": "travel-nature-direction",
+        "description": "A course along which someone or something moves.",
+        "related_german_words": ["Richtung"]
+      },
+      {
+        "semantic_key": "travel-nature-north",
+        "description": "The direction in which a compass needle normally points.",
+        "related_german_words": ["Norden"]
+      },
+      {
+        "semantic_key": "travel-nature-south",
+        "description": "The direction in which a compass needle normally points when pointing away from North.",
+        "related_german_words": ["Süden"]
+      },
+      {
+        "semantic_key": "travel-nature-east",
+        "description": "The direction from which the sun rises.",
+        "related_german_words": ["Osten"]
+      },
+      {
+        "semantic_key": "travel-nature-west",
+        "description": "The direction toward which the sun sets.",
+        "related_german_words": ["Westen"]
+      },
+      {
+        "semantic_key": "travel-nature-right_direction",
+        "description": "The correct side of an object.",
+        "related_german_words": ["rechts"]
+      },
+      {
+        "semantic_key": "travel-nature-left_direction",
+        "description": "The side of the body which is on the west when one is facing north.",
+        "related_german_words": ["links"]
+      },
+      {
+        "semantic_key": "travel-nature-straight_ahead",
+        "description": "Continuing in one direction without curving or bending.",
+        "related_german_words": ["geradeaus"]
+      },
+      {
+        "semantic_key": "travel-nature-to_get_lost",
+        "description": "To lose one's way.",
+        "related_german_words": ["sich verlaufen", "sich verirren"]
+      },
+      {
+        "semantic_key": "travel-nature-distance",
+        "description": "An amount of space between two things or people.",
+        "related_german_words": ["Entfernung", "Distanz"]
+      },
+      {
+        "semantic_key": "travel-nature-far",
+        "description": "At, to, or by a great distance.",
+        "related_german_words": ["weit", "fern"]
+      },
+      {
+        "semantic_key": "travel-nature-near",
+        "description": "At or to a short distance away.",
+        "related_german_words": ["nah"]
+      },
+      {
+        "semantic_key": "travel-nature-to_explore",
+        "description": "To travel in or through an unfamiliar area in order to learn about it.",
+        "related_german_words": ["erkunden", "erforschen"]
+      },
+      {
+        "semantic_key": "travel-nature-adventure",
+        "description": "An unusual and exciting, typically hazardous, experience or activity.",
+        "related_german_words": ["Abenteuer"]
+      },
+      {
+        "semantic_key": "travel-nature-adventurous",
+        "description": "Willing to take risks or to try out new methods, ideas, or experiences.",
+        "related_german_words": ["abenteuerlustig"]
+      },
+      {
+        "semantic_key": "travel-nature-tourist",
+        "description": "A person who is traveling or visiting a place for pleasure.",
+        "related_german_words": ["Tourist"]
+      },
+      {
+        "semantic_key": "travel-nature-tourism",
+        "description": "The commercial organization and operation of vacations and visits to places of interest.",
+        "related_german_words": ["Tourismus"]
+      },
+      {
+        "semantic_key": "travel-nature-souvenir",
+        "description": "A thing that is kept as a reminder of a person, place, or event.",
+        "related_german_words": ["Souvenir", "Andenken"]
+      },
+      {
+        "semantic_key": "travel-nature-postcard",
+        "description": "A card for sending a message by mail without an envelope.",
+        "related_german_words": ["Postkarte"]
+      },
+      {
+        "semantic_key": "travel-nature-camera",
+        "description": "A device for recording visual images.",
+        "related_german_words": ["Kamera", "Fotoapparat"]
+      },
+      {
+        "semantic_key": "travel-nature-photo",
+        "description": "A picture made using a camera.",
+        "related_german_words": ["Foto"]
+      },
+      {
+        "semantic_key": "travel-nature-to_take_pictures",
+        "description": "To capture images with a camera.",
+        "related_german_words": ["fotografieren"]
+      },
+      {
+        "semantic_key": "travel-nature-sunscreen",
+        "description": "A cream or lotion rubbed on to the skin to protect it from the sun.",
+        "related_german_words": ["Sonnencreme"]
+      },
+      {
+        "semantic_key": "travel-nature-sunglasses",
+        "description": "Glasses with dark lenses which protect the eyes from bright sunlight.",
+        "related_german_words": ["Sonnenbrille"]
+      },
+      {
+        "semantic_key": "travel-nature-umbrella",
+        "description": "A device consisting of a circular canopy of cloth on a folding metal frame supported by a central rod, used as protection against rain.",
+        "related_german_words": ["Regenschirm"]
+      },
+      {
+        "semantic_key": "travel-nature-raincoat",
+        "description": "A coat that is impervious to rain.",
+        "related_german_words": ["Regenmantel"]
+      },
+      {
+        "semantic_key": "travel-nature-to_relax",
+        "description": "To make or become less tense or anxious.",
+        "related_german_words": ["sich entspannen"]
+      },
+      {
+        "semantic_key": "travel-nature-relaxation",
+        "description": "The state of being free from tension and anxiety.",
+        "related_german_words": ["Entspannung"]
+      },
+      {
+        "semantic_key": "travel-nature-peaceful",
+        "description": "Free from disturbance; tranquil.",
+        "related_german_words": ["friedlich", "ruhig"]
+      },
+      {
+        "semantic_key": "travel-nature-quiet",
+        "description": "Making little or no noise.",
+        "related_german_words": ["leise", "ruhig"]
+      },
+      {
+        "semantic_key": "travel-nature-loud",
+        "description": "Producing or capable of producing much noise.",
+        "related_german_words": ["laut"]
+      },
+      {
+        "semantic_key": "travel-nature-crowded",
+        "description": "Full of people.",
+        "related_german_words": ["überfüllt"]
+      },
+      {
+        "semantic_key": "travel-nature-empty",
+        "description": "Containing nothing.",
+        "related_german_words": ["leer"]
+      },
+      {
+        "semantic_key": "travel-nature-remote",
+        "description": "Situated far from the main centers of population; distant.",
+        "related_german_words": ["abgelegen"]
+      },
+      {
+        "semantic_key": "travel-nature-scenic",
+        "description": "Providing or relating to views of impressive or beautiful natural scenery.",
+        "related_german_words": ["malerisch"]
+      },
+      {
+        "semantic_key": "travel-nature-breathtaking",
+        "description": "Astonishing or awe-inspiring in quality.",
+        "related_german_words": ["atemberaubend"]
+      },
+      {
+        "semantic_key": "travel-nature-environment",
+        "description": "The surroundings or conditions in which a person, animal, or plant lives or operates.",
+        "related_german_words": ["Umwelt"]
+      },
+      {
+        "semantic_key": "travel-nature-to_protect_nature",
+        "description": "The act of conserving the natural world.",
+        "related_german_words": ["die Natur schützen"]
+      },
+      {
+        "semantic_key": "travel-nature-sustainable",
+        "description": "Able to be maintained at a certain rate or level.",
+        "related_german_words": ["nachhaltig"]
+      },
+      {
+        "semantic_key": "travel-nature-eco_friendly",
+        "description": "Not harmful to the environment.",
+        "related_german_words": ["umweltfreundlich"]
+      },
+      {
+        "semantic_key": "travel-nature-pollution",
+        "description": "The presence in or introduction into the environment of a substance or thing that has harmful or poisonous effects.",
+        "related_german_words": ["Verschmutzung", "Umweltverschmutzung"]
+      },
+      {
+        "semantic_key": "travel-nature-trash",
+        "description": "Waste material; refuse.",
+        "related_german_words": ["Müll", "Abfall"]
+      },
+      {
+        "semantic_key": "travel-nature-climate",
+        "description": "The weather conditions prevailing in an area in general or over a long period.",
+        "related_german_words": ["Klima"]
+      },
+      {
+        "semantic_key": "travel-nature-season",
+        "description": "Each of the four divisions of the year.",
+        "related_german_words": ["Jahreszeit"]
+      },
+      {
+        "semantic_key": "travel-nature-spring",
+        "description": "The season after winter and before summer.",
+        "related_german_words": ["Frühling"]
+      },
+      {
+        "semantic_key": "travel-nature-summer",
+        "description": "The warmest season of the year.",
+        "related_german_words": ["Sommer"]
+      },
+      {
+        "semantic_key": "travel-nature-autumn",
+        "description": "The season between summer and winter.",
+        "related_german_words": ["Herbst"]
+      },
+      {
+        "semantic_key": "travel-nature-winter",
+        "description": "The coldest season of the year.",
+        "related_german_words": ["Winter"]
+      },
+      {
+        "semantic_key": "travel-nature-to_drive_car",
+        "description": "To operate and control the direction and speed of a motor vehicle.",
+        "related_german_words": ["Auto fahren"]
+      },
+      {
+        "semantic_key": "travel-nature-to_ride_bike",
+        "description": "To use a bicycle as a form of transport.",
+        "related_german_words": ["Fahrrad fahren", "radeln"]
+      },
+      {
+        "semantic_key": "travel-nature-ship",
+        "description": "A large boat for transporting people or goods by sea.",
+        "related_german_words": ["Schiff"]
+      },
+      {
+        "semantic_key": "travel-nature-boat",
+        "description": "A small vessel for traveling over water.",
+        "related_german_words": ["Boot"]
+      },
+      {
+        "semantic_key": "travel-nature-to_sail",
+        "description": "To travel in a ship or boat using sails.",
+        "related_german_words": ["segeln"]
+      },
+      {
+        "semantic_key": "travel-nature-ferry",
+        "description": "A boat or ship for conveying passengers and goods, especially over a relatively short distance and as a regular service.",
+        "related_german_words": ["Fähre"]
+      },
+      {
+        "semantic_key": "travel-nature-harbor",
+        "description": "A place on the coast where vessels may find shelter.",
+        "related_german_words": ["Hafen"]
+      },
+      {
+        "semantic_key": "travel-nature-cruise",
+        "description": "A voyage on a ship or boat taken for pleasure.",
+        "related_german_words": ["Kreuzfahrt"]
+      },
+      {
+        "semantic_key": "travel-nature-public_transport",
+        "description": "Buses, trains, and other forms of transport that are available to the public.",
+        "related_german_words": ["öffentliche Verkehrsmittel", "Nahverkehr"]
+      },
+      {
+        "semantic_key": "travel-nature-connection",
+        "description": "A link between two different forms of transport.",
+        "related_german_words": ["Anschluss", "Verbindung"]
+      },
+      {
+        "semantic_key": "travel-nature-to_miss_train",
+        "description": "To arrive too late for a train.",
+        "related_german_words": ["den Zug verpassen"]
+      },
+      {
+        "semantic_key": "travel-nature-delay",
+        "description": "A period of time by which something is late.",
+        "related_german_words": ["Verspätung"]
+      },
+      {
+        "semantic_key": "travel-nature-on_time",
+        "description": "At the correct or agreed time.",
+        "related_german_words": ["pünktlich"]
+      },
+      {
+        "semantic_key": "travel-nature-to_cancel",
+        "description": "To decide or announce that a planned event will not take place.",
+        "related_german_words": ["ausfallen", "stornieren"]
+      },
+      {
+        "semantic_key": "travel-nature-cancellation",
+        "description": "The action of canceling something.",
+        "related_german_words": ["Ausfall", "Stornierung"]
+      },
+      {
+        "semantic_key": "travel-nature-to_board",
+        "description": "To get on or into a ship, aircraft, or other vehicle.",
+        "related_german_words": ["einsteigen"]
+      },
+      {
+        "semantic_key": "travel-nature-to_get_off",
+        "description": "To leave a vehicle.",
+        "related_german_words": ["aussteigen"]
+      },
+      {
+        "semantic_key": "travel-nature-to_transfer_transport",
+        "description": "To change from one vehicle to another.",
+        "related_german_words": ["umsteigen"]
+      },
+      {
+        "semantic_key": "travel-nature-rent_car",
+        "description": "A car that is rented for a short period of time.",
+        "related_german_words": ["Mietwagen"]
+      },
+      {
+        "semantic_key": "travel-nature-to_rent",
+        "description": "To pay someone for the use of something.",
+        "related_german_words": ["mieten", "leihen"]
+      },
+      {
+        "semantic_key": "travel-nature-itinerary",
+        "description": "A planned route or journey.",
+        "related_german_words": ["Reiseplan", "Route"]
+      },
+      {
+        "semantic_key": "travel-nature-budget",
+        "description": "An estimate of income and expenditure for a set period of time.",
+        "related_german_words": ["Reisebudget"]
+      },
+      {
+        "semantic_key": "travel-nature-expensive",
+        "description": "Costing a lot of money.",
+        "related_german_words": ["teuer"]
+      },
+      {
+        "semantic_key": "travel-nature-cheap",
+        "description": "Low in price; worth more than its cost.",
+        "related_german_words": ["billig", "günstig"]
+      },
+      {
+        "semantic_key": "travel-nature-exchange_rate",
+        "description": "The value of one currency for the purpose of conversion to another.",
+        "related_german_words": ["Wechselkurs"]
+      },
+      {
+        "semantic_key": "travel-nature-cash",
+        "description": "Money in coins or notes, as distinct from checks or credit.",
+        "related_german_words": ["Bargeld"]
+      },
+      {
+        "semantic_key": "travel-nature-credit_card",
+        "description": "A small plastic card issued by a bank allowing the holder to purchase goods on credit.",
+        "related_german_words": ["Kreditkarte"]
+      },
+      {
+        "semantic_key": "travel-nature-insurance_travel",
+        "description": "Insurance that is intended to cover medical expenses and financial default.",
+        "related_german_words": ["Reiseversicherung"]
+      },
+      {
+        "semantic_key": "travel-nature-emergency",
+        "description": "A serious, unexpected, and often dangerous situation requiring immediate action.",
+        "related_german_words": ["Notfall"]
+      },
+      {
+        "semantic_key": "travel-nature-travel_agency",
+        "description": "An agency that makes arrangements for travelers.",
+        "related_german_words": ["Reisebüro"]
+      },
+      {
+        "semantic_key": "travel-nature-package_holiday",
+        "description": "A holiday organized by a travel agent.",
+        "related_german_words": ["Pauschalreise"]
+      },
+      {
+        "semantic_key": "travel-nature-last_minute",
+        "description": "The latest possible time before an event.",
+        "related_german_words": ["Last Minute"]
+      },
+      {
+        "semantic_key": "travel-nature-to_cancel_trip",
+        "description": "To annul a scheduled trip.",
+        "related_german_words": ["eine Reise absagen"]
+      },
+      {
+        "semantic_key": "travel-nature-foreign_country",
+        "description": "A country other than one's own.",
+        "related_german_words": ["Ausland"]
+      },
+      {
+        "semantic_key": "travel-nature-abroad",
+        "description": "In or to a foreign country or countries.",
+        "related_german_words": ["im Ausland"]
+      },
+      {
+        "semantic_key": "travel-nature-language",
+        "description": "The method of human communication.",
+        "related_german_words": ["Sprache"]
+      },
+      {
+        "semantic_key": "travel-nature-native_language",
+        "description": "The language that a person has spoken from earliest childhood.",
+        "related_german_words": ["Muttersprache"]
+      },
+      {
+        "semantic_key": "travel-nature-foreign_language",
+        "description": "A language that is not the person's native language.",
+        "related_german_words": ["Fremdsprache"]
+      },
+      {
+        "semantic_key": "travel-nature-dictionary",
+        "description": "A book that lists the words of a language and gives their meaning.",
+        "related_german_words": ["Wörterbuch"]
+      },
+      {
+        "semantic_key": "travel-nature-to_translate",
+        "description": "To express the sense of words or text in another language.",
+        "related_german_words": ["übersetzen"]
+      },
+      {
+        "semantic_key": "travel-nature-culture",
+        "description": "The arts and other manifestations of human intellectual achievement regarded collectively.",
+        "related_german_words": ["Kultur"]
+      },
+      {
+        "semantic_key": "travel-nature-tradition",
+        "description": "The transmission of customs or beliefs from generation to generation.",
+        "related_german_words": ["Tradition"]
+      },
+      {
+        "semantic_key": "travel-nature-local",
+        "description": "Relating to a particular area or neighborhood.",
+        "related_german_words": ["einheimisch", "lokal"]
+      },
+      {
+        "semantic_key": "travel-nature-authentic",
+        "description": "Of undisputed origin; genuine.",
+        "related_german_words": ["authentisch"]
+      },
+      {
+        "semantic_key": "travel-nature-hospitality",
+        "description": "The friendly and generous reception and entertainment of guests.",
+        "related_german_words": ["Gastfreundschaft"]
+      },
+      {
+        "semantic_key": "travel-nature-guest",
+        "description": "A person who is invited to visit someone's home or is staying at a hotel.",
+        "related_german_words": ["Gast"]
+      },
+      {
+        "semantic_key": "travel-nature-host",
+        "description": "A person who receives or entertains other people as guests.",
+        "related_german_words": ["Gastgeber"]
+      },
+      {
+        "semantic_key": "travel-nature-to_invite",
+        "description": "To make a polite, formal, or friendly request to someone to go somewhere or to do something.",
+        "related_german_words": ["einladen"]
+      },
+      {
+        "semantic_key": "travel-nature-invitation",
+        "description": "A written or verbal request inviting someone to go somewhere or to do something.",
+        "related_german_words": ["Einladung"]
+      },
+      {
+        "semantic_key": "travel-nature-forest_path",
+        "description": "A narrow walk or way in a forest.",
+        "related_german_words": ["Waldweg"]
+      },
+      {
+        "semantic_key": "travel-nature-cave",
+        "description": "A large underground chamber, typically of natural origin.",
+        "related_german_words": ["Höhle"]
+      },
+      {
+        "semantic_key": "travel-nature-waterfall",
+        "description": "A cascade of water falling from a height.",
+        "related_german_words": ["Wasserfall"]
+      },
+      {
+        "semantic_key": "travel-nature-volcano",
+        "description": "A mountain or hill, typically conical, having a crater or vent.",
+        "related_german_words": ["Vulkan"]
+      },
+      {
+        "semantic_key": "travel-nature-glacier",
+        "description": "A slowly moving mass or river of ice formed by the accumulation and compaction of snow on mountains or near the poles.",
+        "related_german_words": ["Gletscher"]
+      },
+      {
+        "semantic_key": "travel-nature-cliff",
+        "description": "A steep rock face, especially at the edge of the sea.",
+        "related_german_words": ["Klippe"]
+      },
+      {
+        "semantic_key": "travel-nature-dune",
+        "description": "A mound or ridge of sand or other loose sediment formed by the wind.",
+        "related_german_words": ["Düne"]
+      },
+      {
+        "semantic_key": "travel-nature-swamp",
+        "description": "An area of low-lying, uncultivated ground where water collects.",
+        "related_german_words": ["Sumpf"]
+      },
+      {
+        "semantic_key": "travel-nature-canyon",
+        "description": "A deep gorge, typically one with a river flowing through it.",
+        "related_german_words": ["Schlucht"]
+      },
+      {
+        "semantic_key": "travel-nature-horizon",
+        "description": "The line at which the earth's surface and the sky appear to meet.",
+        "related_german_words": ["Horizont"]
+      },
+      {
+        "semantic_key": "travel-nature-sunrise",
+        "description": "The time in the morning when the sun appears.",
+        "related_german_words": ["Sonnenaufgang"]
+      },
+      {
+        "semantic_key": "travel-nature-sunset",
+        "description": "The time in the evening when the sun disappears.",
+        "related_german_words": ["Sonnenuntergang"]
+      },
+      {
+        "semantic_key": "travel-nature-tide",
+        "description": "The alternate rising and falling of the sea.",
+        "related_german_words": ["Gezeiten", "Ebbe und Flut"]
+      },
+      {
+        "semantic_key": "travel-nature-wave",
+        "description": "A ridge of water between two depressions.",
+        "related_german_words": ["Welle"]
+      },
+      {
+        "semantic_key": "travel-nature-sand",
+        "description": "A loose granular substance resulting from the erosion of siliceous and other rocks.",
+        "related_german_words": ["Sand"]
+      },
+      {
+        "semantic_key": "travel-nature-shell",
+        "description": "The hard protective outer case of a marine animal.",
+        "related_german_words": ["Muschel"]
+      },
+      {
+        "semantic_key": "travel-nature-stone",
+        "description": "Hard solid non-metallic mineral matter of which rock is made.",
+        "related_german_words": ["Stein"]
+      },
+      {
+        "semantic_key": "travel-nature-rock",
+        "description": "The solid mineral material forming part of the surface of the earth.",
+        "related_german_words": ["Fels", "Gestein"]
+      },
+      {
+        "semantic_key": "travel-nature-dust",
+        "description": "Fine, dry powder consisting of tiny particles of earth or waste matter.",
+        "related_german_words": ["Staub"]
+      },
+      {
+        "semantic_key": "travel-nature-fresh_air",
+        "description": "The air outside as opposed to that in a room.",
+        "related_german_words": ["frische Luft"]
+      },
+      {
+        "semantic_key": "travel-nature-to_inhale",
+        "description": "To breathe in.",
+        "related_german_words": ["einatmen"]
+      },
+      {
+        "semantic_key": "travel-nature-to_exhale",
+        "description": "To breathe out.",
+        "related_german_words": ["ausatmen"]
+      },
+      {
+        "semantic_key": "travel-nature-oxygen",
+        "description": "A colorless, odorless reactive gas.",
+        "related_german_words": ["Sauerstoff"]
+      },
+      {
+        "semantic_key": "travel-nature-wilderness",
+        "description": "An uncultivated, uninhabited, and inhospitable region.",
+        "related_german_words": ["Wildnis"]
+      },
+      {
+        "semantic_key": "travel-nature-national_park",
+        "description": "A scenic or historically important area of countryside protected by the federal government.",
+        "related_german_words": ["Nationalpark"]
+      },
+      {
+        "semantic_key": "travel-nature-nature_reserve",
+        "description": "A tract of land managed so as to preserve its flora, fauna, and physical features.",
+        "related_german_words": ["Naturschutzgebiet"]
+      },
+      {
+        "semantic_key": "travel-nature-to_wander",
+        "description": "To walk or move in a leisurely, casual, or aimless way.",
+        "related_german_words": ["schlendern", "umherwandern"]
+      },
+      {
+        "semantic_key": "travel-nature-to_discover",
+        "description": "To find unexpectedly or during a search.",
+        "related_german_words": ["entdecken"]
+      },
+      {
+        "semantic_key": "travel-nature-discovery",
+        "description": "The action or process of discovering or being discovered.",
+        "related_german_words": ["Entdeckung"]
+      },
+      {
+        "semantic_key": "travel-nature-to_observe_animals",
+        "description": "To watch animals in their natural habitat.",
+        "related_german_words": ["Tiere beobachten"]
+      },
+      {
+        "semantic_key": "travel-nature-binoculars",
+        "description": "An optical instrument with a separate lens for each eye.",
+        "related_german_words": ["Fernglas"]
+      },
+      {
+        "semantic_key": "travel-nature-to_climb_mountain",
+        "description": "To ascend a peak.",
+        "related_german_words": ["einen Berg besteigen"]
+      },
+      {
+        "semantic_key": "travel-nature-steep",
+        "description": "Rising or falling sharply.",
+        "related_german_words": ["steil"]
+      },
+      {
+        "semantic_key": "travel-nature-flat",
+        "description": "Having a level surface; without raised areas or indentations.",
+        "related_german_words": ["flach"]
+      },
+      {
+        "semantic_key": "travel-nature-rough_sea",
+        "description": "A sea with large waves and strong winds.",
+        "related_german_words": ["raue See"]
+      },
+      {
+        "semantic_key": "travel-nature-calm_water",
+        "description": "Water without waves.",
+        "related_german_words": ["ruhiges Wasser"]
+      },
+      {
+        "semantic_key": "travel-nature-crystal_clear",
+        "description": "Completely transparent and bright.",
+        "related_german_words": ["kristallklar"]
+      },
+      {
+        "semantic_key": "travel-nature-blue_sky",
+        "description": "A sky without clouds during the day.",
+        "related_german_words": ["blauer Himmel"]
+      },
+      {
+        "semantic_key": "travel-nature-overcast",
+        "description": "Cloudy and dark sky.",
+        "related_german_words": ["bedeckt"]
+      },
+      {
+        "semantic_key": "travel-nature-humidity",
+        "description": "The amount of water vapor in the air.",
+        "related_german_words": ["Luftfeuchtigkeit"]
+      },
+      {
+        "semantic_key": "travel-nature-humid",
+        "description": "Marked by a relatively high level of water vapor in the atmosphere.",
+        "related_german_words": ["feucht", "schwül"]
+      },
+      {
+        "semantic_key": "travel-nature-dry",
+        "description": "Free from moisture or liquid.",
+        "related_german_words": ["trocken"]
+      },
+      {
+        "semantic_key": "travel-nature-mild_weather",
+        "description": "Weather that is not severe or extreme.",
+        "related_german_words": ["mild"]
+      },
+      {
+        "semantic_key": "travel-nature-freezing",
+        "description": "Very cold.",
+        "related_german_words": ["eiskalt"]
+      },
+      {
+        "semantic_key": "travel-nature-rainbow",
+        "description": "An arch of colors visible in the sky.",
+        "related_german_words": ["Regenbogen"]
+      },
+      {
+        "semantic_key": "travel-nature-to_sunbathe",
+        "description": "To sit or lie in the sun.",
+        "related_german_words": ["sonnenbaden", "sich sonnen"]
+      },
+      {
+        "semantic_key": "travel-nature-sunburn",
+        "description": "Reddening, inflammation, and, in severe cases, blistering of the skin caused by overexposure to the rays of the sun.",
+        "related_german_words": ["Sonnenbrand"]
+      },
+      {
+        "semantic_key": "travel-nature-shadow",
+        "description": "A dark area or shape produced by a body coming between rays of light and a surface.",
+        "related_german_words": ["Schatten"]
+      },
+      {
+        "semantic_key": "travel-nature-travel_insurance",
+        "description": "Insurance for travelers.",
+        "related_german_words": ["Reiserücktrittsversicherung"]
+      },
+      {
+        "semantic_key": "travel-nature-global_warming",
+        "description": "A gradual increase in the overall temperature of the earth's atmosphere.",
+        "related_german_words": ["Erderwärmung"]
+      },
+      {
+        "semantic_key": "travel-nature-to_protect_climate",
+        "description": "To take actions to stop climate change.",
+        "related_german_words": ["das Klima schützen"]
+      }
+    ]
+  }
+]
